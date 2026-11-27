@@ -1,0 +1,1005 @@
+{
+  "dataset": "s230-appellate-56",
+  "opinions": 56,
+  "issues": 75,
+  "passage_records": 825,
+  "passage_coding_status": {
+    "Coded": 823,
+    "Excluded source artifact": 2
+  },
+  "in_corpus_candidate_pairs": 318,
+  "graph_summary": [
+    {
+      "graph": "baseline",
+      "opinions": 56,
+      "edges": 317,
+      "isolates": 0,
+      "weak_components": 1,
+      "kendall_tau_b": 1.0,
+      "top_five_ids": "S230-001 S230-002 S230-004 S230-005 S230-003",
+      "top_five_names": "Zeran v. America Online, Inc. | Ben Ezra, Weinstein, & Co. v. America Online Inc. | Batzel v. Smith | Carafano v. Metrosplash.com, Inc. | Green v. America Online (AOL)"
+    },
+    {
+      "graph": "section_230",
+      "opinions": 56,
+      "edges": 310,
+      "isolates": 1,
+      "weak_components": 2,
+      "kendall_tau_b": 0.9225279636949955,
+      "top_five_ids": "S230-001 S230-002 S230-004 S230-005 S230-003",
+      "top_five_names": "Zeran v. America Online, Inc. | Ben Ezra, Weinstein, & Co. v. America Online Inc. | Batzel v. Smith | Carafano v. Metrosplash.com, Inc. | Green v. America Online (AOL)"
+    },
+    {
+      "graph": "c1_baseline",
+      "opinions": 43,
+      "edges": 269,
+      "isolates": 0,
+      "weak_components": 1,
+      "kendall_tau_b": 0.9573512906846239,
+      "top_five_ids": "S230-001 S230-002 S230-004 S230-005 S230-003",
+      "top_five_names": "Zeran v. America Online, Inc. | Ben Ezra, Weinstein, & Co. v. America Online Inc. | Batzel v. Smith | Carafano v. Metrosplash.com, Inc. | Green v. America Online (AOL)"
+    },
+    {
+      "graph": "c1_section_230",
+      "opinions": 43,
+      "edges": 266,
+      "isolates": 0,
+      "weak_components": 1,
+      "kendall_tau_b": 0.9371492704826037,
+      "top_five_ids": "S230-001 S230-002 S230-004 S230-005 S230-008",
+      "top_five_names": "Zeran v. America Online, Inc. | Ben Ezra, Weinstein, & Co. v. America Online Inc. | Batzel v. Smith | Carafano v. Metrosplash.com, Inc. | Fair Housing Council of San Fernando Valley v. Roommates.com, LLC"
+    },
+    {
+      "graph": "resolved_c1_baseline",
+      "opinions": 42,
+      "edges": 256,
+      "isolates": 0,
+      "weak_components": 1,
+      "kendall_tau_b": 0.9528857479387515,
+      "top_five_ids": "S230-001 S230-005 S230-002 S230-003 S230-008",
+      "top_five_names": "Zeran v. America Online, Inc. | Carafano v. Metrosplash.com, Inc. | Ben Ezra, Weinstein, & Co. v. America Online Inc. | Green v. America Online (AOL) | Fair Housing Council of San Fernando Valley v. Roommates.com, LLC"
+    },
+    {
+      "graph": "resolved_c1_section_230",
+      "opinions": 42,
+      "edges": 253,
+      "isolates": 0,
+      "weak_components": 1,
+      "kendall_tau_b": 0.9387514723203769,
+      "top_five_ids": "S230-001 S230-005 S230-002 S230-003 S230-008",
+      "top_five_names": "Zeran v. America Online, Inc. | Carafano v. Metrosplash.com, Inc. | Ben Ezra, Weinstein, & Co. v. America Online Inc. | Green v. America Online (AOL) | Fair Housing Council of San Fernando Valley v. Roommates.com, LLC"
+    },
+    {
+      "graph": "c1_perfect10_baseline",
+      "opinions": 44,
+      "edges": 273,
+      "isolates": 0,
+      "weak_components": 1,
+      "kendall_tau_b": 0.9357601713062098,
+      "top_five_ids": "S230-001 S230-002 S230-004 S230-005 S230-003",
+      "top_five_names": "Zeran v. America Online, Inc. | Ben Ezra, Weinstein, & Co. v. America Online Inc. | Batzel v. Smith | Carafano v. Metrosplash.com, Inc. | Green v. America Online (AOL)"
+    },
+    {
+      "graph": "c1_perfect10_section_230",
+      "opinions": 44,
+      "edges": 269,
+      "isolates": 0,
+      "weak_components": 1,
+      "kendall_tau_b": 0.8899656314178285,
+      "top_five_ids": "S230-001 S230-002 S230-004 S230-005 S230-008",
+      "top_five_names": "Zeran v. America Online, Inc. | Ben Ezra, Weinstein, & Co. v. America Online Inc. | Batzel v. Smith | Carafano v. Metrosplash.com, Inc. | Fair Housing Council of San Fernando Valley v. Roommates.com, LLC"
+    },
+    {
+      "graph": "full_reporter",
+      "opinions": 56,
+      "edges": 306,
+      "isolates": 0,
+      "weak_components": 1,
+      "kendall_tau_b": 0.98,
+      "top_five_ids": "S230-001 S230-002 S230-004 S230-005 S230-003",
+      "top_five_names": "Zeran v. America Online, Inc. | Ben Ezra, Weinstein, & Co. v. America Online Inc. | Batzel v. Smith | Carafano v. Metrosplash.com, Inc. | Green v. America Online (AOL)"
+    },
+    {
+      "graph": "baseline_without_stubhub_erie",
+      "opinions": 54,
+      "edges": 311,
+      "isolates": 0,
+      "weak_components": 1,
+      "kendall_tau_b": 0.98705966930266,
+      "top_five_ids": "S230-001 S230-002 S230-004 S230-005 S230-003",
+      "top_five_names": "Zeran v. America Online, Inc. | Ben Ezra, Weinstein, & Co. v. America Online Inc. | Batzel v. Smith | Carafano v. Metrosplash.com, Inc. | Green v. America Online (AOL)"
+    }
+  ],
+  "highest_baseline_pagerank": 0.1909471211907165,
+  "circuit_divergence": [
+    {
+      "graph": "baseline",
+      "period": "pooled",
+      "threshold": "minimum",
+      "eligible_pairs": 55,
+      "mean_bits": 0.4615131556361183,
+      "min_bits": 0.23580901404768784,
+      "max_bits": 0.6546517061167981
+    },
+    {
+      "graph": "baseline",
+      "period": "pooled",
+      "threshold": "strict",
+      "eligible_pairs": 28,
+      "mean_bits": 0.4701321426916903,
+      "min_bits": 0.34038858827507135,
+      "max_bits": 0.6311048230557497
+    },
+    {
+      "graph": "baseline",
+      "period": "before_fixed_targets",
+      "threshold": "minimum",
+      "eligible_pairs": 21,
+      "mean_bits": 0.3694163432461459,
+      "min_bits": 0.1416981179911724,
+      "max_bits": 0.5973063984264443
+    },
+    {
+      "graph": "baseline",
+      "period": "before_fixed_targets",
+      "threshold": "strict",
+      "eligible_pairs": 3,
+      "mean_bits": 0.35119987656178847,
+      "min_bits": 0.2553192229710737,
+      "max_bits": 0.4075932255552379
+    },
+    {
+      "graph": "baseline",
+      "period": "since_fixed_targets",
+      "threshold": "minimum",
+      "eligible_pairs": 10,
+      "mean_bits": 0.5601031837130792,
+      "min_bits": 0.42939249337998,
+      "max_bits": 0.7684773194946043
+    },
+    {
+      "graph": "baseline",
+      "period": "since_fixed_targets",
+      "threshold": "strict",
+      "eligible_pairs": 3,
+      "mean_bits": 0.4898908656073681,
+      "min_bits": 0.42939249337998,
+      "max_bits": 0.5420147741275101
+    },
+    {
+      "graph": "section_230",
+      "period": "pooled",
+      "threshold": "minimum",
+      "eligible_pairs": 55,
+      "mean_bits": 0.4610319909639861,
+      "min_bits": 0.2622302415126564,
+      "max_bits": 0.6489035524947067
+    },
+    {
+      "graph": "section_230",
+      "period": "pooled",
+      "threshold": "strict",
+      "eligible_pairs": 28,
+      "mean_bits": 0.4732124175944939,
+      "min_bits": 0.3712431063388706,
+      "max_bits": 0.6311048230557497
+    },
+    {
+      "graph": "section_230",
+      "period": "before_fixed_targets",
+      "threshold": "minimum",
+      "eligible_pairs": 21,
+      "mean_bits": 0.3656308661849712,
+      "min_bits": 0.1416981179911724,
+      "max_bits": 0.5973063984264443
+    },
+    {
+      "graph": "section_230",
+      "period": "before_fixed_targets",
+      "threshold": "strict",
+      "eligible_pairs": 3,
+      "mean_bits": 0.3513154937403303,
+      "min_bits": 0.27425853897035296,
+      "max_bits": 0.3906871811590537
+    },
+    {
+      "graph": "section_230",
+      "period": "since_fixed_targets",
+      "threshold": "minimum",
+      "eligible_pairs": 10,
+      "mean_bits": 0.5680957288186071,
+      "min_bits": 0.4099044427146441,
+      "max_bits": 0.781391353346695
+    },
+    {
+      "graph": "section_230",
+      "period": "since_fixed_targets",
+      "threshold": "strict",
+      "eligible_pairs": 3,
+      "mean_bits": 0.47340769958714307,
+      "min_bits": 0.4099044427146441,
+      "max_bits": 0.5255805181708433
+    },
+    {
+      "graph": "c1_baseline",
+      "period": "pooled",
+      "threshold": "minimum",
+      "eligible_pairs": 55,
+      "mean_bits": 0.44350405187197334,
+      "min_bits": 0.23580901404768784,
+      "max_bits": 0.6778644947790887
+    },
+    {
+      "graph": "c1_baseline",
+      "period": "pooled",
+      "threshold": "strict",
+      "eligible_pairs": 15,
+      "mean_bits": 0.41631787702518075,
+      "min_bits": 0.3074806402989058,
+      "max_bits": 0.5477515982158835
+    },
+    {
+      "graph": "c1_baseline",
+      "period": "before_fixed_targets",
+      "threshold": "minimum",
+      "eligible_pairs": 21,
+      "mean_bits": 0.3408160853182468,
+      "min_bits": 0.10248621532061138,
+      "max_bits": 0.5704859930387852
+    },
+    {
+      "graph": "c1_baseline",
+      "period": "before_fixed_targets",
+      "threshold": "strict",
+      "eligible_pairs": 1,
+      "mean_bits": 0.25400628063276415,
+      "min_bits": 0.25400628063276415,
+      "max_bits": 0.25400628063276415
+    },
+    {
+      "graph": "c1_baseline",
+      "period": "since_fixed_targets",
+      "threshold": "minimum",
+      "eligible_pairs": 3,
+      "mean_bits": 0.47545111086120323,
+      "min_bits": 0.41546665216818796,
+      "max_bits": 0.5126213511008076
+    },
+    {
+      "graph": "c1_baseline",
+      "period": "since_fixed_targets",
+      "threshold": "strict",
+      "eligible_pairs": 3,
+      "mean_bits": 0.47545111086120323,
+      "min_bits": 0.41546665216818796,
+      "max_bits": 0.5126213511008076
+    },
+    {
+      "graph": "c1_section_230",
+      "period": "pooled",
+      "threshold": "minimum",
+      "eligible_pairs": 55,
+      "mean_bits": 0.4469920766684098,
+      "min_bits": 0.24684354969490468,
+      "max_bits": 0.6778644947790887
+    },
+    {
+      "graph": "c1_section_230",
+      "period": "pooled",
+      "threshold": "strict",
+      "eligible_pairs": 15,
+      "mean_bits": 0.4239933349368061,
+      "min_bits": 0.3436720403998756,
+      "max_bits": 0.5477515982158835
+    },
+    {
+      "graph": "c1_section_230",
+      "period": "before_fixed_targets",
+      "threshold": "minimum",
+      "eligible_pairs": 21,
+      "mean_bits": 0.3408160853182468,
+      "min_bits": 0.10248621532061138,
+      "max_bits": 0.5704859930387852
+    },
+    {
+      "graph": "c1_section_230",
+      "period": "before_fixed_targets",
+      "threshold": "strict",
+      "eligible_pairs": 1,
+      "mean_bits": 0.25400628063276415,
+      "min_bits": 0.25400628063276415,
+      "max_bits": 0.25400628063276415
+    },
+    {
+      "graph": "c1_section_230",
+      "period": "since_fixed_targets",
+      "threshold": "minimum",
+      "eligible_pairs": 3,
+      "mean_bits": 0.4659718381290829,
+      "min_bits": 0.4083053549052576,
+      "max_bits": 0.5048720216060493
+    },
+    {
+      "graph": "c1_section_230",
+      "period": "since_fixed_targets",
+      "threshold": "strict",
+      "eligible_pairs": 3,
+      "mean_bits": 0.4659718381290829,
+      "min_bits": 0.4083053549052576,
+      "max_bits": 0.5048720216060493
+    },
+    {
+      "graph": "resolved_c1_baseline",
+      "period": "pooled",
+      "threshold": "minimum",
+      "eligible_pairs": 55,
+      "mean_bits": 0.4482899612735892,
+      "min_bits": 0.22300382472745411,
+      "max_bits": 0.6556390622295666
+    },
+    {
+      "graph": "resolved_c1_baseline",
+      "period": "pooled",
+      "threshold": "strict",
+      "eligible_pairs": 15,
+      "mean_bits": 0.41559229260649744,
+      "min_bits": 0.29633436647801215,
+      "max_bits": 0.5345641834867347
+    },
+    {
+      "graph": "resolved_c1_baseline",
+      "period": "before_fixed_targets",
+      "threshold": "minimum",
+      "eligible_pairs": 21,
+      "mean_bits": 0.3418151527007398,
+      "min_bits": 0.10145623358686896,
+      "max_bits": 0.5408520829727552
+    },
+    {
+      "graph": "resolved_c1_baseline",
+      "period": "before_fixed_targets",
+      "threshold": "strict",
+      "eligible_pairs": 1,
+      "mean_bits": 0.2887000004105529,
+      "min_bits": 0.2887000004105529,
+      "max_bits": 0.2887000004105529
+    },
+    {
+      "graph": "resolved_c1_baseline",
+      "period": "since_fixed_targets",
+      "threshold": "minimum",
+      "eligible_pairs": 3,
+      "mean_bits": 0.4699370462457164,
+      "min_bits": 0.4066737878164856,
+      "max_bits": 0.5048720216060493
+    },
+    {
+      "graph": "resolved_c1_baseline",
+      "period": "since_fixed_targets",
+      "threshold": "strict",
+      "eligible_pairs": 3,
+      "mean_bits": 0.4699370462457164,
+      "min_bits": 0.4066737878164856,
+      "max_bits": 0.5048720216060493
+    },
+    {
+      "graph": "resolved_c1_section_230",
+      "period": "pooled",
+      "threshold": "minimum",
+      "eligible_pairs": 55,
+      "mean_bits": 0.451800772002845,
+      "min_bits": 0.22300382472745411,
+      "max_bits": 0.6556390622295666
+    },
+    {
+      "graph": "resolved_c1_section_230",
+      "period": "pooled",
+      "threshold": "strict",
+      "eligible_pairs": 15,
+      "mean_bits": 0.4233849326843998,
+      "min_bits": 0.32673563477026946,
+      "max_bits": 0.5345641834867347
+    },
+    {
+      "graph": "resolved_c1_section_230",
+      "period": "before_fixed_targets",
+      "threshold": "minimum",
+      "eligible_pairs": 21,
+      "mean_bits": 0.3418151527007398,
+      "min_bits": 0.10145623358686896,
+      "max_bits": 0.5408520829727552
+    },
+    {
+      "graph": "resolved_c1_section_230",
+      "period": "before_fixed_targets",
+      "threshold": "strict",
+      "eligible_pairs": 1,
+      "mean_bits": 0.2887000004105529,
+      "min_bits": 0.2887000004105529,
+      "max_bits": 0.2887000004105529
+    },
+    {
+      "graph": "resolved_c1_section_230",
+      "period": "since_fixed_targets",
+      "threshold": "minimum",
+      "eligible_pairs": 3,
+      "mean_bits": 0.460172151609689,
+      "min_bits": 0.3989853941271908,
+      "max_bits": 0.496792922825934
+    },
+    {
+      "graph": "resolved_c1_section_230",
+      "period": "since_fixed_targets",
+      "threshold": "strict",
+      "eligible_pairs": 3,
+      "mean_bits": 0.460172151609689,
+      "min_bits": 0.3989853941271908,
+      "max_bits": 0.496792922825934
+    },
+    {
+      "graph": "c1_perfect10_baseline",
+      "period": "pooled",
+      "threshold": "minimum",
+      "eligible_pairs": 55,
+      "mean_bits": 0.4441902296306003,
+      "min_bits": 0.23580901404768784,
+      "max_bits": 0.6778644947790889
+    },
+    {
+      "graph": "c1_perfect10_baseline",
+      "period": "pooled",
+      "threshold": "strict",
+      "eligible_pairs": 15,
+      "mean_bits": 0.4180373761877111,
+      "min_bits": 0.3074806402989058,
+      "max_bits": 0.5509575445181905
+    },
+    {
+      "graph": "c1_perfect10_baseline",
+      "period": "before_fixed_targets",
+      "threshold": "minimum",
+      "eligible_pairs": 21,
+      "mean_bits": 0.3473824872257146,
+      "min_bits": 0.11655627472625402,
+      "max_bits": 0.5704859930387852
+    },
+    {
+      "graph": "c1_perfect10_baseline",
+      "period": "before_fixed_targets",
+      "threshold": "strict",
+      "eligible_pairs": 1,
+      "mean_bits": 0.27041680213798386,
+      "min_bits": 0.27041680213798386,
+      "max_bits": 0.27041680213798386
+    },
+    {
+      "graph": "c1_perfect10_baseline",
+      "period": "since_fixed_targets",
+      "threshold": "minimum",
+      "eligible_pairs": 3,
+      "mean_bits": 0.47545111086120323,
+      "min_bits": 0.41546665216818796,
+      "max_bits": 0.5126213511008075
+    },
+    {
+      "graph": "c1_perfect10_baseline",
+      "period": "since_fixed_targets",
+      "threshold": "strict",
+      "eligible_pairs": 3,
+      "mean_bits": 0.47545111086120323,
+      "min_bits": 0.41546665216818796,
+      "max_bits": 0.5126213511008075
+    },
+    {
+      "graph": "c1_perfect10_section_230",
+      "period": "pooled",
+      "threshold": "minimum",
+      "eligible_pairs": 55,
+      "mean_bits": 0.44535693974792684,
+      "min_bits": 0.24684354969490468,
+      "max_bits": 0.6778644947790889
+    },
+    {
+      "graph": "c1_perfect10_section_230",
+      "period": "pooled",
+      "threshold": "strict",
+      "eligible_pairs": 15,
+      "mean_bits": 0.4215970284274303,
+      "min_bits": 0.3436720403998756,
+      "max_bits": 0.5477515982158835
+    },
+    {
+      "graph": "c1_perfect10_section_230",
+      "period": "before_fixed_targets",
+      "threshold": "minimum",
+      "eligible_pairs": 21,
+      "mean_bits": 0.3415621365919229,
+      "min_bits": 0.11655627472625402,
+      "max_bits": 0.5704859930387852
+    },
+    {
+      "graph": "c1_perfect10_section_230",
+      "period": "before_fixed_targets",
+      "threshold": "strict",
+      "eligible_pairs": 1,
+      "mean_bits": 0.24790972557481983,
+      "min_bits": 0.24790972557481983,
+      "max_bits": 0.24790972557481983
+    },
+    {
+      "graph": "c1_perfect10_section_230",
+      "period": "since_fixed_targets",
+      "threshold": "minimum",
+      "eligible_pairs": 3,
+      "mean_bits": 0.465971838129083,
+      "min_bits": 0.4083053549052576,
+      "max_bits": 0.5048720216060493
+    },
+    {
+      "graph": "c1_perfect10_section_230",
+      "period": "since_fixed_targets",
+      "threshold": "strict",
+      "eligible_pairs": 3,
+      "mean_bits": 0.465971838129083,
+      "min_bits": 0.4083053549052576,
+      "max_bits": 0.5048720216060493
+    },
+    {
+      "graph": "full_reporter",
+      "period": "pooled",
+      "threshold": "minimum",
+      "eligible_pairs": 55,
+      "mean_bits": 0.4825779666525982,
+      "min_bits": 0.2390912116873039,
+      "max_bits": 0.6693142859075476
+    },
+    {
+      "graph": "full_reporter",
+      "period": "pooled",
+      "threshold": "strict",
+      "eligible_pairs": 28,
+      "mean_bits": 0.4796011404503221,
+      "min_bits": 0.3444147264071028,
+      "max_bits": 0.6311048230557497
+    },
+    {
+      "graph": "full_reporter",
+      "period": "before_fixed_targets",
+      "threshold": "minimum",
+      "eligible_pairs": 21,
+      "mean_bits": 0.37126025805706997,
+      "min_bits": 0.1573342657639158,
+      "max_bits": 0.5973063984264443
+    },
+    {
+      "graph": "full_reporter",
+      "period": "before_fixed_targets",
+      "threshold": "strict",
+      "eligible_pairs": 3,
+      "mean_bits": 0.34394501569751906,
+      "min_bits": 0.23422739611053053,
+      "max_bits": 0.41662135378911824
+    },
+    {
+      "graph": "full_reporter",
+      "period": "since_fixed_targets",
+      "threshold": "minimum",
+      "eligible_pairs": 10,
+      "mean_bits": 0.6160423328822886,
+      "min_bits": 0.46237958636557636,
+      "max_bits": 0.7651533424160657
+    },
+    {
+      "graph": "full_reporter",
+      "period": "since_fixed_targets",
+      "threshold": "strict",
+      "eligible_pairs": 3,
+      "mean_bits": 0.5542709634568981,
+      "min_bits": 0.5175835762251266,
+      "max_bits": 0.6011826610498164
+    },
+    {
+      "graph": "baseline_without_stubhub_erie",
+      "period": "pooled",
+      "threshold": "minimum",
+      "eligible_pairs": 55,
+      "mean_bits": 0.45462959956552507,
+      "min_bits": 0.23580901404768784,
+      "max_bits": 0.6546517061167981
+    },
+    {
+      "graph": "baseline_without_stubhub_erie",
+      "period": "pooled",
+      "threshold": "strict",
+      "eligible_pairs": 28,
+      "mean_bits": 0.46029133856861115,
+      "min_bits": 0.34038858827507135,
+      "max_bits": 0.6199856021291401
+    },
+    {
+      "graph": "baseline_without_stubhub_erie",
+      "period": "before_fixed_targets",
+      "threshold": "minimum",
+      "eligible_pairs": 21,
+      "mean_bits": 0.36549223812254417,
+      "min_bits": 0.1416981179911724,
+      "max_bits": 0.5973063984264443
+    },
+    {
+      "graph": "baseline_without_stubhub_erie",
+      "period": "before_fixed_targets",
+      "threshold": "strict",
+      "eligible_pairs": 3,
+      "mean_bits": 0.34341477756391514,
+      "min_bits": 0.2553192229710737,
+      "max_bits": 0.3993462579943486
+    },
+    {
+      "graph": "baseline_without_stubhub_erie",
+      "period": "since_fixed_targets",
+      "threshold": "minimum",
+      "eligible_pairs": 10,
+      "mean_bits": 0.5560130060807958,
+      "min_bits": 0.4293924933799801,
+      "max_bits": 0.7684773194946043
+    },
+    {
+      "graph": "baseline_without_stubhub_erie",
+      "period": "since_fixed_targets",
+      "threshold": "strict",
+      "eligible_pairs": 1,
+      "mean_bits": 0.4293924933799801,
+      "min_bits": 0.4293924933799801,
+      "max_bits": 0.4293924933799801
+    }
+  ],
+  "outcome_counts": [
+    {
+      "period": "before",
+      "start": "1997-11-12",
+      "end": "2018-04-10",
+      "court": "All courts",
+      "scope": "all coded statutory questions",
+      "opinions": 29,
+      "resolved_denominator": 25,
+      "all_barred": 19,
+      "none_barred": 4,
+      "mixed": 2,
+      "no_resolved_claim": 4,
+      "share_all_barred": 0.76
+    },
+    {
+      "period": "before",
+      "start": "1997-11-12",
+      "end": "2018-04-10",
+      "court": "All courts",
+      "scope": "resolved c1 publisher or source",
+      "opinions": 29,
+      "resolved_denominator": 23,
+      "all_barred": 17,
+      "none_barred": 4,
+      "mixed": 2,
+      "no_resolved_claim": 6,
+      "share_all_barred": 0.7391304347826086
+    },
+    {
+      "period": "before",
+      "start": "1997-11-12",
+      "end": "2018-04-10",
+      "court": "All courts",
+      "scope": "resolved c1 including publisher-based preemption",
+      "opinions": 29,
+      "resolved_denominator": 24,
+      "all_barred": 17,
+      "none_barred": 5,
+      "mixed": 2,
+      "no_resolved_claim": 5,
+      "share_all_barred": 0.7083333333333334
+    },
+    {
+      "period": "since",
+      "start": "2018-04-11",
+      "end": "2025-12-31",
+      "court": "All courts",
+      "scope": "all coded statutory questions",
+      "opinions": 27,
+      "resolved_denominator": 23,
+      "all_barred": 10,
+      "none_barred": 10,
+      "mixed": 3,
+      "no_resolved_claim": 4,
+      "share_all_barred": 0.43478260869565216
+    },
+    {
+      "period": "since",
+      "start": "2018-04-11",
+      "end": "2025-12-31",
+      "court": "All courts",
+      "scope": "resolved c1 publisher or source",
+      "opinions": 27,
+      "resolved_denominator": 19,
+      "all_barred": 8,
+      "none_barred": 8,
+      "mixed": 3,
+      "no_resolved_claim": 8,
+      "share_all_barred": 0.42105263157894735
+    },
+    {
+      "period": "since",
+      "start": "2018-04-11",
+      "end": "2025-12-31",
+      "court": "All courts",
+      "scope": "resolved c1 including publisher-based preemption",
+      "opinions": 27,
+      "resolved_denominator": 21,
+      "all_barred": 8,
+      "none_barred": 10,
+      "mixed": 3,
+      "no_resolved_claim": 6,
+      "share_all_barred": 0.38095238095238093
+    }
+  ],
+  "leiden_stability": [
+    {
+      "graph": "baseline",
+      "resolution": 0.75,
+      "runs": 100,
+      "fewest_communities": 2,
+      "most_communities": 4,
+      "mean_pairwise_nmi": 0.7408565233327148,
+      "min_pairwise_nmi": 0.14734060916737557
+    },
+    {
+      "graph": "baseline",
+      "resolution": 1.0,
+      "runs": 100,
+      "fewest_communities": 4,
+      "most_communities": 6,
+      "mean_pairwise_nmi": 0.8251285561652189,
+      "min_pairwise_nmi": 0.5072639765846878
+    },
+    {
+      "graph": "baseline",
+      "resolution": 1.25,
+      "runs": 100,
+      "fewest_communities": 5,
+      "most_communities": 8,
+      "mean_pairwise_nmi": 0.7858016577886432,
+      "min_pairwise_nmi": 0.5688520794582029
+    },
+    {
+      "graph": "section_230",
+      "resolution": 0.75,
+      "runs": 100,
+      "fewest_communities": 3,
+      "most_communities": 5,
+      "mean_pairwise_nmi": 0.8539240510836715,
+      "min_pairwise_nmi": 0.5555630823531935
+    },
+    {
+      "graph": "section_230",
+      "resolution": 1.0,
+      "runs": 100,
+      "fewest_communities": 5,
+      "most_communities": 7,
+      "mean_pairwise_nmi": 0.7725482640189224,
+      "min_pairwise_nmi": 0.48028301550652325
+    },
+    {
+      "graph": "section_230",
+      "resolution": 1.25,
+      "runs": 100,
+      "fewest_communities": 6,
+      "most_communities": 9,
+      "mean_pairwise_nmi": 0.7534872148263876,
+      "min_pairwise_nmi": 0.4781874807162333
+    },
+    {
+      "graph": "c1_baseline",
+      "resolution": 0.75,
+      "runs": 100,
+      "fewest_communities": 2,
+      "most_communities": 3,
+      "mean_pairwise_nmi": 0.950730984098831,
+      "min_pairwise_nmi": 0.30602631372625294
+    },
+    {
+      "graph": "c1_baseline",
+      "resolution": 1.0,
+      "runs": 100,
+      "fewest_communities": 3,
+      "most_communities": 5,
+      "mean_pairwise_nmi": 0.8079175700678679,
+      "min_pairwise_nmi": 0.4145880715824725
+    },
+    {
+      "graph": "c1_baseline",
+      "resolution": 1.25,
+      "runs": 100,
+      "fewest_communities": 4,
+      "most_communities": 7,
+      "mean_pairwise_nmi": 0.777050922124805,
+      "min_pairwise_nmi": 0.4892484447495704
+    },
+    {
+      "graph": "c1_section_230",
+      "resolution": 0.75,
+      "runs": 100,
+      "fewest_communities": 2,
+      "most_communities": 2,
+      "mean_pairwise_nmi": 0.8753497037253506,
+      "min_pairwise_nmi": 0.02768513558205205
+    },
+    {
+      "graph": "c1_section_230",
+      "resolution": 1.0,
+      "runs": 100,
+      "fewest_communities": 3,
+      "most_communities": 5,
+      "mean_pairwise_nmi": 0.7674060657104285,
+      "min_pairwise_nmi": 0.3834737578531111
+    },
+    {
+      "graph": "c1_section_230",
+      "resolution": 1.25,
+      "runs": 100,
+      "fewest_communities": 4,
+      "most_communities": 7,
+      "mean_pairwise_nmi": 0.7895053815984993,
+      "min_pairwise_nmi": 0.5304819965945612
+    },
+    {
+      "graph": "full_reporter",
+      "resolution": 1.0,
+      "runs": 100,
+      "fewest_communities": 3,
+      "most_communities": 6,
+      "mean_pairwise_nmi": 0.8772850279849495,
+      "min_pairwise_nmi": 0.5135527284038234
+    }
+  ],
+  "candidate_export": {
+    "records": 217,
+    "date_counts": {
+      "Before window": 3,
+      "Within window": 207,
+      "After window": 7
+    },
+    "link_counts": {
+      "Outside study dates": 10,
+      "No confirmed inclusion match in this export": 145,
+      "Included cluster ID": 54,
+      "Same court, date and reporter; possible duplicate": 7,
+      "Same court, date and reporter; no canonical ID recorded": 1
+    },
+    "opinions_with_exact_id": 54,
+    "opinions_with_id_or_reporter_match": 55,
+    "opinions_without_id_or_reporter_match": [
+      "S230-045"
+    ],
+    "included_opinion_ids_without_exact_id": [
+      "S230-016",
+      "S230-045"
+    ]
+  },
+  "versions": {
+    "networkx": "3.7",
+    "scipy": "1.17.0",
+    "numpy": "2.3.5",
+    "igraph": "1.0.0",
+    "leidenalg": "0.12.0",
+    "scikit-learn": "1.8.0"
+  },
+  "input_sha256": {
+    "data/included_opinions.csv": "29c598cf1138645f049ca3e27e4d1cc3d9ac8154476c91389196a945d93387ab",
+    "data/issues.csv": "315c4bf93da0ba16e19c1bd1acf84692e32646f13411b14d0f63d68fae20306f",
+    "data/fosta.csv": "87cd3071de9245ebeb844c4fd4c32f2ac8b641ee712736e3772adf1ea1ada8d1",
+    "data/citation_passages.csv": "4a75469435b90b92fb3bfc779c26926db426c7ef50163cd3329294b7b979a0b2",
+    "data/citation_pairs.csv": "054644f2ed2e7eacd4cb4b19dec59078a4d0194617114611daa3f8a4fcc35a0a",
+    "data/courtlistener_candidates.tsv": "d983dc056f29a1cbcc21d7db39b6eac23d49b6f55f72241ba300355cd4cc1ad1",
+    "sources/candidates/10035788.txt": "9d126ebac83c4bb012f1503f83fae5921a16367261ae1a34d2661174613bc301",
+    "sources/candidates/10042522_extra.txt": "1a352a81951a7a8826c636fe42ebe64993cf29b73290d391c4f983744154c3a5",
+    "sources/candidates/10104396_extra.txt": "f9577847601da5f0793ae241aa91b3d98263bc576e25352e4be64488feb90c4b",
+    "sources/candidates/1027825.txt": "cedf141b0134f2f101b993d54ef064d3d005431365037918c8f2ee66ee4e3b1a",
+    "sources/candidates/10297276.txt": "b7fad54f27737af148bf98889a0c18378eaf79581e43f59b7f8839d88b21fc4f",
+    "sources/candidates/10306636.txt": "1c7fc22b814397646ba9aae166612b26c2eaa507c6b042c1815e63650deacfe1",
+    "sources/candidates/10355247.txt": "12f24872c6436c532d86d036143c36d5c7093c97c9faecf4030a2decf8632ab9",
+    "sources/candidates/1038578_extra.txt": "56f594d36fab776197fc28f5029beb53f7f6fed0efbdd4e2f47bae454e097548",
+    "sources/candidates/10647074_extra.txt": "186bb3031829f63b1e501786c68c015d869612b1e131c7173c1d28ca29c41a22",
+    "sources/candidates/1201966.txt": "d880f2ae4a2383268fd89b5b8c5ef761bd5a9d0495dadb4ee313b6dd613d5203",
+    "sources/candidates/169308.txt": "01bfb6694ba3e2204e97f9f6a1311a9076dc8ab9c4d69093f8045f301b3ab2c9",
+    "sources/candidates/185105.txt": "1279b974397dbb561d1d4376ad5fc0de7b3cbb4b11586fd9b042ea57c32272a6",
+    "sources/candidates/199715.txt": "9f53ad2bb00d8e5aa6fde14a79bd33e908a8d6c79eea4a1bbc396f49a49c43b0",
+    "sources/candidates/200979.txt": "0fb8179845803c7845613cdfa783f7ab4e1815e8036a355fa6c47da812a4a0d7",
+    "sources/candidates/200980.txt": "0fb8179845803c7845613cdfa783f7ab4e1815e8036a355fa6c47da812a4a0d7",
+    "sources/candidates/2677209.txt": "13b08e3008c6b28289ae1a36e02467400b7841ed09418a6f090105baa9785b96",
+    "sources/candidates/2681572_extra.txt": "09396829309656812bcd286bbec5d906c8cde9090b5fba503add429bbc527c4a",
+    "sources/candidates/2723330.txt": "cb4670089f277e7bd89db07bcd59a1657768c985c066e04e3423382c40b0dc2b",
+    "sources/candidates/2733753.txt": "e7bb8871fe23883fd0d5c2f790a1bf9c1ec6d6b5b2c03b06dc6137bc75d00cf9",
+    "sources/candidates/2787021.txt": "b029ba8e6d2fd3ac5db9f1a0c28542344caa35dced0fea4441573660a8b28f0e",
+    "sources/candidates/2982343.txt": "1f5d5c785fb8134fed61aa8281c089d0385d88a291f07a1bccf3945401f84c3d",
+    "sources/candidates/3014559.txt": "fe464308f940ff0eedaf9384c727cf7466d502c86158490b1c52a7a95b8b8a02",
+    "sources/candidates/3043679.txt": "d880f2ae4a2383268fd89b5b8c5ef761bd5a9d0495dadb4ee313b6dd613d5203",
+    "sources/candidates/3048711.txt": "072f2ed02fb54e0683bb8fbfceb183477490ce54a88c50cb0cfb17d701b75714",
+    "sources/candidates/3049067.txt": "93b03d56a542ac0e2bea39dfdb8a10982924807e6e6ac959b0ea031487d6ed83",
+    "sources/candidates/3051573.txt": "072f2ed02fb54e0683bb8fbfceb183477490ce54a88c50cb0cfb17d701b75714",
+    "sources/candidates/3064672.txt": "dd97238784772b11f6615a14441f2b0007744f6dd78476d277d318712721f662",
+    "sources/candidates/3064795.txt": "dd97238784772b11f6615a14441f2b0007744f6dd78476d277d318712721f662",
+    "sources/candidates/3064817.txt": "c2309d7669d59c313f6f2748fe029c33fd21ef235e0fbc5aebd4b1a96baa07dc",
+    "sources/candidates/3158656.txt": "c3f5b11f081c93a0ab5a527871bca721816909f08e2cb1e2353e903521071a95",
+    "sources/candidates/3192826.txt": "6551cb2aff7dea895ae34c3bd843ef599a955cc3091e32c444daaf7212e8ebd4",
+    "sources/candidates/39248.txt": "e779cbbb92deb1b0490855f17940ec870ddd349c565ffaf385e893e96743e38e",
+    "sources/candidates/4259325.txt": "5f4ba8d1f4e339ce0ccae809908f6e4ed7b99f94cb36c28d90ab99359a253fca",
+    "sources/candidates/4486286_extra.txt": "b6e710b267124d8d2345a9798fc5917fe9efbd118c559dfdf4b65c9ee7b425fd",
+    "sources/candidates/4550762.txt": "b4cff4e79e3b93facca31377d85f99474a8fc6fe466f4137e1aeff126861db14",
+    "sources/candidates/4599044.txt": "db17a207d21f4d8d80632ff891fb1d2c91ee0c9f9837ee22301d24e95c910432",
+    "sources/candidates/4627975.txt": "d91fe523512430281de8f1701143b55bbe583336906ae28711375632156c33cb",
+    "sources/candidates/4636593.txt": "4af3a5631b8d107172e2f7283f0d9e22db7eaa3d152dfa77c3ced30db0de9bad",
+    "sources/candidates/4660480.txt": "07bdf8125e1e27d0d074b0963d13b1f869fd0d0e9a091e922720bac63c60b35a",
+    "sources/candidates/4668934.txt": "91a0016d412a7fc90f2723ea542f388553f7e0bee744e50129dcc6870fe23042",
+    "sources/candidates/4687546.txt": "db17a207d21f4d8d80632ff891fb1d2c91ee0c9f9837ee22301d24e95c910432",
+    "sources/candidates/4762505.txt": "357bfed3b5f4af66a3d9c8d57ad1f9d95ddced8c0cc8bbc5641534a661ee4e76",
+    "sources/candidates/4893729.txt": "275991a256446eb5c9065ffe63c5d9cf59843b4daeedbfb5416466c11889db41",
+    "sources/candidates/4894597.txt": "275991a256446eb5c9065ffe63c5d9cf59843b4daeedbfb5416466c11889db41",
+    "sources/candidates/622029.txt": "69dde3ff4fc5304f0a9c1a367a21ba34a3fd6ca0b4a40b99e4bb7ce6a4885885",
+    "sources/candidates/626941_extra.txt": "982d4eafdfb6d2662445a2b47f0dec84dd2a98fb6a20ab49dec70b37aa579158",
+    "sources/candidates/6619928.txt": "3c3ff7ab6107a1728804f85d509ef7083fe59e124b1b2dd8fcbcc405f65d3f1f",
+    "sources/candidates/7078442.txt": "d9bf2eea13a95fc560340b21b31b2775ac190cbde30033f68dfd35df64774970",
+    "sources/candidates/7080078.txt": "1279b974397dbb561d1d4376ad5fc0de7b3cbb4b11586fd9b042ea57c32272a6",
+    "sources/candidates/7080213.txt": "bd9eedd69f014121752bec2c998400ee3c8509cfc14a71e0621e50438c2ebcd6",
+    "sources/candidates/7440778.txt": "a83dfb25f756e053ebbc0abded459e86e64637de75219f5053dd92e04ba107b0",
+    "sources/candidates/7441136.txt": "a83dfb25f756e053ebbc0abded459e86e64637de75219f5053dd92e04ba107b0",
+    "sources/candidates/76364.txt": "db8f71c6a099b282e67d208405396794a2c0d3fd3cb3bcc2f40403245ce6a768",
+    "sources/candidates/765541.txt": "d9bf2eea13a95fc560340b21b31b2775ac190cbde30033f68dfd35df64774970",
+    "sources/candidates/77393.txt": "9b3c734fab618c30fb40c38d01196cc61c5e19ecf957fb2e11b701772a342bbb",
+    "sources/candidates/781172.txt": "8ded0a7789d7365ccc97a21051d4770eb3dc31fa8b043ddaa12360c8bebed4e9",
+    "sources/candidates/782642.txt": "706a24be7a077031d8a2e8b15f45265da8838f63a5dc974beab205ffb82a80b2",
+    "sources/candidates/783613.txt": "7f5193c9ecf17f2d8519bd3bb826fd3f15ea77d97f57089917fe069ef2e0c013",
+    "sources/candidates/783969.txt": "39a9121cebf8001d329d35ae62cca31a147b8038f507fd8fda8fcf3d5e8f8d04",
+    "sources/candidates/784422.txt": "658462387b6ba33c459e94ba382869882e3c28c13077dba6214f4660d979e55e",
+    "sources/candidates/784999.txt": "fe464308f940ff0eedaf9384c727cf7466d502c86158490b1c52a7a95b8b8a02",
+    "sources/candidates/785862.txt": "94f3b2c0f3282431e5edd0c938ccf5a99cb5ed283cd21fe7313562fc2bdc2e27",
+    "sources/candidates/786715.txt": "6f9276428beab05b07cdab292bf006ea05b91358059c7d6e643501f1040536c3",
+    "sources/candidates/791594.txt": "e779cbbb92deb1b0490855f17940ec870ddd349c565ffaf385e893e96743e38e",
+    "sources/candidates/792900.txt": "4b64b13f83b7b6c2b0390ce5f475299ff731183f7c3b1118953e3258fde0b21f",
+    "sources/candidates/793245.txt": "5e7352f734658742bf32f372058834828c7b30cbb48f13d8bee29dae5a0e6b1a",
+    "sources/candidates/797291.txt": "b21536f2b950c314a756ef21cd972a17c29201302c893e13917dbffa7f24701e",
+    "sources/candidates/798059.txt": "072f2ed02fb54e0683bb8fbfceb183477490ce54a88c50cb0cfb17d701b75714",
+    "sources/candidates/810371.txt": "468e5adde0e5892588ea676239b1161d13f69fdf4ba6d4f8dbfeb10edfc12501",
+    "sources/candidates/8437787.txt": "7f5193c9ecf17f2d8519bd3bb826fd3f15ea77d97f57089917fe069ef2e0c013",
+    "sources/candidates/8437937.txt": "658462387b6ba33c459e94ba382869882e3c28c13077dba6214f4660d979e55e",
+    "sources/candidates/8441782.txt": "13b08e3008c6b28289ae1a36e02467400b7841ed09418a6f090105baa9785b96",
+    "sources/candidates/8443965.txt": "5489054abfd9e9c986163e2293db46f47539f5dd796cedb336f5116255ef7da4",
+    "sources/candidates/8478430.txt": "7935a16d80eb7fd3d37f371cfd0fdfd8d794d718cdcbe85e65f4ee08b9f94b6b",
+    "sources/candidates/9403767.txt": "520a18be7dc339a5ef099daa0ed88ef43953532f47884f83b7720cf0feac7c98",
+    "sources/candidates/9403902.txt": "01f2448507639e9f2eda42cbfacdeb3d05aacd5556963158687e19c9174dff9a",
+    "sources/candidates/9405916.txt": "3034b3f41c52b9f12c10231a06858df9b681e386ad1d5159cfbc79e9549b86e7",
+    "sources/candidates/9405917.txt": "f1f8bbfa186822d065a2ad5f49964244d047f8341d639589c6b05e355ed733d1",
+    "sources/candidates/9417970.txt": "a4a7b7f9e725d1f23714dd217a3002f661c74ef2b89434166c1eb253f0336c17",
+    "sources/candidates/9417991.txt": "85dc196efa81b891446eee4d2573747e52af74d6f6c356be40fd7878d24c9348",
+    "sources/candidates/9429957.txt": "3e0119dcf764ca90ad7b9c5ccda11cda72058f4c0042bc2c0a2ee51d4295c0a4",
+    "sources/candidates/index_75.txt": "044e1f5424b3467cc5804014ba79da44ee4c5e14da04001490f3edfb9dff19bd",
+    "sources/controlling/combined_opinions.txt": "ff8c64da2f84f6df529448b3a02a9a252b631d9c590b5737b0cdba02525364fa",
+    "sources/recovered/13.txt": "47fb4228ee4f124b60fde7952ba11c6e3b74f5c90ff0e2658180bf3bce8a4dc5",
+    "sources/recovered/16.txt": "792f0afad3326eb91f868d83b5587a9c575fc01e8ea23ea1af132971909299f9",
+    "sources/recovered/28.txt": "94adfd65319e21c836b5da29467034b4bdb4175cee0703d7bc1caa2d330f8710",
+    "sources/recovered/41.txt": "277f933e3dccc0d7c0160cb16f28a2d15479ddd891d1fd084f7169c8034ae42c",
+    "sources/recovered/55.txt": "c3f5b11f081c93a0ab5a527871bca721816909f08e2cb1e2353e903521071a95",
+    "sources/recovered/56.txt": "9d126ebac83c4bb012f1503f83fae5921a16367261ae1a34d2661174613bc301",
+    "validation/c1_outcome_source_checks.csv": "7735afc83ec6a7412b2d031163ce337c389cd5fae8d3fe91b54fb4403ede992d",
+    "validation/candidate_screening.csv": "aede949bffa71835b8be84d3556b5e50f34141bb79078dcd46fe6265e0bb60f8",
+    "validation/citation_sample_checks.csv": "2f04db01a6a9262a203be2c992256b02420aadfde096e7e930e380a3c8b84a77",
+    "validation/coding_checks.md": "4c1a9159166abd0e683298f60821b23468846c18146281d9206486bee93f65d1",
+    "validation/discovery_provenance.csv": "f2695e65c56e33ad0d930df43d4abda5de937e0637feb6780756cc1e53f21cee",
+    "validation/edge_boundary_checks.csv": "b141b4ea385bdb3b30cf48e20c8053829d56b3beab2e6ce53f81fbf82925b691",
+    "validation/lexis_appellate_screening.csv": "5b24a037267b5c4580a46e9daffeb2b429d0c1df427e70a392bcf587dd10ba2b",
+    "validation/lexis_coverage.md": "0596632f18cfd8141ce6de8bba2ec0a01bc01bb8b85e46c97d130d550305fa79",
+    "validation/lexis_district_segment.csv": "a7216ca3a9ad8c9f18a230d9bdd9890e45b4af83cef3ba14434eef99755bbd79",
+    "validation/lexis_eligible_opinions.csv": "cb09840efaf81090d50b8474dfbe474d3d372cce3d22100cfaec6957a30fb84b",
+    "validation/opinion_boundaries.csv": "bc2ddc97e1a67da4f093e5b2da86e1a3f85a4d0456ac9f8b8988368c61f7acfd",
+    "validation/opinion_coverage.csv": "1a4fb77465be4d7389a8a7e4127c4b7163c827a15daa7bd34656d4bd65bfb3a1",
+    "validation/passage_opinion_parts.csv": "055943290d3f00d24f349c486204e99ab4b8951d0440ac7e34c47cda498aadb3",
+    "validation/short_form_leads.csv": "83f2184b035e0a896ebd56894210062f1df23c42a869312a2ac726143a01ed7a",
+    "validation/short_form_scan_coverage.csv": "2a096ac549a9e97223f9c9d80eb717187c3c55ebc1e1e4ce6716ba09d5f9ebff"
+  }
+}

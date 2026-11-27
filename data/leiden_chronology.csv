@@ -1,0 +1,2 @@
+graph,trials,seed,resolution,observed_modularity,null_lower_025,null_median,null_upper_975
+baseline,500,230,1.0,0.27463204927902557,0.19040255649872126,0.21007274428046854,0.2331077282090577

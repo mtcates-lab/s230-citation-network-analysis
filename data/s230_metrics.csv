@@ -1,0 +1,481 @@
+graph,opinion_id,case_name,circuit,decision_date,reporter,c1_outcome,in_degree,out_degree,pagerank,rank,directed_betweenness,dag_depth
+baseline,S230-001,"Zeran v. America Online, Inc.",ca4,1997-11-12,129 F.3d 327,All barred,31,0,0.1909471211907165,1,0.0,0
+baseline,S230-002,"Ben Ezra, Weinstein, & Co. v. America Online Inc.",ca10,2000-03-14,206 F.3d 980,All barred,10,1,0.08781313002360659,2,0.0,1
+baseline,S230-004,Batzel v. Smith,ca9,2003-06-24,333 F.3d 1018,No resolved claim outcome,13,2,0.06272907001801434,3,0.0018054476387809725,2
+baseline,S230-005,"Carafano v. Metrosplash.com, Inc.",ca9,2003-08-13,339 F.3d 1119,All barred,18,4,0.06048119653944402,4,0.009259826873463235,3
+baseline,S230-003,Green v. America Online (AOL),ca3,2003-01-16,318 F.3d 465,All barred,13,2,0.0461648911093514,5,0.001340835090835091,2
+baseline,S230-008,"Fair Housing Council of San Fernando Valley v. Roommates.com, LLC",ca9,2008-04-03,521 F.3d 1157,Mixed,26,2,0.04132981163149657,6,0.0038245004154095073,4
+baseline,S230-009,"Chicago Lawyers’ Committee for Civil Rights Under Law, Inc. v. Craigslist, Inc.",ca7,2008-05-02,519 F.3d 666,All barred,13,5,0.036819054589602225,7,0.012969371630987792,5
+baseline,S230-006,"Universal Communication Systems, Inc. v. Lycos, Inc.",ca1,2007-02-23,478 F.3d 413,All barred,12,4,0.027786122014863156,8,0.0049362674362674365,4
+baseline,S230-010,"Doe v. MySpace, Inc.",ca5,2008-05-16,528 F.3d 413,All barred,12,5,0.02609826318616924,9,0.0050974236201508935,4
+baseline,S230-011,"Barnes v. Yahoo, Inc.",ca9,2009-06-22,570 F.3d 1096,Mixed,17,6,0.025266957597265254,10,0.00999073504124009,6
+baseline,S230-020,"Jane Doe No. 1 v. Backpage.Com, LLC",ca1,2016-03-14,817 F.3d 12,All barred,11,9,0.018246562501427206,11,0.018446769280102613,7
+baseline,S230-014,"Nemet Chevrolet, Ltd. v. Consumeraffairs. Com, Inc.",ca4,2009-12-29,591 F.3d 250,All barred,10,6,0.01674563823388859,12,0.006231094008871787,6
+baseline,S230-021,"Doe No. 14 v. Internet Brands, Inc.",ca9,2016-05-31,824 F.3d 846,None barred,10,4,0.01653654071913444,13,0.0025324507142688965,7
+baseline,S230-017,Larry Klayman v. Mark Zuckerberg,cadc,2014-06-13,753 F.3d 1354,All barred,10,6,0.01613764907593008,14,0.006392374927728462,7
+baseline,S230-023,Douglas Kimzey v. Yelp!,ca9,2016-09-12,836 F.3d 1263,All barred,11,8,0.015164134480831764,15,0.013917651745934576,9
+baseline,S230-040,"Jane Does v. Reddit, Inc.",ca9,2022-10-24,51 F.4th 1137,No resolved claim outcome,4,4,0.014177243569019064,16,0.006250981528759307,8
+baseline,S230-018,Jones v. Dirty World Entertainment Recordings LLC,ca6,2014-06-16,755 F.3d 398,All barred,10,12,0.014170846778578177,17,0.016195474465676485,8
+baseline,S230-007,"Perfect 10, Inc. v. CCBill LLC",ca9,2007-05-31,488 F.3d 1102,No resolved claim outcome,4,3,0.01264144145614038,18,0.001430976430976431,4
+baseline,S230-013,Federal Trade Commission v. Accusearch Inc.,ca10,2009-06-29,570 F.3d 1187,None barred,6,6,0.011326895290737033,19,0.0017344075677409008,5
+baseline,S230-029,"HomeAway.com, Inc. v. City of Santa Monica",ca9,2019-03-13,918 F.3d 676,No resolved claim outcome,8,4,0.011092023519485142,20,0.002163846254755346,8
+baseline,S230-055,"Backpage.com, LLC v. Dart",ca7,2015-11-30,807 F.3d 229,No resolved claim outcome,2,1,0.010946781765929073,21,0.002356902356902357,6
+baseline,S230-024,"Federal Trade Commission v. LeadClick Media, LLC",ca2,2016-09-23,838 F.3d 158,None barred,8,9,0.010856272518372238,22,0.012624136992823864,9
+baseline,S230-033,Kristanalea Dyroff v. the Ultimate Software Group,ca9,2019-08-20,934 F.3d 1093,All barred,7,7,0.009998516705486888,23,0.004801202351707403,10
+baseline,S230-032,"Force v. Facebook, Inc.",ca2,2019-07-31,934 F.3d 53,All barred,7,13,0.009974880693563832,24,0.015911787426938943,11
+baseline,S230-031,"Marshall's Locksmith Serv. Inc. v. Google, LLC",cadc,2019-06-07,925 F.3d 1263,All barred,5,13,0.008685325391013734,25,0.010042512668775296,10
+baseline,S230-012,Zango Inc v. Kaspersky Lab Inc,ca9,2009-06-25,568 F.3d 1169,No resolved claim outcome,2,5,0.00818230542479618,26,0.003098444765111432,7
+baseline,S230-015,Johnson v. Arden,ca8,2010-08-04,614 F.3d 785,All barred,3,8,0.008032362182835153,27,0.0014085297418630753,7
+baseline,S230-037,"Carly Lemmon v. Snap, Inc.",ca9,2021-05-04,995 F.3d 1085,None barred,4,6,0.007855325030400033,28,0.0010238751147842058,11
+baseline,S230-046,"Christopher Calise v. Meta Platforms, Inc.",ca9,2024-06-04,103 F.4th 732,Mixed,4,12,0.007661072289552881,29,0.010690401069188948,12
+baseline,S230-022,"Colin O'Kroley v. Fastcase, Inc",ca6,2016-07-22,831 F.3d 352,All barred,3,5,0.007439875574597162,30,0.0005618474305342992,9
+baseline,S230-019,Ricci v. Teamsters Union Local 456,ca2,2015-03-18,781 F.3d 25,All barred,3,4,0.007348327704002728,31,0.0007295173961840628,8
+baseline,S230-025,"General Steel Domestic Sales, L.L.C. v. Chumley",ca10,2016-11-01,840 F.3d 1178,No resolved claim outcome,1,2,0.007156990798009025,32,0.000505050505050505,2
+baseline,S230-026,Meanith Huon v. Nick Denton,ca7,2016-11-14,841 F.3d 733,None barred,2,6,0.007154506122274015,33,0.0018350168350168355,9
+baseline,S230-030,"Erie Insurance Company v. Amazon.com, Inc.",ca4,2019-05-22,925 F.3d 135,None barred,2,2,0.006700404940368828,34,0.0,7
+baseline,S230-049,M.H. v. Omegle.com LLC,ca11,2024-12-09,122 F.4th 1266,No resolved claim outcome,2,2,0.006622385273248195,35,0.0006562984340762118,9
+baseline,S230-047,"The Estate of Carson Bride v. Yolo Technologies, Inc.",ca9,2024-08-22,112 F.4th 1168,Mixed,2,8,0.006496757364139703,36,0.0006516014849348182,13
+baseline,S230-027,Small Justice LLC v. Xcentric Ventures LLC,ca1,2017-10-11,873 F.3d 313,All barred,1,4,0.006366933372247555,37,0.0001122334455667789,10
+baseline,S230-041,"Tyrone Henderson, Sr. v. The Source for Public Data, L.P.",ca4,2022-11-03,53 F.4th 110,None barred,1,11,0.0062197851767044655,38,0.0017777097575077375,13
+baseline,S230-016,"City of Chicago v. StubHub!, Inc.",ca7,2010-09-29,624 F.3d 363,No resolved claim outcome,1,1,0.006206437211360251,39,0.0,6
+baseline,S230-050,A. B. v. Salesforce,ca5,2024-12-19,123 F.4th 788,None barred,1,15,0.0061483508177913124,40,0.006418655231786545,14
+baseline,S230-028,Dawn Bennett v. Google LLC,cadc,2018-02-23,882 F.3d 1163,All barred,1,4,0.006144762606690889,41,5.611672278338945e-05,8
+baseline,S230-035,La Liberte v. Reid,ca2,2020-07-15,966 F.3d 79,None barred,1,4,0.0060574957101504475,42,0.000308641975308642,12
+baseline,S230-051,M.P. v. Meta Platforms Inc.,ca4,2025-02-04,127 F.4th 516,All barred,1,8,0.006050910401942966,43,0.0029691576661273634,14
+baseline,S230-052,Doe v. Grindr Inc.,ca9,2025-02-18,128 F.4th 1148,All barred,1,9,0.006050910401942966,43,0.0028043785619543196,15
+baseline,S230-044,"G.G. v. Salesforce.com, Inc.",ca7,2023-08-03,76 F.4th 544,None barred,1,8,0.005925282492834476,45,0.003310886644219977,10
+baseline,S230-045,"Free Speech Coalition, Inc. v. Paxton",ca5,2024-03-07,95 F.4th 263,No resolved claim outcome,1,2,0.005925282492834476,45,0.0,5
+baseline,S230-048,Tawainna Anderson v. TikTok Inc,ca3,2024-08-27,116 F.4th 180,None barred,1,10,0.005925282492834476,45,0.0015990715233139476,12
+baseline,S230-034,Enigma Software Group USA v. Malwarebytes Inc.,ca9,2019-12-31,946 F.3d 1040,No resolved claim outcome,0,3,0.005576875946486084,48,0.0,8
+baseline,S230-036,"East Coast Test Prep LLC v. Allnurses.com, Inc.",ca8,2020-08-19,971 F.3d 747,All barred,0,5,0.005576875946486084,48,0.0,10
+baseline,S230-038,Karen Hepp v. Facebook,ca3,2021-09-23,14 F.4th 204,No resolved claim outcome,0,2,0.005576875946486084,48,0.0,5
+baseline,S230-039,Monsarrat v. Newman,ca1,2022-03-10,28 F.4th 314,All barred,0,6,0.005576875946486084,48,0.0,11
+baseline,S230-042,Scott Rigsby v. Godaddy Inc.,ca9,2023-02-03,59 F.4th 998,All barred,0,9,0.005576875946486084,48,0.0,11
+baseline,S230-043,Woodhull Freedom Foundation v. United States,cadc,2023-07-07,72 F.4th 1286,No resolved claim outcome,0,1,0.005576875946486084,48,0.0,9
+baseline,S230-053,"Doe 1 v. Twitter, Inc.",ca9,2025-08-01,148 F.4th 635,Mixed,0,10,0.005576875946486084,48,0.0,16
+baseline,S230-054,United States v. EZ Lynk,ca2,2025-08-20,149 F.4th 190,None barred,0,8,0.005576875946486084,48,0.0,12
+baseline,S230-056,"Children’s Health Defense v. Meta Platforms, Inc.",ca9,2024-08-09,112 F.4th 742,No resolved claim outcome,0,1,0.005576875946486084,48,0.0,7
+section_230,S230-001,"Zeran v. America Online, Inc.",ca4,1997-11-12,129 F.3d 327,All barred,31,0,0.19058284789445776,1,0.0,0
+section_230,S230-002,"Ben Ezra, Weinstein, & Co. v. America Online Inc.",ca10,2000-03-14,206 F.3d 980,All barred,10,1,0.08732447556104514,2,0.0,1
+section_230,S230-004,Batzel v. Smith,ca9,2003-06-24,333 F.3d 1018,No resolved claim outcome,13,2,0.06378471864602701,3,0.001973797807131141,2
+section_230,S230-005,"Carafano v. Metrosplash.com, Inc.",ca9,2003-08-13,339 F.3d 1119,All barred,18,4,0.06222752367935141,4,0.009686891391436844,3
+section_230,S230-003,Green v. America Online (AOL),ca3,2003-01-16,318 F.3d 465,All barred,12,2,0.04564468462675953,5,0.0011724849224849225,2
+section_230,S230-008,"Fair Housing Council of San Fernando Valley v. Roommates.com, LLC",ca9,2008-04-03,521 F.3d 1157,Mixed,26,2,0.04265231573164174,6,0.0038600204509295424,4
+section_230,S230-009,"Chicago Lawyers’ Committee for Civil Rights Under Law, Inc. v. Craigslist, Inc.",ca7,2008-05-02,519 F.3d 666,All barred,13,5,0.03328734600570862,7,0.011151516833335014,5
+section_230,S230-006,"Universal Communication Systems, Inc. v. Lycos, Inc.",ca1,2007-02-23,478 F.3d 413,All barred,12,4,0.02753013265193866,8,0.004599567099567099,4
+section_230,S230-010,"Doe v. MySpace, Inc.",ca5,2008-05-16,528 F.3d 413,All barred,12,5,0.026774092174047786,9,0.005115407880559397,4
+section_230,S230-011,"Barnes v. Yahoo, Inc.",ca9,2009-06-22,570 F.3d 1096,Mixed,17,6,0.02651013273845482,10,0.01020912775963281,6
+section_230,S230-020,"Jane Doe No. 1 v. Backpage.Com, LLC",ca1,2016-03-14,817 F.3d 12,All barred,11,8,0.018756411476814647,11,0.01255166644055533,7
+section_230,S230-021,"Doe No. 14 v. Internet Brands, Inc.",ca9,2016-05-31,824 F.3d 846,None barred,10,4,0.01711607362543863,12,0.0025997907816089636,7
+section_230,S230-014,"Nemet Chevrolet, Ltd. v. Consumeraffairs. Com, Inc.",ca4,2009-12-29,591 F.3d 250,All barred,10,6,0.01680844273320064,13,0.006303644914756026,6
+section_230,S230-023,Douglas Kimzey v. Yelp!,ca9,2016-09-12,836 F.3d 1263,All barred,11,8,0.01592013342803469,14,0.015490559758236527,9
+section_230,S230-017,Larry Klayman v. Mark Zuckerberg,cadc,2014-06-13,753 F.3d 1354,All barred,9,6,0.015222159900951621,15,0.005235835993411751,7
+section_230,S230-018,Jones v. Dirty World Entertainment Recordings LLC,ca6,2014-06-16,755 F.3d 398,All barred,10,12,0.01474381051781751,16,0.017300317994762438,8
+section_230,S230-040,"Jane Does v. Reddit, Inc.",ca9,2022-10-24,51 F.4th 1137,No resolved claim outcome,4,4,0.014381477946812448,17,0.005645815090259535,8
+section_230,S230-007,"Perfect 10, Inc. v. CCBill LLC",ca9,2007-05-31,488 F.3d 1102,No resolved claim outcome,3,3,0.012016062558824495,18,0.0017676767676767678,4
+section_230,S230-013,Federal Trade Commission v. Accusearch Inc.,ca10,2009-06-29,570 F.3d 1187,None barred,6,6,0.011723452876701367,19,0.0019668911335578004,5
+section_230,S230-029,"HomeAway.com, Inc. v. City of Santa Monica",ca9,2019-03-13,918 F.3d 676,No resolved claim outcome,8,4,0.011462693302005486,20,0.0022504057857593214,8
+section_230,S230-024,"Federal Trade Commission v. LeadClick Media, LLC",ca2,2016-09-23,838 F.3d 158,None barred,8,9,0.011195748651219748,21,0.016403598272285144,9
+section_230,S230-032,"Force v. Facebook, Inc.",ca2,2019-07-31,934 F.3d 53,All barred,7,13,0.01020444516461267,22,0.0161033859518708,11
+section_230,S230-033,Kristanalea Dyroff v. the Ultimate Software Group,ca9,2019-08-20,934 F.3d 1093,All barred,7,6,0.01014255322625968,23,0.0033950449101964254,10
+section_230,S230-012,Zango Inc v. Kaspersky Lab Inc,ca9,2009-06-25,568 F.3d 1169,No resolved claim outcome,2,5,0.009118907984252725,24,0.00784030784030784,7
+section_230,S230-031,"Marshall's Locksmith Serv. Inc. v. Google, LLC",cadc,2019-06-07,925 F.3d 1263,All barred,5,13,0.008816058830237568,25,0.010759336996710734,10
+section_230,S230-037,"Carly Lemmon v. Snap, Inc.",ca9,2021-05-04,995 F.3d 1085,None barred,4,6,0.007968487184362162,26,0.0011982377891468802,11
+section_230,S230-046,"Christopher Calise v. Meta Platforms, Inc.",ca9,2024-06-04,103 F.4th 732,Mixed,4,12,0.00777143607954151,27,0.012051032581335613,12
+section_230,S230-026,Meanith Huon v. Nick Denton,ca7,2016-11-14,841 F.3d 733,None barred,2,6,0.007589237016524768,28,0.0016105499438832773,9
+section_230,S230-022,"Colin O'Kroley v. Fastcase, Inc",ca6,2016-07-22,831 F.3d 352,All barred,3,5,0.007553034427001906,29,0.0006039349726218413,9
+section_230,S230-019,Ricci v. Teamsters Union Local 456,ca2,2015-03-18,781 F.3d 25,All barred,3,4,0.00754566908247724,30,0.0007295173961840628,8
+section_230,S230-015,Johnson v. Arden,ca8,2010-08-04,614 F.3d 785,All barred,2,8,0.007212472962255091,31,0.00048260381593714924,7
+section_230,S230-030,"Erie Insurance Company v. Amazon.com, Inc.",ca4,2019-05-22,925 F.3d 135,None barred,2,2,0.0067969295593349605,32,0.0,7
+section_230,S230-049,M.H. v. Omegle.com LLC,ca11,2024-12-09,122 F.4th 1266,No resolved claim outcome,2,2,0.0067177859573616105,33,0.00038598233042677485,9
+section_230,S230-047,"The Estate of Carson Bride v. Yolo Technologies, Inc.",ca9,2024-08-22,112 F.4th 1168,Mixed,2,8,0.00659034827911552,34,0.0006516014849348182,13
+section_230,S230-027,Small Justice LLC v. Xcentric Ventures LLC,ca1,2017-10-11,873 F.3d 313,All barred,1,4,0.006458654070204739,35,0.0001122334455667789,10
+section_230,S230-016,"City of Chicago v. StubHub!, Inc.",ca7,2010-09-29,624 F.3d 363,No resolved claim outcome,1,1,0.006387078777155316,36,0.0,6
+section_230,S230-041,"Tyrone Henderson, Sr. v. The Source for Public Data, L.P.",ca4,2022-11-03,53 F.4th 110,None barred,1,11,0.006309386088820755,37,0.0018899432030745165,13
+section_230,S230-050,A. B. v. Salesforce,ca5,2024-12-19,123 F.4th 788,None barred,1,15,0.00623692266161383,38,0.005740423997999756,14
+section_230,S230-028,Dawn Bennett v. Google LLC,cadc,2018-02-23,882 F.3d 1163,All barred,1,4,0.006233649859805627,39,5.611672278338945e-05,8
+section_230,S230-035,La Liberte v. Reid,ca2,2020-07-15,966 F.3d 79,None barred,1,4,0.006144758714472645,40,0.0002244668911335578,12
+section_230,S230-051,M.P. v. Meta Platforms Inc.,ca4,2025-02-04,127 F.4th 516,All barred,1,8,0.006138078539706219,41,0.0031047525239444435,14
+section_230,S230-052,Doe v. Grindr Inc.,ca9,2025-02-18,128 F.4th 1148,All barred,1,9,0.006138078539706219,41,0.002469528227103985,15
+section_230,S230-044,"G.G. v. Salesforce.com, Inc.",ca7,2023-08-03,76 F.4th 544,None barred,1,7,0.006010640861460127,43,0.0024130190796857465,10
+section_230,S230-045,"Free Speech Coalition, Inc. v. Paxton",ca5,2024-03-07,95 F.4th 263,No resolved claim outcome,1,2,0.006010640861460127,43,0.0,5
+section_230,S230-048,Tawainna Anderson v. TikTok Inc,ca3,2024-08-27,116 F.4th 180,None barred,1,10,0.006010640861460127,43,0.0016471715714139958,12
+section_230,S230-025,"General Steel Domestic Sales, L.L.C. v. Chumley",ca10,2016-11-01,840 F.3d 1178,No resolved claim outcome,0,2,0.005657215243958438,46,0.0,2
+section_230,S230-034,Enigma Software Group USA v. Malwarebytes Inc.,ca9,2019-12-31,946 F.3d 1040,No resolved claim outcome,0,2,0.005657215243958438,46,0.0,8
+section_230,S230-036,"East Coast Test Prep LLC v. Allnurses.com, Inc.",ca8,2020-08-19,971 F.3d 747,All barred,0,4,0.005657215243958438,46,0.0,10
+section_230,S230-038,Karen Hepp v. Facebook,ca3,2021-09-23,14 F.4th 204,No resolved claim outcome,0,2,0.005657215243958438,46,0.0,5
+section_230,S230-039,Monsarrat v. Newman,ca1,2022-03-10,28 F.4th 314,All barred,0,6,0.005657215243958438,46,0.0,11
+section_230,S230-042,Scott Rigsby v. Godaddy Inc.,ca9,2023-02-03,59 F.4th 998,All barred,0,9,0.005657215243958438,46,0.0,11
+section_230,S230-043,Woodhull Freedom Foundation v. United States,cadc,2023-07-07,72 F.4th 1286,No resolved claim outcome,0,1,0.005657215243958438,46,0.0,9
+section_230,S230-053,"Doe 1 v. Twitter, Inc.",ca9,2025-08-01,148 F.4th 635,Mixed,0,10,0.005657215243958438,46,0.0,16
+section_230,S230-054,United States v. EZ Lynk,ca2,2025-08-20,149 F.4th 190,None barred,0,7,0.005657215243958438,46,0.0,12
+section_230,S230-055,"Backpage.com, LLC v. Dart",ca7,2015-11-30,807 F.3d 229,No resolved claim outcome,0,1,0.005657215243958438,46,0.0,6
+section_230,S230-056,"Children’s Health Defense v. Meta Platforms, Inc.",ca9,2024-08-09,112 F.4th 742,No resolved claim outcome,0,0,0.005657215243958438,46,0.0,0
+c1_baseline,S230-001,"Zeran v. America Online, Inc.",ca4,1997-11-12,129 F.3d 327,All barred,29,0,0.19645422648582017,1,0.0,0
+c1_baseline,S230-002,"Ben Ezra, Weinstein, & Co. v. America Online Inc.",ca10,2000-03-14,206 F.3d 980,All barred,9,1,0.08848180108556898,2,0.0,1
+c1_baseline,S230-004,Batzel v. Smith,ca9,2003-06-24,333 F.3d 1018,No resolved claim outcome,11,2,0.06384027958939013,3,0.002341440015656043,2
+c1_baseline,S230-005,"Carafano v. Metrosplash.com, Inc.",ca9,2003-08-13,339 F.3d 1119,All barred,15,4,0.06237057488307912,4,0.010667548189325195,3
+c1_baseline,S230-003,Green v. America Online (AOL),ca3,2003-01-16,318 F.3d 465,All barred,12,2,0.047615552343616696,5,0.0016526325977545492,2
+c1_baseline,S230-008,"Fair Housing Council of San Fernando Valley v. Roommates.com, LLC",ca9,2008-04-03,521 F.3d 1157,Mixed,23,2,0.04644716127276768,6,0.005930669214641341,4
+c1_baseline,S230-006,"Universal Communication Systems, Inc. v. Lycos, Inc.",ca1,2007-02-23,478 F.3d 413,All barred,11,4,0.029851331316263618,7,0.004960317460317461,4
+c1_baseline,S230-010,"Doe v. MySpace, Inc.",ca5,2008-05-16,528 F.3d 413,All barred,11,5,0.029525714571467025,8,0.007065053123415494,4
+c1_baseline,S230-011,"Barnes v. Yahoo, Inc.",ca9,2009-06-22,570 F.3d 1096,Mixed,15,6,0.029442842717477342,9,0.013784188130878026,6
+c1_baseline,S230-009,"Chicago Lawyers’ Committee for Civil Rights Under Law, Inc. v. Craigslist, Inc.",ca7,2008-05-02,519 F.3d 666,All barred,10,5,0.026100103425758435,10,0.00820611347614832,5
+c1_baseline,S230-014,"Nemet Chevrolet, Ltd. v. Consumeraffairs. Com, Inc.",ca4,2009-12-29,591 F.3d 250,All barred,10,6,0.02265075565083075,11,0.010871909739505557,6
+c1_baseline,S230-017,Larry Klayman v. Mark Zuckerberg,cadc,2014-06-13,753 F.3d 1354,All barred,10,6,0.022068922021392785,12,0.01114618057126768,7
+c1_baseline,S230-023,Douglas Kimzey v. Yelp!,ca9,2016-09-12,836 F.3d 1263,All barred,11,8,0.02117686096469316,13,0.02408558018314116,9
+c1_baseline,S230-018,Jones v. Dirty World Entertainment Recordings LLC,ca6,2014-06-16,755 F.3d 398,All barred,10,12,0.019340823828361452,14,0.028049782034973672,8
+c1_baseline,S230-020,"Jane Doe No. 1 v. Backpage.Com, LLC",ca1,2016-03-14,817 F.3d 12,All barred,9,8,0.017185164069932472,15,0.010894723743155798,7
+c1_baseline,S230-021,"Doe No. 14 v. Internet Brands, Inc.",ca9,2016-05-31,824 F.3d 846,None barred,8,4,0.016625670239828038,16,0.002843425447955065,7
+c1_baseline,S230-013,Federal Trade Commission v. Accusearch Inc.,ca10,2009-06-29,570 F.3d 1187,None barred,6,6,0.01541857898577364,17,0.003036070588335397,5
+c1_baseline,S230-024,"Federal Trade Commission v. LeadClick Media, LLC",ca2,2016-09-23,838 F.3d 158,None barred,8,8,0.014960790783429443,18,0.011141089843180432,9
+c1_baseline,S230-033,Kristanalea Dyroff v. the Ultimate Software Group,ca9,2019-08-20,934 F.3d 1093,All barred,7,6,0.014469523891560851,19,0.007575428829784231,10
+c1_baseline,S230-032,"Force v. Facebook, Inc.",ca2,2019-07-31,934 F.3d 53,All barred,7,12,0.013513366546714986,20,0.02277855709911459,11
+c1_baseline,S230-031,"Marshall's Locksmith Serv. Inc. v. Google, LLC",cadc,2019-06-07,925 F.3d 1263,All barred,5,13,0.01179534240588103,21,0.01666302145396222,10
+c1_baseline,S230-037,"Carly Lemmon v. Snap, Inc.",ca9,2021-05-04,995 F.3d 1085,None barred,4,5,0.011196710884039342,22,0.0017085363339718741,11
+c1_baseline,S230-046,"Christopher Calise v. Meta Platforms, Inc.",ca9,2024-06-04,103 F.4th 732,Mixed,4,11,0.010901925354701948,23,0.016626192235948335,12
+c1_baseline,S230-015,Johnson v. Arden,ca8,2010-08-04,614 F.3d 785,All barred,3,8,0.010668094918941983,24,0.002429345722028649,7
+c1_baseline,S230-022,"Colin O'Kroley v. Fastcase, Inc",ca6,2016-07-22,831 F.3d 352,All barred,3,5,0.009978559828056925,25,0.0009690399934302373,9
+c1_baseline,S230-019,Ricci v. Teamsters Union Local 456,ca2,2015-03-18,781 F.3d 25,All barred,3,4,0.009808439593738592,26,0.0012775842044134725,8
+c1_baseline,S230-026,Meanith Huon v. Nick Denton,ca7,2016-11-14,841 F.3d 733,None barred,2,6,0.00974688621337836,27,0.0025842044134727063,9
+c1_baseline,S230-030,"Erie Insurance Company v. Amazon.com, Inc.",ca4,2019-05-22,925 F.3d 135,None barred,2,2,0.008951390078354594,28,0.0,7
+c1_baseline,S230-047,"The Estate of Carson Bride v. Yolo Technologies, Inc.",ca9,2024-08-22,112 F.4th 1168,Mixed,2,7,0.008923245009948124,29,0.0010217908301531995,13
+c1_baseline,S230-027,Small Justice LLC v. Xcentric Ventures LLC,ca1,2017-10-11,873 F.3d 313,All barred,1,4,0.008416103619272315,30,0.00019357336430507162,10
+c1_baseline,S230-050,A. B. v. Salesforce,ca5,2024-12-19,123 F.4th 788,None barred,1,13,0.008375609034596214,31,0.007880069988083925,14
+c1_baseline,S230-051,M.P. v. Meta Platforms Inc.,ca4,2025-02-04,127 F.4th 516,All barred,1,8,0.008266913044161085,32,0.005371283768496312,14
+c1_baseline,S230-052,Doe v. Grindr Inc.,ca9,2025-02-18,128 F.4th 1148,All barred,1,7,0.008266913044161085,32,0.0033048252560447687,15
+c1_baseline,S230-041,"Tyrone Henderson, Sr. v. The Source for Public Data, L.P.",ca4,2022-11-03,53 F.4th 110,None barred,1,10,0.0082501291044584,34,0.002582151362639168,13
+c1_baseline,S230-028,Dawn Bennett v. Google LLC,cadc,2018-02-23,882 F.3d 1163,All barred,1,4,0.008143003520033708,35,9.678668215253581e-05,8
+c1_baseline,S230-035,La Liberte v. Reid,ca2,2020-07-15,966 F.3d 79,None barred,1,4,0.008073030567389897,36,0.00038714672861014324,12
+c1_baseline,S230-044,"G.G. v. Salesforce.com, Inc.",ca7,2023-08-03,76 F.4th 544,None barred,1,6,0.007919405568845614,37,0.002051877661633759,10
+c1_baseline,S230-048,Tawainna Anderson v. TikTok Inc,ca3,2024-08-27,116 F.4th 180,None barred,1,10,0.007919405568845614,37,0.0027579805018829407,12
+c1_baseline,S230-036,"East Coast Test Prep LLC v. Allnurses.com, Inc.",ca8,2020-08-19,971 F.3d 747,All barred,0,5,0.007371769593493704,39,0.0,10
+c1_baseline,S230-039,Monsarrat v. Newman,ca1,2022-03-10,28 F.4th 314,All barred,0,6,0.007371769593493704,39,0.0,11
+c1_baseline,S230-042,Scott Rigsby v. Godaddy Inc.,ca9,2023-02-03,59 F.4th 998,All barred,0,9,0.007371769593493704,39,0.0,11
+c1_baseline,S230-053,"Doe 1 v. Twitter, Inc.",ca9,2025-08-01,148 F.4th 635,Mixed,0,7,0.007371769593493704,39,0.0,16
+c1_baseline,S230-054,United States v. EZ Lynk,ca2,2025-08-20,149 F.4th 190,None barred,0,8,0.007371769593493704,39,0.0,12
+c1_section_230,S230-001,"Zeran v. America Online, Inc.",ca4,1997-11-12,129 F.3d 327,All barred,29,0,0.1961532542457063,1,0.0,0
+c1_section_230,S230-002,"Ben Ezra, Weinstein, & Co. v. America Online Inc.",ca10,2000-03-14,206 F.3d 980,All barred,9,1,0.08833333360632518,2,0.0,1
+c1_section_230,S230-004,Batzel v. Smith,ca9,2003-06-24,333 F.3d 1018,No resolved claim outcome,11,2,0.06442525271348244,3,0.002341440015656043,2
+c1_section_230,S230-005,"Carafano v. Metrosplash.com, Inc.",ca9,2003-08-13,339 F.3d 1119,All barred,15,4,0.06327134687298366,4,0.011132710849609805,3
+c1_section_230,S230-008,"Fair Housing Council of San Fernando Valley v. Roommates.com, LLC",ca9,2008-04-03,521 F.3d 1157,Mixed,23,2,0.04709815605868739,5,0.005997246720243237,4
+c1_section_230,S230-003,Green v. America Online (AOL),ca3,2003-01-16,318 F.3d 465,All barred,11,2,0.046577072496092144,6,0.0013622725512969418,2
+c1_section_230,S230-011,"Barnes v. Yahoo, Inc.",ca9,2009-06-22,570 F.3d 1096,Mixed,15,6,0.03004676558858285,7,0.014224504686177161,6
+c1_section_230,S230-006,"Universal Communication Systems, Inc. v. Lycos, Inc.",ca1,2007-02-23,478 F.3d 413,All barred,11,4,0.029501754967988653,8,0.004960317460317461,4
+c1_section_230,S230-010,"Doe v. MySpace, Inc.",ca5,2008-05-16,528 F.3d 413,All barred,11,5,0.02944394144831331,9,0.007107873897943586,4
+c1_section_230,S230-009,"Chicago Lawyers’ Committee for Civil Rights Under Law, Inc. v. Craigslist, Inc.",ca7,2008-05-02,519 F.3d 666,All barred,10,5,0.02613359683709564,10,0.008486082571448426,5
+c1_section_230,S230-014,"Nemet Chevrolet, Ltd. v. Consumeraffairs. Com, Inc.",ca4,2009-12-29,591 F.3d 250,All barred,10,6,0.02235385161177547,11,0.011035064432276977,6
+c1_section_230,S230-023,Douglas Kimzey v. Yelp!,ca9,2016-09-12,836 F.3d 1263,All barred,11,8,0.02200269610721644,12,0.02690062711839715,9
+c1_section_230,S230-017,Larry Klayman v. Mark Zuckerberg,cadc,2014-06-13,753 F.3d 1354,All barred,9,6,0.020127899562196825,13,0.009074442785244179,7
+c1_section_230,S230-018,Jones v. Dirty World Entertainment Recordings LLC,ca6,2014-06-16,755 F.3d 398,All barred,10,12,0.019794818228369416,14,0.029981116283381088,8
+c1_section_230,S230-020,"Jane Doe No. 1 v. Backpage.Com, LLC",ca1,2016-03-14,817 F.3d 12,All barred,9,8,0.017348140465133912,15,0.011489270504949946,7
+c1_section_230,S230-021,"Doe No. 14 v. Internet Brands, Inc.",ca9,2016-05-31,824 F.3d 846,None barred,8,4,0.017021891320869845,16,0.0029636755682051854,7
+c1_section_230,S230-013,Federal Trade Commission v. Accusearch Inc.,ca10,2009-06-29,570 F.3d 1187,None barred,6,6,0.015697886252728492,17,0.003461931989806554,5
+c1_section_230,S230-024,"Federal Trade Commission v. LeadClick Media, LLC",ca2,2016-09-23,838 F.3d 158,None barred,8,8,0.015068956329945966,18,0.011197779185584063,9
+c1_section_230,S230-033,Kristanalea Dyroff v. the Ultimate Software Group,ca9,2019-08-20,934 F.3d 1093,All barred,7,5,0.014457846135569918,19,0.005052711193826176,10
+c1_section_230,S230-032,"Force v. Facebook, Inc.",ca2,2019-07-31,934 F.3d 53,All barred,7,12,0.013614263093051774,20,0.023254194508549906,11
+c1_section_230,S230-031,"Marshall's Locksmith Serv. Inc. v. Google, LLC",cadc,2019-06-07,925 F.3d 1263,All barred,5,13,0.01179374222423491,21,0.017155250866052258,10
+c1_section_230,S230-037,"Carly Lemmon v. Snap, Inc.",ca9,2021-05-04,995 F.3d 1085,None barred,4,5,0.01118767448045097,22,0.002009266382088682,11
+c1_section_230,S230-046,"Christopher Calise v. Meta Platforms, Inc.",ca9,2024-06-04,103 F.4th 732,Mixed,4,11,0.010893126860358506,23,0.017695224184771225,12
+c1_section_230,S230-026,Meanith Huon v. Nick Denton,ca7,2016-11-14,841 F.3d 733,None barred,2,6,0.010052067259548022,24,0.002777777777777778,9
+c1_section_230,S230-022,"Colin O'Kroley v. Fastcase, Inc",ca6,2016-07-22,831 F.3d 352,All barred,3,5,0.009978943700531734,25,0.0010416300050446392,9
+c1_section_230,S230-019,Ricci v. Teamsters Union Local 456,ca2,2015-03-18,781 F.3d 25,All barred,3,4,0.009920245586572325,26,0.0012775842044134725,8
+c1_section_230,S230-015,Johnson v. Arden,ca8,2010-08-04,614 F.3d 785,All barred,2,8,0.009440559302264418,27,0.0008323654665118079,7
+c1_section_230,S230-030,"Erie Insurance Company v. Amazon.com, Inc.",ca4,2019-05-22,925 F.3d 135,None barred,2,2,0.008944165780586665,28,0.0,7
+c1_section_230,S230-047,"The Estate of Carson Bride v. Yolo Technologies, Inc.",ca9,2024-08-22,112 F.4th 1168,Mixed,2,7,0.008916043426904064,29,0.0010217908301531995,13
+c1_section_230,S230-027,Small Justice LLC v. Xcentric Ventures LLC,ca1,2017-10-11,873 F.3d 313,All barred,1,4,0.008409311329129804,30,0.00019357336430507162,10
+c1_section_230,S230-050,A. B. v. Salesforce,ca5,2024-12-19,123 F.4th 788,None barred,1,13,0.00836884942596182,31,0.008080095797865833,14
+c1_section_230,S230-051,M.P. v. Meta Platforms Inc.,ca4,2025-02-04,127 F.4th 516,All barred,1,8,0.008260241159578501,32,0.005623159586574221,14
+c1_section_230,S230-052,Doe v. Grindr Inc.,ca9,2025-02-18,128 F.4th 1148,All barred,1,7,0.008260241159578501,32,0.0033112777015216043,15
+c1_section_230,S230-041,"Tyrone Henderson, Sr. v. The Source for Public Data, L.P.",ca4,2022-11-03,53 F.4th 110,None barred,1,10,0.008243470765500428,34,0.002582151362639168,13
+c1_section_230,S230-028,Dawn Bennett v. Google LLC,cadc,2018-02-23,882 F.3d 1163,All barred,1,4,0.008136949441547576,35,9.678668215253581e-05,8
+c1_section_230,S230-035,La Liberte v. Reid,ca2,2020-07-15,966 F.3d 79,None barred,1,4,0.008066515157356912,36,0.00038714672861014324,12
+c1_section_230,S230-044,"G.G. v. Salesforce.com, Inc.",ca7,2023-08-03,76 F.4th 544,None barred,1,6,0.007913014143212918,37,0.002051877661633759,10
+c1_section_230,S230-048,Tawainna Anderson v. TikTok Inc,ca3,2024-08-27,116 F.4th 180,None barred,1,10,0.007913014143212918,37,0.002840940515156543,12
+c1_section_230,S230-036,"East Coast Test Prep LLC v. Allnurses.com, Inc.",ca8,2020-08-19,971 F.3d 747,All barred,0,4,0.007365820142270675,39,0.0,10
+c1_section_230,S230-039,Monsarrat v. Newman,ca1,2022-03-10,28 F.4th 314,All barred,0,6,0.007365820142270675,39,0.0,11
+c1_section_230,S230-042,Scott Rigsby v. Godaddy Inc.,ca9,2023-02-03,59 F.4th 998,All barred,0,9,0.007365820142270675,39,0.0,11
+c1_section_230,S230-053,"Doe 1 v. Twitter, Inc.",ca9,2025-08-01,148 F.4th 635,Mixed,0,7,0.007365820142270675,39,0.0,16
+c1_section_230,S230-054,United States v. EZ Lynk,ca2,2025-08-20,149 F.4th 190,None barred,0,7,0.007365820142270675,39,0.0,12
+resolved_c1_baseline,S230-001,"Zeran v. America Online, Inc.",ca4,1997-11-12,129 F.3d 327,All barred,28,0,0.19432376849894922,1,0.0,0
+resolved_c1_baseline,S230-005,"Carafano v. Metrosplash.com, Inc.",ca9,2003-08-13,339 F.3d 1119,All barred,15,3,0.09057839353232777,2,0.010211346918663992,3
+resolved_c1_baseline,S230-002,"Ben Ezra, Weinstein, & Co. v. America Online Inc.",ca10,2000-03-14,206 F.3d 980,All barred,8,1,0.08623742405332481,3,0.0,1
+resolved_c1_baseline,S230-003,Green v. America Online (AOL),ca3,2003-01-16,318 F.3d 465,All barred,12,2,0.0650155917782491,4,0.0017711962833914052,2
+resolved_c1_baseline,S230-008,"Fair Housing Council of San Fernando Valley v. Roommates.com, LLC",ca9,2008-04-03,521 F.3d 1157,Mixed,23,1,0.04997144836258345,5,0.002700128462323584,4
+resolved_c1_baseline,S230-006,"Universal Communication Systems, Inc. v. Lycos, Inc.",ca1,2007-02-23,478 F.3d 413,All barred,11,4,0.033173424807779565,6,0.005239547038327527,4
+resolved_c1_baseline,S230-010,"Doe v. MySpace, Inc.",ca5,2008-05-16,528 F.3d 413,All barred,11,4,0.03170950460210656,7,0.0062628682293316435,4
+resolved_c1_baseline,S230-011,"Barnes v. Yahoo, Inc.",ca9,2009-06-22,570 F.3d 1096,Mixed,15,5,0.03089957284617542,8,0.012882615352127546,6
+resolved_c1_baseline,S230-009,"Chicago Lawyers’ Committee for Civil Rights Under Law, Inc. v. Craigslist, Inc.",ca7,2008-05-02,519 F.3d 666,All barred,10,4,0.028297494923513,9,0.007740294935416887,5
+resolved_c1_baseline,S230-014,"Nemet Chevrolet, Ltd. v. Consumeraffairs. Com, Inc.",ca4,2009-12-29,591 F.3d 250,All barred,10,6,0.023785227779809865,10,0.01082026713124274,6
+resolved_c1_baseline,S230-017,Larry Klayman v. Mark Zuckerberg,cadc,2014-06-13,753 F.3d 1354,All barred,10,6,0.02283813507987798,11,0.011718007602153944,7
+resolved_c1_baseline,S230-023,Douglas Kimzey v. Yelp!,ca9,2016-09-12,836 F.3d 1263,All barred,11,7,0.02163990897844917,12,0.022854855171928343,9
+resolved_c1_baseline,S230-018,Jones v. Dirty World Entertainment Recordings LLC,ca6,2014-06-16,755 F.3d 398,All barred,10,11,0.020029510301388498,13,0.028186217576461482,8
+resolved_c1_baseline,S230-020,"Jane Doe No. 1 v. Backpage.Com, LLC",ca1,2016-03-14,817 F.3d 12,All barred,9,7,0.017496549212541002,14,0.009843205574912892,7
+resolved_c1_baseline,S230-021,"Doe No. 14 v. Internet Brands, Inc.",ca9,2016-05-31,824 F.3d 846,None barred,8,4,0.01718880801070244,15,0.0031695658677365996,7
+resolved_c1_baseline,S230-013,Federal Trade Commission v. Accusearch Inc.,ca10,2009-06-29,570 F.3d 1187,None barred,6,5,0.016187632575843446,16,0.00272938443670151,5
+resolved_c1_baseline,S230-024,"Federal Trade Commission v. LeadClick Media, LLC",ca2,2016-09-23,838 F.3d 158,None barred,8,8,0.015245702671740434,17,0.011719921338823774,9
+resolved_c1_baseline,S230-033,Kristanalea Dyroff v. the Ultimate Software Group,ca9,2019-08-20,934 F.3d 1093,All barred,7,6,0.014961110989429045,18,0.008061428747404356,10
+resolved_c1_baseline,S230-032,"Force v. Facebook, Inc.",ca2,2019-07-31,934 F.3d 53,All barred,7,12,0.01377028092369844,19,0.023928373455812477,11
+resolved_c1_baseline,S230-031,"Marshall's Locksmith Serv. Inc. v. Google, LLC",cadc,2019-06-07,925 F.3d 1263,All barred,5,13,0.01202240612744505,20,0.017496172526660327,10
+resolved_c1_baseline,S230-037,"Carly Lemmon v. Snap, Inc.",ca9,2021-05-04,995 F.3d 1085,None barred,4,5,0.01159584956627999,21,0.0017939631506704678,11
+resolved_c1_baseline,S230-046,"Christopher Calise v. Meta Platforms, Inc.",ca9,2024-06-04,103 F.4th 732,Mixed,4,11,0.011281564215189999,22,0.017643816210889385,12
+resolved_c1_baseline,S230-015,Johnson v. Arden,ca8,2010-08-04,614 F.3d 785,All barred,3,7,0.01101285523638927,23,0.0022764227642276423,7
+resolved_c1_baseline,S230-022,"Colin O'Kroley v. Fastcase, Inc",ca6,2016-07-22,831 F.3d 352,All barred,3,5,0.010159782240041503,24,0.0010174919931017492,9
+resolved_c1_baseline,S230-019,Ricci v. Teamsters Union Local 456,ca2,2015-03-18,781 F.3d 25,All barred,3,4,0.009985611935556273,25,0.0013414634146341462,8
+resolved_c1_baseline,S230-026,Meanith Huon v. Nick Denton,ca7,2016-11-14,841 F.3d 733,None barred,2,6,0.009921946808248424,26,0.0027134146341463417,9
+resolved_c1_baseline,S230-030,"Erie Insurance Company v. Amazon.com, Inc.",ca4,2019-05-22,925 F.3d 135,None barred,2,2,0.009112163030646606,27,0.0,7
+resolved_c1_baseline,S230-047,"The Estate of Carson Bride v. Yolo Technologies, Inc.",ca9,2024-08-22,112 F.4th 1168,Mixed,2,6,0.009083512457989279,28,0.0005952380952380952,13
+resolved_c1_baseline,S230-027,Small Justice LLC v. Xcentric Ventures LLC,ca1,2017-10-11,873 F.3d 313,All barred,1,4,0.008567262468793392,29,0.0002032520325203252,10
+resolved_c1_baseline,S230-050,A. B. v. Salesforce,ca5,2024-12-19,123 F.4th 788,None barred,1,13,0.008526040574290801,30,0.008294398690740154,14
+resolved_c1_baseline,S230-051,M.P. v. Meta Platforms Inc.,ca4,2025-02-04,127 F.4th 516,All barred,1,8,0.00841539233118186,31,0.005655091859360153,14
+resolved_c1_baseline,S230-052,Doe v. Grindr Inc.,ca9,2025-02-18,128 F.4th 1148,All barred,1,7,0.00841539233118186,31,0.003470066518847007,15
+resolved_c1_baseline,S230-041,"Tyrone Henderson, Sr. v. The Source for Public Data, L.P.",ca4,2022-11-03,53 F.4th 110,None barred,1,10,0.008398306940693531,33,0.002711258930771126,13
+resolved_c1_baseline,S230-028,Dawn Bennett v. Google LLC,cadc,2018-02-23,882 F.3d 1163,All barred,1,4,0.008290251906131389,34,0.0001016260162601626,8
+resolved_c1_baseline,S230-035,La Liberte v. Reid,ca2,2020-07-15,966 F.3d 79,None barred,1,4,0.008218027595465732,35,0.0004065040650406504,12
+resolved_c1_baseline,S230-044,"G.G. v. Salesforce.com, Inc.",ca7,2023-08-03,76 F.4th 544,None barred,1,6,0.008061643389211136,36,0.002154471544715447,10
+resolved_c1_baseline,S230-048,Tawainna Anderson v. TikTok Inc,ca3,2024-08-27,116 F.4th 180,None barred,1,10,0.008061643389211136,36,0.002895879526977088,12
+resolved_c1_baseline,S230-036,"East Coast Test Prep LLC v. Allnurses.com, Inc.",ca8,2020-08-19,971 F.3d 747,All barred,0,5,0.007504171505512657,38,0.0,10
+resolved_c1_baseline,S230-039,Monsarrat v. Newman,ca1,2022-03-10,28 F.4th 314,All barred,0,6,0.007504171505512657,38,0.0,11
+resolved_c1_baseline,S230-042,Scott Rigsby v. Godaddy Inc.,ca9,2023-02-03,59 F.4th 998,All barred,0,9,0.007504171505512657,38,0.0,11
+resolved_c1_baseline,S230-053,"Doe 1 v. Twitter, Inc.",ca9,2025-08-01,148 F.4th 635,Mixed,0,7,0.007504171505512657,38,0.0,16
+resolved_c1_baseline,S230-054,United States v. EZ Lynk,ca2,2025-08-20,149 F.4th 190,None barred,0,8,0.007504171505512657,38,0.0,12
+resolved_c1_section_230,S230-001,"Zeran v. America Online, Inc.",ca4,1997-11-12,129 F.3d 327,All barred,28,0,0.1940074935264988,1,0.0,0
+resolved_c1_section_230,S230-005,"Carafano v. Metrosplash.com, Inc.",ca9,2003-08-13,339 F.3d 1119,All barred,15,3,0.09186518975933994,2,0.010699767711962833,3
+resolved_c1_section_230,S230-002,"Ben Ezra, Weinstein, & Co. v. America Online Inc.",ca10,2000-03-14,206 F.3d 980,All barred,8,1,0.08607060127319122,3,0.0,1
+resolved_c1_section_230,S230-003,Green v. America Online (AOL),ca3,2003-01-16,318 F.3d 465,All barred,11,2,0.06411697992120664,4,0.0014663182346109174,2
+resolved_c1_section_230,S230-008,"Fair Housing Council of San Fernando Valley v. Roommates.com, LLC",ca9,2008-04-03,521 F.3d 1157,Mixed,23,1,0.05066784487934501,5,0.002719221835075493,4
+resolved_c1_section_230,S230-006,"Universal Communication Systems, Inc. v. Lycos, Inc.",ca1,2007-02-23,478 F.3d 413,All barred,11,4,0.03281527766329537,6,0.005239547038327527,4
+resolved_c1_section_230,S230-010,"Doe v. MySpace, Inc.",ca5,2008-05-16,528 F.3d 413,All barred,11,4,0.031650895861836746,7,0.00630783004258614,4
+resolved_c1_section_230,S230-011,"Barnes v. Yahoo, Inc.",ca9,2009-06-22,570 F.3d 1096,Mixed,15,5,0.03153665151663569,8,0.013344947735191638,6
+resolved_c1_section_230,S230-009,"Chicago Lawyers’ Committee for Civil Rights Under Law, Inc. v. Craigslist, Inc.",ca7,2008-05-02,519 F.3d 666,All barred,10,4,0.028339278689947754,9,0.008034262485481999,5
+resolved_c1_section_230,S230-014,"Nemet Chevrolet, Ltd. v. Consumeraffairs. Com, Inc.",ca4,2009-12-29,591 F.3d 250,All barred,10,6,0.02347827325483253,10,0.01099157955865273,6
+resolved_c1_section_230,S230-023,Douglas Kimzey v. Yelp!,ca9,2016-09-12,836 F.3d 1263,All barred,11,7,0.02248603644819985,11,0.02575984144581706,9
+resolved_c1_section_230,S230-017,Larry Klayman v. Mark Zuckerberg,cadc,2014-06-13,753 F.3d 1354,All barred,9,6,0.020842014430016795,12,0.009542682926829268,7
+resolved_c1_section_230,S230-018,Jones v. Dirty World Entertainment Recordings LLC,ca6,2014-06-16,755 F.3d 398,All barred,10,11,0.020504261929846678,13,0.030163305529159187,8
+resolved_c1_section_230,S230-020,"Jane Doe No. 1 v. Backpage.Com, LLC",ca1,2016-03-14,817 F.3d 12,All barred,9,7,0.017661639082073386,14,0.010467479674796746,7
+resolved_c1_section_230,S230-021,"Doe No. 14 v. Internet Brands, Inc.",ca9,2016-05-31,824 F.3d 846,None barred,8,4,0.01759768311618195,15,0.003295828493999226,7
+resolved_c1_section_230,S230-013,Federal Trade Commission v. Accusearch Inc.,ca10,2009-06-29,570 F.3d 1187,None barred,6,5,0.016488768597143502,16,0.0031765389082462248,5
+resolved_c1_section_230,S230-024,"Federal Trade Commission v. LeadClick Media, LLC",ca2,2016-09-23,838 F.3d 158,None barred,8,8,0.01535509235313005,17,0.011779445148347585,9
+resolved_c1_section_230,S230-033,Kristanalea Dyroff v. the Ultimate Software Group,ca9,2019-08-20,934 F.3d 1093,All barred,7,5,0.01494834967071497,18,0.0054125752296484,10
+resolved_c1_section_230,S230-032,"Force v. Facebook, Inc.",ca2,2019-07-31,934 F.3d 53,All barred,7,12,0.01387234079069119,19,0.024427792735719562,11
+resolved_c1_section_230,S230-031,"Marshall's Locksmith Serv. Inc. v. Google, LLC",cadc,2019-06-07,925 F.3d 1263,All barred,5,13,0.01202021264325755,20,0.01801301340935487,10
+resolved_c1_section_230,S230-037,"Carly Lemmon v. Snap, Inc.",ca9,2021-05-04,995 F.3d 1085,None barred,4,5,0.011585958701087667,21,0.0021097297011931156,11
+resolved_c1_section_230,S230-046,"Christopher Calise v. Meta Platforms, Inc.",ca9,2024-06-04,103 F.4th 732,Mixed,4,11,0.011271941424713435,22,0.018766299757153417,12
+resolved_c1_section_230,S230-026,Meanith Huon v. Nick Denton,ca7,2016-11-14,841 F.3d 733,None barred,2,6,0.010232138980027856,23,0.002916666666666667,9
+resolved_c1_section_230,S230-022,"Colin O'Kroley v. Fastcase, Inc",ca6,2016-07-22,831 F.3d 352,All barred,3,5,0.010159704590386462,24,0.001093711505296871,9
+resolved_c1_section_230,S230-019,Ricci v. Teamsters Union Local 456,ca2,2015-03-18,781 F.3d 25,All barred,3,4,0.010098961215694164,25,0.0013414634146341462,8
+resolved_c1_section_230,S230-015,Johnson v. Arden,ca8,2010-08-04,614 F.3d 785,All barred,2,7,0.009766846144412113,26,0.0007520325203252032,7
+resolved_c1_section_230,S230-030,"Erie Insurance Company v. Amazon.com, Inc.",ca4,2019-05-22,925 F.3d 135,None barred,2,2,0.009104390665583169,27,0.0,7
+resolved_c1_section_230,S230-047,"The Estate of Carson Bride v. Yolo Technologies, Inc.",ca9,2024-08-22,112 F.4th 1168,Mixed,2,6,0.009075764530889617,28,0.0005952380952380952,13
+resolved_c1_section_230,S230-027,Small Justice LLC v. Xcentric Ventures LLC,ca1,2017-10-11,873 F.3d 313,All barred,1,4,0.008559954885374563,29,0.0002032520325203252,10
+resolved_c1_section_230,S230-050,A. B. v. Salesforce,ca5,2024-12-19,123 F.4th 788,None barred,1,13,0.008518768151744328,30,0.008504425791011157,14
+resolved_c1_section_230,S230-051,M.P. v. Meta Platforms Inc.,ca4,2025-02-04,127 F.4th 516,All barred,1,8,0.008408214287823986,31,0.005919561468341957,14
+resolved_c1_section_230,S230-052,Doe v. Grindr Inc.,ca9,2025-02-18,128 F.4th 1148,All barred,1,7,0.008408214287823986,31,0.0034768415865976845,15
+resolved_c1_section_230,S230-041,"Tyrone Henderson, Sr. v. The Source for Public Data, L.P.",ca4,2022-11-03,53 F.4th 110,None barred,1,10,0.00839114347059135,33,0.002711258930771126,13
+resolved_c1_section_230,S230-028,Dawn Bennett v. Google LLC,cadc,2018-02-23,882 F.3d 1163,All barred,1,4,0.008283707683014813,34,0.0001016260162601626,8
+resolved_c1_section_230,S230-035,La Liberte v. Reid,ca2,2020-07-15,966 F.3d 79,None barred,1,4,0.008211017897512341,35,0.0004065040650406504,12
+resolved_c1_section_230,S230-044,"G.G. v. Salesforce.com, Inc.",ca7,2023-08-03,76 F.4th 544,None barred,1,6,0.00805476708166581,36,0.002154471544715447,10
+resolved_c1_section_230,S230-048,Tawainna Anderson v. TikTok Inc,ca3,2024-08-27,116 F.4th 180,None barred,1,10,0.00805476708166581,36,0.0029829875409143705,12
+resolved_c1_section_230,S230-036,"East Coast Test Prep LLC v. Allnurses.com, Inc.",ca8,2020-08-19,971 F.3d 747,All barred,0,4,0.007497770702520523,38,0.0,10
+resolved_c1_section_230,S230-039,Monsarrat v. Newman,ca1,2022-03-10,28 F.4th 314,All barred,0,6,0.007497770702520523,38,0.0,11
+resolved_c1_section_230,S230-042,Scott Rigsby v. Godaddy Inc.,ca9,2023-02-03,59 F.4th 998,All barred,0,9,0.007497770702520523,38,0.0,11
+resolved_c1_section_230,S230-053,"Doe 1 v. Twitter, Inc.",ca9,2025-08-01,148 F.4th 635,Mixed,0,7,0.007497770702520523,38,0.0,16
+resolved_c1_section_230,S230-054,United States v. EZ Lynk,ca2,2025-08-20,149 F.4th 190,None barred,0,7,0.007497770702520523,38,0.0,12
+c1_perfect10_baseline,S230-001,"Zeran v. America Online, Inc.",ca4,1997-11-12,129 F.3d 327,All barred,30,0,0.1977091273058803,1,0.0,0
+c1_perfect10_baseline,S230-002,"Ben Ezra, Weinstein, & Co. v. America Online Inc.",ca10,2000-03-14,206 F.3d 980,All barred,9,1,0.08827634109410144,2,0.0,1
+c1_perfect10_baseline,S230-004,Batzel v. Smith,ca9,2003-06-24,333 F.3d 1018,No resolved claim outcome,12,2,0.06524327422667595,3,0.0025093907568990628,2
+c1_perfect10_baseline,S230-005,"Carafano v. Metrosplash.com, Inc.",ca9,2003-08-13,339 F.3d 1119,All barred,16,4,0.06332897440096023,4,0.011001947941316714,3
+c1_perfect10_baseline,S230-003,Green v. America Online (AOL),ca3,2003-01-16,318 F.3d 465,All barred,12,2,0.04682462650698785,5,0.001575765965300849,2
+c1_perfect10_baseline,S230-008,"Fair Housing Council of San Fernando Valley v. Roommates.com, LLC",ca9,2008-04-03,521 F.3d 1157,Mixed,23,2,0.04551610489228227,6,0.005654824134890581,4
+c1_perfect10_baseline,S230-006,"Universal Communication Systems, Inc. v. Lycos, Inc.",ca1,2007-02-23,478 F.3d 413,All barred,11,4,0.0290335124734456,7,0.004729605020302695,4
+c1_perfect10_baseline,S230-010,"Doe v. MySpace, Inc.",ca5,2008-05-16,528 F.3d 413,All barred,11,5,0.028724652900728922,8,0.006736446001396169,4
+c1_perfect10_baseline,S230-011,"Barnes v. Yahoo, Inc.",ca9,2009-06-22,570 F.3d 1096,Mixed,15,6,0.02867157466530287,9,0.013143063101534862,6
+c1_perfect10_baseline,S230-009,"Chicago Lawyers’ Committee for Civil Rights Under Law, Inc. v. Craigslist, Inc.",ca7,2008-05-02,519 F.3d 666,All barred,10,5,0.025365631274776687,10,0.00782443377958328,5
+c1_perfect10_baseline,S230-014,"Nemet Chevrolet, Ltd. v. Consumeraffairs. Com, Inc.",ca4,2009-12-29,591 F.3d 250,All barred,10,6,0.02221045379694475,11,0.010366239519063437,6
+c1_perfect10_baseline,S230-017,Larry Klayman v. Mark Zuckerberg,cadc,2014-06-13,753 F.3d 1354,All barred,10,6,0.021639930272574118,12,0.010627753567952902,7
+c1_perfect10_baseline,S230-023,Douglas Kimzey v. Yelp!,ca9,2016-09-12,836 F.3d 1263,All barred,11,8,0.020765209747231474,13,0.022965320639739245,9
+c1_perfect10_baseline,S230-018,Jones v. Dirty World Entertainment Recordings LLC,ca6,2014-06-16,755 F.3d 398,All barred,10,12,0.018964862835401615,14,0.026745141010091174,8
+c1_perfect10_baseline,S230-020,"Jane Doe No. 1 v. Backpage.Com, LLC",ca1,2016-03-14,817 F.3d 12,All barred,9,9,0.016851106358479463,15,0.02035476981490271,7
+c1_perfect10_baseline,S230-021,"Doe No. 14 v. Internet Brands, Inc.",ca9,2016-05-31,824 F.3d 846,None barred,8,4,0.016302488376129312,16,0.00271117310153855,7
+c1_perfect10_baseline,S230-013,Federal Trade Commission v. Accusearch Inc.,ca10,2009-06-29,570 F.3d 1187,None barred,6,6,0.0151188614393165,17,0.002894858002831425,5
+c1_perfect10_baseline,S230-024,"Federal Trade Commission v. LeadClick Media, LLC",ca2,2016-09-23,838 F.3d 158,None barred,8,8,0.014669972056931092,18,0.012607026602043209,9
+c1_perfect10_baseline,S230-033,Kristanalea Dyroff v. the Ultimate Software Group,ca9,2019-08-20,934 F.3d 1093,All barred,7,6,0.014188254768026034,19,0.007223083302817523,10
+c1_perfect10_baseline,S230-032,"Force v. Facebook, Inc.",ca2,2019-07-31,934 F.3d 53,All barred,7,12,0.013250683904747413,20,0.023287933919163152,11
+c1_perfect10_baseline,S230-031,"Marshall's Locksmith Serv. Inc. v. Google, LLC",cadc,2019-06-07,925 F.3d 1263,All barred,5,13,0.011566055966043235,21,0.015887997200289557,10
+c1_perfect10_baseline,S230-037,"Carly Lemmon v. Snap, Inc.",ca9,2021-05-04,995 F.3d 1085,None barred,4,5,0.010979061078908435,22,0.0016290695277406241,11
+c1_perfect10_baseline,S230-046,"Christopher Calise v. Meta Platforms, Inc.",ca9,2024-06-04,103 F.4th 732,Mixed,4,11,0.01069000580499346,23,0.016683445753213195,12
+c1_perfect10_baseline,S230-015,Johnson v. Arden,ca8,2010-08-04,614 F.3d 785,All barred,3,8,0.010460720735213267,24,0.0023163528977482467,7
+c1_perfect10_baseline,S230-022,"Colin O'Kroley v. Fastcase, Inc",ca6,2016-07-22,831 F.3d 352,All barred,3,5,0.009784589328655256,25,0.0009239683658288308,9
+c1_perfect10_baseline,S230-019,Ricci v. Teamsters Union Local 456,ca2,2015-03-18,781 F.3d 25,All barred,3,4,0.009617776015141254,26,0.0012181616832779621,8
+c1_perfect10_baseline,S230-026,Meanith Huon v. Nick Denton,ca7,2016-11-14,841 F.3d 733,None barred,2,6,0.009557419154156612,27,0.0030177187153931345,9
+c1_perfect10_baseline,S230-007,"Perfect 10, Inc. v. CCBill LLC",ca9,2007-05-31,488 F.3d 1102,No resolved claim outcome,1,3,0.008819965155895632,28,0.0,4
+c1_perfect10_baseline,S230-030,"Erie Insurance Company v. Amazon.com, Inc.",ca4,2019-05-22,925 F.3d 135,None barred,2,2,0.008777386451272006,29,0.0,7
+c1_perfect10_baseline,S230-047,"The Estate of Carson Bride v. Yolo Technologies, Inc.",ca9,2024-08-22,112 F.4th 1168,Mixed,2,7,0.008749788487164463,30,0.000974265675262353,13
+c1_perfect10_baseline,S230-027,Small Justice LLC v. Xcentric Ventures LLC,ca1,2017-10-11,873 F.3d 313,All barred,1,4,0.008252505279511529,31,0.00018456995201181247,10
+c1_perfect10_baseline,S230-050,A. B. v. Salesforce,ca5,2024-12-19,123 F.4th 788,None barred,1,13,0.008212797858001374,32,0.008205692424961528,14
+c1_perfect10_baseline,S230-051,M.P. v. Meta Platforms Inc.,ca4,2025-02-04,127 F.4th 516,All barred,1,8,0.008106214779251095,33,0.0052598840804820865,14
+c1_perfect10_baseline,S230-052,Doe v. Grindr Inc.,ca9,2025-02-18,128 F.4th 1148,All barred,1,7,0.008106214779251095,33,0.0032895399174468942,15
+c1_perfect10_baseline,S230-041,"Tyrone Henderson, Sr. v. The Source for Public Data, L.P.",ca4,2022-11-03,53 F.4th 110,None barred,1,10,0.008089757097962263,35,0.002462051299260602,13
+c1_perfect10_baseline,S230-028,Dawn Bennett v. Google LLC,cadc,2018-02-23,882 F.3d 1163,All barred,1,4,0.007984713898511357,36,9.228497600590623e-05,8
+c1_perfect10_baseline,S230-035,La Liberte v. Reid,ca2,2020-07-15,966 F.3d 79,None barred,1,4,0.007916101130998228,37,0.0005537098560354374,12
+c1_perfect10_baseline,S230-044,"G.G. v. Salesforce.com, Inc.",ca7,2023-08-03,76 F.4th 544,None barred,1,6,0.007765462406851576,38,0.001956441491325212,10
+c1_perfect10_baseline,S230-048,Tawainna Anderson v. TikTok Inc,ca3,2024-08-27,116 F.4th 180,None barred,1,10,0.007765462406851576,38,0.0026297023390046644,12
+c1_perfect10_baseline,S230-036,"East Coast Test Prep LLC v. Allnurses.com, Inc.",ca8,2020-08-19,971 F.3d 747,All barred,0,5,0.007228471777688487,40,0.0,10
+c1_perfect10_baseline,S230-039,Monsarrat v. Newman,ca1,2022-03-10,28 F.4th 314,All barred,0,6,0.007228471777688487,40,0.0,11
+c1_perfect10_baseline,S230-042,Scott Rigsby v. Godaddy Inc.,ca9,2023-02-03,59 F.4th 998,All barred,0,9,0.007228471777688487,40,0.0,11
+c1_perfect10_baseline,S230-053,"Doe 1 v. Twitter, Inc.",ca9,2025-08-01,148 F.4th 635,Mixed,0,7,0.007228471777688487,40,0.0,16
+c1_perfect10_baseline,S230-054,United States v. EZ Lynk,ca2,2025-08-20,149 F.4th 190,None barred,0,8,0.007228471777688487,40,0.0,12
+c1_perfect10_section_230,S230-001,"Zeran v. America Online, Inc.",ca4,1997-11-12,129 F.3d 327,All barred,30,0,0.19757006932405236,1,0.0,0
+c1_perfect10_section_230,S230-002,"Ben Ezra, Weinstein, & Co. v. America Online Inc.",ca10,2000-03-14,206 F.3d 980,All barred,9,1,0.08832894347952222,2,0.0,1
+c1_perfect10_section_230,S230-004,Batzel v. Smith,ca9,2003-06-24,333 F.3d 1018,No resolved claim outcome,12,2,0.06568279544459282,3,0.0025093907568990628,2
+c1_perfect10_section_230,S230-005,"Carafano v. Metrosplash.com, Inc.",ca9,2003-08-13,339 F.3d 1119,All barred,16,4,0.06411577449649786,4,0.011445475129029947,3
+c1_perfect10_section_230,S230-008,"Fair Housing Council of San Fernando Valley v. Roommates.com, LLC",ca9,2008-04-03,521 F.3d 1157,Mixed,23,2,0.046202753158452355,5,0.0057183050123249465,4
+c1_perfect10_section_230,S230-003,Green v. America Online (AOL),ca3,2003-01-16,318 F.3d 465,All barred,11,2,0.04612662863336592,6,0.0012989110372831304,2
+c1_perfect10_section_230,S230-011,"Barnes v. Yahoo, Inc.",ca9,2009-06-22,570 F.3d 1096,Mixed,15,6,0.02947553386093576,7,0.01356289981705264,6
+c1_perfect10_section_230,S230-006,"Universal Communication Systems, Inc. v. Lycos, Inc.",ca1,2007-02-23,478 F.3d 413,All barred,11,4,0.02894088466714461,8,0.004729605020302695,4
+c1_perfect10_section_230,S230-010,"Doe v. MySpace, Inc.",ca5,2008-05-16,528 F.3d 413,All barred,11,5,0.02888417026467084,9,0.006777275111992721,4
+c1_perfect10_section_230,S230-009,"Chicago Lawyers’ Committee for Civil Rights Under Law, Inc. v. Craigslist, Inc.",ca7,2008-05-02,519 F.3d 666,All barred,10,5,0.025636760010370043,10,0.008091381056497335,5
+c1_perfect10_section_230,S230-014,"Nemet Chevrolet, Ltd. v. Consumeraffairs. Com, Inc.",ca4,2009-12-29,591 F.3d 250,All barred,10,6,0.021928873114889898,11,0.010521805621473396,6
+c1_perfect10_section_230,S230-023,Douglas Kimzey v. Yelp!,ca9,2016-09-12,836 F.3d 1263,All barred,11,8,0.021584393575590964,12,0.025649435159401934,9
+c1_perfect10_section_230,S230-017,Larry Klayman v. Mark Zuckerberg,cadc,2014-06-13,753 F.3d 1354,All barred,9,6,0.01974523957809915,13,0.008652375678953751,7
+c1_perfect10_section_230,S230-018,Jones v. Dirty World Entertainment Recordings LLC,ca6,2014-06-16,755 F.3d 398,All barred,10,12,0.019418490593938374,14,0.028586645758572664,8
+c1_perfect10_section_230,S230-020,"Jane Doe No. 1 v. Backpage.Com, LLC",ca1,2016-03-14,817 F.3d 12,All barred,9,8,0.017018327653089506,15,0.010954885830301112,7
+c1_perfect10_section_230,S230-021,"Doe No. 14 v. Internet Brands, Inc.",ca9,2016-05-31,824 F.3d 846,None barred,8,4,0.016698280968867715,16,0.002825830192939828,7
+c1_perfect10_section_230,S230-013,Federal Trade Commission v. Accusearch Inc.,ca10,2009-06-29,570 F.3d 1187,None barred,6,6,0.015399447119294796,17,0.0033009118972574117,5
+c1_perfect10_section_230,S230-024,"Federal Trade Commission v. LeadClick Media, LLC",ca2,2016-09-23,838 F.3d 158,None barred,8,8,0.014782474048355726,18,0.010676952246719688,9
+c1_perfect10_section_230,S230-033,Kristanalea Dyroff v. the Ultimate Software Group,ca9,2019-08-20,934 F.3d 1093,All barred,7,5,0.014182981927519815,19,0.004817701370857516,10
+c1_perfect10_section_230,S230-032,"Force v. Facebook, Inc.",ca2,2019-07-31,934 F.3d 53,All barred,7,12,0.013355436597853081,20,0.022172604066291773,11
+c1_perfect10_section_230,S230-031,"Marshall's Locksmith Serv. Inc. v. Google, LLC",cadc,2019-06-07,925 F.3d 1263,All barred,5,13,0.011569526418785878,21,0.016357332221119594,10
+c1_perfect10_section_230,S230-037,"Carly Lemmon v. Snap, Inc.",ca9,2021-05-04,995 F.3d 1085,None barred,4,5,0.010974980884382252,22,0.0019158121317589755,11
+c1_perfect10_section_230,S230-046,"Christopher Calise v. Meta Platforms, Inc.",ca9,2024-06-04,103 F.4th 732,Mixed,4,11,0.010686033033268276,23,0.01687219050175861,12
+c1_perfect10_section_230,S230-026,Meanith Huon v. Nick Denton,ca7,2016-11-14,841 F.3d 733,None barred,2,6,0.009860963171102884,24,0.002648578811369509,9
+c1_perfect10_section_230,S230-022,"Colin O'Kroley v. Fastcase, Inc",ca6,2016-07-22,831 F.3d 352,All barred,3,5,0.009789229794912632,25,0.0009931820978332606,9
+c1_perfect10_section_230,S230-019,Ricci v. Teamsters Union Local 456,ca2,2015-03-18,781 F.3d 25,All barred,3,4,0.00973164761553474,26,0.0012181616832779621,8
+c1_perfect10_section_230,S230-015,Johnson v. Arden,ca8,2010-08-04,614 F.3d 785,All barred,2,8,0.009261080849425644,27,0.0007936507936507935,7
+c1_perfect10_section_230,S230-030,"Erie Insurance Company v. Amazon.com, Inc.",ca4,2019-05-22,925 F.3d 135,None barred,2,2,0.008774124474236842,28,0.0,7
+c1_perfect10_section_230,S230-047,"The Estate of Carson Bride v. Yolo Technologies, Inc.",ca9,2024-08-22,112 F.4th 1168,Mixed,2,7,0.008746536766476168,29,0.000974265675262353,13
+c1_perfect10_section_230,S230-027,Small Justice LLC v. Xcentric Ventures LLC,ca1,2017-10-11,873 F.3d 313,All barred,1,4,0.008249438366241056,30,0.00018456995201181247,10
+c1_perfect10_section_230,S230-050,A. B. v. Salesforce,ca5,2024-12-19,123 F.4th 788,None barred,1,13,0.008209745701374383,31,0.007704277388662771,14
+c1_perfect10_section_230,S230-051,M.P. v. Meta Platforms Inc.,ca4,2025-02-04,127 F.4th 516,All barred,1,8,0.008103202232529179,32,0.005361617280221931,14
+c1_perfect10_section_230,S230-052,Doe v. Grindr Inc.,ca9,2025-02-18,128 F.4th 1148,All barred,1,7,0.008103202232529179,32,0.003157264785171762,15
+c1_perfect10_section_230,S230-041,"Tyrone Henderson, Sr. v. The Source for Public Data, L.P.",ca4,2022-11-03,53 F.4th 110,None barred,1,10,0.008086750667484825,34,0.002462051299260602,13
+c1_perfect10_section_230,S230-028,Dawn Bennett v. Google LLC,cadc,2018-02-23,882 F.3d 1163,All barred,1,4,0.007982254465335589,35,9.228497600590623e-05,8
+c1_perfect10_section_230,S230-035,La Liberte v. Reid,ca2,2020-07-15,966 F.3d 79,None barred,1,4,0.007913159237009934,36,0.00036913990402362494,12
+c1_perfect10_section_230,S230-044,"G.G. v. Salesforce.com, Inc.",ca7,2023-08-03,76 F.4th 544,None barred,1,6,0.007762576495359701,37,0.001956441491325212,10
+c1_perfect10_section_230,S230-048,Tawainna Anderson v. TikTok Inc,ca3,2024-08-27,116 F.4th 180,None barred,1,10,0.007762576495359701,37,0.002708803747009727,12
+c1_perfect10_section_230,S230-007,"Perfect 10, Inc. v. CCBill LLC",ca9,2007-05-31,488 F.3d 1102,No resolved claim outcome,0,3,0.007225785430257916,39,0.0,4
+c1_perfect10_section_230,S230-036,"East Coast Test Prep LLC v. Allnurses.com, Inc.",ca8,2020-08-19,971 F.3d 747,All barred,0,4,0.007225785430257916,39,0.0,10
+c1_perfect10_section_230,S230-039,Monsarrat v. Newman,ca1,2022-03-10,28 F.4th 314,All barred,0,6,0.007225785430257916,39,0.0,11
+c1_perfect10_section_230,S230-042,Scott Rigsby v. Godaddy Inc.,ca9,2023-02-03,59 F.4th 998,All barred,0,9,0.007225785430257916,39,0.0,11
+c1_perfect10_section_230,S230-053,"Doe 1 v. Twitter, Inc.",ca9,2025-08-01,148 F.4th 635,Mixed,0,7,0.007225785430257916,39,0.0,16
+c1_perfect10_section_230,S230-054,United States v. EZ Lynk,ca2,2025-08-20,149 F.4th 190,None barred,0,7,0.007225785430257916,39,0.0,12
+full_reporter,S230-001,"Zeran v. America Online, Inc.",ca4,1997-11-12,129 F.3d 327,All barred,29,0,0.1906927815213391,1,0.0,0
+full_reporter,S230-002,"Ben Ezra, Weinstein, & Co. v. America Online Inc.",ca10,2000-03-14,206 F.3d 980,All barred,10,1,0.08814791245931689,2,5.611672278338945e-05,1
+full_reporter,S230-004,Batzel v. Smith,ca9,2003-06-24,333 F.3d 1018,No resolved claim outcome,13,2,0.0636066031271744,3,0.0018924285590952257,2
+full_reporter,S230-005,"Carafano v. Metrosplash.com, Inc.",ca9,2003-08-13,339 F.3d 1119,All barred,18,4,0.060943004136474105,4,0.010253141919808584,3
+full_reporter,S230-003,Green v. America Online (AOL),ca3,2003-01-16,318 F.3d 465,All barred,13,2,0.0462071014666461,5,0.0014544714544714548,2
+full_reporter,S230-008,"Fair Housing Council of San Fernando Valley v. Roommates.com, LLC",ca9,2008-04-03,521 F.3d 1157,Mixed,25,2,0.04234865061544113,6,0.003981460925905371,4
+full_reporter,S230-009,"Chicago Lawyers’ Committee for Civil Rights Under Law, Inc. v. Craigslist, Inc.",ca7,2008-05-02,519 F.3d 666,All barred,13,5,0.03761549341342558,7,0.012386995720329053,5
+full_reporter,S230-006,"Universal Communication Systems, Inc. v. Lycos, Inc.",ca1,2007-02-23,478 F.3d 413,All barred,11,4,0.026555626850377295,8,0.004321789321789322,4
+full_reporter,S230-010,"Doe v. MySpace, Inc.",ca5,2008-05-16,528 F.3d 413,All barred,12,5,0.025723304969945626,9,0.005187066020399355,4
+full_reporter,S230-011,"Barnes v. Yahoo, Inc.",ca9,2009-06-22,570 F.3d 1096,Mixed,16,6,0.02445074031118481,10,0.008515568793346572,6
+full_reporter,S230-014,"Nemet Chevrolet, Ltd. v. Consumeraffairs. Com, Inc.",ca4,2009-12-29,591 F.3d 250,All barred,10,6,0.017103766209184117,11,0.006376596654374431,6
+full_reporter,S230-040,"Jane Does v. Reddit, Inc.",ca9,2022-10-24,51 F.4th 1137,No resolved claim outcome,4,4,0.016979995008522403,12,0.0102105096549541,8
+full_reporter,S230-017,Larry Klayman v. Mark Zuckerberg,cadc,2014-06-13,753 F.3d 1354,All barred,10,6,0.01669252013225,13,0.007041425652536765,7
+full_reporter,S230-020,"Jane Doe No. 1 v. Backpage.Com, LLC",ca1,2016-03-14,817 F.3d 12,All barred,10,9,0.01618747438604374,14,0.017179713290824402,7
+full_reporter,S230-023,Douglas Kimzey v. Yelp!,ca9,2016-09-12,836 F.3d 1263,All barred,11,8,0.01565180031754918,15,0.015400032066698734,9
+full_reporter,S230-021,"Doe No. 14 v. Internet Brands, Inc.",ca9,2016-05-31,824 F.3d 846,None barred,9,4,0.014879506813188878,16,0.002638246527135416,7
+full_reporter,S230-018,Jones v. Dirty World Entertainment Recordings LLC,ca6,2014-06-16,755 F.3d 398,All barred,9,11,0.013602319884035019,17,0.014609855165410721,8
+full_reporter,S230-007,"Perfect 10, Inc. v. CCBill LLC",ca9,2007-05-31,488 F.3d 1102,No resolved claim outcome,4,3,0.01278926036055223,18,0.001459034792368126,4
+full_reporter,S230-029,"HomeAway.com, Inc. v. City of Santa Monica",ca9,2019-03-13,918 F.3d 676,No resolved claim outcome,8,3,0.011283637241138457,19,0.001180568402790625,7
+full_reporter,S230-024,"Federal Trade Commission v. LeadClick Media, LLC",ca2,2016-09-23,838 F.3d 158,None barred,8,9,0.010965303627552742,20,0.013798567687456577,9
+full_reporter,S230-055,"Backpage.com, LLC v. Dart",ca7,2015-11-30,807 F.3d 229,No resolved claim outcome,2,1,0.0109448951769962,21,0.002356902356902357,6
+full_reporter,S230-013,Federal Trade Commission v. Accusearch Inc.,ca10,2009-06-29,570 F.3d 1187,None barred,5,6,0.010385277079743767,22,0.001824595157928491,5
+full_reporter,S230-032,"Force v. Facebook, Inc.",ca2,2019-07-31,934 F.3d 53,All barred,6,11,0.009635598258267328,23,0.012584175084175087,11
+full_reporter,S230-033,Kristanalea Dyroff v. the Ultimate Software Group,ca9,2019-08-20,934 F.3d 1093,All barred,6,7,0.009334053980863562,24,0.003995716217938441,10
+full_reporter,S230-031,"Marshall's Locksmith Serv. Inc. v. Google, LLC",cadc,2019-06-07,925 F.3d 1263,All barred,5,13,0.008783364764557188,25,0.010859921971033082,10
+full_reporter,S230-012,Zango Inc v. Kaspersky Lab Inc,ca9,2009-06-25,568 F.3d 1169,No resolved claim outcome,2,4,0.008187648482507063,26,0.001751643418310085,5
+full_reporter,S230-015,Johnson v. Arden,ca8,2010-08-04,614 F.3d 785,All barred,3,7,0.008079369711870137,27,0.001307519640852974,7
+full_reporter,S230-037,"Carly Lemmon v. Snap, Inc.",ca9,2021-05-04,995 F.3d 1085,None barred,4,6,0.007966169683929858,28,0.001530115974560419,11
+full_reporter,S230-046,"Christopher Calise v. Meta Platforms, Inc.",ca9,2024-06-04,103 F.4th 732,Mixed,4,12,0.007814380345579328,29,0.013093686149241706,12
+full_reporter,S230-022,"Colin O'Kroley v. Fastcase, Inc",ca6,2016-07-22,831 F.3d 352,All barred,3,5,0.007534345502401604,30,0.000829057773502218,9
+full_reporter,S230-019,Ricci v. Teamsters Union Local 456,ca2,2015-03-18,781 F.3d 25,All barred,3,4,0.007436057626337908,31,0.0007519640852974187,8
+full_reporter,S230-026,Meanith Huon v. Nick Denton,ca7,2016-11-14,841 F.3d 733,None barred,2,6,0.007155244682079372,32,0.001947250280583614,9
+full_reporter,S230-025,"General Steel Domestic Sales, L.L.C. v. Chumley",ca10,2016-11-01,840 F.3d 1178,No resolved claim outcome,1,2,0.007152036473181104,33,0.000505050505050505,2
+full_reporter,S230-030,"Erie Insurance Company v. Amazon.com, Inc.",ca4,2019-05-22,925 F.3d 135,None barred,2,2,0.006695766680591022,34,0.0,7
+full_reporter,S230-049,M.H. v. Omegle.com LLC,ca11,2024-12-09,122 F.4th 1266,No resolved claim outcome,2,1,0.006617801021471935,35,0.0,9
+full_reporter,S230-047,"The Estate of Carson Bride v. Yolo Technologies, Inc.",ca9,2024-08-22,112 F.4th 1168,Mixed,2,7,0.006545823979090125,36,0.0005393680393680393,13
+full_reporter,S230-027,Small Justice LLC v. Xcentric Ventures LLC,ca1,2017-10-11,873 F.3d 313,All barred,1,3,0.006362525953406764,37,0.0001122334455667789,10
+full_reporter,S230-041,"Tyrone Henderson, Sr. v. The Source for Public Data, L.P.",ca4,2022-11-03,53 F.4th 110,None barred,1,11,0.006215479619104194,38,0.0018583988028432472,13
+full_reporter,S230-016,"City of Chicago v. StubHub!, Inc.",ca7,2010-09-29,624 F.3d 363,No resolved claim outcome,1,1,0.006207832058350165,39,0.0,6
+full_reporter,S230-028,Dawn Bennett v. Google LLC,cadc,2018-02-23,882 F.3d 1163,All barred,1,4,0.006147312360571332,40,5.611672278338945e-05,8
+full_reporter,S230-050,A. B. v. Salesforce,ca5,2024-12-19,123 F.4th 788,None barred,1,13,0.006144094709607331,41,0.005903551181328959,14
+full_reporter,S230-035,La Liberte v. Reid,ca2,2020-07-15,966 F.3d 79,None barred,1,4,0.006053302495119253,42,0.000308641975308642,12
+full_reporter,S230-051,M.P. v. Meta Platforms Inc.,ca4,2025-02-04,127 F.4th 516,All barred,1,8,0.006046721745497028,43,0.0029598693487582384,14
+full_reporter,S230-052,Doe v. Grindr Inc.,ca9,2025-02-18,128 F.4th 1148,All barred,1,9,0.006046721745497028,43,0.0028242539353650464,15
+full_reporter,S230-044,"G.G. v. Salesforce.com, Inc.",ca7,2023-08-03,76 F.4th 544,None barred,1,8,0.005974744703115219,45,0.003423120089786757,10
+full_reporter,S230-045,"Free Speech Coalition, Inc. v. Paxton",ca5,2024-03-07,95 F.4th 263,No resolved claim outcome,1,2,0.005974744703115219,45,0.0,5
+full_reporter,S230-048,Tawainna Anderson v. TikTok Inc,ca3,2024-08-27,116 F.4th 180,None barred,1,10,0.005974744703115219,45,0.0025177702955480733,12
+full_reporter,S230-034,Enigma Software Group USA v. Malwarebytes Inc.,ca9,2019-12-31,946 F.3d 1040,No resolved claim outcome,0,3,0.005573015433632426,48,0.0,6
+full_reporter,S230-036,"East Coast Test Prep LLC v. Allnurses.com, Inc.",ca8,2020-08-19,971 F.3d 747,All barred,0,5,0.005573015433632426,48,0.0,10
+full_reporter,S230-038,Karen Hepp v. Facebook,ca3,2021-09-23,14 F.4th 204,No resolved claim outcome,0,2,0.005573015433632426,48,0.0,5
+full_reporter,S230-039,Monsarrat v. Newman,ca1,2022-03-10,28 F.4th 314,All barred,0,6,0.005573015433632426,48,0.0,11
+full_reporter,S230-042,Scott Rigsby v. Godaddy Inc.,ca9,2023-02-03,59 F.4th 998,All barred,0,9,0.005573015433632426,48,0.0,11
+full_reporter,S230-043,Woodhull Freedom Foundation v. United States,cadc,2023-07-07,72 F.4th 1286,No resolved claim outcome,0,1,0.005573015433632426,48,0.0,9
+full_reporter,S230-053,"Doe 1 v. Twitter, Inc.",ca9,2025-08-01,148 F.4th 635,Mixed,0,10,0.005573015433632426,48,0.0,16
+full_reporter,S230-054,United States v. EZ Lynk,ca2,2025-08-20,149 F.4th 190,None barred,0,8,0.005573015433632426,48,0.0,12
+full_reporter,S230-056,"Children’s Health Defense v. Meta Platforms, Inc.",ca9,2024-08-09,112 F.4th 742,No resolved claim outcome,0,1,0.005573015433632426,48,0.0,7
+baseline_without_stubhub_erie,S230-001,"Zeran v. America Online, Inc.",ca4,1997-11-12,129 F.3d 327,All barred,30,0,0.19001232327177767,1,0.0,0
+baseline_without_stubhub_erie,S230-002,"Ben Ezra, Weinstein, & Co. v. America Online Inc.",ca10,2000-03-14,206 F.3d 980,All barred,10,1,0.08842693812832286,2,0.0,1
+baseline_without_stubhub_erie,S230-004,Batzel v. Smith,ca9,2003-06-24,333 F.3d 1018,No resolved claim outcome,13,2,0.06378552867702814,3,0.0019456384206021364,2
+baseline_without_stubhub_erie,S230-005,"Carafano v. Metrosplash.com, Inc.",ca9,2003-08-13,339 F.3d 1119,All barred,18,4,0.062013231941778206,4,0.009706707479748115,3
+baseline_without_stubhub_erie,S230-003,Green v. America Online (AOL),ca3,2003-01-16,318 F.3d 465,All barred,13,2,0.04640425175495657,5,0.0014449492814877431,2
+baseline_without_stubhub_erie,S230-008,"Fair Housing Council of San Fernando Valley v. Roommates.com, LLC",ca9,2008-04-03,521 F.3d 1157,Mixed,26,2,0.04260365006058424,6,0.004030756978870187,4
+baseline_without_stubhub_erie,S230-009,"Chicago Lawyers’ Committee for Civil Rights Under Law, Inc. v. Craigslist, Inc.",ca7,2008-05-02,519 F.3d 666,All barred,12,5,0.032512804064831854,7,0.011527225596528934,5
+baseline_without_stubhub_erie,S230-006,"Universal Communication Systems, Inc. v. Lycos, Inc.",ca1,2007-02-23,478 F.3d 413,All barred,12,4,0.02746901574327423,8,0.004775295459257723,4
+baseline_without_stubhub_erie,S230-010,"Doe v. MySpace, Inc.",ca5,2008-05-16,528 F.3d 413,All barred,12,5,0.026714723220028883,9,0.005221098748856369,4
+baseline_without_stubhub_erie,S230-011,"Barnes v. Yahoo, Inc.",ca9,2009-06-22,570 F.3d 1096,Mixed,17,6,0.0263579917839646,10,0.010766503291902419,6
+baseline_without_stubhub_erie,S230-020,"Jane Doe No. 1 v. Backpage.Com, LLC",ca1,2016-03-14,817 F.3d 12,All barred,11,9,0.01902093603072459,11,0.01987913815744004,7
+baseline_without_stubhub_erie,S230-021,"Doe No. 14 v. Internet Brands, Inc.",ca9,2016-05-31,824 F.3d 846,None barred,10,4,0.017270769694613837,12,0.0027290923880183677,7
+baseline_without_stubhub_erie,S230-017,Larry Klayman v. Mark Zuckerberg,cadc,2014-06-13,753 F.3d 1354,All barred,10,6,0.01674220888552552,13,0.006888734954772689,7
+baseline_without_stubhub_erie,S230-023,Douglas Kimzey v. Yelp!,ca9,2016-09-12,836 F.3d 1263,All barred,11,8,0.015719528917939467,14,0.014998340234189292,9
+baseline_without_stubhub_erie,S230-018,Jones v. Dirty World Entertainment Recordings LLC,ca6,2014-06-16,755 F.3d 398,All barred,10,12,0.014791588474663043,15,0.017453033078033076,8
+baseline_without_stubhub_erie,S230-040,"Jane Does v. Reddit, Inc.",ca9,2022-10-24,51 F.4th 1137,No resolved claim outcome,4,4,0.014664920453248414,16,0.006736362532806655,8
+baseline_without_stubhub_erie,S230-014,"Nemet Chevrolet, Ltd. v. Consumeraffairs. Com, Inc.",ca4,2009-12-29,591 F.3d 250,All barred,9,6,0.014560563664172863,17,0.003812173151795794,6
+baseline_without_stubhub_erie,S230-007,"Perfect 10, Inc. v. CCBill LLC",ca9,2007-05-31,488 F.3d 1102,No resolved claim outcome,4,3,0.013093109355583837,18,0.001542089985486212,4
+baseline_without_stubhub_erie,S230-013,Federal Trade Commission v. Accusearch Inc.,ca10,2009-06-29,570 F.3d 1187,None barred,6,6,0.011760166376734995,19,0.0018690821756859489,5
+baseline_without_stubhub_erie,S230-029,"HomeAway.com, Inc. v. City of Santa Monica",ca9,2019-03-13,918 F.3d 676,No resolved claim outcome,8,4,0.011542157119388743,20,0.0023318662469605867,8
+baseline_without_stubhub_erie,S230-055,"Backpage.com, LLC v. Dart",ca7,2015-11-30,807 F.3d 229,No resolved claim outcome,2,1,0.01141636642722568,21,0.0025399129172714078,6
+baseline_without_stubhub_erie,S230-024,"Federal Trade Commission v. LeadClick Media, LLC",ca2,2016-09-23,838 F.3d 158,None barred,8,9,0.011414304245033367,22,0.01360438565627245,9
+baseline_without_stubhub_erie,S230-032,"Force v. Facebook, Inc.",ca2,2019-07-31,934 F.3d 53,All barred,7,13,0.010483076818933273,23,0.017147318090714316,11
+baseline_without_stubhub_erie,S230-033,Kristanalea Dyroff v. the Ultimate Software Group,ca9,2019-08-20,934 F.3d 1093,All barred,7,7,0.010342451367392725,24,0.00517400979120863,10
+baseline_without_stubhub_erie,S230-031,"Marshall's Locksmith Serv. Inc. v. Google, LLC",cadc,2019-06-07,925 F.3d 1263,All barred,5,13,0.009147675504364496,25,0.010822301388339124,10
+baseline_without_stubhub_erie,S230-012,Zango Inc v. Kaspersky Lab Inc,ca9,2009-06-25,568 F.3d 1169,No resolved claim outcome,2,5,0.008481198659497697,26,0.00333903517865782,7
+baseline_without_stubhub_erie,S230-015,Johnson v. Arden,ca8,2010-08-04,614 F.3d 785,All barred,3,8,0.008318104954049018,27,0.0015179003386550558,7
+baseline_without_stubhub_erie,S230-037,"Carly Lemmon v. Snap, Inc.",ca9,2021-05-04,995 F.3d 1085,None barred,4,6,0.008125536966627458,28,0.0011033777543211507,11
+baseline_without_stubhub_erie,S230-046,"Christopher Calise v. Meta Platforms, Inc.",ca9,2024-06-04,103 F.4th 732,Mixed,4,12,0.00792460220956458,29,0.011520497523763126,12
+baseline_without_stubhub_erie,S230-022,"Colin O'Kroley v. Fastcase, Inc",ca6,2016-07-22,831 F.3d 352,All barred,3,5,0.007812289557566335,30,0.0006054741903798507,9
+baseline_without_stubhub_erie,S230-019,Ricci v. Teamsters Union Local 456,ca2,2015-03-18,781 F.3d 25,All barred,3,4,0.007611892991205776,31,0.0007861635220125786,8
+baseline_without_stubhub_erie,S230-026,Meanith Huon v. Nick Denton,ca7,2016-11-14,841 F.3d 733,None barred,2,6,0.007493641930012184,32,0.001977503628447025,9
+baseline_without_stubhub_erie,S230-025,"General Steel Domestic Sales, L.L.C. v. Chumley",ca10,2016-11-01,840 F.3d 1178,No resolved claim outcome,1,2,0.007403181036295765,33,0.0005442670537010159,2
+baseline_without_stubhub_erie,S230-049,M.H. v. Omegle.com LLC,ca11,2024-12-09,122 F.4th 1266,No resolved claim outcome,2,2,0.0068501858467628195,34,0.0007072591978252355,9
+baseline_without_stubhub_erie,S230-047,"The Estate of Carson Bride v. Yolo Technologies, Inc.",ca9,2024-08-22,112 F.4th 1168,Mixed,2,8,0.006720236517415493,35,0.0007021975363775073,13
+baseline_without_stubhub_erie,S230-027,Small Justice LLC v. Xcentric Ventures LLC,ca1,2017-10-11,873 F.3d 313,All barred,1,4,0.0065859467660429535,36,0.00012094823415578132,10
+baseline_without_stubhub_erie,S230-041,"Tyrone Henderson, Sr. v. The Source for Public Data, L.P.",ca4,2022-11-03,53 F.4th 110,None barred,1,10,0.006528740367131416,37,0.0019157467270674818,13
+baseline_without_stubhub_erie,S230-028,Dawn Bennett v. Google LLC,cadc,2018-02-23,882 F.3d 1163,All barred,1,4,0.006366829740334244,38,6.047411707789066e-05,8
+baseline_without_stubhub_erie,S230-050,A. B. v. Salesforce,ca5,2024-12-19,123 F.4th 788,None barred,1,15,0.006359845284611133,39,0.00619136648708492,14
+baseline_without_stubhub_erie,S230-035,La Liberte v. Reid,ca2,2020-07-15,966 F.3d 79,None barred,1,4,0.0063236554270123535,40,0.0003326076439283987,12
+baseline_without_stubhub_erie,S230-051,M.P. v. Meta Platforms Inc.,ca4,2025-02-04,127 F.4th 516,All barred,1,7,0.006259053057941828,41,0.0028368643934681675,14
+baseline_without_stubhub_erie,S230-052,Doe v. Grindr Inc.,ca9,2025-02-18,128 F.4th 1148,All barred,1,9,0.006259053057941828,41,0.002659290395139452,15
+baseline_without_stubhub_erie,S230-044,"G.G. v. Salesforce.com, Inc.",ca7,2023-08-03,76 F.4th 544,None barred,1,7,0.006129103728594501,43,0.002479438800193517,10
+baseline_without_stubhub_erie,S230-045,"Free Speech Coalition, Inc. v. Paxton",ca5,2024-03-07,95 F.4th 263,No resolved claim outcome,1,2,0.006129103728594501,43,0.0,5
+baseline_without_stubhub_erie,S230-048,Tawainna Anderson v. TikTok Inc,ca3,2024-08-27,116 F.4th 180,None barred,1,10,0.006129103728594501,43,0.0017232374543695297,12
+baseline_without_stubhub_erie,S230-034,Enigma Software Group USA v. Malwarebytes Inc.,ca9,2019-12-31,946 F.3d 1040,No resolved claim outcome,0,3,0.005768712495790142,46,0.0,8
+baseline_without_stubhub_erie,S230-036,"East Coast Test Prep LLC v. Allnurses.com, Inc.",ca8,2020-08-19,971 F.3d 747,All barred,0,5,0.005768712495790142,46,0.0,10
+baseline_without_stubhub_erie,S230-038,Karen Hepp v. Facebook,ca3,2021-09-23,14 F.4th 204,No resolved claim outcome,0,2,0.005768712495790142,46,0.0,5
+baseline_without_stubhub_erie,S230-039,Monsarrat v. Newman,ca1,2022-03-10,28 F.4th 314,All barred,0,6,0.005768712495790142,46,0.0,11
+baseline_without_stubhub_erie,S230-042,Scott Rigsby v. Godaddy Inc.,ca9,2023-02-03,59 F.4th 998,All barred,0,9,0.005768712495790142,46,0.0,11
+baseline_without_stubhub_erie,S230-043,Woodhull Freedom Foundation v. United States,cadc,2023-07-07,72 F.4th 1286,No resolved claim outcome,0,1,0.005768712495790142,46,0.0,9
+baseline_without_stubhub_erie,S230-053,"Doe 1 v. Twitter, Inc.",ca9,2025-08-01,148 F.4th 635,Mixed,0,10,0.005768712495790142,46,0.0,16
+baseline_without_stubhub_erie,S230-054,United States v. EZ Lynk,ca2,2025-08-20,149 F.4th 190,None barred,0,8,0.005768712495790142,46,0.0,12
+baseline_without_stubhub_erie,S230-056,"Children’s Health Defense v. Meta Platforms, Inc.",ca9,2024-08-09,112 F.4th 742,No resolved claim outcome,0,1,0.005768712495790142,46,0.0,7

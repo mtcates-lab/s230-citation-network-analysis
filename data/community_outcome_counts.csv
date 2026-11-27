@@ -1,0 +1,481 @@
+graph,partition,scope,community,outcome,opinions
+baseline,seed_42,all,1,All barred,13
+baseline,seed_42,all,1,None barred,5
+baseline,seed_42,all,1,Mixed,0
+baseline,seed_42,all,1,No resolved claim outcome,0
+baseline,seed_42,all,2,All barred,10
+baseline,seed_42,all,2,None barred,4
+baseline,seed_42,all,2,Mixed,0
+baseline,seed_42,all,2,No resolved claim outcome,3
+baseline,seed_42,all,3,All barred,4
+baseline,seed_42,all,3,None barred,3
+baseline,seed_42,all,3,Mixed,5
+baseline,seed_42,all,3,No resolved claim outcome,2
+baseline,seed_42,all,4,All barred,2
+baseline,seed_42,all,4,None barred,2
+baseline,seed_42,all,4,Mixed,0
+baseline,seed_42,all,4,No resolved claim outcome,3
+baseline,seed_42,c1,1,All barred,13
+baseline,seed_42,c1,1,None barred,5
+baseline,seed_42,c1,1,Mixed,0
+baseline,seed_42,c1,1,No resolved claim outcome,0
+baseline,seed_42,c1,2,All barred,8
+baseline,seed_42,c1,2,None barred,2
+baseline,seed_42,c1,2,Mixed,0
+baseline,seed_42,c1,2,No resolved claim outcome,7
+baseline,seed_42,c1,3,All barred,2
+baseline,seed_42,c1,3,None barred,3
+baseline,seed_42,c1,3,Mixed,5
+baseline,seed_42,c1,3,No resolved claim outcome,4
+baseline,seed_42,c1,4,All barred,2
+baseline,seed_42,c1,4,None barred,2
+baseline,seed_42,c1,4,Mixed,0
+baseline,seed_42,c1,4,No resolved claim outcome,3
+baseline,consensus,all,1,All barred,9
+baseline,consensus,all,1,None barred,2
+baseline,consensus,all,1,Mixed,0
+baseline,consensus,all,1,No resolved claim outcome,0
+baseline,consensus,all,2,All barred,5
+baseline,consensus,all,2,None barred,1
+baseline,consensus,all,2,Mixed,0
+baseline,consensus,all,2,No resolved claim outcome,1
+baseline,consensus,all,3,All barred,2
+baseline,consensus,all,3,None barred,1
+baseline,consensus,all,3,Mixed,0
+baseline,consensus,all,3,No resolved claim outcome,1
+baseline,consensus,all,4,All barred,3
+baseline,consensus,all,4,None barred,2
+baseline,consensus,all,4,Mixed,0
+baseline,consensus,all,4,No resolved claim outcome,1
+baseline,consensus,all,5,All barred,4
+baseline,consensus,all,5,None barred,3
+baseline,consensus,all,5,Mixed,5
+baseline,consensus,all,5,No resolved claim outcome,2
+baseline,consensus,all,6,All barred,1
+baseline,consensus,all,6,None barred,2
+baseline,consensus,all,6,Mixed,0
+baseline,consensus,all,6,No resolved claim outcome,3
+baseline,consensus,all,7,All barred,4
+baseline,consensus,all,7,None barred,3
+baseline,consensus,all,7,Mixed,0
+baseline,consensus,all,7,No resolved claim outcome,0
+baseline,consensus,all,8,All barred,1
+baseline,consensus,all,8,None barred,0
+baseline,consensus,all,8,Mixed,0
+baseline,consensus,all,8,No resolved claim outcome,0
+baseline,consensus,c1,1,All barred,9
+baseline,consensus,c1,1,None barred,2
+baseline,consensus,c1,1,Mixed,0
+baseline,consensus,c1,1,No resolved claim outcome,0
+baseline,consensus,c1,2,All barred,5
+baseline,consensus,c1,2,None barred,1
+baseline,consensus,c1,2,Mixed,0
+baseline,consensus,c1,2,No resolved claim outcome,1
+baseline,consensus,c1,3,All barred,2
+baseline,consensus,c1,3,None barred,1
+baseline,consensus,c1,3,Mixed,0
+baseline,consensus,c1,3,No resolved claim outcome,1
+baseline,consensus,c1,4,All barred,1
+baseline,consensus,c1,4,None barred,0
+baseline,consensus,c1,4,Mixed,0
+baseline,consensus,c1,4,No resolved claim outcome,5
+baseline,consensus,c1,5,All barred,2
+baseline,consensus,c1,5,None barred,3
+baseline,consensus,c1,5,Mixed,5
+baseline,consensus,c1,5,No resolved claim outcome,4
+baseline,consensus,c1,6,All barred,1
+baseline,consensus,c1,6,None barred,2
+baseline,consensus,c1,6,Mixed,0
+baseline,consensus,c1,6,No resolved claim outcome,3
+baseline,consensus,c1,7,All barred,4
+baseline,consensus,c1,7,None barred,3
+baseline,consensus,c1,7,Mixed,0
+baseline,consensus,c1,7,No resolved claim outcome,0
+baseline,consensus,c1,8,All barred,1
+baseline,consensus,c1,8,None barred,0
+baseline,consensus,c1,8,Mixed,0
+baseline,consensus,c1,8,No resolved claim outcome,0
+section_230,seed_42,all,1,All barred,10
+section_230,seed_42,all,1,None barred,5
+section_230,seed_42,all,1,Mixed,0
+section_230,seed_42,all,1,No resolved claim outcome,0
+section_230,seed_42,all,2,All barred,11
+section_230,seed_42,all,2,None barred,3
+section_230,seed_42,all,2,Mixed,0
+section_230,seed_42,all,2,No resolved claim outcome,2
+section_230,seed_42,all,3,All barred,4
+section_230,seed_42,all,3,None barred,4
+section_230,seed_42,all,3,Mixed,0
+section_230,seed_42,all,3,No resolved claim outcome,3
+section_230,seed_42,all,4,All barred,4
+section_230,seed_42,all,4,None barred,2
+section_230,seed_42,all,4,Mixed,5
+section_230,seed_42,all,4,No resolved claim outcome,2
+section_230,seed_42,all,5,All barred,0
+section_230,seed_42,all,5,None barred,0
+section_230,seed_42,all,5,Mixed,0
+section_230,seed_42,all,5,No resolved claim outcome,1
+section_230,seed_42,c1,1,All barred,10
+section_230,seed_42,c1,1,None barred,5
+section_230,seed_42,c1,1,Mixed,0
+section_230,seed_42,c1,1,No resolved claim outcome,0
+section_230,seed_42,c1,2,All barred,9
+section_230,seed_42,c1,2,None barred,1
+section_230,seed_42,c1,2,Mixed,0
+section_230,seed_42,c1,2,No resolved claim outcome,6
+section_230,seed_42,c1,3,All barred,4
+section_230,seed_42,c1,3,None barred,4
+section_230,seed_42,c1,3,Mixed,0
+section_230,seed_42,c1,3,No resolved claim outcome,3
+section_230,seed_42,c1,4,All barred,2
+section_230,seed_42,c1,4,None barred,2
+section_230,seed_42,c1,4,Mixed,5
+section_230,seed_42,c1,4,No resolved claim outcome,4
+section_230,seed_42,c1,5,All barred,0
+section_230,seed_42,c1,5,None barred,0
+section_230,seed_42,c1,5,Mixed,0
+section_230,seed_42,c1,5,No resolved claim outcome,1
+section_230,consensus,all,1,All barred,9
+section_230,consensus,all,1,None barred,2
+section_230,consensus,all,1,Mixed,0
+section_230,consensus,all,1,No resolved claim outcome,0
+section_230,consensus,all,2,All barred,6
+section_230,consensus,all,2,None barred,1
+section_230,consensus,all,2,Mixed,0
+section_230,consensus,all,2,No resolved claim outcome,2
+section_230,consensus,all,3,All barred,0
+section_230,consensus,all,3,None barred,1
+section_230,consensus,all,3,Mixed,0
+section_230,consensus,all,3,No resolved claim outcome,1
+section_230,consensus,all,4,All barred,3
+section_230,consensus,all,4,None barred,2
+section_230,consensus,all,4,Mixed,0
+section_230,consensus,all,4,No resolved claim outcome,0
+section_230,consensus,all,5,All barred,4
+section_230,consensus,all,5,None barred,3
+section_230,consensus,all,5,Mixed,5
+section_230,consensus,all,5,No resolved claim outcome,2
+section_230,consensus,all,6,All barred,2
+section_230,consensus,all,6,None barred,2
+section_230,consensus,all,6,Mixed,0
+section_230,consensus,all,6,No resolved claim outcome,2
+section_230,consensus,all,7,All barred,2
+section_230,consensus,all,7,None barred,3
+section_230,consensus,all,7,Mixed,0
+section_230,consensus,all,7,No resolved claim outcome,0
+section_230,consensus,all,8,All barred,2
+section_230,consensus,all,8,None barred,0
+section_230,consensus,all,8,Mixed,0
+section_230,consensus,all,8,No resolved claim outcome,0
+section_230,consensus,all,9,All barred,1
+section_230,consensus,all,9,None barred,0
+section_230,consensus,all,9,Mixed,0
+section_230,consensus,all,9,No resolved claim outcome,0
+section_230,consensus,all,10,All barred,0
+section_230,consensus,all,10,None barred,0
+section_230,consensus,all,10,Mixed,0
+section_230,consensus,all,10,No resolved claim outcome,1
+section_230,consensus,c1,1,All barred,9
+section_230,consensus,c1,1,None barred,2
+section_230,consensus,c1,1,Mixed,0
+section_230,consensus,c1,1,No resolved claim outcome,0
+section_230,consensus,c1,2,All barred,6
+section_230,consensus,c1,2,None barred,1
+section_230,consensus,c1,2,Mixed,0
+section_230,consensus,c1,2,No resolved claim outcome,2
+section_230,consensus,c1,3,All barred,0
+section_230,consensus,c1,3,None barred,1
+section_230,consensus,c1,3,Mixed,0
+section_230,consensus,c1,3,No resolved claim outcome,1
+section_230,consensus,c1,4,All barred,1
+section_230,consensus,c1,4,None barred,0
+section_230,consensus,c1,4,Mixed,0
+section_230,consensus,c1,4,No resolved claim outcome,4
+section_230,consensus,c1,5,All barred,2
+section_230,consensus,c1,5,None barred,3
+section_230,consensus,c1,5,Mixed,5
+section_230,consensus,c1,5,No resolved claim outcome,4
+section_230,consensus,c1,6,All barred,2
+section_230,consensus,c1,6,None barred,2
+section_230,consensus,c1,6,Mixed,0
+section_230,consensus,c1,6,No resolved claim outcome,2
+section_230,consensus,c1,7,All barred,2
+section_230,consensus,c1,7,None barred,3
+section_230,consensus,c1,7,Mixed,0
+section_230,consensus,c1,7,No resolved claim outcome,0
+section_230,consensus,c1,8,All barred,2
+section_230,consensus,c1,8,None barred,0
+section_230,consensus,c1,8,Mixed,0
+section_230,consensus,c1,8,No resolved claim outcome,0
+section_230,consensus,c1,9,All barred,1
+section_230,consensus,c1,9,None barred,0
+section_230,consensus,c1,9,Mixed,0
+section_230,consensus,c1,9,No resolved claim outcome,0
+section_230,consensus,c1,10,All barred,0
+section_230,consensus,c1,10,None barred,0
+section_230,consensus,c1,10,Mixed,0
+section_230,consensus,c1,10,No resolved claim outcome,1
+c1_baseline,seed_42,all,1,All barred,13
+c1_baseline,seed_42,all,1,None barred,5
+c1_baseline,seed_42,all,1,Mixed,0
+c1_baseline,seed_42,all,1,No resolved claim outcome,0
+c1_baseline,seed_42,all,2,All barred,10
+c1_baseline,seed_42,all,2,None barred,3
+c1_baseline,seed_42,all,2,Mixed,0
+c1_baseline,seed_42,all,2,No resolved claim outcome,1
+c1_baseline,seed_42,all,3,All barred,2
+c1_baseline,seed_42,all,3,None barred,4
+c1_baseline,seed_42,all,3,Mixed,5
+c1_baseline,seed_42,all,3,No resolved claim outcome,0
+c1_baseline,seed_42,c1,1,All barred,13
+c1_baseline,seed_42,c1,1,None barred,5
+c1_baseline,seed_42,c1,1,Mixed,0
+c1_baseline,seed_42,c1,1,No resolved claim outcome,0
+c1_baseline,seed_42,c1,2,All barred,10
+c1_baseline,seed_42,c1,2,None barred,3
+c1_baseline,seed_42,c1,2,Mixed,0
+c1_baseline,seed_42,c1,2,No resolved claim outcome,1
+c1_baseline,seed_42,c1,3,All barred,2
+c1_baseline,seed_42,c1,3,None barred,4
+c1_baseline,seed_42,c1,3,Mixed,5
+c1_baseline,seed_42,c1,3,No resolved claim outcome,0
+c1_baseline,consensus,all,1,All barred,9
+c1_baseline,consensus,all,1,None barred,2
+c1_baseline,consensus,all,1,Mixed,0
+c1_baseline,consensus,all,1,No resolved claim outcome,0
+c1_baseline,consensus,all,2,All barred,8
+c1_baseline,consensus,all,2,None barred,2
+c1_baseline,consensus,all,2,Mixed,0
+c1_baseline,consensus,all,2,No resolved claim outcome,1
+c1_baseline,consensus,all,3,All barred,2
+c1_baseline,consensus,all,3,None barred,3
+c1_baseline,consensus,all,3,Mixed,5
+c1_baseline,consensus,all,3,No resolved claim outcome,0
+c1_baseline,consensus,all,4,All barred,2
+c1_baseline,consensus,all,4,None barred,1
+c1_baseline,consensus,all,4,Mixed,0
+c1_baseline,consensus,all,4,No resolved claim outcome,0
+c1_baseline,consensus,all,5,All barred,2
+c1_baseline,consensus,all,5,None barred,0
+c1_baseline,consensus,all,5,Mixed,0
+c1_baseline,consensus,all,5,No resolved claim outcome,0
+c1_baseline,consensus,all,6,All barred,0
+c1_baseline,consensus,all,6,None barred,3
+c1_baseline,consensus,all,6,Mixed,0
+c1_baseline,consensus,all,6,No resolved claim outcome,0
+c1_baseline,consensus,all,7,All barred,2
+c1_baseline,consensus,all,7,None barred,0
+c1_baseline,consensus,all,7,Mixed,0
+c1_baseline,consensus,all,7,No resolved claim outcome,0
+c1_baseline,consensus,all,8,All barred,0
+c1_baseline,consensus,all,8,None barred,1
+c1_baseline,consensus,all,8,Mixed,0
+c1_baseline,consensus,all,8,No resolved claim outcome,0
+c1_baseline,consensus,c1,1,All barred,9
+c1_baseline,consensus,c1,1,None barred,2
+c1_baseline,consensus,c1,1,Mixed,0
+c1_baseline,consensus,c1,1,No resolved claim outcome,0
+c1_baseline,consensus,c1,2,All barred,8
+c1_baseline,consensus,c1,2,None barred,2
+c1_baseline,consensus,c1,2,Mixed,0
+c1_baseline,consensus,c1,2,No resolved claim outcome,1
+c1_baseline,consensus,c1,3,All barred,2
+c1_baseline,consensus,c1,3,None barred,3
+c1_baseline,consensus,c1,3,Mixed,5
+c1_baseline,consensus,c1,3,No resolved claim outcome,0
+c1_baseline,consensus,c1,4,All barred,2
+c1_baseline,consensus,c1,4,None barred,1
+c1_baseline,consensus,c1,4,Mixed,0
+c1_baseline,consensus,c1,4,No resolved claim outcome,0
+c1_baseline,consensus,c1,5,All barred,2
+c1_baseline,consensus,c1,5,None barred,0
+c1_baseline,consensus,c1,5,Mixed,0
+c1_baseline,consensus,c1,5,No resolved claim outcome,0
+c1_baseline,consensus,c1,6,All barred,0
+c1_baseline,consensus,c1,6,None barred,3
+c1_baseline,consensus,c1,6,Mixed,0
+c1_baseline,consensus,c1,6,No resolved claim outcome,0
+c1_baseline,consensus,c1,7,All barred,2
+c1_baseline,consensus,c1,7,None barred,0
+c1_baseline,consensus,c1,7,Mixed,0
+c1_baseline,consensus,c1,7,No resolved claim outcome,0
+c1_baseline,consensus,c1,8,All barred,0
+c1_baseline,consensus,c1,8,None barred,1
+c1_baseline,consensus,c1,8,Mixed,0
+c1_baseline,consensus,c1,8,No resolved claim outcome,0
+c1_section_230,seed_42,all,1,All barred,13
+c1_section_230,seed_42,all,1,None barred,5
+c1_section_230,seed_42,all,1,Mixed,0
+c1_section_230,seed_42,all,1,No resolved claim outcome,0
+c1_section_230,seed_42,all,2,All barred,10
+c1_section_230,seed_42,all,2,None barred,3
+c1_section_230,seed_42,all,2,Mixed,0
+c1_section_230,seed_42,all,2,No resolved claim outcome,1
+c1_section_230,seed_42,all,3,All barred,2
+c1_section_230,seed_42,all,3,None barred,4
+c1_section_230,seed_42,all,3,Mixed,5
+c1_section_230,seed_42,all,3,No resolved claim outcome,0
+c1_section_230,seed_42,c1,1,All barred,13
+c1_section_230,seed_42,c1,1,None barred,5
+c1_section_230,seed_42,c1,1,Mixed,0
+c1_section_230,seed_42,c1,1,No resolved claim outcome,0
+c1_section_230,seed_42,c1,2,All barred,10
+c1_section_230,seed_42,c1,2,None barred,3
+c1_section_230,seed_42,c1,2,Mixed,0
+c1_section_230,seed_42,c1,2,No resolved claim outcome,1
+c1_section_230,seed_42,c1,3,All barred,2
+c1_section_230,seed_42,c1,3,None barred,4
+c1_section_230,seed_42,c1,3,Mixed,5
+c1_section_230,seed_42,c1,3,No resolved claim outcome,0
+c1_section_230,consensus,all,1,All barred,3
+c1_section_230,consensus,all,1,None barred,0
+c1_section_230,consensus,all,1,Mixed,0
+c1_section_230,consensus,all,1,No resolved claim outcome,0
+c1_section_230,consensus,all,2,All barred,7
+c1_section_230,consensus,all,2,None barred,2
+c1_section_230,consensus,all,2,Mixed,0
+c1_section_230,consensus,all,2,No resolved claim outcome,1
+c1_section_230,consensus,all,3,All barred,2
+c1_section_230,consensus,all,3,None barred,3
+c1_section_230,consensus,all,3,Mixed,5
+c1_section_230,consensus,all,3,No resolved claim outcome,0
+c1_section_230,consensus,all,4,All barred,2
+c1_section_230,consensus,all,4,None barred,1
+c1_section_230,consensus,all,4,Mixed,0
+c1_section_230,consensus,all,4,No resolved claim outcome,0
+c1_section_230,consensus,all,5,All barred,7
+c1_section_230,consensus,all,5,None barred,2
+c1_section_230,consensus,all,5,Mixed,0
+c1_section_230,consensus,all,5,No resolved claim outcome,0
+c1_section_230,consensus,all,6,All barred,3
+c1_section_230,consensus,all,6,None barred,0
+c1_section_230,consensus,all,6,Mixed,0
+c1_section_230,consensus,all,6,No resolved claim outcome,0
+c1_section_230,consensus,all,7,All barred,0
+c1_section_230,consensus,all,7,None barred,3
+c1_section_230,consensus,all,7,Mixed,0
+c1_section_230,consensus,all,7,No resolved claim outcome,0
+c1_section_230,consensus,all,8,All barred,1
+c1_section_230,consensus,all,8,None barred,0
+c1_section_230,consensus,all,8,Mixed,0
+c1_section_230,consensus,all,8,No resolved claim outcome,0
+c1_section_230,consensus,all,9,All barred,0
+c1_section_230,consensus,all,9,None barred,1
+c1_section_230,consensus,all,9,Mixed,0
+c1_section_230,consensus,all,9,No resolved claim outcome,0
+c1_section_230,consensus,c1,1,All barred,3
+c1_section_230,consensus,c1,1,None barred,0
+c1_section_230,consensus,c1,1,Mixed,0
+c1_section_230,consensus,c1,1,No resolved claim outcome,0
+c1_section_230,consensus,c1,2,All barred,7
+c1_section_230,consensus,c1,2,None barred,2
+c1_section_230,consensus,c1,2,Mixed,0
+c1_section_230,consensus,c1,2,No resolved claim outcome,1
+c1_section_230,consensus,c1,3,All barred,2
+c1_section_230,consensus,c1,3,None barred,3
+c1_section_230,consensus,c1,3,Mixed,5
+c1_section_230,consensus,c1,3,No resolved claim outcome,0
+c1_section_230,consensus,c1,4,All barred,2
+c1_section_230,consensus,c1,4,None barred,1
+c1_section_230,consensus,c1,4,Mixed,0
+c1_section_230,consensus,c1,4,No resolved claim outcome,0
+c1_section_230,consensus,c1,5,All barred,7
+c1_section_230,consensus,c1,5,None barred,2
+c1_section_230,consensus,c1,5,Mixed,0
+c1_section_230,consensus,c1,5,No resolved claim outcome,0
+c1_section_230,consensus,c1,6,All barred,3
+c1_section_230,consensus,c1,6,None barred,0
+c1_section_230,consensus,c1,6,Mixed,0
+c1_section_230,consensus,c1,6,No resolved claim outcome,0
+c1_section_230,consensus,c1,7,All barred,0
+c1_section_230,consensus,c1,7,None barred,3
+c1_section_230,consensus,c1,7,Mixed,0
+c1_section_230,consensus,c1,7,No resolved claim outcome,0
+c1_section_230,consensus,c1,8,All barred,1
+c1_section_230,consensus,c1,8,None barred,0
+c1_section_230,consensus,c1,8,Mixed,0
+c1_section_230,consensus,c1,8,No resolved claim outcome,0
+c1_section_230,consensus,c1,9,All barred,0
+c1_section_230,consensus,c1,9,None barred,1
+c1_section_230,consensus,c1,9,Mixed,0
+c1_section_230,consensus,c1,9,No resolved claim outcome,0
+full_reporter,seed_42,all,1,All barred,13
+full_reporter,seed_42,all,1,None barred,5
+full_reporter,seed_42,all,1,Mixed,0
+full_reporter,seed_42,all,1,No resolved claim outcome,0
+full_reporter,seed_42,all,2,All barred,10
+full_reporter,seed_42,all,2,None barred,4
+full_reporter,seed_42,all,2,Mixed,0
+full_reporter,seed_42,all,2,No resolved claim outcome,3
+full_reporter,seed_42,all,3,All barred,4
+full_reporter,seed_42,all,3,None barred,3
+full_reporter,seed_42,all,3,Mixed,5
+full_reporter,seed_42,all,3,No resolved claim outcome,2
+full_reporter,seed_42,all,4,All barred,2
+full_reporter,seed_42,all,4,None barred,2
+full_reporter,seed_42,all,4,Mixed,0
+full_reporter,seed_42,all,4,No resolved claim outcome,3
+full_reporter,seed_42,c1,1,All barred,13
+full_reporter,seed_42,c1,1,None barred,5
+full_reporter,seed_42,c1,1,Mixed,0
+full_reporter,seed_42,c1,1,No resolved claim outcome,0
+full_reporter,seed_42,c1,2,All barred,8
+full_reporter,seed_42,c1,2,None barred,2
+full_reporter,seed_42,c1,2,Mixed,0
+full_reporter,seed_42,c1,2,No resolved claim outcome,7
+full_reporter,seed_42,c1,3,All barred,2
+full_reporter,seed_42,c1,3,None barred,3
+full_reporter,seed_42,c1,3,Mixed,5
+full_reporter,seed_42,c1,3,No resolved claim outcome,4
+full_reporter,seed_42,c1,4,All barred,2
+full_reporter,seed_42,c1,4,None barred,2
+full_reporter,seed_42,c1,4,Mixed,0
+full_reporter,seed_42,c1,4,No resolved claim outcome,3
+full_reporter,consensus,all,1,All barred,13
+full_reporter,consensus,all,1,None barred,5
+full_reporter,consensus,all,1,Mixed,0
+full_reporter,consensus,all,1,No resolved claim outcome,0
+full_reporter,consensus,all,2,All barred,6
+full_reporter,consensus,all,2,None barred,2
+full_reporter,consensus,all,2,Mixed,0
+full_reporter,consensus,all,2,No resolved claim outcome,2
+full_reporter,consensus,all,3,All barred,3
+full_reporter,consensus,all,3,None barred,2
+full_reporter,consensus,all,3,Mixed,0
+full_reporter,consensus,all,3,No resolved claim outcome,1
+full_reporter,consensus,all,4,All barred,4
+full_reporter,consensus,all,4,None barred,3
+full_reporter,consensus,all,4,Mixed,5
+full_reporter,consensus,all,4,No resolved claim outcome,2
+full_reporter,consensus,all,5,All barred,2
+full_reporter,consensus,all,5,None barred,2
+full_reporter,consensus,all,5,Mixed,0
+full_reporter,consensus,all,5,No resolved claim outcome,3
+full_reporter,consensus,all,6,All barred,1
+full_reporter,consensus,all,6,None barred,0
+full_reporter,consensus,all,6,Mixed,0
+full_reporter,consensus,all,6,No resolved claim outcome,0
+full_reporter,consensus,c1,1,All barred,13
+full_reporter,consensus,c1,1,None barred,5
+full_reporter,consensus,c1,1,Mixed,0
+full_reporter,consensus,c1,1,No resolved claim outcome,0
+full_reporter,consensus,c1,2,All barred,6
+full_reporter,consensus,c1,2,None barred,2
+full_reporter,consensus,c1,2,Mixed,0
+full_reporter,consensus,c1,2,No resolved claim outcome,2
+full_reporter,consensus,c1,3,All barred,1
+full_reporter,consensus,c1,3,None barred,0
+full_reporter,consensus,c1,3,Mixed,0
+full_reporter,consensus,c1,3,No resolved claim outcome,5
+full_reporter,consensus,c1,4,All barred,2
+full_reporter,consensus,c1,4,None barred,3
+full_reporter,consensus,c1,4,Mixed,5
+full_reporter,consensus,c1,4,No resolved claim outcome,4
+full_reporter,consensus,c1,5,All barred,2
+full_reporter,consensus,c1,5,None barred,2
+full_reporter,consensus,c1,5,Mixed,0
+full_reporter,consensus,c1,5,No resolved claim outcome,3
+full_reporter,consensus,c1,6,All barred,1
+full_reporter,consensus,c1,6,None barred,0
+full_reporter,consensus,c1,6,Mixed,0
+full_reporter,consensus,c1,6,No resolved claim outcome,0

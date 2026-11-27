@@ -1,0 +1,154 @@
+cited_opinion_id,citation_function,passages,unique_citing_opinions,cross_circuit_passages
+S230-001,Applies or analogizes,15,12,14
+S230-001,Distinguishes or rejects an analogy,3,3,1
+S230-001,Limits or identifies change in rule,1,1,0
+S230-001,Section 230 issue expressly left open,1,1,0
+S230-001,States or supports a rule,44,19,26
+S230-001,Statutory history or interpretive rationale,29,15,25
+S230-002,Limits or identifies change in rule,1,1,0
+S230-002,States or supports a rule,8,7,7
+S230-002,Statutory history or interpretive rationale,2,2,2
+S230-003,Applies or analogizes,4,3,4
+S230-003,Distinguishes or rejects an analogy,4,3,3
+S230-003,Section 230 issue expressly left open,1,1,1
+S230-003,States or supports a rule,12,9,12
+S230-004,Applies or analogizes,5,2,3
+S230-004,Background or litigation history,1,1,0
+S230-004,Limits or identifies change in rule,1,1,0
+S230-004,States or supports a rule,16,11,8
+S230-004,Statutory history or interpretive rationale,6,5,1
+S230-005,Applies or analogizes,5,5,3
+S230-005,Background or litigation history,1,1,0
+S230-005,Distinguishes or rejects an analogy,1,1,1
+S230-005,Limits or identifies change in rule,1,1,0
+S230-005,States or supports a rule,19,13,9
+S230-005,Statutory history or interpretive rationale,4,4,1
+S230-006,Applies or analogizes,4,4,2
+S230-006,Procedure related to applying § 230,1,1,0
+S230-006,Section 230 issue expressly left open,1,1,0
+S230-006,States or supports a rule,23,11,16
+S230-006,Statutory history or interpretive rationale,2,1,0
+S230-007,Distinguishes or rejects an analogy,2,2,1
+S230-007,Section 230 issue expressly left open,1,1,1
+S230-007,States or supports a rule,2,2,0
+S230-008,Applies or analogizes,24,12,12
+S230-008,Background or litigation history,2,2,1
+S230-008,Distinguishes or rejects an analogy,6,6,4
+S230-008,Limits or identifies change in rule,1,1,0
+S230-008,Procedure related to applying § 230,2,2,1
+S230-008,States or supports a rule,58,25,28
+S230-008,Statutory history or interpretive rationale,11,6,2
+S230-009,Applies or analogizes,1,1,0
+S230-009,Distinguishes or rejects an analogy,1,1,1
+S230-009,States or supports a rule,20,11,15
+S230-009,Statutory history or interpretive rationale,2,1,2
+S230-010,Applies or analogizes,4,3,2
+S230-010,Distinguishes or rejects an analogy,4,3,1
+S230-010,States or supports a rule,14,9,9
+S230-011,Applies or analogizes,17,8,3
+S230-011,Background or litigation history,1,1,0
+S230-011,Distinguishes or rejects an analogy,3,2,0
+S230-011,States or supports a rule,46,16,13
+S230-011,Statutory history or interpretive rationale,2,2,0
+S230-012,Distinguishes or rejects an analogy,1,1,0
+S230-012,Limits or identifies change in rule,1,1,0
+S230-012,States or supports a rule,5,2,1
+S230-013,Applies or analogizes,3,3,3
+S230-013,Distinguishes or rejects an analogy,2,1,2
+S230-013,States or supports a rule,7,5,7
+S230-013,Statutory history or interpretive rationale,1,1,1
+S230-014,Applies or analogizes,4,2,4
+S230-014,Background or litigation history,1,1,1
+S230-014,Procedure related to applying § 230,3,2,2
+S230-014,States or supports a rule,18,9,8
+S230-014,Statutory history or interpretive rationale,1,1,0
+S230-015,Other issue,1,1,0
+S230-015,States or supports a rule,3,2,3
+S230-016,States or supports a rule,3,1,0
+S230-017,Applies or analogizes,4,3,2
+S230-017,Other issue,1,1,1
+S230-017,Procedure related to applying § 230,3,3,1
+S230-017,States or supports a rule,11,7,5
+S230-018,Applies or analogizes,4,2,1
+S230-018,States or supports a rule,14,9,11
+S230-018,Statutory history or interpretive rationale,1,1,1
+S230-019,Applies or analogizes,2,2,1
+S230-019,Procedure related to applying § 230,3,2,0
+S230-019,States or supports a rule,1,1,1
+S230-019,Statutory history or interpretive rationale,1,1,0
+S230-020,Applies or analogizes,2,2,1
+S230-020,Limits or identifies change in rule,1,1,1
+S230-020,States or supports a rule,10,8,9
+S230-020,Statutory history or interpretive rationale,3,2,3
+S230-021,Applies or analogizes,8,5,2
+S230-021,Distinguishes or rejects an analogy,2,2,0
+S230-021,Limits or identifies change in rule,1,1,0
+S230-021,States or supports a rule,14,8,5
+S230-021,Statutory history or interpretive rationale,2,2,0
+S230-022,Applies or analogizes,1,1,1
+S230-022,States or supports a rule,2,2,2
+S230-023,Applies or analogizes,5,5,3
+S230-023,Distinguishes or rejects an analogy,1,1,0
+S230-023,Limits or identifies change in rule,1,1,0
+S230-023,States or supports a rule,13,8,5
+S230-024,Applies or analogizes,6,4,1
+S230-024,Distinguishes or rejects an analogy,1,1,0
+S230-024,States or supports a rule,17,7,7
+S230-024,Statutory history or interpretive rationale,2,1,0
+S230-025,Section 230 issue expressly left open,1,1,1
+S230-026,Distinguishes or rejects an analogy,1,1,1
+S230-026,States or supports a rule,1,1,0
+S230-027,Applies or analogizes,1,1,0
+S230-028,Applies or analogizes,1,1,0
+S230-028,Procedure related to applying § 230,1,1,0
+S230-028,States or supports a rule,4,1,0
+S230-029,Distinguishes or rejects an analogy,1,1,0
+S230-029,States or supports a rule,14,7,6
+S230-029,Statutory history or interpretive rationale,1,1,0
+S230-030,Applies or analogizes,2,1,0
+S230-030,States or supports a rule,7,2,0
+S230-031,Applies or analogizes,4,2,4
+S230-031,Procedure related to applying § 230,1,1,1
+S230-031,States or supports a rule,5,4,5
+S230-032,Applies or analogizes,2,1,0
+S230-032,Distinguishes or rejects an analogy,1,1,1
+S230-032,Other issue,1,1,1
+S230-032,Procedure related to applying § 230,5,2,2
+S230-032,States or supports a rule,13,5,8
+S230-032,Statutory history or interpretive rationale,1,1,0
+S230-033,Applies or analogizes,4,4,0
+S230-033,Distinguishes or rejects an analogy,3,2,1
+S230-033,Limits or identifies change in rule,1,1,0
+S230-033,Procedure related to applying § 230,4,2,0
+S230-033,States or supports a rule,4,3,0
+S230-035,States or supports a rule,2,1,2
+S230-037,Applies or analogizes,2,1,0
+S230-037,Background or litigation history,1,1,0
+S230-037,Distinguishes or rejects an analogy,2,2,0
+S230-037,Procedure related to applying § 230,1,1,0
+S230-037,States or supports a rule,4,2,0
+S230-040,Applies or analogizes,7,2,0
+S230-040,Background or litigation history,1,1,0
+S230-040,Distinguishes or rejects an analogy,1,1,1
+S230-040,Limits or identifies change in rule,3,3,2
+S230-040,States or supports a rule,5,3,3
+S230-041,Applies or analogizes,2,1,0
+S230-041,States or supports a rule,3,1,0
+S230-044,Applies or analogizes,1,1,1
+S230-044,States or supports a rule,4,1,4
+S230-045,Applies or analogizes,1,1,0
+S230-045,States or supports a rule,3,1,0
+S230-046,Procedure related to applying § 230,2,1,0
+S230-046,States or supports a rule,8,4,1
+S230-047,Applies or analogizes,2,2,1
+S230-047,Distinguishes or rejects an analogy,2,1,0
+S230-047,Procedure related to applying § 230,1,1,0
+S230-047,States or supports a rule,6,2,5
+S230-048,States or supports a rule,1,1,1
+S230-049,Applies or analogizes,1,1,1
+S230-049,Distinguishes or rejects an analogy,1,1,1
+S230-050,Applies or analogizes,1,1,1
+S230-051,Applies or analogizes,1,1,1
+S230-052,Applies or analogizes,4,1,0
+S230-052,States or supports a rule,1,1,0
+S230-055,Distinguishes or rejects an analogy,3,2,1

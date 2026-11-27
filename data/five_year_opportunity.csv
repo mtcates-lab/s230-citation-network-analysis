@@ -1,0 +1,269 @@
+graph,opinion_id,cohort,cutoff,eligible_citing_opinions,observed_citations,rate
+baseline,S230-001,all,2002-11-12,1,1,1.0
+baseline,S230-001,same circuit,2002-11-12,0,0,
+baseline,S230-002,all,2005-03-14,3,3,1.0
+baseline,S230-002,same circuit,2005-03-14,0,0,
+baseline,S230-003,all,2008-01-16,4,2,0.5
+baseline,S230-003,same circuit,2008-01-16,0,0,
+baseline,S230-004,all,2008-06-24,6,5,0.8333333333333334
+baseline,S230-004,same circuit,2008-06-24,3,3,1.0
+baseline,S230-005,all,2008-08-13,5,4,0.8
+baseline,S230-005,same circuit,2008-08-13,2,2,1.0
+baseline,S230-006,all,2012-02-23,10,4,0.4
+baseline,S230-006,same circuit,2012-02-23,0,0,
+baseline,S230-007,all,2012-05-31,9,1,0.1111111111111111
+baseline,S230-007,same circuit,2012-05-31,3,1,0.3333333333333333
+baseline,S230-008,all,2013-04-03,8,5,0.625
+baseline,S230-008,same circuit,2013-04-03,2,2,1.0
+baseline,S230-009,all,2013-05-02,7,4,0.5714285714285714
+baseline,S230-009,same circuit,2013-05-02,1,1,1.0
+baseline,S230-010,all,2013-05-16,6,2,0.3333333333333333
+baseline,S230-010,same circuit,2013-05-16,0,0,
+baseline,S230-011,all,2014-06-22,7,1,0.14285714285714285
+baseline,S230-011,same circuit,2014-06-22,1,1,1.0
+baseline,S230-012,all,2014-06-25,6,0,0.0
+baseline,S230-012,same circuit,2014-06-25,0,0,
+baseline,S230-013,all,2014-06-29,5,1,0.2
+baseline,S230-013,same circuit,2014-06-29,0,0,
+baseline,S230-014,all,2014-12-29,4,3,0.75
+baseline,S230-014,same circuit,2014-12-29,0,0,
+baseline,S230-015,all,2015-08-04,4,1,0.25
+baseline,S230-015,same circuit,2015-08-04,0,0,
+baseline,S230-016,all,2015-09-29,3,0,0.0
+baseline,S230-016,same circuit,2015-09-29,0,0,
+baseline,S230-017,all,2019-06-13,15,6,0.4
+baseline,S230-017,same circuit,2019-06-13,2,2,1.0
+baseline,S230-018,all,2019-06-16,14,5,0.35714285714285715
+baseline,S230-018,same circuit,2019-06-16,1,1,1.0
+baseline,S230-019,all,2020-03-18,16,1,0.0625
+baseline,S230-019,same circuit,2020-03-18,2,1,0.5
+baseline,S230-020,all,2021-03-14,16,4,0.25
+baseline,S230-020,same circuit,2021-03-14,1,0,0.0
+baseline,S230-021,all,2021-05-31,16,3,0.1875
+baseline,S230-021,same circuit,2021-05-31,5,3,0.6
+baseline,S230-022,all,2021-07-22,15,2,0.13333333333333333
+baseline,S230-022,same circuit,2021-07-22,0,0,
+baseline,S230-023,all,2021-09-12,14,7,0.5
+baseline,S230-023,same circuit,2021-09-12,4,2,0.5
+baseline,S230-024,all,2021-09-23,14,3,0.21428571428571427
+baseline,S230-024,same circuit,2021-09-23,2,2,1.0
+baseline,S230-025,all,2021-11-01,13,1,0.07692307692307693
+baseline,S230-025,same circuit,2021-11-01,0,0,
+baseline,S230-026,all,2021-11-14,12,1,0.08333333333333333
+baseline,S230-026,same circuit,2021-11-14,0,0,
+baseline,S230-027,all,2022-10-11,12,1,0.08333333333333333
+baseline,S230-027,same circuit,2022-10-11,1,1,1.0
+baseline,S230-028,all,2023-02-23,14,1,0.07142857142857142
+baseline,S230-028,same circuit,2023-02-23,1,1,1.0
+baseline,S230-029,all,2024-03-13,16,4,0.25
+baseline,S230-029,same circuit,2024-03-13,5,2,0.4
+baseline,S230-030,all,2024-05-22,15,1,0.06666666666666667
+baseline,S230-030,same circuit,2024-05-22,1,1,1.0
+baseline,S230-031,all,2024-06-07,15,4,0.26666666666666666
+baseline,S230-031,same circuit,2024-06-07,1,0,0.0
+baseline,S230-032,all,2024-07-31,14,3,0.21428571428571427
+baseline,S230-032,same circuit,2024-07-31,1,1,1.0
+baseline,S230-033,all,2024-08-20,14,3,0.21428571428571427
+baseline,S230-033,same circuit,2024-08-20,6,3,0.5
+baseline,S230-034,all,2024-12-31,17,0,0.0
+baseline,S230-034,same circuit,2024-12-31,6,0,0.0
+baseline,S230-035,all,2025-07-15,18,1,0.05555555555555555
+baseline,S230-035,same circuit,2025-07-15,0,0,
+baseline,S230-036,all,2025-08-19,18,0,0.0
+baseline,S230-036,same circuit,2025-08-19,0,0,
+baseline,S230-055,all,2020-11-30,17,0,0.0
+baseline,S230-055,same circuit,2020-11-30,1,0,0.0
+section_230,S230-001,all,2002-11-12,1,1,1.0
+section_230,S230-001,same circuit,2002-11-12,0,0,
+section_230,S230-002,all,2005-03-14,3,3,1.0
+section_230,S230-002,same circuit,2005-03-14,0,0,
+section_230,S230-003,all,2008-01-16,4,2,0.5
+section_230,S230-003,same circuit,2008-01-16,0,0,
+section_230,S230-004,all,2008-06-24,6,5,0.8333333333333334
+section_230,S230-004,same circuit,2008-06-24,3,3,1.0
+section_230,S230-005,all,2008-08-13,5,4,0.8
+section_230,S230-005,same circuit,2008-08-13,2,2,1.0
+section_230,S230-006,all,2012-02-23,10,4,0.4
+section_230,S230-006,same circuit,2012-02-23,0,0,
+section_230,S230-007,all,2012-05-31,9,1,0.1111111111111111
+section_230,S230-007,same circuit,2012-05-31,3,1,0.3333333333333333
+section_230,S230-008,all,2013-04-03,8,5,0.625
+section_230,S230-008,same circuit,2013-04-03,2,2,1.0
+section_230,S230-009,all,2013-05-02,7,4,0.5714285714285714
+section_230,S230-009,same circuit,2013-05-02,1,1,1.0
+section_230,S230-010,all,2013-05-16,6,2,0.3333333333333333
+section_230,S230-010,same circuit,2013-05-16,0,0,
+section_230,S230-011,all,2014-06-22,7,1,0.14285714285714285
+section_230,S230-011,same circuit,2014-06-22,1,1,1.0
+section_230,S230-012,all,2014-06-25,6,0,0.0
+section_230,S230-012,same circuit,2014-06-25,0,0,
+section_230,S230-013,all,2014-06-29,5,1,0.2
+section_230,S230-013,same circuit,2014-06-29,0,0,
+section_230,S230-014,all,2014-12-29,4,3,0.75
+section_230,S230-014,same circuit,2014-12-29,0,0,
+section_230,S230-015,all,2015-08-04,4,1,0.25
+section_230,S230-015,same circuit,2015-08-04,0,0,
+section_230,S230-016,all,2015-09-29,3,0,0.0
+section_230,S230-016,same circuit,2015-09-29,0,0,
+section_230,S230-017,all,2019-06-13,15,6,0.4
+section_230,S230-017,same circuit,2019-06-13,2,2,1.0
+section_230,S230-018,all,2019-06-16,14,5,0.35714285714285715
+section_230,S230-018,same circuit,2019-06-16,1,1,1.0
+section_230,S230-019,all,2020-03-18,16,1,0.0625
+section_230,S230-019,same circuit,2020-03-18,2,1,0.5
+section_230,S230-020,all,2021-03-14,16,4,0.25
+section_230,S230-020,same circuit,2021-03-14,1,0,0.0
+section_230,S230-021,all,2021-05-31,16,3,0.1875
+section_230,S230-021,same circuit,2021-05-31,5,3,0.6
+section_230,S230-022,all,2021-07-22,15,2,0.13333333333333333
+section_230,S230-022,same circuit,2021-07-22,0,0,
+section_230,S230-023,all,2021-09-12,14,7,0.5
+section_230,S230-023,same circuit,2021-09-12,4,2,0.5
+section_230,S230-024,all,2021-09-23,14,3,0.21428571428571427
+section_230,S230-024,same circuit,2021-09-23,2,2,1.0
+section_230,S230-025,all,2021-11-01,13,0,0.0
+section_230,S230-025,same circuit,2021-11-01,0,0,
+section_230,S230-026,all,2021-11-14,12,1,0.08333333333333333
+section_230,S230-026,same circuit,2021-11-14,0,0,
+section_230,S230-027,all,2022-10-11,12,1,0.08333333333333333
+section_230,S230-027,same circuit,2022-10-11,1,1,1.0
+section_230,S230-028,all,2023-02-23,14,1,0.07142857142857142
+section_230,S230-028,same circuit,2023-02-23,1,1,1.0
+section_230,S230-029,all,2024-03-13,16,4,0.25
+section_230,S230-029,same circuit,2024-03-13,5,2,0.4
+section_230,S230-030,all,2024-05-22,15,1,0.06666666666666667
+section_230,S230-030,same circuit,2024-05-22,1,1,1.0
+section_230,S230-031,all,2024-06-07,15,4,0.26666666666666666
+section_230,S230-031,same circuit,2024-06-07,1,0,0.0
+section_230,S230-032,all,2024-07-31,14,3,0.21428571428571427
+section_230,S230-032,same circuit,2024-07-31,1,1,1.0
+section_230,S230-033,all,2024-08-20,14,3,0.21428571428571427
+section_230,S230-033,same circuit,2024-08-20,6,3,0.5
+section_230,S230-034,all,2024-12-31,17,0,0.0
+section_230,S230-034,same circuit,2024-12-31,6,0,0.0
+section_230,S230-035,all,2025-07-15,18,1,0.05555555555555555
+section_230,S230-035,same circuit,2025-07-15,0,0,
+section_230,S230-036,all,2025-08-19,18,0,0.0
+section_230,S230-036,same circuit,2025-08-19,0,0,
+section_230,S230-055,all,2020-11-30,17,0,0.0
+section_230,S230-055,same circuit,2020-11-30,1,0,0.0
+c1_baseline,S230-001,all,2002-11-12,1,1,1.0
+c1_baseline,S230-001,same circuit,2002-11-12,0,0,
+c1_baseline,S230-002,all,2005-03-14,3,3,1.0
+c1_baseline,S230-002,same circuit,2005-03-14,0,0,
+c1_baseline,S230-003,all,2008-01-16,3,2,0.6666666666666666
+c1_baseline,S230-003,same circuit,2008-01-16,0,0,
+c1_baseline,S230-004,all,2008-06-24,5,4,0.8
+c1_baseline,S230-004,same circuit,2008-06-24,2,2,1.0
+c1_baseline,S230-005,all,2008-08-13,4,3,0.75
+c1_baseline,S230-005,same circuit,2008-08-13,1,1,1.0
+c1_baseline,S230-006,all,2012-02-23,7,4,0.5714285714285714
+c1_baseline,S230-006,same circuit,2012-02-23,0,0,
+c1_baseline,S230-008,all,2013-04-03,6,4,0.6666666666666666
+c1_baseline,S230-008,same circuit,2013-04-03,1,1,1.0
+c1_baseline,S230-009,all,2013-05-02,5,3,0.6
+c1_baseline,S230-009,same circuit,2013-05-02,0,0,
+c1_baseline,S230-010,all,2013-05-16,4,2,0.5
+c1_baseline,S230-010,same circuit,2013-05-16,0,0,
+c1_baseline,S230-011,all,2014-06-22,5,0,0.0
+c1_baseline,S230-011,same circuit,2014-06-22,0,0,
+c1_baseline,S230-013,all,2014-06-29,4,1,0.25
+c1_baseline,S230-013,same circuit,2014-06-29,0,0,
+c1_baseline,S230-014,all,2014-12-29,3,3,1.0
+c1_baseline,S230-014,same circuit,2014-12-29,0,0,
+c1_baseline,S230-015,all,2015-08-04,3,1,0.3333333333333333
+c1_baseline,S230-015,same circuit,2015-08-04,0,0,
+c1_baseline,S230-017,all,2019-06-13,12,6,0.5
+c1_baseline,S230-017,same circuit,2019-06-13,2,2,1.0
+c1_baseline,S230-018,all,2019-06-16,11,5,0.45454545454545453
+c1_baseline,S230-018,same circuit,2019-06-16,1,1,1.0
+c1_baseline,S230-019,all,2020-03-18,12,1,0.08333333333333333
+c1_baseline,S230-019,same circuit,2020-03-18,2,1,0.5
+c1_baseline,S230-020,all,2021-03-14,13,4,0.3076923076923077
+c1_baseline,S230-020,same circuit,2021-03-14,1,0,0.0
+c1_baseline,S230-021,all,2021-05-31,13,2,0.15384615384615385
+c1_baseline,S230-021,same circuit,2021-05-31,3,2,0.6666666666666666
+c1_baseline,S230-022,all,2021-07-22,12,2,0.16666666666666666
+c1_baseline,S230-022,same circuit,2021-07-22,0,0,
+c1_baseline,S230-023,all,2021-09-12,11,7,0.6363636363636364
+c1_baseline,S230-023,same circuit,2021-09-12,2,2,1.0
+c1_baseline,S230-024,all,2021-09-23,10,3,0.3
+c1_baseline,S230-024,same circuit,2021-09-23,2,2,1.0
+c1_baseline,S230-026,all,2021-11-14,9,1,0.1111111111111111
+c1_baseline,S230-026,same circuit,2021-11-14,0,0,
+c1_baseline,S230-027,all,2022-10-11,9,1,0.1111111111111111
+c1_baseline,S230-027,same circuit,2022-10-11,1,1,1.0
+c1_baseline,S230-028,all,2023-02-23,10,1,0.1
+c1_baseline,S230-028,same circuit,2023-02-23,1,1,1.0
+c1_baseline,S230-030,all,2024-05-22,10,1,0.1
+c1_baseline,S230-030,same circuit,2024-05-22,1,1,1.0
+c1_baseline,S230-031,all,2024-06-07,10,4,0.4
+c1_baseline,S230-031,same circuit,2024-06-07,0,0,
+c1_baseline,S230-032,all,2024-07-31,9,3,0.3333333333333333
+c1_baseline,S230-032,same circuit,2024-07-31,1,1,1.0
+c1_baseline,S230-033,all,2024-08-20,8,3,0.375
+c1_baseline,S230-033,same circuit,2024-08-20,3,3,1.0
+c1_baseline,S230-035,all,2025-07-15,12,1,0.08333333333333333
+c1_baseline,S230-035,same circuit,2025-07-15,0,0,
+c1_baseline,S230-036,all,2025-08-19,12,0,0.0
+c1_baseline,S230-036,same circuit,2025-08-19,0,0,
+c1_section_230,S230-001,all,2002-11-12,1,1,1.0
+c1_section_230,S230-001,same circuit,2002-11-12,0,0,
+c1_section_230,S230-002,all,2005-03-14,3,3,1.0
+c1_section_230,S230-002,same circuit,2005-03-14,0,0,
+c1_section_230,S230-003,all,2008-01-16,3,2,0.6666666666666666
+c1_section_230,S230-003,same circuit,2008-01-16,0,0,
+c1_section_230,S230-004,all,2008-06-24,5,4,0.8
+c1_section_230,S230-004,same circuit,2008-06-24,2,2,1.0
+c1_section_230,S230-005,all,2008-08-13,4,3,0.75
+c1_section_230,S230-005,same circuit,2008-08-13,1,1,1.0
+c1_section_230,S230-006,all,2012-02-23,7,4,0.5714285714285714
+c1_section_230,S230-006,same circuit,2012-02-23,0,0,
+c1_section_230,S230-008,all,2013-04-03,6,4,0.6666666666666666
+c1_section_230,S230-008,same circuit,2013-04-03,1,1,1.0
+c1_section_230,S230-009,all,2013-05-02,5,3,0.6
+c1_section_230,S230-009,same circuit,2013-05-02,0,0,
+c1_section_230,S230-010,all,2013-05-16,4,2,0.5
+c1_section_230,S230-010,same circuit,2013-05-16,0,0,
+c1_section_230,S230-011,all,2014-06-22,5,0,0.0
+c1_section_230,S230-011,same circuit,2014-06-22,0,0,
+c1_section_230,S230-013,all,2014-06-29,4,1,0.25
+c1_section_230,S230-013,same circuit,2014-06-29,0,0,
+c1_section_230,S230-014,all,2014-12-29,3,3,1.0
+c1_section_230,S230-014,same circuit,2014-12-29,0,0,
+c1_section_230,S230-015,all,2015-08-04,3,1,0.3333333333333333
+c1_section_230,S230-015,same circuit,2015-08-04,0,0,
+c1_section_230,S230-017,all,2019-06-13,12,6,0.5
+c1_section_230,S230-017,same circuit,2019-06-13,2,2,1.0
+c1_section_230,S230-018,all,2019-06-16,11,5,0.45454545454545453
+c1_section_230,S230-018,same circuit,2019-06-16,1,1,1.0
+c1_section_230,S230-019,all,2020-03-18,12,1,0.08333333333333333
+c1_section_230,S230-019,same circuit,2020-03-18,2,1,0.5
+c1_section_230,S230-020,all,2021-03-14,13,4,0.3076923076923077
+c1_section_230,S230-020,same circuit,2021-03-14,1,0,0.0
+c1_section_230,S230-021,all,2021-05-31,13,2,0.15384615384615385
+c1_section_230,S230-021,same circuit,2021-05-31,3,2,0.6666666666666666
+c1_section_230,S230-022,all,2021-07-22,12,2,0.16666666666666666
+c1_section_230,S230-022,same circuit,2021-07-22,0,0,
+c1_section_230,S230-023,all,2021-09-12,11,7,0.6363636363636364
+c1_section_230,S230-023,same circuit,2021-09-12,2,2,1.0
+c1_section_230,S230-024,all,2021-09-23,10,3,0.3
+c1_section_230,S230-024,same circuit,2021-09-23,2,2,1.0
+c1_section_230,S230-026,all,2021-11-14,9,1,0.1111111111111111
+c1_section_230,S230-026,same circuit,2021-11-14,0,0,
+c1_section_230,S230-027,all,2022-10-11,9,1,0.1111111111111111
+c1_section_230,S230-027,same circuit,2022-10-11,1,1,1.0
+c1_section_230,S230-028,all,2023-02-23,10,1,0.1
+c1_section_230,S230-028,same circuit,2023-02-23,1,1,1.0
+c1_section_230,S230-030,all,2024-05-22,10,1,0.1
+c1_section_230,S230-030,same circuit,2024-05-22,1,1,1.0
+c1_section_230,S230-031,all,2024-06-07,10,4,0.4
+c1_section_230,S230-031,same circuit,2024-06-07,0,0,
+c1_section_230,S230-032,all,2024-07-31,9,3,0.3333333333333333
+c1_section_230,S230-032,same circuit,2024-07-31,1,1,1.0
+c1_section_230,S230-033,all,2024-08-20,8,3,0.375
+c1_section_230,S230-033,same circuit,2024-08-20,3,3,1.0
+c1_section_230,S230-035,all,2025-07-15,12,1,0.08333333333333333
+c1_section_230,S230-035,same circuit,2025-07-15,0,0,
+c1_section_230,S230-036,all,2025-08-19,12,0,0.0
+c1_section_230,S230-036,same circuit,2025-08-19,0,0,

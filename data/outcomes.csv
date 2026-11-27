@@ -1,0 +1,253 @@
+period,start,end,court,scope,opinions,resolved_denominator,all_barred,none_barred,mixed,no_resolved_claim,share_all_barred
+before,1997-11-12,2018-04-10,All courts,all coded statutory questions,29,25,19,4,2,4,0.76
+before,1997-11-12,2018-04-10,All courts,resolved c1 publisher or source,29,23,17,4,2,6,0.7391304347826086
+before,1997-11-12,2018-04-10,All courts,resolved c1 including publisher-based preemption,29,24,17,5,2,5,0.7083333333333334
+before,1997-11-12,2018-04-10,ca1,all coded statutory questions,3,3,3,0,0,0,1.0
+before,1997-11-12,2018-04-10,ca1,resolved c1 publisher or source,3,3,3,0,0,0,1.0
+before,1997-11-12,2018-04-10,ca1,resolved c1 including publisher-based preemption,3,3,3,0,0,0,1.0
+before,1997-11-12,2018-04-10,ca10,all coded statutory questions,3,2,1,1,0,1,0.5
+before,1997-11-12,2018-04-10,ca10,resolved c1 publisher or source,3,2,1,1,0,1,0.5
+before,1997-11-12,2018-04-10,ca10,resolved c1 including publisher-based preemption,3,2,1,1,0,1,0.5
+before,1997-11-12,2018-04-10,ca2,all coded statutory questions,2,2,1,1,0,0,0.5
+before,1997-11-12,2018-04-10,ca2,resolved c1 publisher or source,2,2,1,1,0,0,0.5
+before,1997-11-12,2018-04-10,ca2,resolved c1 including publisher-based preemption,2,2,1,1,0,0,0.5
+before,1997-11-12,2018-04-10,ca3,all coded statutory questions,1,1,1,0,0,0,1.0
+before,1997-11-12,2018-04-10,ca3,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+before,1997-11-12,2018-04-10,ca3,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+before,1997-11-12,2018-04-10,ca4,all coded statutory questions,2,2,2,0,0,0,1.0
+before,1997-11-12,2018-04-10,ca4,resolved c1 publisher or source,2,2,2,0,0,0,1.0
+before,1997-11-12,2018-04-10,ca4,resolved c1 including publisher-based preemption,2,2,2,0,0,0,1.0
+before,1997-11-12,2018-04-10,ca5,all coded statutory questions,1,1,1,0,0,0,1.0
+before,1997-11-12,2018-04-10,ca5,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+before,1997-11-12,2018-04-10,ca5,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+before,1997-11-12,2018-04-10,ca6,all coded statutory questions,2,2,2,0,0,0,1.0
+before,1997-11-12,2018-04-10,ca6,resolved c1 publisher or source,2,2,2,0,0,0,1.0
+before,1997-11-12,2018-04-10,ca6,resolved c1 including publisher-based preemption,2,2,2,0,0,0,1.0
+before,1997-11-12,2018-04-10,ca7,all coded statutory questions,4,2,1,1,0,2,0.5
+before,1997-11-12,2018-04-10,ca7,resolved c1 publisher or source,4,2,1,1,0,2,0.5
+before,1997-11-12,2018-04-10,ca7,resolved c1 including publisher-based preemption,4,3,1,2,0,1,0.3333333333333333
+before,1997-11-12,2018-04-10,ca8,all coded statutory questions,1,1,1,0,0,0,1.0
+before,1997-11-12,2018-04-10,ca8,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+before,1997-11-12,2018-04-10,ca8,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+before,1997-11-12,2018-04-10,ca9,all coded statutory questions,8,7,4,1,2,1,0.5714285714285714
+before,1997-11-12,2018-04-10,ca9,resolved c1 publisher or source,8,5,2,1,2,3,0.4
+before,1997-11-12,2018-04-10,ca9,resolved c1 including publisher-based preemption,8,5,2,1,2,3,0.4
+before,1997-11-12,2018-04-10,cadc,all coded statutory questions,2,2,2,0,0,0,1.0
+before,1997-11-12,2018-04-10,cadc,resolved c1 publisher or source,2,2,2,0,0,0,1.0
+before,1997-11-12,2018-04-10,cadc,resolved c1 including publisher-based preemption,2,2,2,0,0,0,1.0
+since,2018-04-11,2025-12-31,All courts,all coded statutory questions,27,23,10,10,3,4,0.43478260869565216
+since,2018-04-11,2025-12-31,All courts,resolved c1 publisher or source,27,19,8,8,3,8,0.42105263157894735
+since,2018-04-11,2025-12-31,All courts,resolved c1 including publisher-based preemption,27,21,8,10,3,6,0.38095238095238093
+since,2018-04-11,2025-12-31,ca1,all coded statutory questions,1,1,1,0,0,0,1.0
+since,2018-04-11,2025-12-31,ca1,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+since,2018-04-11,2025-12-31,ca1,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+since,2018-04-11,2025-12-31,ca11,all coded statutory questions,1,1,1,0,0,0,1.0
+since,2018-04-11,2025-12-31,ca11,resolved c1 publisher or source,1,0,0,0,0,1,
+since,2018-04-11,2025-12-31,ca11,resolved c1 including publisher-based preemption,1,0,0,0,0,1,
+since,2018-04-11,2025-12-31,ca2,all coded statutory questions,3,3,1,2,0,0,0.3333333333333333
+since,2018-04-11,2025-12-31,ca2,resolved c1 publisher or source,3,3,1,2,0,0,0.3333333333333333
+since,2018-04-11,2025-12-31,ca2,resolved c1 including publisher-based preemption,3,3,1,2,0,0,0.3333333333333333
+since,2018-04-11,2025-12-31,ca3,all coded statutory questions,2,2,0,2,0,0,0.0
+since,2018-04-11,2025-12-31,ca3,resolved c1 publisher or source,2,1,0,1,0,1,0.0
+since,2018-04-11,2025-12-31,ca3,resolved c1 including publisher-based preemption,2,1,0,1,0,1,0.0
+since,2018-04-11,2025-12-31,ca4,all coded statutory questions,3,3,1,2,0,0,0.3333333333333333
+since,2018-04-11,2025-12-31,ca4,resolved c1 publisher or source,3,3,1,2,0,0,0.3333333333333333
+since,2018-04-11,2025-12-31,ca4,resolved c1 including publisher-based preemption,3,3,1,2,0,0,0.3333333333333333
+since,2018-04-11,2025-12-31,ca5,all coded statutory questions,2,1,0,1,0,1,0.0
+since,2018-04-11,2025-12-31,ca5,resolved c1 publisher or source,2,1,0,1,0,1,0.0
+since,2018-04-11,2025-12-31,ca5,resolved c1 including publisher-based preemption,2,2,0,2,0,0,0.0
+since,2018-04-11,2025-12-31,ca7,all coded statutory questions,1,1,0,1,0,0,0.0
+since,2018-04-11,2025-12-31,ca7,resolved c1 publisher or source,1,1,0,1,0,0,0.0
+since,2018-04-11,2025-12-31,ca7,resolved c1 including publisher-based preemption,1,1,0,1,0,0,0.0
+since,2018-04-11,2025-12-31,ca8,all coded statutory questions,1,1,1,0,0,0,1.0
+since,2018-04-11,2025-12-31,ca8,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+since,2018-04-11,2025-12-31,ca8,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+since,2018-04-11,2025-12-31,ca9,all coded statutory questions,11,9,4,2,3,2,0.4444444444444444
+since,2018-04-11,2025-12-31,ca9,resolved c1 publisher or source,11,7,3,1,3,4,0.42857142857142855
+since,2018-04-11,2025-12-31,ca9,resolved c1 including publisher-based preemption,11,8,3,2,3,3,0.375
+since,2018-04-11,2025-12-31,cadc,all coded statutory questions,2,1,1,0,0,1,1.0
+since,2018-04-11,2025-12-31,cadc,resolved c1 publisher or source,2,1,1,0,0,1,1.0
+since,2018-04-11,2025-12-31,cadc,resolved c1 including publisher-based preemption,2,1,1,0,0,1,1.0
+equal_window_before,2010-07-20,2018-04-10,All courts,all coded statutory questions,15,12,9,3,0,3,0.75
+equal_window_before,2010-07-20,2018-04-10,All courts,resolved c1 publisher or source,15,12,9,3,0,3,0.75
+equal_window_before,2010-07-20,2018-04-10,All courts,resolved c1 including publisher-based preemption,15,13,9,4,0,2,0.6923076923076923
+equal_window_before,2010-07-20,2018-04-10,ca1,all coded statutory questions,2,2,2,0,0,0,1.0
+equal_window_before,2010-07-20,2018-04-10,ca1,resolved c1 publisher or source,2,2,2,0,0,0,1.0
+equal_window_before,2010-07-20,2018-04-10,ca1,resolved c1 including publisher-based preemption,2,2,2,0,0,0,1.0
+equal_window_before,2010-07-20,2018-04-10,ca10,all coded statutory questions,1,0,0,0,0,1,
+equal_window_before,2010-07-20,2018-04-10,ca10,resolved c1 publisher or source,1,0,0,0,0,1,
+equal_window_before,2010-07-20,2018-04-10,ca10,resolved c1 including publisher-based preemption,1,0,0,0,0,1,
+equal_window_before,2010-07-20,2018-04-10,ca2,all coded statutory questions,2,2,1,1,0,0,0.5
+equal_window_before,2010-07-20,2018-04-10,ca2,resolved c1 publisher or source,2,2,1,1,0,0,0.5
+equal_window_before,2010-07-20,2018-04-10,ca2,resolved c1 including publisher-based preemption,2,2,1,1,0,0,0.5
+equal_window_before,2010-07-20,2018-04-10,ca6,all coded statutory questions,2,2,2,0,0,0,1.0
+equal_window_before,2010-07-20,2018-04-10,ca6,resolved c1 publisher or source,2,2,2,0,0,0,1.0
+equal_window_before,2010-07-20,2018-04-10,ca6,resolved c1 including publisher-based preemption,2,2,2,0,0,0,1.0
+equal_window_before,2010-07-20,2018-04-10,ca7,all coded statutory questions,3,1,0,1,0,2,0.0
+equal_window_before,2010-07-20,2018-04-10,ca7,resolved c1 publisher or source,3,1,0,1,0,2,0.0
+equal_window_before,2010-07-20,2018-04-10,ca7,resolved c1 including publisher-based preemption,3,2,0,2,0,1,0.0
+equal_window_before,2010-07-20,2018-04-10,ca8,all coded statutory questions,1,1,1,0,0,0,1.0
+equal_window_before,2010-07-20,2018-04-10,ca8,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+equal_window_before,2010-07-20,2018-04-10,ca8,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+equal_window_before,2010-07-20,2018-04-10,ca9,all coded statutory questions,2,2,1,1,0,0,0.5
+equal_window_before,2010-07-20,2018-04-10,ca9,resolved c1 publisher or source,2,2,1,1,0,0,0.5
+equal_window_before,2010-07-20,2018-04-10,ca9,resolved c1 including publisher-based preemption,2,2,1,1,0,0,0.5
+equal_window_before,2010-07-20,2018-04-10,cadc,all coded statutory questions,2,2,2,0,0,0,1.0
+equal_window_before,2010-07-20,2018-04-10,cadc,resolved c1 publisher or source,2,2,2,0,0,0,1.0
+equal_window_before,2010-07-20,2018-04-10,cadc,resolved c1 including publisher-based preemption,2,2,2,0,0,0,1.0
+1997–1999,1997-11-12,1999-12-31,All courts,all coded statutory questions,1,1,1,0,0,0,1.0
+1997–1999,1997-11-12,1999-12-31,All courts,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+1997–1999,1997-11-12,1999-12-31,All courts,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+1997–1999,1997-11-12,1999-12-31,ca4,all coded statutory questions,1,1,1,0,0,0,1.0
+1997–1999,1997-11-12,1999-12-31,ca4,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+1997–1999,1997-11-12,1999-12-31,ca4,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+2000–2004,2000-01-01,2004-12-31,All courts,all coded statutory questions,4,3,3,0,0,1,1.0
+2000–2004,2000-01-01,2004-12-31,All courts,resolved c1 publisher or source,4,3,3,0,0,1,1.0
+2000–2004,2000-01-01,2004-12-31,All courts,resolved c1 including publisher-based preemption,4,3,3,0,0,1,1.0
+2000–2004,2000-01-01,2004-12-31,ca10,all coded statutory questions,1,1,1,0,0,0,1.0
+2000–2004,2000-01-01,2004-12-31,ca10,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+2000–2004,2000-01-01,2004-12-31,ca10,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+2000–2004,2000-01-01,2004-12-31,ca3,all coded statutory questions,1,1,1,0,0,0,1.0
+2000–2004,2000-01-01,2004-12-31,ca3,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+2000–2004,2000-01-01,2004-12-31,ca3,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+2000–2004,2000-01-01,2004-12-31,ca9,all coded statutory questions,2,1,1,0,0,1,1.0
+2000–2004,2000-01-01,2004-12-31,ca9,resolved c1 publisher or source,2,1,1,0,0,1,1.0
+2000–2004,2000-01-01,2004-12-31,ca9,resolved c1 including publisher-based preemption,2,1,1,0,0,1,1.0
+2005–2009,2005-01-01,2009-12-31,All courts,all coded statutory questions,9,9,6,1,2,0,0.6666666666666666
+2005–2009,2005-01-01,2009-12-31,All courts,resolved c1 publisher or source,9,7,4,1,2,2,0.5714285714285714
+2005–2009,2005-01-01,2009-12-31,All courts,resolved c1 including publisher-based preemption,9,7,4,1,2,2,0.5714285714285714
+2005–2009,2005-01-01,2009-12-31,ca1,all coded statutory questions,1,1,1,0,0,0,1.0
+2005–2009,2005-01-01,2009-12-31,ca1,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+2005–2009,2005-01-01,2009-12-31,ca1,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+2005–2009,2005-01-01,2009-12-31,ca10,all coded statutory questions,1,1,0,1,0,0,0.0
+2005–2009,2005-01-01,2009-12-31,ca10,resolved c1 publisher or source,1,1,0,1,0,0,0.0
+2005–2009,2005-01-01,2009-12-31,ca10,resolved c1 including publisher-based preemption,1,1,0,1,0,0,0.0
+2005–2009,2005-01-01,2009-12-31,ca4,all coded statutory questions,1,1,1,0,0,0,1.0
+2005–2009,2005-01-01,2009-12-31,ca4,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+2005–2009,2005-01-01,2009-12-31,ca4,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+2005–2009,2005-01-01,2009-12-31,ca5,all coded statutory questions,1,1,1,0,0,0,1.0
+2005–2009,2005-01-01,2009-12-31,ca5,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+2005–2009,2005-01-01,2009-12-31,ca5,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+2005–2009,2005-01-01,2009-12-31,ca7,all coded statutory questions,1,1,1,0,0,0,1.0
+2005–2009,2005-01-01,2009-12-31,ca7,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+2005–2009,2005-01-01,2009-12-31,ca7,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+2005–2009,2005-01-01,2009-12-31,ca9,all coded statutory questions,4,4,2,0,2,0,0.5
+2005–2009,2005-01-01,2009-12-31,ca9,resolved c1 publisher or source,4,2,0,0,2,2,0.0
+2005–2009,2005-01-01,2009-12-31,ca9,resolved c1 including publisher-based preemption,4,2,0,0,2,2,0.0
+2010–2014,2010-01-01,2014-12-31,All courts,all coded statutory questions,4,3,3,0,0,1,1.0
+2010–2014,2010-01-01,2014-12-31,All courts,resolved c1 publisher or source,4,3,3,0,0,1,1.0
+2010–2014,2010-01-01,2014-12-31,All courts,resolved c1 including publisher-based preemption,4,4,3,1,0,0,0.75
+2010–2014,2010-01-01,2014-12-31,ca6,all coded statutory questions,1,1,1,0,0,0,1.0
+2010–2014,2010-01-01,2014-12-31,ca6,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+2010–2014,2010-01-01,2014-12-31,ca6,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+2010–2014,2010-01-01,2014-12-31,ca7,all coded statutory questions,1,0,0,0,0,1,
+2010–2014,2010-01-01,2014-12-31,ca7,resolved c1 publisher or source,1,0,0,0,0,1,
+2010–2014,2010-01-01,2014-12-31,ca7,resolved c1 including publisher-based preemption,1,1,0,1,0,0,0.0
+2010–2014,2010-01-01,2014-12-31,ca8,all coded statutory questions,1,1,1,0,0,0,1.0
+2010–2014,2010-01-01,2014-12-31,ca8,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+2010–2014,2010-01-01,2014-12-31,ca8,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+2010–2014,2010-01-01,2014-12-31,cadc,all coded statutory questions,1,1,1,0,0,0,1.0
+2010–2014,2010-01-01,2014-12-31,cadc,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+2010–2014,2010-01-01,2014-12-31,cadc,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+2015–2019,2015-01-01,2019-12-31,All courts,all coded statutory questions,17,14,9,5,0,3,0.6428571428571429
+2015–2019,2015-01-01,2019-12-31,All courts,resolved c1 publisher or source,17,13,9,4,0,4,0.6923076923076923
+2015–2019,2015-01-01,2019-12-31,All courts,resolved c1 including publisher-based preemption,17,14,9,5,0,3,0.6428571428571429
+2015–2019,2015-01-01,2019-12-31,ca1,all coded statutory questions,2,2,2,0,0,0,1.0
+2015–2019,2015-01-01,2019-12-31,ca1,resolved c1 publisher or source,2,2,2,0,0,0,1.0
+2015–2019,2015-01-01,2019-12-31,ca1,resolved c1 including publisher-based preemption,2,2,2,0,0,0,1.0
+2015–2019,2015-01-01,2019-12-31,ca10,all coded statutory questions,1,0,0,0,0,1,
+2015–2019,2015-01-01,2019-12-31,ca10,resolved c1 publisher or source,1,0,0,0,0,1,
+2015–2019,2015-01-01,2019-12-31,ca10,resolved c1 including publisher-based preemption,1,0,0,0,0,1,
+2015–2019,2015-01-01,2019-12-31,ca2,all coded statutory questions,3,3,2,1,0,0,0.6666666666666666
+2015–2019,2015-01-01,2019-12-31,ca2,resolved c1 publisher or source,3,3,2,1,0,0,0.6666666666666666
+2015–2019,2015-01-01,2019-12-31,ca2,resolved c1 including publisher-based preemption,3,3,2,1,0,0,0.6666666666666666
+2015–2019,2015-01-01,2019-12-31,ca4,all coded statutory questions,1,1,0,1,0,0,0.0
+2015–2019,2015-01-01,2019-12-31,ca4,resolved c1 publisher or source,1,1,0,1,0,0,0.0
+2015–2019,2015-01-01,2019-12-31,ca4,resolved c1 including publisher-based preemption,1,1,0,1,0,0,0.0
+2015–2019,2015-01-01,2019-12-31,ca6,all coded statutory questions,1,1,1,0,0,0,1.0
+2015–2019,2015-01-01,2019-12-31,ca6,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+2015–2019,2015-01-01,2019-12-31,ca6,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+2015–2019,2015-01-01,2019-12-31,ca7,all coded statutory questions,2,1,0,1,0,1,0.0
+2015–2019,2015-01-01,2019-12-31,ca7,resolved c1 publisher or source,2,1,0,1,0,1,0.0
+2015–2019,2015-01-01,2019-12-31,ca7,resolved c1 including publisher-based preemption,2,1,0,1,0,1,0.0
+2015–2019,2015-01-01,2019-12-31,ca9,all coded statutory questions,5,4,2,2,0,1,0.5
+2015–2019,2015-01-01,2019-12-31,ca9,resolved c1 publisher or source,5,3,2,1,0,2,0.6666666666666666
+2015–2019,2015-01-01,2019-12-31,ca9,resolved c1 including publisher-based preemption,5,4,2,2,0,1,0.5
+2015–2019,2015-01-01,2019-12-31,cadc,all coded statutory questions,2,2,2,0,0,0,1.0
+2015–2019,2015-01-01,2019-12-31,cadc,resolved c1 publisher or source,2,2,2,0,0,0,1.0
+2015–2019,2015-01-01,2019-12-31,cadc,resolved c1 including publisher-based preemption,2,2,2,0,0,0,1.0
+2020–2024,2020-01-01,2024-12-31,All courts,all coded statutory questions,17,14,5,7,2,3,0.35714285714285715
+2020–2024,2020-01-01,2024-12-31,All courts,resolved c1 publisher or source,17,11,3,6,2,6,0.2727272727272727
+2020–2024,2020-01-01,2024-12-31,All courts,resolved c1 including publisher-based preemption,17,12,3,7,2,5,0.25
+2020–2024,2020-01-01,2024-12-31,ca1,all coded statutory questions,1,1,1,0,0,0,1.0
+2020–2024,2020-01-01,2024-12-31,ca1,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+2020–2024,2020-01-01,2024-12-31,ca1,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+2020–2024,2020-01-01,2024-12-31,ca11,all coded statutory questions,1,1,1,0,0,0,1.0
+2020–2024,2020-01-01,2024-12-31,ca11,resolved c1 publisher or source,1,0,0,0,0,1,
+2020–2024,2020-01-01,2024-12-31,ca11,resolved c1 including publisher-based preemption,1,0,0,0,0,1,
+2020–2024,2020-01-01,2024-12-31,ca2,all coded statutory questions,1,1,0,1,0,0,0.0
+2020–2024,2020-01-01,2024-12-31,ca2,resolved c1 publisher or source,1,1,0,1,0,0,0.0
+2020–2024,2020-01-01,2024-12-31,ca2,resolved c1 including publisher-based preemption,1,1,0,1,0,0,0.0
+2020–2024,2020-01-01,2024-12-31,ca3,all coded statutory questions,2,2,0,2,0,0,0.0
+2020–2024,2020-01-01,2024-12-31,ca3,resolved c1 publisher or source,2,1,0,1,0,1,0.0
+2020–2024,2020-01-01,2024-12-31,ca3,resolved c1 including publisher-based preemption,2,1,0,1,0,1,0.0
+2020–2024,2020-01-01,2024-12-31,ca4,all coded statutory questions,1,1,0,1,0,0,0.0
+2020–2024,2020-01-01,2024-12-31,ca4,resolved c1 publisher or source,1,1,0,1,0,0,0.0
+2020–2024,2020-01-01,2024-12-31,ca4,resolved c1 including publisher-based preemption,1,1,0,1,0,0,0.0
+2020–2024,2020-01-01,2024-12-31,ca5,all coded statutory questions,2,1,0,1,0,1,0.0
+2020–2024,2020-01-01,2024-12-31,ca5,resolved c1 publisher or source,2,1,0,1,0,1,0.0
+2020–2024,2020-01-01,2024-12-31,ca5,resolved c1 including publisher-based preemption,2,2,0,2,0,0,0.0
+2020–2024,2020-01-01,2024-12-31,ca7,all coded statutory questions,1,1,0,1,0,0,0.0
+2020–2024,2020-01-01,2024-12-31,ca7,resolved c1 publisher or source,1,1,0,1,0,0,0.0
+2020–2024,2020-01-01,2024-12-31,ca7,resolved c1 including publisher-based preemption,1,1,0,1,0,0,0.0
+2020–2024,2020-01-01,2024-12-31,ca8,all coded statutory questions,1,1,1,0,0,0,1.0
+2020–2024,2020-01-01,2024-12-31,ca8,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+2020–2024,2020-01-01,2024-12-31,ca8,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+2020–2024,2020-01-01,2024-12-31,ca9,all coded statutory questions,6,5,2,1,2,1,0.4
+2020–2024,2020-01-01,2024-12-31,ca9,resolved c1 publisher or source,6,4,1,1,2,2,0.25
+2020–2024,2020-01-01,2024-12-31,ca9,resolved c1 including publisher-based preemption,6,4,1,1,2,2,0.25
+2020–2024,2020-01-01,2024-12-31,cadc,all coded statutory questions,1,0,0,0,0,1,
+2020–2024,2020-01-01,2024-12-31,cadc,resolved c1 publisher or source,1,0,0,0,0,1,
+2020–2024,2020-01-01,2024-12-31,cadc,resolved c1 including publisher-based preemption,1,0,0,0,0,1,
+2025–2025,2025-01-01,2025-12-31,All courts,all coded statutory questions,4,4,2,1,1,0,0.5
+2025–2025,2025-01-01,2025-12-31,All courts,resolved c1 publisher or source,4,4,2,1,1,0,0.5
+2025–2025,2025-01-01,2025-12-31,All courts,resolved c1 including publisher-based preemption,4,4,2,1,1,0,0.5
+2025–2025,2025-01-01,2025-12-31,ca2,all coded statutory questions,1,1,0,1,0,0,0.0
+2025–2025,2025-01-01,2025-12-31,ca2,resolved c1 publisher or source,1,1,0,1,0,0,0.0
+2025–2025,2025-01-01,2025-12-31,ca2,resolved c1 including publisher-based preemption,1,1,0,1,0,0,0.0
+2025–2025,2025-01-01,2025-12-31,ca4,all coded statutory questions,1,1,1,0,0,0,1.0
+2025–2025,2025-01-01,2025-12-31,ca4,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+2025–2025,2025-01-01,2025-12-31,ca4,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+2025–2025,2025-01-01,2025-12-31,ca9,all coded statutory questions,2,2,1,0,1,0,0.5
+2025–2025,2025-01-01,2025-12-31,ca9,resolved c1 publisher or source,2,2,1,0,1,0,0.5
+2025–2025,2025-01-01,2025-12-31,ca9,resolved c1 including publisher-based preemption,2,2,1,0,1,0,0.5
+since_excluding_direct_carveout,2018-04-11,2025-12-31,All courts,all coded statutory questions,23,19,7,10,2,4,0.3684210526315789
+since_excluding_direct_carveout,2018-04-11,2025-12-31,All courts,resolved c1 publisher or source,23,17,7,8,2,6,0.4117647058823529
+since_excluding_direct_carveout,2018-04-11,2025-12-31,All courts,resolved c1 including publisher-based preemption,23,19,7,10,2,4,0.3684210526315789
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca1,all coded statutory questions,1,1,1,0,0,0,1.0
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca1,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca1,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca2,all coded statutory questions,3,3,1,2,0,0,0.3333333333333333
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca2,resolved c1 publisher or source,3,3,1,2,0,0,0.3333333333333333
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca2,resolved c1 including publisher-based preemption,3,3,1,2,0,0,0.3333333333333333
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca3,all coded statutory questions,2,2,0,2,0,0,0.0
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca3,resolved c1 publisher or source,2,1,0,1,0,1,0.0
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca3,resolved c1 including publisher-based preemption,2,1,0,1,0,1,0.0
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca4,all coded statutory questions,3,3,1,2,0,0,0.3333333333333333
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca4,resolved c1 publisher or source,3,3,1,2,0,0,0.3333333333333333
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca4,resolved c1 including publisher-based preemption,3,3,1,2,0,0,0.3333333333333333
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca5,all coded statutory questions,2,1,0,1,0,1,0.0
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca5,resolved c1 publisher or source,2,1,0,1,0,1,0.0
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca5,resolved c1 including publisher-based preemption,2,2,0,2,0,0,0.0
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca7,all coded statutory questions,1,1,0,1,0,0,0.0
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca7,resolved c1 publisher or source,1,1,0,1,0,0,0.0
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca7,resolved c1 including publisher-based preemption,1,1,0,1,0,0,0.0
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca8,all coded statutory questions,1,1,1,0,0,0,1.0
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca8,resolved c1 publisher or source,1,1,1,0,0,0,1.0
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca8,resolved c1 including publisher-based preemption,1,1,1,0,0,0,1.0
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca9,all coded statutory questions,8,6,2,2,2,2,0.3333333333333333
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca9,resolved c1 publisher or source,8,5,2,1,2,3,0.4
+since_excluding_direct_carveout,2018-04-11,2025-12-31,ca9,resolved c1 including publisher-based preemption,8,6,2,2,2,2,0.3333333333333333
+since_excluding_direct_carveout,2018-04-11,2025-12-31,cadc,all coded statutory questions,2,1,1,0,0,1,1.0
+since_excluding_direct_carveout,2018-04-11,2025-12-31,cadc,resolved c1 publisher or source,2,1,1,0,0,1,1.0
+since_excluding_direct_carveout,2018-04-11,2025-12-31,cadc,resolved c1 including publisher-based preemption,2,1,1,0,0,1,1.0

@@ -1,0 +1,8 @@
+{
+  "reference_positives": 56,
+  "recovered": 56,
+  "observed_in_scope": 56,
+  "recall_in_reference": 1.0,
+  "missed": [],
+  "mode": "case"
+}

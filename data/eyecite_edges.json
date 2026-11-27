@@ -1,0 +1,7292 @@
+{
+  "status": "parser_candidates",
+  "candidate_pairs": 312,
+  "audited_baseline_pairs": 317,
+  "overlap_with_audited_baseline": 311,
+  "pairs": [
+    {
+      "citing_opinion_id": "S230-002",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 506,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d, 327"
+        },
+        {
+          "source_line": 528,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 327"
+        },
+        {
+          "source_line": 635,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-003",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 828,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        },
+        {
+          "source_line": 839,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 332-33"
+        },
+        {
+          "source_line": 975,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 334"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-003",
+      "cited_opinion_id": "S230-002",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 829,
+          "citation_type": "FullCaseCitation",
+          "citation": "206 F.3d 980"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-004",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 1986,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        },
+        {
+          "source_line": 2028,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 331"
+        },
+        {
+          "source_line": 2238,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 331"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-004",
+      "cited_opinion_id": "S230-002",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 1999,
+          "citation_type": "FullCaseCitation",
+          "citation": "206 F.3d 980"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-005",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 4467,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        },
+        {
+          "source_line": 4484,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330-31"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-005",
+      "cited_opinion_id": "S230-002",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 4463,
+          "citation_type": "FullCaseCitation",
+          "citation": "206 F.3d 980"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-005",
+      "cited_opinion_id": "S230-003",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 4460,
+          "citation_type": "FullCaseCitation",
+          "citation": "318 F.3d 465"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-005",
+      "cited_opinion_id": "S230-004",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 4426,
+          "citation_type": "FullCaseCitation",
+          "citation": "333 F.3d 1018"
+        },
+        {
+          "source_line": 4431,
+          "citation_type": "IdCitation",
+          "citation": "id. at 1026-30"
+        },
+        {
+          "source_line": 4451,
+          "citation_type": "ShortCaseCitation",
+          "citation": "333 F.3d at 1030-32"
+        },
+        {
+          "source_line": 4456,
+          "citation_type": "IdCitation",
+          "citation": "id. at 1035"
+        },
+        {
+          "source_line": 4484,
+          "citation_type": "ShortCaseCitation",
+          "citation": "333 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-006",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 4774,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        },
+        {
+          "source_line": 4780,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 331"
+        },
+        {
+          "source_line": 4784,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 4830,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 332-33"
+        },
+        {
+          "source_line": 4926,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-006",
+      "cited_opinion_id": "S230-002",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 4776,
+          "citation_type": "FullCaseCitation",
+          "citation": "206 F.3d 980"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-006",
+      "cited_opinion_id": "S230-003",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 4937,
+          "citation_type": "FullCaseCitation",
+          "citation": "318 F.3d 465"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-006",
+      "cited_opinion_id": "S230-005",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 4775,
+          "citation_type": "FullCaseCitation",
+          "citation": "339 F.3d 1119"
+        },
+        {
+          "source_line": 4809,
+          "citation_type": "ShortCaseCitation",
+          "citation": "339 F.3d at 1123"
+        },
+        {
+          "source_line": 4849,
+          "citation_type": "ShortCaseCitation",
+          "citation": "339 F.3d at 1124-25"
+        },
+        {
+          "source_line": 4853,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1125"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-007",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 6895,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        },
+        {
+          "source_line": 6975,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-007",
+      "cited_opinion_id": "S230-004",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 6901,
+          "citation_type": "FullCaseCitation",
+          "citation": "333 F.3d 1018"
+        },
+        {
+          "source_line": 6964,
+          "citation_type": "ShortCaseCitation",
+          "citation": "333 F.3d at 1027"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-007",
+      "cited_opinion_id": "S230-005",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 6898,
+          "citation_type": "FullCaseCitation",
+          "citation": "339 F.3d 1119"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-008",
+      "cited_opinion_id": "S230-004",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 7591,
+          "citation_type": "FullCaseCitation",
+          "citation": "333 F.3d 1018"
+        },
+        {
+          "source_line": 7760,
+          "citation_type": "FullCaseCitation",
+          "citation": "333 F.3d 1018"
+        },
+        {
+          "source_line": 7773,
+          "citation_type": "ShortCaseCitation",
+          "citation": "333 F.3d at 1035"
+        },
+        {
+          "source_line": 7785,
+          "citation_type": "ShortCaseCitation",
+          "citation": "333 F.3d at 1033"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-008",
+      "cited_opinion_id": "S230-005",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 7786,
+          "citation_type": "FullCaseCitation",
+          "citation": "339 F.3d 1119"
+        },
+        {
+          "source_line": 7794,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1124"
+        },
+        {
+          "source_line": 7824,
+          "citation_type": "ShortCaseCitation",
+          "citation": "339 F.3d at 1124"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-009",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 8867,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-009",
+      "cited_opinion_id": "S230-002",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 8868,
+          "citation_type": "FullCaseCitation",
+          "citation": "206 F.3d 980"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-009",
+      "cited_opinion_id": "S230-003",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 8868,
+          "citation_type": "FullCaseCitation",
+          "citation": "318 F.3d 465"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-009",
+      "cited_opinion_id": "S230-004",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 8869,
+          "citation_type": "FullCaseCitation",
+          "citation": "333 F.3d 1018"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-009",
+      "cited_opinion_id": "S230-006",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 8870,
+          "citation_type": "FullCaseCitation",
+          "citation": "478 F.3d 413"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-010",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 9138,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        },
+        {
+          "source_line": 9150,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 333"
+        },
+        {
+          "source_line": 9154,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 329"
+        },
+        {
+          "source_line": 9211,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 333"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-010",
+      "cited_opinion_id": "S230-002",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 9137,
+          "citation_type": "FullCaseCitation",
+          "citation": "206 F.3d 980"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-010",
+      "cited_opinion_id": "S230-003",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 9134,
+          "citation_type": "FullCaseCitation",
+          "citation": "318 F.3d 465"
+        },
+        {
+          "source_line": 9199,
+          "citation_type": "ShortCaseCitation",
+          "citation": "318 F.3d at 469"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-010",
+      "cited_opinion_id": "S230-004",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 9136,
+          "citation_type": "FullCaseCitation",
+          "citation": "333 F.3d 1018"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-010",
+      "cited_opinion_id": "S230-005",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 9135,
+          "citation_type": "FullCaseCitation",
+          "citation": "339 F.3d 1119"
+        },
+        {
+          "source_line": 9141,
+          "citation_type": "ShortCaseCitation",
+          "citation": "339 F.3d at 1122"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-011",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 9514,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        },
+        {
+          "source_line": 9545,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        },
+        {
+          "source_line": 9653,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 332"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-011",
+      "cited_opinion_id": "S230-004",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 9505,
+          "citation_type": "FullCaseCitation",
+          "citation": "333 F.3d 1018"
+        },
+        {
+          "source_line": 9654,
+          "citation_type": "ShortCaseCitation",
+          "citation": "333 F.3d at "
+        },
+        {
+          "source_line": 9914,
+          "citation_type": "ShortCaseCitation",
+          "citation": "333 F.3d at 1032"
+        },
+        {
+          "source_line": 9936,
+          "citation_type": "ShortCaseCitation",
+          "citation": "333 F.3d at 1032"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-011",
+      "cited_opinion_id": "S230-005",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 9451,
+          "citation_type": "FullCaseCitation",
+          "citation": "339 F.3d 1119"
+        },
+        {
+          "source_line": 9505,
+          "citation_type": "FullCaseCitation",
+          "citation": "339 F.3d 1119"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-011",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 9478,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        },
+        {
+          "source_line": 9514,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1163"
+        },
+        {
+          "source_line": 9520,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        },
+        {
+          "source_line": 9532,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1170-71"
+        },
+        {
+          "source_line": 9595,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1170-71"
+        },
+        {
+          "source_line": 9690,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1163-64"
+        },
+        {
+          "source_line": 9707,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1162-63"
+        },
+        {
+          "source_line": 9881,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        },
+        {
+          "source_line": 9902,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1169"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-011",
+      "cited_opinion_id": "S230-009",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 9475,
+          "citation_type": "FullCaseCitation",
+          "citation": "519 F.3d 666"
+        },
+        {
+          "source_line": 9516,
+          "citation_type": "ShortCaseCitation",
+          "citation": "519 F.3d at 671"
+        },
+        {
+          "source_line": 9589,
+          "citation_type": "ShortCaseCitation",
+          "citation": "519 F.3d at 671"
+        },
+        {
+          "source_line": 9678,
+          "citation_type": "ShortCaseCitation",
+          "citation": "519 F.3d at 671"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-011",
+      "cited_opinion_id": "S230-010",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 9521,
+          "citation_type": "FullCaseCitation",
+          "citation": "528 F.3d 413"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-012",
+      "cited_opinion_id": "S230-004",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 10123,
+          "citation_type": "FullCaseCitation",
+          "citation": "333 F.3d 1018"
+        },
+        {
+          "source_line": 10201,
+          "citation_type": "ShortCaseCitation",
+          "citation": "333 F.3d at 1030-31"
+        },
+        {
+          "source_line": 10218,
+          "citation_type": "ShortCaseCitation",
+          "citation": "333 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-012",
+      "cited_opinion_id": "S230-005",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 10200,
+          "citation_type": "FullCaseCitation",
+          "citation": "339 F.3d 1119"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-012",
+      "cited_opinion_id": "S230-007",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 10315,
+          "citation_type": "FullCaseCitation",
+          "citation": "488 F.3d 1102"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-012",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 10199,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-012",
+      "cited_opinion_id": "S230-011",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 10198,
+          "citation_type": "FullCaseCitation",
+          "citation": "565 F.3d 560"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-013",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 428,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        },
+        {
+          "source_line": 441,
+          "citation_type": "IdCitation",
+          "citation": "id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-013",
+      "cited_opinion_id": "S230-002",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 613,
+          "citation_type": "FullCaseCitation",
+          "citation": "206 F.3d 980"
+        },
+        {
+          "source_line": 746,
+          "citation_type": "FullCaseCitation",
+          "citation": "206 F.3d 980"
+        },
+        {
+          "source_line": 749,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 983"
+        },
+        {
+          "source_line": 751,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 752,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 986"
+        },
+        {
+          "source_line": 765,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 985"
+        },
+        {
+          "source_line": 771,
+          "citation_type": "IdCitation",
+          "citation": "id. at 983"
+        },
+        {
+          "source_line": 774,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 985"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-013",
+      "cited_opinion_id": "S230-004",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 557,
+          "citation_type": "FullCaseCitation",
+          "citation": "333 F.3d 1018"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-013",
+      "cited_opinion_id": "S230-005",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 829,
+          "citation_type": "FullCaseCitation",
+          "citation": "339 F.3d 1119"
+        },
+        {
+          "source_line": 832,
+          "citation_type": "IdCitation",
+          "citation": "id. at 1121"
+        },
+        {
+          "source_line": 834,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 835,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 837,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1124"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-013",
+      "cited_opinion_id": "S230-006",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 554,
+          "citation_type": "FullCaseCitation",
+          "citation": "478 F.3d 413"
+        },
+        {
+          "source_line": 619,
+          "citation_type": "ShortCaseCitation",
+          "citation": "478 F.3d at 419"
+        },
+        {
+          "source_line": 857,
+          "citation_type": "ShortCaseCitation",
+          "citation": "478 F.3d at 420"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-013",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 446,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        },
+        {
+          "source_line": 454,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1163"
+        },
+        {
+          "source_line": 612,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1162"
+        },
+        {
+          "source_line": 650,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1168"
+        },
+        {
+          "source_line": 680,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        },
+        {
+          "source_line": 795,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        },
+        {
+          "source_line": 798,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1161"
+        },
+        {
+          "source_line": 798,
+          "citation_type": "IdCitation",
+          "citation": "id."
+        },
+        {
+          "source_line": 799,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1161"
+        },
+        {
+          "source_line": 802,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1165"
+        },
+        {
+          "source_line": 804,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 809,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1166"
+        },
+        {
+          "source_line": 811,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1168"
+        },
+        {
+          "source_line": 841,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1172"
+        },
+        {
+          "source_line": 843,
+          "citation_type": "IdCitation",
+          "citation": "id. at 1171"
+        },
+        {
+          "source_line": 856,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1172"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-014",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 15418,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        },
+        {
+          "source_line": 15469,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        },
+        {
+          "source_line": 15493,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330-31"
+        },
+        {
+          "source_line": 15495,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 331"
+        },
+        {
+          "source_line": 15504,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        },
+        {
+          "source_line": 15508,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 331"
+        },
+        {
+          "source_line": 15670,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-014",
+      "cited_opinion_id": "S230-005",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 15495,
+          "citation_type": "FullCaseCitation",
+          "citation": "339 F.3d 1119"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-014",
+      "cited_opinion_id": "S230-006",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 15487,
+          "citation_type": "FullCaseCitation",
+          "citation": "478 F.3d 413"
+        },
+        {
+          "source_line": 15494,
+          "citation_type": "ShortCaseCitation",
+          "citation": "478 F.3d at 418"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-014",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 15484,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        },
+        {
+          "source_line": 15516,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1175"
+        },
+        {
+          "source_line": 15611,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-014",
+      "cited_opinion_id": "S230-009",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 15491,
+          "citation_type": "FullCaseCitation",
+          "citation": "519 F.3d 666"
+        },
+        {
+          "source_line": 15500,
+          "citation_type": "ShortCaseCitation",
+          "citation": "519 F.3d at 669"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-014",
+      "cited_opinion_id": "S230-010",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 15490,
+          "citation_type": "FullCaseCitation",
+          "citation": "528 F.3d 413"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-015",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 16072,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        },
+        {
+          "source_line": 16093,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 332-34"
+        },
+        {
+          "source_line": 16120,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-015",
+      "cited_opinion_id": "S230-002",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 16090,
+          "citation_type": "FullCaseCitation",
+          "citation": "206 F.3d 980"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-015",
+      "cited_opinion_id": "S230-003",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 16075,
+          "citation_type": "FullCaseCitation",
+          "citation": "318 F.3d 465"
+        },
+        {
+          "source_line": 16089,
+          "citation_type": "ShortCaseCitation",
+          "citation": "318 F.3d at 471"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-015",
+      "cited_opinion_id": "S230-004",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 16086,
+          "citation_type": "FullCaseCitation",
+          "citation": "333 F.3d 1018"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-015",
+      "cited_opinion_id": "S230-006",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 16082,
+          "citation_type": "FullCaseCitation",
+          "citation": "478 F.3d 413"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-015",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 16061,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-015",
+      "cited_opinion_id": "S230-009",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 16104,
+          "citation_type": "FullCaseCitation",
+          "citation": "519 F.3d 666"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-015",
+      "cited_opinion_id": "S230-014",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 16067,
+          "citation_type": "FullCaseCitation",
+          "citation": "591 F.3d 250"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-016",
+      "cited_opinion_id": "S230-009",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 221,
+          "citation_type": "FullCaseCitation",
+          "citation": "519 F.3d 666"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-017",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 16660,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-017",
+      "cited_opinion_id": "S230-003",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 16663,
+          "citation_type": "FullCaseCitation",
+          "citation": "318 F.3d 465"
+        },
+        {
+          "source_line": 16668,
+          "citation_type": "ShortCaseCitation",
+          "citation": "318 F.3d at 471"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-017",
+      "cited_opinion_id": "S230-006",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 16664,
+          "citation_type": "FullCaseCitation",
+          "citation": "478 F.3d 413"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-017",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 16635,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        },
+        {
+          "source_line": 16669,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1170-1171"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-017",
+      "cited_opinion_id": "S230-010",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 16666,
+          "citation_type": "FullCaseCitation",
+          "citation": "528 F.3d 413"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-017",
+      "cited_opinion_id": "S230-014",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 16639,
+          "citation_type": "FullCaseCitation",
+          "citation": "591 F.3d 250"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-018",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 16968,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        },
+        {
+          "source_line": 16984,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        },
+        {
+          "source_line": 16988,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 328"
+        },
+        {
+          "source_line": 16989,
+          "citation_type": "IdCitation",
+          "citation": "id."
+        },
+        {
+          "source_line": 17002,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 331"
+        },
+        {
+          "source_line": 17016,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 331"
+        },
+        {
+          "source_line": 17091,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        },
+        {
+          "source_line": 17266,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at "
+        },
+        {
+          "source_line": 17346,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 333"
+        },
+        {
+          "source_line": 17397,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        },
+        {
+          "source_line": 17403,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 17434,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-018",
+      "cited_opinion_id": "S230-002",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 16968,
+          "citation_type": "FullCaseCitation",
+          "citation": "206 F.3d 980"
+        },
+        {
+          "source_line": 17263,
+          "citation_type": "ShortCaseCitation",
+          "citation": "206 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-018",
+      "cited_opinion_id": "S230-003",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 16959,
+          "citation_type": "FullCaseCitation",
+          "citation": "318 F.3d 465"
+        },
+        {
+          "source_line": 17262,
+          "citation_type": "ShortCaseCitation",
+          "citation": "318 F.3d at 471"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-018",
+      "cited_opinion_id": "S230-004",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 16958,
+          "citation_type": "FullCaseCitation",
+          "citation": "333 F.3d 1018"
+        },
+        {
+          "source_line": 16973,
+          "citation_type": "ShortCaseCitation",
+          "citation": "333 F.3d at "
+        },
+        {
+          "source_line": 17049,
+          "citation_type": "ShortCaseCitation",
+          "citation": "333 F. 3d at 1033"
+        },
+        {
+          "source_line": 17180,
+          "citation_type": "ShortCaseCitation",
+          "citation": "333 F.3d at 1035"
+        },
+        {
+          "source_line": 17353,
+          "citation_type": "ShortCaseCitation",
+          "citation": "333 F.3d at 1031"
+        },
+        {
+          "source_line": 17369,
+          "citation_type": "ShortCaseCitation",
+          "citation": "333 F.3d at 1031"
+        },
+        {
+          "source_line": 17392,
+          "citation_type": "ShortCaseCitation",
+          "citation": "333 F.3d at 1035"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-018",
+      "cited_opinion_id": "S230-005",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 17042,
+          "citation_type": "FullCaseCitation",
+          "citation": "339 F.3d 1119"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-018",
+      "cited_opinion_id": "S230-006",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 16958,
+          "citation_type": "FullCaseCitation",
+          "citation": "478 F.3d 413"
+        },
+        {
+          "source_line": 17055,
+          "citation_type": "ShortCaseCitation",
+          "citation": "478 F.3d at 418"
+        },
+        {
+          "source_line": 17453,
+          "citation_type": "ShortCaseCitation",
+          "citation": "478 F.3d at 418"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-018",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 17028,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        },
+        {
+          "source_line": 17048,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        },
+        {
+          "source_line": 17086,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1167"
+        },
+        {
+          "source_line": 17092,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1167"
+        },
+        {
+          "source_line": 17122,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        },
+        {
+          "source_line": 17127,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1161"
+        },
+        {
+          "source_line": 17130,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 17132,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1162"
+        },
+        {
+          "source_line": 17135,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 17137,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 17143,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        },
+        {
+          "source_line": 17160,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1169"
+        },
+        {
+          "source_line": 17164,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1166, 1169"
+        },
+        {
+          "source_line": 17169,
+          "citation_type": "IdCitation",
+          "citation": "id."
+        },
+        {
+          "source_line": 17179,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1169"
+        },
+        {
+          "source_line": 17191,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        },
+        {
+          "source_line": 17300,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        },
+        {
+          "source_line": 17309,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        },
+        {
+          "source_line": 17315,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        },
+        {
+          "source_line": 17351,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1174"
+        },
+        {
+          "source_line": 17368,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1174"
+        },
+        {
+          "source_line": 17406,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        },
+        {
+          "source_line": 17419,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-018",
+      "cited_opinion_id": "S230-009",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 16957,
+          "citation_type": "FullCaseCitation",
+          "citation": "519 F.3d 666"
+        },
+        {
+          "source_line": 17147,
+          "citation_type": "ShortCaseCitation",
+          "citation": "519 F.3d at 671"
+        },
+        {
+          "source_line": 17260,
+          "citation_type": "ShortCaseCitation",
+          "citation": "519 F.3d at 671"
+        },
+        {
+          "source_line": 17296,
+          "citation_type": "ShortCaseCitation",
+          "citation": "519 F.3d at "
+        },
+        {
+          "source_line": 17317,
+          "citation_type": "ShortCaseCitation",
+          "citation": "519 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-018",
+      "cited_opinion_id": "S230-010",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 16955,
+          "citation_type": "FullCaseCitation",
+          "citation": "528 F.3d 413"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-018",
+      "cited_opinion_id": "S230-014",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 17004,
+          "citation_type": "FullCaseCitation",
+          "citation": "591 F.3d 250"
+        },
+        {
+          "source_line": 17024,
+          "citation_type": "ShortCaseCitation",
+          "citation": "591 F.3d at 254"
+        },
+        {
+          "source_line": 17218,
+          "citation_type": "ShortCaseCitation",
+          "citation": "591 F.3d at "
+        },
+        {
+          "source_line": 17224,
+          "citation_type": "ShortCaseCitation",
+          "citation": "591 F.3d at 252"
+        },
+        {
+          "source_line": 17318,
+          "citation_type": "ShortCaseCitation",
+          "citation": "591 F.3d at "
+        },
+        {
+          "source_line": 17384,
+          "citation_type": "ShortCaseCitation",
+          "citation": "591 F.3d at 260"
+        },
+        {
+          "source_line": 17415,
+          "citation_type": "ShortCaseCitation",
+          "citation": "591 F.3d at 256"
+        },
+        {
+          "source_line": 17456,
+          "citation_type": "ShortCaseCitation",
+          "citation": "591 F.3d at 254"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-018",
+      "cited_opinion_id": "S230-015",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 16955,
+          "citation_type": "FullCaseCitation",
+          "citation": "614 F.3d 785"
+        },
+        {
+          "source_line": 17258,
+          "citation_type": "ShortCaseCitation",
+          "citation": "614 F.3d at 791"
+        },
+        {
+          "source_line": 17289,
+          "citation_type": "ShortCaseCitation",
+          "citation": "614 F.3d at 792"
+        },
+        {
+          "source_line": 17289,
+          "citation_type": "IdCitation",
+          "citation": "id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-019",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 17572,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-019",
+      "cited_opinion_id": "S230-009",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 17581,
+          "citation_type": "FullCaseCitation",
+          "citation": "519 F.3d 666"
+        },
+        {
+          "source_line": 17585,
+          "citation_type": "ShortCaseCitation",
+          "citation": "519 F.3d at 672"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-019",
+      "cited_opinion_id": "S230-010",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 17585,
+          "citation_type": "FullCaseCitation",
+          "citation": "528 F.3d 413"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-019",
+      "cited_opinion_id": "S230-017",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 17584,
+          "citation_type": "FullCaseCitation",
+          "citation": "753 F.3d 1354"
+        },
+        {
+          "source_line": 17596,
+          "citation_type": "ShortCaseCitation",
+          "citation": "753 F.3d at 1357"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-020",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 17781,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        },
+        {
+          "source_line": 17794,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 331"
+        },
+        {
+          "source_line": 17796,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 331"
+        },
+        {
+          "source_line": 17862,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        },
+        {
+          "source_line": 18012,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330-31"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-020",
+      "cited_opinion_id": "S230-003",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 17828,
+          "citation_type": "FullCaseCitation",
+          "citation": "318 F.3d 465"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-020",
+      "cited_opinion_id": "S230-004",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 17972,
+          "citation_type": "FullCaseCitation",
+          "citation": "333 F.3d 1018"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-020",
+      "cited_opinion_id": "S230-005",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 17789,
+          "citation_type": "FullCaseCitation",
+          "citation": "339 F.3d 1119"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-020",
+      "cited_opinion_id": "S230-006",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 17787,
+          "citation_type": "FullCaseCitation",
+          "citation": "478 F.3d 413"
+        },
+        {
+          "source_line": 17797,
+          "citation_type": "ShortCaseCitation",
+          "citation": "478 F.3d at 418-19"
+        },
+        {
+          "source_line": 17806,
+          "citation_type": "ShortCaseCitation",
+          "citation": "478 F.3d at "
+        },
+        {
+          "source_line": 17829,
+          "citation_type": "ShortCaseCitation",
+          "citation": "478 F.3d at 421-22"
+        },
+        {
+          "source_line": 17868,
+          "citation_type": "ShortCaseCitation",
+          "citation": "478 F.3d at 422"
+        },
+        {
+          "source_line": 17872,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 420"
+        },
+        {
+          "source_line": 17878,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 422"
+        },
+        {
+          "source_line": 17881,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 18011,
+          "citation_type": "ShortCaseCitation",
+          "citation": "478 F.3d at "
+        },
+        {
+          "source_line": 18117,
+          "citation_type": "ShortCaseCitation",
+          "citation": "478 F.3d at 422-23"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-020",
+      "cited_opinion_id": "S230-007",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 18116,
+          "citation_type": "FullCaseCitation",
+          "citation": "488 F.3d 1102"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-020",
+      "cited_opinion_id": "S230-009",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 17826,
+          "citation_type": "FullCaseCitation",
+          "citation": "519 F.3d 666"
+        },
+        {
+          "source_line": 17972,
+          "citation_type": "ShortCaseCitation",
+          "citation": "519 F.3d at 670-71"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-020",
+      "cited_opinion_id": "S230-010",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 17786,
+          "citation_type": "FullCaseCitation",
+          "citation": "528 F.3d 413"
+        },
+        {
+          "source_line": 17826,
+          "citation_type": "ShortCaseCitation",
+          "citation": "528 F.3d at 418"
+        },
+        {
+          "source_line": 17910,
+          "citation_type": "ShortCaseCitation",
+          "citation": "528 F.3d at 419-20"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-020",
+      "cited_opinion_id": "S230-011",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 17819,
+          "citation_type": "FullCaseCitation",
+          "citation": "570 F.3d 1096"
+        },
+        {
+          "source_line": 17823,
+          "citation_type": "IdCitation",
+          "citation": "id. at 1101-02"
+        },
+        {
+          "source_line": 17931,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 109899, 1109"
+        },
+        {
+          "source_line": 17934,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1107"
+        },
+        {
+          "source_line": 17971,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1105"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-021",
+      "cited_opinion_id": "S230-005",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 18444,
+          "citation_type": "FullCaseCitation",
+          "citation": "339 F.3d 1119"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-021",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 18506,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        },
+        {
+          "source_line": 18510,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1174"
+        },
+        {
+          "source_line": 18540,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1164"
+        },
+        {
+          "source_line": 18565,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-021",
+      "cited_opinion_id": "S230-010",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 18580,
+          "citation_type": "FullCaseCitation",
+          "citation": "528 F.3d 413"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-021",
+      "cited_opinion_id": "S230-011",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 18429,
+          "citation_type": "FullCaseCitation",
+          "citation": "570 F.3d 1096"
+        },
+        {
+          "source_line": 18438,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at "
+        },
+        {
+          "source_line": 18450,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at "
+        },
+        {
+          "source_line": 18453,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1103"
+        },
+        {
+          "source_line": 18538,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1100"
+        },
+        {
+          "source_line": 18570,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at "
+        },
+        {
+          "source_line": 18573,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-022",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 18660,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-022",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 18663,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-022",
+      "cited_opinion_id": "S230-011",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 18644,
+          "citation_type": "FullCaseCitation",
+          "citation": "570 F.3d 1096"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-022",
+      "cited_opinion_id": "S230-017",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 18652,
+          "citation_type": "FullCaseCitation",
+          "citation": "753 F.3d 1354"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-022",
+      "cited_opinion_id": "S230-018",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 18637,
+          "citation_type": "FullCaseCitation",
+          "citation": "755 F.3d 398"
+        },
+        {
+          "source_line": 18651,
+          "citation_type": "ShortCaseCitation",
+          "citation": "755 F.3d at 408"
+        },
+        {
+          "source_line": 18660,
+          "citation_type": "ShortCaseCitation",
+          "citation": "755 F.3d at 416"
+        },
+        {
+          "source_line": 18662,
+          "citation_type": "ShortCaseCitation",
+          "citation": "755 F.3d at 409"
+        },
+        {
+          "source_line": 18665,
+          "citation_type": "ShortCaseCitation",
+          "citation": "755 F.3d at 412"
+        },
+        {
+          "source_line": 18669,
+          "citation_type": "ShortCaseCitation",
+          "citation": "755 F.3d at 410"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-023",
+      "cited_opinion_id": "S230-004",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 18924,
+          "citation_type": "FullCaseCitation",
+          "citation": "333 F.3d 1018"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-023",
+      "cited_opinion_id": "S230-005",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 18858,
+          "citation_type": "FullCaseCitation",
+          "citation": "339 F.3d 1119"
+        },
+        {
+          "source_line": 18896,
+          "citation_type": "ShortCaseCitation",
+          "citation": "339 F.3d at 1122"
+        },
+        {
+          "source_line": 18901,
+          "citation_type": "ShortCaseCitation",
+          "citation": "339 F.3d at 1123"
+        },
+        {
+          "source_line": 18921,
+          "citation_type": "ShortCaseCitation",
+          "citation": "339 F.3d at 1124"
+        },
+        {
+          "source_line": 18941,
+          "citation_type": "ShortCaseCitation",
+          "citation": "339 F.3d at 1124"
+        },
+        {
+          "source_line": 18955,
+          "citation_type": "ShortCaseCitation",
+          "citation": "339 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-023",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 18742,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        },
+        {
+          "source_line": 18860,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        },
+        {
+          "source_line": 18898,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        },
+        {
+          "source_line": 18918,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1171"
+        },
+        {
+          "source_line": 18937,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1172"
+        },
+        {
+          "source_line": 18968,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1172"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-023",
+      "cited_opinion_id": "S230-011",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 18768,
+          "citation_type": "FullCaseCitation",
+          "citation": "570 F.3d 1096"
+        },
+        {
+          "source_line": 18856,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at "
+        },
+        {
+          "source_line": 18863,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1102"
+        },
+        {
+          "source_line": 18865,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1101"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-023",
+      "cited_opinion_id": "S230-013",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 18762,
+          "citation_type": "FullCaseCitation",
+          "citation": "570 F.3d 1187"
+        },
+        {
+          "source_line": 18950,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-023",
+      "cited_opinion_id": "S230-014",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 18948,
+          "citation_type": "FullCaseCitation",
+          "citation": "591 F.3d 250"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-023",
+      "cited_opinion_id": "S230-017",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 18969,
+          "citation_type": "FullCaseCitation",
+          "citation": "753 F.3d 1354"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-023",
+      "cited_opinion_id": "S230-018",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 18947,
+          "citation_type": "FullCaseCitation",
+          "citation": "755 F.3d 398"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-024",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 19716,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        },
+        {
+          "source_line": 19759,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        },
+        {
+          "source_line": 19786,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 329"
+        },
+        {
+          "source_line": 19823,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-024",
+      "cited_opinion_id": "S230-006",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 19758,
+          "citation_type": "FullCaseCitation",
+          "citation": "478 F.3d 413"
+        },
+        {
+          "source_line": 19785,
+          "citation_type": "FullCaseCitation",
+          "citation": "478 F.3d 413"
+        },
+        {
+          "source_line": 19804,
+          "citation_type": "FullCaseCitation",
+          "citation": "478 F.3d 413"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-024",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 19747,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        },
+        {
+          "source_line": 19810,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1167-68"
+        },
+        {
+          "source_line": 19924,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1168"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-024",
+      "cited_opinion_id": "S230-009",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 19783,
+          "citation_type": "FullCaseCitation",
+          "citation": "519 F.3d 666"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-024",
+      "cited_opinion_id": "S230-011",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 19832,
+          "citation_type": "FullCaseCitation",
+          "citation": "570 F.3d 1096"
+        },
+        {
+          "source_line": 19835,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 19842,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1102"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-024",
+      "cited_opinion_id": "S230-012",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 19778,
+          "citation_type": "FullCaseCitation",
+          "citation": "568 F.3d 1169"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-024",
+      "cited_opinion_id": "S230-013",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 19803,
+          "citation_type": "FullCaseCitation",
+          "citation": "570 F.3d 1187"
+        },
+        {
+          "source_line": 19942,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1204-05"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-024",
+      "cited_opinion_id": "S230-018",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 19745,
+          "citation_type": "FullCaseCitation",
+          "citation": "755 F.3d 398"
+        },
+        {
+          "source_line": 19759,
+          "citation_type": "ShortCaseCitation",
+          "citation": "755 F.3d at 409"
+        },
+        {
+          "source_line": 19823,
+          "citation_type": "ShortCaseCitation",
+          "citation": "755 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-024",
+      "cited_opinion_id": "S230-020",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 19757,
+          "citation_type": "FullCaseCitation",
+          "citation": "817 F.3d 12"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-025",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 20169,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-025",
+      "cited_opinion_id": "S230-002",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 20183,
+          "citation_type": "FullCaseCitation",
+          "citation": "206 F.3d 980"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-026",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 20523,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-026",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 20474,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-026",
+      "cited_opinion_id": "S230-009",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 20464,
+          "citation_type": "FullCaseCitation",
+          "citation": "519 F.3d 666"
+        },
+        {
+          "source_line": 20472,
+          "citation_type": "ShortCaseCitation",
+          "citation": "519 F.3d at 671"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-026",
+      "cited_opinion_id": "S230-013",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 20478,
+          "citation_type": "FullCaseCitation",
+          "citation": "570 F.3d 1187"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-026",
+      "cited_opinion_id": "S230-018",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 20527,
+          "citation_type": "FullCaseCitation",
+          "citation": "755 F.3d 398"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-026",
+      "cited_opinion_id": "S230-020",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 20526,
+          "citation_type": "FullCaseCitation",
+          "citation": "817 F.3d 12"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-027",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 20985,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-027",
+      "cited_opinion_id": "S230-006",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 20799,
+          "citation_type": "FullCaseCitation",
+          "citation": "478 F.3d 413"
+        },
+        {
+          "source_line": 20982,
+          "citation_type": "ShortCaseCitation",
+          "citation": "478 F.3d at 418-19"
+        },
+        {
+          "source_line": 20985,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 418"
+        },
+        {
+          "source_line": 20993,
+          "citation_type": "ShortCaseCitation",
+          "citation": "478 F.3d at 418"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-027",
+      "cited_opinion_id": "S230-017",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 20965,
+          "citation_type": "FullCaseCitation",
+          "citation": "753 F.3d 1354"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-027",
+      "cited_opinion_id": "S230-023",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 21004,
+          "citation_type": "FullCaseCitation",
+          "citation": "836 F.3d 1263"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-028",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 128,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        },
+        {
+          "source_line": 181,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        },
+        {
+          "source_line": 182,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 185,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 189,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 244,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 331"
+        },
+        {
+          "source_line": 316,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 332"
+        },
+        {
+          "source_line": 322,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-028",
+      "cited_opinion_id": "S230-003",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 309,
+          "citation_type": "FullCaseCitation",
+          "citation": "318 F.3d 465"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-028",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 254,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        },
+        {
+          "source_line": 262,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1162"
+        },
+        {
+          "source_line": 264,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1166"
+        },
+        {
+          "source_line": 267,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1161-62"
+        },
+        {
+          "source_line": 273,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1164"
+        },
+        {
+          "source_line": 275,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1163"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-028",
+      "cited_opinion_id": "S230-017",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 108,
+          "citation_type": "FullCaseCitation",
+          "citation": "753 F.3d 1354"
+        },
+        {
+          "source_line": 204,
+          "citation_type": "ShortCaseCitation",
+          "citation": "753 F.3d at "
+        },
+        {
+          "source_line": 211,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 296,
+          "citation_type": "ShortCaseCitation",
+          "citation": "753 F.3d at 1359"
+        },
+        {
+          "source_line": 298,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 306,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 315,
+          "citation_type": "ShortCaseCitation",
+          "citation": "753 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-029",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 21893,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        },
+        {
+          "source_line": 21934,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1171"
+        },
+        {
+          "source_line": 21960,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1164"
+        },
+        {
+          "source_line": 21978,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1164"
+        },
+        {
+          "source_line": 21993,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        },
+        {
+          "source_line": 22009,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        },
+        {
+          "source_line": 22013,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-029",
+      "cited_opinion_id": "S230-009",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 22003,
+          "citation_type": "FullCaseCitation",
+          "citation": "519 F.3d 666"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-029",
+      "cited_opinion_id": "S230-011",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 21887,
+          "citation_type": "FullCaseCitation",
+          "citation": "570 F.3d 1096"
+        },
+        {
+          "source_line": 21892,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 21931,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1100"
+        },
+        {
+          "source_line": 21933,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at "
+        },
+        {
+          "source_line": 22002,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-029",
+      "cited_opinion_id": "S230-021",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 21898,
+          "citation_type": "FullCaseCitation",
+          "citation": "824 F.3d 846"
+        },
+        {
+          "source_line": 21903,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 848"
+        },
+        {
+          "source_line": 21905,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 854"
+        },
+        {
+          "source_line": 21907,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 851"
+        },
+        {
+          "source_line": 21909,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 853"
+        },
+        {
+          "source_line": 21911,
+          "citation_type": "ShortCaseCitation",
+          "citation": "824 F.3d at 854"
+        },
+        {
+          "source_line": 21918,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 853"
+        },
+        {
+          "source_line": 21920,
+          "citation_type": "IdCitation",
+          "citation": "id. at 851, 853"
+        },
+        {
+          "source_line": 21929,
+          "citation_type": "ShortCaseCitation",
+          "citation": "824 F.3d at 853"
+        },
+        {
+          "source_line": 21956,
+          "citation_type": "ShortCaseCitation",
+          "citation": "824 F.3d at 851"
+        },
+        {
+          "source_line": 22010,
+          "citation_type": "ShortCaseCitation",
+          "citation": "824 F.3d at 852"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-030",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 22243,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        },
+        {
+          "source_line": 22246,
+          "citation_type": "IdCitation",
+          "citation": "id."
+        },
+        {
+          "source_line": 22258,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 328"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-030",
+      "cited_opinion_id": "S230-014",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 22217,
+          "citation_type": "FullCaseCitation",
+          "citation": "591 F.3d 250"
+        },
+        {
+          "source_line": 22248,
+          "citation_type": "ShortCaseCitation",
+          "citation": "591 F.3d at 254"
+        },
+        {
+          "source_line": 22256,
+          "citation_type": "ShortCaseCitation",
+          "citation": "591 F.3d at 252"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-031",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 22689,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        },
+        {
+          "source_line": 22702,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 331"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-031",
+      "cited_opinion_id": "S230-005",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 22768,
+          "citation_type": "FullCaseCitation",
+          "citation": "339 F.3d 1119"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-031",
+      "cited_opinion_id": "S230-006",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 22632,
+          "citation_type": "FullCaseCitation",
+          "citation": "478 F.3d 413"
+        },
+        {
+          "source_line": 22699,
+          "citation_type": "FullCaseCitation",
+          "citation": "478 F.3d 413"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-031",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 22637,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-031",
+      "cited_opinion_id": "S230-010",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 22631,
+          "citation_type": "FullCaseCitation",
+          "citation": "528 F.3d 413"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-031",
+      "cited_opinion_id": "S230-011",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 22635,
+          "citation_type": "FullCaseCitation",
+          "citation": "570 F.3d 1096"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-031",
+      "cited_opinion_id": "S230-014",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 22630,
+          "citation_type": "FullCaseCitation",
+          "citation": "591 F.3d 250"
+        },
+        {
+          "source_line": 22644,
+          "citation_type": "FullCaseCitation",
+          "citation": "591 F.3d 250"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-031",
+      "cited_opinion_id": "S230-017",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 22622,
+          "citation_type": "FullCaseCitation",
+          "citation": "753 F.3d 1354"
+        },
+        {
+          "source_line": 22627,
+          "citation_type": "ShortCaseCitation",
+          "citation": "753 F.3d at 1357"
+        },
+        {
+          "source_line": 22652,
+          "citation_type": "ShortCaseCitation",
+          "citation": "753 F.3d at "
+        },
+        {
+          "source_line": 22671,
+          "citation_type": "ShortCaseCitation",
+          "citation": "753 F.3d at 1357"
+        },
+        {
+          "source_line": 22789,
+          "citation_type": "ShortCaseCitation",
+          "citation": "753 F.3d at 1358"
+        },
+        {
+          "source_line": 22792,
+          "citation_type": "ShortCaseCitation",
+          "citation": "753 F.3d at 1358"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-031",
+      "cited_opinion_id": "S230-018",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 22629,
+          "citation_type": "FullCaseCitation",
+          "citation": "755 F.3d 398"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-031",
+      "cited_opinion_id": "S230-022",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 22795,
+          "citation_type": "FullCaseCitation",
+          "citation": "831 F.3d 352"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-031",
+      "cited_opinion_id": "S230-023",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 22760,
+          "citation_type": "FullCaseCitation",
+          "citation": "836 F.3d 1263"
+        },
+        {
+          "source_line": 22789,
+          "citation_type": "ShortCaseCitation",
+          "citation": "836 F.3d at 1270"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-031",
+      "cited_opinion_id": "S230-024",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 22628,
+          "citation_type": "FullCaseCitation",
+          "citation": "838 F.3d 158"
+        },
+        {
+          "source_line": 22659,
+          "citation_type": "FullCaseCitation",
+          "citation": "838 F.3d 158"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-031",
+      "cited_opinion_id": "S230-028",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 22612,
+          "citation_type": "FullCaseCitation",
+          "citation": "882 F.3d 1163"
+        },
+        {
+          "source_line": 22622,
+          "citation_type": "ShortCaseCitation",
+          "citation": "882 F.3d at 1166"
+        },
+        {
+          "source_line": 22653,
+          "citation_type": "ShortCaseCitation",
+          "citation": "882 F.3d at 1166"
+        },
+        {
+          "source_line": 22688,
+          "citation_type": "ShortCaseCitation",
+          "citation": "882 F.3d at 1166"
+        },
+        {
+          "source_line": 22700,
+          "citation_type": "ShortCaseCitation",
+          "citation": "882 F.3d at 1166"
+        },
+        {
+          "source_line": 22789,
+          "citation_type": "ShortCaseCitation",
+          "citation": "882 F.3d at 1167"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-032",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 23257,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        },
+        {
+          "source_line": 23277,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 331"
+        },
+        {
+          "source_line": 23331,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        },
+        {
+          "source_line": 23377,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-032",
+      "cited_opinion_id": "S230-005",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 23329,
+          "citation_type": "FullCaseCitation",
+          "citation": "339 F.3d 1119"
+        },
+        {
+          "source_line": 23411,
+          "citation_type": "FullCaseCitation",
+          "citation": "339 F.3d 1119"
+        },
+        {
+          "source_line": 23503,
+          "citation_type": "ShortCaseCitation",
+          "citation": "339 F.3d at 1124"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-032",
+      "cited_opinion_id": "S230-011",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 23355,
+          "citation_type": "FullCaseCitation",
+          "citation": "570 F.3d 1096"
+        },
+        {
+          "source_line": 23366,
+          "citation_type": "FullCaseCitation",
+          "citation": "570 F.3d 1096"
+        },
+        {
+          "source_line": 23368,
+          "citation_type": "IdCitation",
+          "citation": "id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-032",
+      "cited_opinion_id": "S230-017",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 23363,
+          "citation_type": "FullCaseCitation",
+          "citation": "753 F.3d 1354"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-032",
+      "cited_opinion_id": "S230-019",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 23195,
+          "citation_type": "FullCaseCitation",
+          "citation": "781 F.3d 25"
+        },
+        {
+          "source_line": 23247,
+          "citation_type": "ShortCaseCitation",
+          "citation": "781 F.3d at 28"
+        },
+        {
+          "source_line": 23257,
+          "citation_type": "ShortCaseCitation",
+          "citation": "781 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-032",
+      "cited_opinion_id": "S230-020",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 23319,
+          "citation_type": "FullCaseCitation",
+          "citation": "817 F.3d 12"
+        },
+        {
+          "source_line": 23359,
+          "citation_type": "ShortCaseCitation",
+          "citation": "817 F.3d at 19"
+        },
+        {
+          "source_line": 23382,
+          "citation_type": "ShortCaseCitation",
+          "citation": "817 F.3d at 19"
+        },
+        {
+          "source_line": 23709,
+          "citation_type": "ShortCaseCitation",
+          "citation": "817 F.3d at "
+        },
+        {
+          "source_line": 23746,
+          "citation_type": "ShortCaseCitation",
+          "citation": "817 F.3d at 23"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-032",
+      "cited_opinion_id": "S230-022",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 23505,
+          "citation_type": "FullCaseCitation",
+          "citation": "831 F.3d 352"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-032",
+      "cited_opinion_id": "S230-023",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 23567,
+          "citation_type": "FullCaseCitation",
+          "citation": "836 F.3d 1263"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-032",
+      "cited_opinion_id": "S230-024",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 23242,
+          "citation_type": "FullCaseCitation",
+          "citation": "838 F.3d 158"
+        },
+        {
+          "source_line": 23282,
+          "citation_type": "ShortCaseCitation",
+          "citation": "838 F.3d at 173"
+        },
+        {
+          "source_line": 23286,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 23291,
+          "citation_type": "IdCitation",
+          "citation": "id.,"
+        },
+        {
+          "source_line": 23316,
+          "citation_type": "ShortCaseCitation",
+          "citation": "838 F.3d at 173"
+        },
+        {
+          "source_line": 23355,
+          "citation_type": "ShortCaseCitation",
+          "citation": "838 F.3d at "
+        },
+        {
+          "source_line": 23365,
+          "citation_type": "ShortCaseCitation",
+          "citation": "838 F.3d at "
+        },
+        {
+          "source_line": 23391,
+          "citation_type": "ShortCaseCitation",
+          "citation": "838 F.3d at 174"
+        },
+        {
+          "source_line": 23562,
+          "citation_type": "ShortCaseCitation",
+          "citation": "838 F.3d at "
+        },
+        {
+          "source_line": 23571,
+          "citation_type": "ShortCaseCitation",
+          "citation": "838 F.3d at 176"
+        },
+        {
+          "source_line": 23574,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 23633,
+          "citation_type": "ShortCaseCitation",
+          "citation": "838 F.3d at 174"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-032",
+      "cited_opinion_id": "S230-029",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 23373,
+          "citation_type": "FullCaseCitation",
+          "citation": "918 F.3d 676"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-032",
+      "cited_opinion_id": "S230-031",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 23248,
+          "citation_type": "FullCaseCitation",
+          "citation": "925 F.3d 1263"
+        },
+        {
+          "source_line": 23317,
+          "citation_type": "FullCaseCitation",
+          "citation": "925 F.3d 1263"
+        },
+        {
+          "source_line": 23360,
+          "citation_type": "ShortCaseCitation",
+          "citation": "925 F.3d at 1267"
+        },
+        {
+          "source_line": 23504,
+          "citation_type": "ShortCaseCitation",
+          "citation": "925 F.3d at "
+        },
+        {
+          "source_line": 23590,
+          "citation_type": "FullCaseCitation",
+          "citation": "925 F.3d 1263"
+        },
+        {
+          "source_line": 23597,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 23600,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1269"
+        },
+        {
+          "source_line": 23653,
+          "citation_type": "ShortCaseCitation",
+          "citation": "925 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-033",
+      "cited_opinion_id": "S230-005",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 24801,
+          "citation_type": "FullCaseCitation",
+          "citation": "339 F.3d 1119"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-033",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 24751,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        },
+        {
+          "source_line": 24790,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        },
+        {
+          "source_line": 24846,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        },
+        {
+          "source_line": 24854,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1164, 1167"
+        },
+        {
+          "source_line": 24856,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1170"
+        },
+        {
+          "source_line": 24857,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1169"
+        },
+        {
+          "source_line": 24861,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 24865,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 24871,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 24879,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1175"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-033",
+      "cited_opinion_id": "S230-011",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 24773,
+          "citation_type": "FullCaseCitation",
+          "citation": "570 F.3d 1096"
+        },
+        {
+          "source_line": 24777,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 24815,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1102"
+        },
+        {
+          "source_line": 24816,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-033",
+      "cited_opinion_id": "S230-017",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 24948,
+          "citation_type": "FullCaseCitation",
+          "citation": "753 F.3d 1354"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-033",
+      "cited_opinion_id": "S230-021",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 24771,
+          "citation_type": "FullCaseCitation",
+          "citation": "824 F.3d 846"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-033",
+      "cited_opinion_id": "S230-023",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 24766,
+          "citation_type": "FullCaseCitation",
+          "citation": "836 F.3d 1263"
+        },
+        {
+          "source_line": 24779,
+          "citation_type": "ShortCaseCitation",
+          "citation": "836 F.3d at "
+        },
+        {
+          "source_line": 24782,
+          "citation_type": "ShortCaseCitation",
+          "citation": "836 F.3d at 1268"
+        },
+        {
+          "source_line": 24789,
+          "citation_type": "ShortCaseCitation",
+          "citation": "836 F.3d at 1268"
+        },
+        {
+          "source_line": 24880,
+          "citation_type": "ShortCaseCitation",
+          "citation": "836 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-033",
+      "cited_opinion_id": "S230-029",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 24823,
+          "citation_type": "FullCaseCitation",
+          "citation": "918 F.3d 676"
+        },
+        {
+          "source_line": 24826,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 680"
+        },
+        {
+          "source_line": 24827,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 24831,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 683"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-034",
+      "cited_opinion_id": "S230-007",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 25431,
+          "citation_type": "FullCaseCitation",
+          "citation": "488 F.3d 1102"
+        },
+        {
+          "source_line": 25442,
+          "citation_type": "ShortCaseCitation",
+          "citation": "488 F.3d at 1119"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-034",
+      "cited_opinion_id": "S230-012",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 25027,
+          "citation_type": "FullCaseCitation",
+          "citation": "568 F.3d 1169"
+        },
+        {
+          "source_line": 25147,
+          "citation_type": "ShortCaseCitation",
+          "citation": "568 F.3d at 1175"
+        },
+        {
+          "source_line": 25242,
+          "citation_type": "ShortCaseCitation",
+          "citation": "568 F.3d at 1173, 1176"
+        },
+        {
+          "source_line": 25243,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 25293,
+          "citation_type": "ShortCaseCitation",
+          "citation": "568 F.3d at 1173"
+        },
+        {
+          "source_line": 25308,
+          "citation_type": "ShortCaseCitation",
+          "citation": "568 F. 3d at 1170"
+        },
+        {
+          "source_line": 25336,
+          "citation_type": "ShortCaseCitation",
+          "citation": "568 F.3d at 1178"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-034",
+      "cited_opinion_id": "S230-025",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 25434,
+          "citation_type": "FullCaseCitation",
+          "citation": "840 F.3d 1178"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-035",
+      "cited_opinion_id": "S230-020",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 25826,
+          "citation_type": "FullCaseCitation",
+          "citation": "817 F.3d 12"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-035",
+      "cited_opinion_id": "S230-023",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 25877,
+          "citation_type": "FullCaseCitation",
+          "citation": "836 F.3d 1263"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-035",
+      "cited_opinion_id": "S230-024",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 25824,
+          "citation_type": "FullCaseCitation",
+          "citation": "838 F.3d 158"
+        },
+        {
+          "source_line": 25872,
+          "citation_type": "ShortCaseCitation",
+          "citation": "838 F.3d at 174"
+        },
+        {
+          "source_line": 25876,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 25887,
+          "citation_type": "ShortCaseCitation",
+          "citation": "838 F.3d at 176"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-035",
+      "cited_opinion_id": "S230-032",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 25869,
+          "citation_type": "FullCaseCitation",
+          "citation": "934 F.3d 53"
+        },
+        {
+          "source_line": 25882,
+          "citation_type": "ShortCaseCitation",
+          "citation": "934 F.3d at 59"
+        },
+        {
+          "source_line": 25885,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 69-70"
+        },
+        {
+          "source_line": 25887,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 69"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-036",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 26204,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-036",
+      "cited_opinion_id": "S230-015",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 26366,
+          "citation_type": "FullCaseCitation",
+          "citation": "614 F.3d 785"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-036",
+      "cited_opinion_id": "S230-018",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 26214,
+          "citation_type": "FullCaseCitation",
+          "citation": "755 F.3d 398"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-036",
+      "cited_opinion_id": "S230-023",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 26244,
+          "citation_type": "FullCaseCitation",
+          "citation": "836 F.3d 1263"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-036",
+      "cited_opinion_id": "S230-026",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 26240,
+          "citation_type": "FullCaseCitation",
+          "citation": "841 F.3d 733"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-037",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 26670,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        },
+        {
+          "source_line": 26672,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 26680,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1168"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-037",
+      "cited_opinion_id": "S230-011",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 26546,
+          "citation_type": "FullCaseCitation",
+          "citation": "570 F.3d 1096"
+        },
+        {
+          "source_line": 26551,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at "
+        },
+        {
+          "source_line": 26562,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1101"
+        },
+        {
+          "source_line": 26569,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1100"
+        },
+        {
+          "source_line": 26588,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at "
+        },
+        {
+          "source_line": 26591,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1107"
+        },
+        {
+          "source_line": 26616,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at "
+        },
+        {
+          "source_line": 26623,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1107"
+        },
+        {
+          "source_line": 26665,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1101"
+        },
+        {
+          "source_line": 26697,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1101"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-037",
+      "cited_opinion_id": "S230-021",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 26588,
+          "citation_type": "FullCaseCitation",
+          "citation": "824 F.3d 846"
+        },
+        {
+          "source_line": 26633,
+          "citation_type": "ShortCaseCitation",
+          "citation": "824 F.3d at 851"
+        },
+        {
+          "source_line": 26635,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 852"
+        },
+        {
+          "source_line": 26643,
+          "citation_type": "ShortCaseCitation",
+          "citation": "824 F.3d at 853"
+        },
+        {
+          "source_line": 26645,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 26648,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 26735,
+          "citation_type": "ShortCaseCitation",
+          "citation": "824 F.3d at 853"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-037",
+      "cited_opinion_id": "S230-023",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 26561,
+          "citation_type": "FullCaseCitation",
+          "citation": "836 F.3d 1263"
+        },
+        {
+          "source_line": 26673,
+          "citation_type": "ShortCaseCitation",
+          "citation": "836 F.3d at 1269"
+        },
+        {
+          "source_line": 26704,
+          "citation_type": "ShortCaseCitation",
+          "citation": "836 F.3d at "
+        },
+        {
+          "source_line": 26715,
+          "citation_type": "ShortCaseCitation",
+          "citation": "836 F.3d at 1269"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-037",
+      "cited_opinion_id": "S230-029",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 26536,
+          "citation_type": "FullCaseCitation",
+          "citation": "918 F.3d 676"
+        },
+        {
+          "source_line": 26573,
+          "citation_type": "ShortCaseCitation",
+          "citation": "918 F.3d at 681"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-037",
+      "cited_opinion_id": "S230-033",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 26469,
+          "citation_type": "FullCaseCitation",
+          "citation": "934 F.3d 1093"
+        },
+        {
+          "source_line": 26527,
+          "citation_type": "ShortCaseCitation",
+          "citation": "934 F.3d at 1096"
+        },
+        {
+          "source_line": 26530,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 26532,
+          "citation_type": "IdCitation",
+          "citation": "id."
+        },
+        {
+          "source_line": 26550,
+          "citation_type": "ShortCaseCitation",
+          "citation": "934 F.3d at "
+        },
+        {
+          "source_line": 26569,
+          "citation_type": "ShortCaseCitation",
+          "citation": "934 F.3d at 1097"
+        },
+        {
+          "source_line": 26691,
+          "citation_type": "ShortCaseCitation",
+          "citation": "934 F.3d at 1096"
+        },
+        {
+          "source_line": 26703,
+          "citation_type": "ShortCaseCitation",
+          "citation": "934 F.3d at 1099"
+        },
+        {
+          "source_line": 26712,
+          "citation_type": "ShortCaseCitation",
+          "citation": "934 F.3d at 1096"
+        },
+        {
+          "source_line": 26724,
+          "citation_type": "ShortCaseCitation",
+          "citation": "934 F.3d at 1098"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-038",
+      "cited_opinion_id": "S230-006",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 26923,
+          "citation_type": "FullCaseCitation",
+          "citation": "478 F.3d 413"
+        },
+        {
+          "source_line": 26926,
+          "citation_type": "IdCitation",
+          "citation": "id."
+        },
+        {
+          "source_line": 26927,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 417"
+        },
+        {
+          "source_line": 26930,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 27010,
+          "citation_type": "ShortCaseCitation",
+          "citation": "478 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-038",
+      "cited_opinion_id": "S230-007",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 26940,
+          "citation_type": "FullCaseCitation",
+          "citation": "488 F.3d 1102"
+        },
+        {
+          "source_line": 26942,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1108"
+        },
+        {
+          "source_line": 26944,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1118"
+        },
+        {
+          "source_line": 26946,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 27006,
+          "citation_type": "ShortCaseCitation",
+          "citation": "488 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-039",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 27832,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        },
+        {
+          "source_line": 27836,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-039",
+      "cited_opinion_id": "S230-006",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 27731,
+          "citation_type": "FullCaseCitation",
+          "citation": "478 F.3d 413"
+        },
+        {
+          "source_line": 27755,
+          "citation_type": "ShortCaseCitation",
+          "citation": "478 F.3d at "
+        },
+        {
+          "source_line": 27769,
+          "citation_type": "ShortCaseCitation",
+          "citation": "478 F.3d at 419"
+        },
+        {
+          "source_line": 27780,
+          "citation_type": "ShortCaseCitation",
+          "citation": "478 F.3d at 419"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-039",
+      "cited_opinion_id": "S230-020",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 27757,
+          "citation_type": "FullCaseCitation",
+          "citation": "817 F.3d 12"
+        },
+        {
+          "source_line": 27838,
+          "citation_type": "ShortCaseCitation",
+          "citation": "817 F.3d at 21"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-039",
+      "cited_opinion_id": "S230-023",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 27795,
+          "citation_type": "FullCaseCitation",
+          "citation": "836 F.3d 1263"
+        },
+        {
+          "source_line": 27800,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1270"
+        },
+        {
+          "source_line": 27802,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-039",
+      "cited_opinion_id": "S230-027",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 27808,
+          "citation_type": "FullCaseCitation",
+          "citation": "873 F.3d 313"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-039",
+      "cited_opinion_id": "S230-031",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 27812,
+          "citation_type": "FullCaseCitation",
+          "citation": "925 F.3d 1263"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-040",
+      "cited_opinion_id": "S230-005",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 28160,
+          "citation_type": "FullCaseCitation",
+          "citation": "339 F.3d 1119"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-040",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 28157,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-040",
+      "cited_opinion_id": "S230-020",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 28310,
+          "citation_type": "FullCaseCitation",
+          "citation": "817 F.3d 12"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-040",
+      "cited_opinion_id": "S230-021",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 28159,
+          "citation_type": "FullCaseCitation",
+          "citation": "824 F.3d 846"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-041",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 348,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        },
+        {
+          "source_line": 421,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        },
+        {
+          "source_line": 427,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 332"
+        },
+        {
+          "source_line": 465,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 332"
+        },
+        {
+          "source_line": 687,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 332"
+        },
+        {
+          "source_line": 689,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 333"
+        },
+        {
+          "source_line": 723,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        },
+        {
+          "source_line": 881,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 333"
+        },
+        {
+          "source_line": 904,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        },
+        {
+          "source_line": 939,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        },
+        {
+          "source_line": 943,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at "
+        },
+        {
+          "source_line": 1013,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        },
+        {
+          "source_line": 1081,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 331"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-041",
+      "cited_opinion_id": "S230-004",
+      "in_audited_baseline": false,
+      "parser_hits": [
+        {
+          "source_line": 887,
+          "citation_type": "FullCaseCitation",
+          "citation": "333 F.3d 1018"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-041",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 913,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-041",
+      "cited_opinion_id": "S230-014",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 339,
+          "citation_type": "FullCaseCitation",
+          "citation": "591 F.3d 250"
+        },
+        {
+          "source_line": 353,
+          "citation_type": "ShortCaseCitation",
+          "citation": "591 F.3d at "
+        },
+        {
+          "source_line": 879,
+          "citation_type": "ShortCaseCitation",
+          "citation": "591 F.3d at 254"
+        },
+        {
+          "source_line": 905,
+          "citation_type": "ShortCaseCitation",
+          "citation": "591 F.3d at 258"
+        },
+        {
+          "source_line": 918,
+          "citation_type": "ShortCaseCitation",
+          "citation": "591 F.3d at "
+        },
+        {
+          "source_line": 939,
+          "citation_type": "ShortCaseCitation",
+          "citation": "591 F.3d at "
+        },
+        {
+          "source_line": 975,
+          "citation_type": "ShortCaseCitation",
+          "citation": "591 F.3d at "
+        },
+        {
+          "source_line": 1062,
+          "citation_type": "ShortCaseCitation",
+          "citation": "591 F.3d at 254"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-041",
+      "cited_opinion_id": "S230-018",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 439,
+          "citation_type": "FullCaseCitation",
+          "citation": "755 F.3d 398"
+        },
+        {
+          "source_line": 915,
+          "citation_type": "ShortCaseCitation",
+          "citation": "755 F.3d at 413"
+        },
+        {
+          "source_line": 956,
+          "citation_type": "ShortCaseCitation",
+          "citation": "755 F.3d at 416"
+        },
+        {
+          "source_line": 957,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 970,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-041",
+      "cited_opinion_id": "S230-021",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 728,
+          "citation_type": "FullCaseCitation",
+          "citation": "824 F.3d 846"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-041",
+      "cited_opinion_id": "S230-024",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 356,
+          "citation_type": "FullCaseCitation",
+          "citation": "838 F.3d 158"
+        },
+        {
+          "source_line": 397,
+          "citation_type": "ShortCaseCitation",
+          "citation": "838 F.3d at 174"
+        },
+        {
+          "source_line": 912,
+          "citation_type": "ShortCaseCitation",
+          "citation": "838 F.3d at 174"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-041",
+      "cited_opinion_id": "S230-029",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 356,
+          "citation_type": "FullCaseCitation",
+          "citation": "918 F.3d 676"
+        },
+        {
+          "source_line": 560,
+          "citation_type": "ShortCaseCitation",
+          "citation": "918 F.3d at 682"
+        },
+        {
+          "source_line": 625,
+          "citation_type": "ShortCaseCitation",
+          "citation": "918 F.3d at 682"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-041",
+      "cited_opinion_id": "S230-030",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 354,
+          "citation_type": "FullCaseCitation",
+          "citation": "925 F.3d 135"
+        },
+        {
+          "source_line": 548,
+          "citation_type": "ShortCaseCitation",
+          "citation": "925 F.3d at "
+        },
+        {
+          "source_line": 560,
+          "citation_type": "ShortCaseCitation",
+          "citation": "925 F.3d at "
+        },
+        {
+          "source_line": 624,
+          "citation_type": "ShortCaseCitation",
+          "citation": "925 F.3d at "
+        },
+        {
+          "source_line": 682,
+          "citation_type": "ShortCaseCitation",
+          "citation": "925 F.3d at 139"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-041",
+      "cited_opinion_id": "S230-031",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 357,
+          "citation_type": "FullCaseCitation",
+          "citation": "925 F.3d 1263"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-041",
+      "cited_opinion_id": "S230-032",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 911,
+          "citation_type": "FullCaseCitation",
+          "citation": "934 F.3d 53"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-041",
+      "cited_opinion_id": "S230-035",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 974,
+          "citation_type": "FullCaseCitation",
+          "citation": "966 F.3d 79"
+        },
+        {
+          "source_line": 1064,
+          "citation_type": "ShortCaseCitation",
+          "citation": "966 F.3d at 89"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-042",
+      "cited_opinion_id": "S230-005",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 29276,
+          "citation_type": "FullCaseCitation",
+          "citation": "339 F.3d 1119"
+        },
+        {
+          "source_line": 29282,
+          "citation_type": "ShortCaseCitation",
+          "citation": "339 F.3d at 1123"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-042",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 29249,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        },
+        {
+          "source_line": 29336,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1164"
+        },
+        {
+          "source_line": 29338,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1165"
+        },
+        {
+          "source_line": 29340,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-042",
+      "cited_opinion_id": "S230-014",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 29278,
+          "citation_type": "FullCaseCitation",
+          "citation": "591 F.3d 250"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-042",
+      "cited_opinion_id": "S230-017",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 29333,
+          "citation_type": "FullCaseCitation",
+          "citation": "753 F.3d 1354"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-042",
+      "cited_opinion_id": "S230-018",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 29293,
+          "citation_type": "FullCaseCitation",
+          "citation": "755 F.3d 398"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-042",
+      "cited_opinion_id": "S230-019",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 29288,
+          "citation_type": "FullCaseCitation",
+          "citation": "781 F.3d 25"
+        },
+        {
+          "source_line": 29319,
+          "citation_type": "ShortCaseCitation",
+          "citation": "781 F.3d at 28"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-042",
+      "cited_opinion_id": "S230-023",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 29327,
+          "citation_type": "FullCaseCitation",
+          "citation": "836 F.3d 1263"
+        },
+        {
+          "source_line": 29333,
+          "citation_type": "ShortCaseCitation",
+          "citation": "836 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-042",
+      "cited_opinion_id": "S230-024",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 29270,
+          "citation_type": "FullCaseCitation",
+          "citation": "838 F.3d 158"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-042",
+      "cited_opinion_id": "S230-033",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 29263,
+          "citation_type": "FullCaseCitation",
+          "citation": "934 F.3d 1093"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-043",
+      "cited_opinion_id": "S230-040",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 30001,
+          "citation_type": "FullCaseCitation",
+          "citation": "51 F.4th 1137"
+        },
+        {
+          "source_line": 30002,
+          "citation_type": "FullCaseCitation",
+          "citation": "51 F.4th 1137"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-044",
+      "cited_opinion_id": "S230-009",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 30960,
+          "citation_type": "FullCaseCitation",
+          "citation": "519 F.3d 666"
+        },
+        {
+          "source_line": 31007,
+          "citation_type": "ShortCaseCitation",
+          "citation": "519 F.3d at 668, 671"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-044",
+      "cited_opinion_id": "S230-011",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 31029,
+          "citation_type": "FullCaseCitation",
+          "citation": "570 F.3d 1096"
+        },
+        {
+          "source_line": 31032,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1102"
+        },
+        {
+          "source_line": 31036,
+          "citation_type": "IdCitation",
+          "citation": "id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-044",
+      "cited_opinion_id": "S230-016",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 30959,
+          "citation_type": "FullCaseCitation",
+          "citation": "624 F.3d 363"
+        },
+        {
+          "source_line": 30962,
+          "citation_type": "ShortCaseCitation",
+          "citation": "624 F.3d at 366"
+        },
+        {
+          "source_line": 31004,
+          "citation_type": "ShortCaseCitation",
+          "citation": "624 F.3d at 366"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-044",
+      "cited_opinion_id": "S230-020",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 30452,
+          "citation_type": "FullCaseCitation",
+          "citation": "817 F.3d 12"
+        },
+        {
+          "source_line": 31039,
+          "citation_type": "FullCaseCitation",
+          "citation": "817 F.3d 12"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-044",
+      "cited_opinion_id": "S230-021",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 31045,
+          "citation_type": "FullCaseCitation",
+          "citation": "824 F.3d 846"
+        },
+        {
+          "source_line": 31047,
+          "citation_type": "IdCitation",
+          "citation": "id."
+        },
+        {
+          "source_line": 31048,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-044",
+      "cited_opinion_id": "S230-024",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 31023,
+          "citation_type": "FullCaseCitation",
+          "citation": "838 F.3d 158"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-044",
+      "cited_opinion_id": "S230-026",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 31005,
+          "citation_type": "FullCaseCitation",
+          "citation": "841 F.3d 733"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-044",
+      "cited_opinion_id": "S230-055",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 30804,
+          "citation_type": "FullCaseCitation",
+          "citation": "807 F.3d 229"
+        },
+        {
+          "source_line": 30817,
+          "citation_type": "ShortCaseCitation",
+          "citation": "807 F.3d at 230"
+        },
+        {
+          "source_line": 30820,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-045",
+      "cited_opinion_id": "S230-003",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 32052,
+          "citation_type": "FullCaseCitation",
+          "citation": "318 F.3d 465"
+        },
+        {
+          "source_line": 32054,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 471"
+        },
+        {
+          "source_line": 32070,
+          "citation_type": "ShortCaseCitation",
+          "citation": "318 F.3d at 471"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-045",
+      "cited_opinion_id": "S230-010",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 32029,
+          "citation_type": "FullCaseCitation",
+          "citation": "528 F.3d 413"
+        },
+        {
+          "source_line": 32065,
+          "citation_type": "ShortCaseCitation",
+          "citation": "528 F.3d at 420"
+        },
+        {
+          "source_line": 32069,
+          "citation_type": "ShortCaseCitation",
+          "citation": "528 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-046",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 33161,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        },
+        {
+          "source_line": 33221,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1162, 1168"
+        },
+        {
+          "source_line": 33292,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1163"
+        },
+        {
+          "source_line": 33303,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1163"
+        },
+        {
+          "source_line": 33310,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1164"
+        },
+        {
+          "source_line": 33544,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        },
+        {
+          "source_line": 33546,
+          "citation_type": "IdCitation",
+          "citation": "id. at 1162"
+        },
+        {
+          "source_line": 33547,
+          "citation_type": "IdCitation",
+          "citation": "id. at 1168"
+        },
+        {
+          "source_line": 33550,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 33551,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1161"
+        },
+        {
+          "source_line": 33554,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 33554,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 33556,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1164"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-046",
+      "cited_opinion_id": "S230-009",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 33343,
+          "citation_type": "FullCaseCitation",
+          "citation": "519 F.3d 666"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-046",
+      "cited_opinion_id": "S230-010",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 33320,
+          "citation_type": "FullCaseCitation",
+          "citation": "528 F.3d 413"
+        },
+        {
+          "source_line": 33431,
+          "citation_type": "ShortCaseCitation",
+          "citation": "528 F.3d at 418"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-046",
+      "cited_opinion_id": "S230-011",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 33159,
+          "citation_type": "FullCaseCitation",
+          "citation": "570 F.3d 1096"
+        },
+        {
+          "source_line": 33248,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at "
+        },
+        {
+          "source_line": 33292,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1101"
+        },
+        {
+          "source_line": 33308,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1100"
+        },
+        {
+          "source_line": 33330,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1098"
+        },
+        {
+          "source_line": 33331,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 33333,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 33334,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 33334,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1099"
+        },
+        {
+          "source_line": 33336,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 33423,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1107"
+        },
+        {
+          "source_line": 33448,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1107"
+        },
+        {
+          "source_line": 33450,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1107"
+        },
+        {
+          "source_line": 33465,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1107"
+        },
+        {
+          "source_line": 33467,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 33469,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 33471,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-046",
+      "cited_opinion_id": "S230-021",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 33382,
+          "citation_type": "FullCaseCitation",
+          "citation": "824 F.3d 846"
+        },
+        {
+          "source_line": 33384,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 849"
+        },
+        {
+          "source_line": 33386,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 848"
+        },
+        {
+          "source_line": 33388,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 33440,
+          "citation_type": "ShortCaseCitation",
+          "citation": "824 F.3d at 849"
+        },
+        {
+          "source_line": 33508,
+          "citation_type": "ShortCaseCitation",
+          "citation": "824 F.3d at 848"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-046",
+      "cited_opinion_id": "S230-023",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 33222,
+          "citation_type": "FullCaseCitation",
+          "citation": "836 F.3d 1263"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-046",
+      "cited_opinion_id": "S230-024",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 33316,
+          "citation_type": "FullCaseCitation",
+          "citation": "838 F.3d 158"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-046",
+      "cited_opinion_id": "S230-029",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 33400,
+          "citation_type": "FullCaseCitation",
+          "citation": "918 F.3d 676"
+        },
+        {
+          "source_line": 33402,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 33455,
+          "citation_type": "ShortCaseCitation",
+          "citation": "918 F.3d at 682"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-046",
+      "cited_opinion_id": "S230-031",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 33317,
+          "citation_type": "FullCaseCitation",
+          "citation": "925 F.3d 1263"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-046",
+      "cited_opinion_id": "S230-032",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 33242,
+          "citation_type": "FullCaseCitation",
+          "citation": "934 F.3d 53"
+        },
+        {
+          "source_line": 33273,
+          "citation_type": "ShortCaseCitation",
+          "citation": "934 F.3d at 57"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-046",
+      "cited_opinion_id": "S230-033",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 33239,
+          "citation_type": "FullCaseCitation",
+          "citation": "934 F.3d 1093"
+        },
+        {
+          "source_line": 33240,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 33588,
+          "citation_type": "FullCaseCitation",
+          "citation": "934 F.3d 1093"
+        },
+        {
+          "source_line": 33590,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1094"
+        },
+        {
+          "source_line": 33592,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1095"
+        },
+        {
+          "source_line": 33594,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 33597,
+          "citation_type": "IdCitation",
+          "citation": "id."
+        },
+        {
+          "source_line": 33600,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 33600,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 33603,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-046",
+      "cited_opinion_id": "S230-037",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 33416,
+          "citation_type": "FullCaseCitation",
+          "citation": "995 F.3d 1085"
+        },
+        {
+          "source_line": 33419,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 33420,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1092"
+        },
+        {
+          "source_line": 33423,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 33449,
+          "citation_type": "ShortCaseCitation",
+          "citation": "995 F.3d at 1092"
+        },
+        {
+          "source_line": 33452,
+          "citation_type": "ShortCaseCitation",
+          "citation": "995 F.3d at 1092"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-047",
+      "cited_opinion_id": "S230-004",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 33834,
+          "citation_type": "FullCaseCitation",
+          "citation": "333 F.3d 1018"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-047",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 33854,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        },
+        {
+          "source_line": 33877,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        },
+        {
+          "source_line": 33914,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        },
+        {
+          "source_line": 33962,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-047",
+      "cited_opinion_id": "S230-011",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 33836,
+          "citation_type": "FullCaseCitation",
+          "citation": "570 F.3d 1096"
+        },
+        {
+          "source_line": 33881,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at "
+        },
+        {
+          "source_line": 33891,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at "
+        },
+        {
+          "source_line": 33905,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1107"
+        },
+        {
+          "source_line": 33909,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1102"
+        },
+        {
+          "source_line": 33912,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1100"
+        },
+        {
+          "source_line": 33920,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1102"
+        },
+        {
+          "source_line": 33940,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at "
+        },
+        {
+          "source_line": 33944,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1099"
+        },
+        {
+          "source_line": 33945,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 33991,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1102"
+        },
+        {
+          "source_line": 33996,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 34018,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1107"
+        },
+        {
+          "source_line": 34034,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at "
+        },
+        {
+          "source_line": 34130,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1102"
+        },
+        {
+          "source_line": 34133,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 34134,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1098"
+        },
+        {
+          "source_line": 34138,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1099"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-047",
+      "cited_opinion_id": "S230-021",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 33841,
+          "citation_type": "FullCaseCitation",
+          "citation": "824 F.3d 846"
+        },
+        {
+          "source_line": 33844,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 852"
+        },
+        {
+          "source_line": 33847,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 33850,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 33900,
+          "citation_type": "ShortCaseCitation",
+          "citation": "824 F.3d at 853"
+        },
+        {
+          "source_line": 33913,
+          "citation_type": "ShortCaseCitation",
+          "citation": "824 F.3d at "
+        },
+        {
+          "source_line": 33931,
+          "citation_type": "ShortCaseCitation",
+          "citation": "824 F.3d at 853"
+        },
+        {
+          "source_line": 33987,
+          "citation_type": "FullCaseCitation",
+          "citation": "824 F.3d 846"
+        },
+        {
+          "source_line": 34097,
+          "citation_type": "ShortCaseCitation",
+          "citation": "824 F.3d at 848"
+        },
+        {
+          "source_line": 34098,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 34100,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 34101,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 848"
+        },
+        {
+          "source_line": 34104,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 851"
+        },
+        {
+          "source_line": 34106,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-047",
+      "cited_opinion_id": "S230-029",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 33937,
+          "citation_type": "FullCaseCitation",
+          "citation": "918 F.3d 676"
+        },
+        {
+          "source_line": 33951,
+          "citation_type": "FullCaseCitation",
+          "citation": "918 F.3d 676"
+        },
+        {
+          "source_line": 33954,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-047",
+      "cited_opinion_id": "S230-033",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 33822,
+          "citation_type": "FullCaseCitation",
+          "citation": "934 F.3d 1093"
+        },
+        {
+          "source_line": 34115,
+          "citation_type": "ShortCaseCitation",
+          "citation": "934 F.3d at "
+        },
+        {
+          "source_line": 34118,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1095"
+        },
+        {
+          "source_line": 34120,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1095"
+        },
+        {
+          "source_line": 34123,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-047",
+      "cited_opinion_id": "S230-037",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 33988,
+          "citation_type": "FullCaseCitation",
+          "citation": "995 F.3d 1085"
+        },
+        {
+          "source_line": 34067,
+          "citation_type": "ShortCaseCitation",
+          "citation": "995 F.3d at 1087"
+        },
+        {
+          "source_line": 34069,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 34071,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1089"
+        },
+        {
+          "source_line": 34072,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1088"
+        },
+        {
+          "source_line": 34076,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1089"
+        },
+        {
+          "source_line": 34156,
+          "citation_type": "ShortCaseCitation",
+          "citation": "995 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-047",
+      "cited_opinion_id": "S230-046",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 33901,
+          "citation_type": "FullCaseCitation",
+          "citation": "103 F.4th 732"
+        },
+        {
+          "source_line": 33924,
+          "citation_type": "ShortCaseCitation",
+          "citation": "103 F.4th at 742"
+        },
+        {
+          "source_line": 33927,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 33928,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 33984,
+          "citation_type": "ShortCaseCitation",
+          "citation": "103 F.4th at 742"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-048",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 34373,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-048",
+      "cited_opinion_id": "S230-003",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 34370,
+          "citation_type": "FullCaseCitation",
+          "citation": "318 F.3d 465"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-048",
+      "cited_opinion_id": "S230-010",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 34391,
+          "citation_type": "FullCaseCitation",
+          "citation": "528 F.3d 413"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-048",
+      "cited_opinion_id": "S230-013",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 34264,
+          "citation_type": "FullCaseCitation",
+          "citation": "570 F.3d 1187"
+        },
+        {
+          "source_line": 34276,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1195"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-048",
+      "cited_opinion_id": "S230-015",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 34390,
+          "citation_type": "FullCaseCitation",
+          "citation": "614 F.3d 785"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-048",
+      "cited_opinion_id": "S230-017",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 34388,
+          "citation_type": "FullCaseCitation",
+          "citation": "753 F.3d 1354"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-048",
+      "cited_opinion_id": "S230-018",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 34386,
+          "citation_type": "FullCaseCitation",
+          "citation": "755 F.3d 398"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-048",
+      "cited_opinion_id": "S230-020",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 34383,
+          "citation_type": "FullCaseCitation",
+          "citation": "817 F.3d 12"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-048",
+      "cited_opinion_id": "S230-032",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 34224,
+          "citation_type": "FullCaseCitation",
+          "citation": "934 F.3d 53"
+        },
+        {
+          "source_line": 34378,
+          "citation_type": "FullCaseCitation",
+          "citation": "934 F.3d 53"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-048",
+      "cited_opinion_id": "S230-033",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 34376,
+          "citation_type": "FullCaseCitation",
+          "citation": "934 F.3d 1093"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-049",
+      "cited_opinion_id": "S230-040",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 34842,
+          "citation_type": "FullCaseCitation",
+          "citation": "51 F.4th 1137"
+        },
+        {
+          "source_line": 35105,
+          "citation_type": "ShortCaseCitation",
+          "citation": "51 F.4th at 1141"
+        },
+        {
+          "source_line": 35139,
+          "citation_type": "ShortCaseCitation",
+          "citation": "51 F.4th at 1143"
+        },
+        {
+          "source_line": 35142,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1141"
+        },
+        {
+          "source_line": 35144,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 35148,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 35149,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 35152,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1145"
+        },
+        {
+          "source_line": 35164,
+          "citation_type": "ShortCaseCitation",
+          "citation": "51 F.4th at 1145"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-050",
+      "cited_opinion_id": "S230-003",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 35455,
+          "citation_type": "FullCaseCitation",
+          "citation": "318 F.3d 465"
+        },
+        {
+          "source_line": 35458,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 35458,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 35618,
+          "citation_type": "ShortCaseCitation",
+          "citation": "318 F.3d at 471"
+        },
+        {
+          "source_line": 35644,
+          "citation_type": "ShortCaseCitation",
+          "citation": "318 F.3d at 471"
+        },
+        {
+          "source_line": 35646,
+          "citation_type": "IdCitation",
+          "citation": "id."
+        },
+        {
+          "source_line": 35646,
+          "citation_type": "ShortCaseCitation",
+          "citation": "318 F.3d at 471"
+        },
+        {
+          "source_line": 35677,
+          "citation_type": "ShortCaseCitation",
+          "citation": "318 F.3d at 471"
+        },
+        {
+          "source_line": 35680,
+          "citation_type": "IdCitation",
+          "citation": "id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-050",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 35436,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        },
+        {
+          "source_line": 35663,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-050",
+      "cited_opinion_id": "S230-010",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 35445,
+          "citation_type": "FullCaseCitation",
+          "citation": "528 F.3d 413"
+        },
+        {
+          "source_line": 35447,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 416"
+        },
+        {
+          "source_line": 35448,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 422"
+        },
+        {
+          "source_line": 35451,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 35454,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 35484,
+          "citation_type": "ShortCaseCitation",
+          "citation": "528 F.3d at 418"
+        },
+        {
+          "source_line": 35486,
+          "citation_type": "IdCitation",
+          "citation": "id."
+        },
+        {
+          "source_line": 35489,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 35489,
+          "citation_type": "ShortCaseCitation",
+          "citation": "528 F.3d at 418"
+        },
+        {
+          "source_line": 35520,
+          "citation_type": "ShortCaseCitation",
+          "citation": "528 F.3d at "
+        },
+        {
+          "source_line": 35524,
+          "citation_type": "IdCitation",
+          "citation": "id."
+        },
+        {
+          "source_line": 35528,
+          "citation_type": "ShortCaseCitation",
+          "citation": "528 F.3d at 420"
+        },
+        {
+          "source_line": 35530,
+          "citation_type": "IdCitation",
+          "citation": "id."
+        },
+        {
+          "source_line": 35618,
+          "citation_type": "ShortCaseCitation",
+          "citation": "528 F.3d at "
+        },
+        {
+          "source_line": 35643,
+          "citation_type": "ShortCaseCitation",
+          "citation": "528 F.3d at "
+        },
+        {
+          "source_line": 35676,
+          "citation_type": "ShortCaseCitation",
+          "citation": "528 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-050",
+      "cited_opinion_id": "S230-011",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 35435,
+          "citation_type": "FullCaseCitation",
+          "citation": "570 F.3d 1096"
+        },
+        {
+          "source_line": 35500,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1102"
+        },
+        {
+          "source_line": 35513,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1102"
+        },
+        {
+          "source_line": 35595,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1102"
+        },
+        {
+          "source_line": 35597,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 35597,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1107"
+        },
+        {
+          "source_line": 35600,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 35600,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1102"
+        },
+        {
+          "source_line": 35602,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 35660,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1102"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-050",
+      "cited_opinion_id": "S230-014",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 35551,
+          "citation_type": "FullCaseCitation",
+          "citation": "591 F.3d 250"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-050",
+      "cited_opinion_id": "S230-020",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 35514,
+          "citation_type": "FullCaseCitation",
+          "citation": "817 F.3d 12"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-050",
+      "cited_opinion_id": "S230-021",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 35441,
+          "citation_type": "FullCaseCitation",
+          "citation": "824 F.3d 846"
+        },
+        {
+          "source_line": 35476,
+          "citation_type": "ShortCaseCitation",
+          "citation": "824 F.3d at 853"
+        },
+        {
+          "source_line": 35535,
+          "citation_type": "ShortCaseCitation",
+          "citation": "824 F.3d at 853"
+        },
+        {
+          "source_line": 35544,
+          "citation_type": "ShortCaseCitation",
+          "citation": "824 F.3d at 853"
+        },
+        {
+          "source_line": 35560,
+          "citation_type": "ShortCaseCitation",
+          "citation": "824 F.3d at 853"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-050",
+      "cited_opinion_id": "S230-029",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 35511,
+          "citation_type": "FullCaseCitation",
+          "citation": "918 F.3d 676"
+        },
+        {
+          "source_line": 35512,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 35542,
+          "citation_type": "ShortCaseCitation",
+          "citation": "918 F.3d at 682"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-050",
+      "cited_opinion_id": "S230-044",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 35537,
+          "citation_type": "FullCaseCitation",
+          "citation": "76 F.4th 544"
+        },
+        {
+          "source_line": 35542,
+          "citation_type": "ShortCaseCitation",
+          "citation": "76 F.4th at 567"
+        },
+        {
+          "source_line": 35642,
+          "citation_type": "ShortCaseCitation",
+          "citation": "76 F.4th at "
+        },
+        {
+          "source_line": 35656,
+          "citation_type": "ShortCaseCitation",
+          "citation": "76 F.4th at "
+        },
+        {
+          "source_line": 35656,
+          "citation_type": "IdCitation",
+          "citation": "id.,"
+        },
+        {
+          "source_line": 35656,
+          "citation_type": "ShortCaseCitation",
+          "citation": "76 F.4th at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-050",
+      "cited_opinion_id": "S230-045",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 35465,
+          "citation_type": "FullCaseCitation",
+          "citation": "95 F.4th 263"
+        },
+        {
+          "source_line": 35473,
+          "citation_type": "ShortCaseCitation",
+          "citation": "95 F.4th at 286"
+        },
+        {
+          "source_line": 35480,
+          "citation_type": "ShortCaseCitation",
+          "citation": "95 F.4th at 286"
+        },
+        {
+          "source_line": 35484,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 35542,
+          "citation_type": "ShortCaseCitation",
+          "citation": "95 F.4th at 286"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-050",
+      "cited_opinion_id": "S230-046",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 35546,
+          "citation_type": "FullCaseCitation",
+          "citation": "103 F.4th 732"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-050",
+      "cited_opinion_id": "S230-047",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 35440,
+          "citation_type": "FullCaseCitation",
+          "citation": "112 F.4th 1168"
+        },
+        {
+          "source_line": 35475,
+          "citation_type": "ShortCaseCitation",
+          "citation": "112 F.4th at "
+        },
+        {
+          "source_line": 35507,
+          "citation_type": "ShortCaseCitation",
+          "citation": "112 F.4th at 1176"
+        },
+        {
+          "source_line": 35560,
+          "citation_type": "ShortCaseCitation",
+          "citation": "112 F.4th at "
+        },
+        {
+          "source_line": 35595,
+          "citation_type": "ShortCaseCitation",
+          "citation": "112 F.4th at "
+        },
+        {
+          "source_line": 35614,
+          "citation_type": "ShortCaseCitation",
+          "citation": "112 F.4th at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-050",
+      "cited_opinion_id": "S230-048",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 35551,
+          "citation_type": "FullCaseCitation",
+          "citation": "116 F.4th 180"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-051",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 35899,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        },
+        {
+          "source_line": 35909,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        },
+        {
+          "source_line": 35910,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 331"
+        },
+        {
+          "source_line": 35923,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        },
+        {
+          "source_line": 35927,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        },
+        {
+          "source_line": 35957,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 332"
+        },
+        {
+          "source_line": 35960,
+          "citation_type": "ShortCaseCitation",
+          "citation": "129 F.3d at 330"
+        },
+        {
+          "source_line": 35970,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        },
+        {
+          "source_line": 35976,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 328"
+        },
+        {
+          "source_line": 35978,
+          "citation_type": "IdCitation",
+          "citation": "id. at 330"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-051",
+      "cited_opinion_id": "S230-005",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 36027,
+          "citation_type": "FullCaseCitation",
+          "citation": "339 F.3d 1119"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-051",
+      "cited_opinion_id": "S230-014",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 35923,
+          "citation_type": "FullCaseCitation",
+          "citation": "591 F.3d 250"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-051",
+      "cited_opinion_id": "S230-022",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 36036,
+          "citation_type": "FullCaseCitation",
+          "citation": "831 F.3d 352"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-051",
+      "cited_opinion_id": "S230-030",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 35926,
+          "citation_type": "FullCaseCitation",
+          "citation": "925 F.3d 135"
+        },
+        {
+          "source_line": 35960,
+          "citation_type": "FullCaseCitation",
+          "citation": "925 F.3d 135"
+        },
+        {
+          "source_line": 35963,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 35966,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-051",
+      "cited_opinion_id": "S230-031",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 36028,
+          "citation_type": "FullCaseCitation",
+          "citation": "925 F.3d 1263"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-051",
+      "cited_opinion_id": "S230-032",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 35993,
+          "citation_type": "FullCaseCitation",
+          "citation": "934 F.3d 53"
+        },
+        {
+          "source_line": 36024,
+          "citation_type": "ShortCaseCitation",
+          "citation": "934 F.3d at 67"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-051",
+      "cited_opinion_id": "S230-041",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 35932,
+          "citation_type": "FullCaseCitation",
+          "citation": "53 F.4th 110"
+        },
+        {
+          "source_line": 35952,
+          "citation_type": "ShortCaseCitation",
+          "citation": "53 F.4th at 123"
+        },
+        {
+          "source_line": 35953,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 124"
+        },
+        {
+          "source_line": 35955,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 35957,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 35969,
+          "citation_type": "ShortCaseCitation",
+          "citation": "53 F.4th at "
+        },
+        {
+          "source_line": 35984,
+          "citation_type": "ShortCaseCitation",
+          "citation": "53 F.4th at "
+        },
+        {
+          "source_line": 36052,
+          "citation_type": "ShortCaseCitation",
+          "citation": "53 F.4th at 119"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-052",
+      "cited_opinion_id": "S230-011",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 36422,
+          "citation_type": "FullCaseCitation",
+          "citation": "570 F.3d 1096"
+        },
+        {
+          "source_line": 36427,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 36432,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1101"
+        },
+        {
+          "source_line": 36435,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 36438,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1102"
+        },
+        {
+          "source_line": 36554,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1099"
+        },
+        {
+          "source_line": 36559,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-052",
+      "cited_opinion_id": "S230-021",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 36546,
+          "citation_type": "FullCaseCitation",
+          "citation": "824 F.3d 846"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-052",
+      "cited_opinion_id": "S230-033",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 36489,
+          "citation_type": "FullCaseCitation",
+          "citation": "934 F.3d 1093"
+        },
+        {
+          "source_line": 36491,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 36493,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1095"
+        },
+        {
+          "source_line": 36497,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-052",
+      "cited_opinion_id": "S230-037",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 36513,
+          "citation_type": "FullCaseCitation",
+          "citation": "995 F.3d 1085"
+        },
+        {
+          "source_line": 36517,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 36518,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1093"
+        },
+        {
+          "source_line": 36521,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1092"
+        },
+        {
+          "source_line": 36525,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1093"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-052",
+      "cited_opinion_id": "S230-040",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 36584,
+          "citation_type": "FullCaseCitation",
+          "citation": "51 F.4th 1137"
+        },
+        {
+          "source_line": 36586,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 36597,
+          "citation_type": "ShortCaseCitation",
+          "citation": "51 F.4th at "
+        },
+        {
+          "source_line": 36611,
+          "citation_type": "ShortCaseCitation",
+          "citation": "51 F.4th at 1145"
+        },
+        {
+          "source_line": 36618,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-052",
+      "cited_opinion_id": "S230-046",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 36432,
+          "citation_type": "FullCaseCitation",
+          "citation": "103 F.4th 732"
+        },
+        {
+          "source_line": 36442,
+          "citation_type": "ShortCaseCitation",
+          "citation": "103 F.4th at 744"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-052",
+      "cited_opinion_id": "S230-047",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 36478,
+          "citation_type": "FullCaseCitation",
+          "citation": "112 F.4th 1168"
+        },
+        {
+          "source_line": 36532,
+          "citation_type": "ShortCaseCitation",
+          "citation": "112 F.4th at "
+        },
+        {
+          "source_line": 36544,
+          "citation_type": "ShortCaseCitation",
+          "citation": "112 F.4th at "
+        },
+        {
+          "source_line": 36549,
+          "citation_type": "ShortCaseCitation",
+          "citation": "112 F.4th at 1181"
+        },
+        {
+          "source_line": 36556,
+          "citation_type": "ShortCaseCitation",
+          "citation": "112 F.4th at 1173"
+        },
+        {
+          "source_line": 36559,
+          "citation_type": "IdCitation",
+          "citation": "id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-052",
+      "cited_opinion_id": "S230-049",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 36632,
+          "citation_type": "FullCaseCitation",
+          "citation": "122 F.4th 1266"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-052",
+      "cited_opinion_id": "S230-050",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 36592,
+          "citation_type": "FullCaseCitation",
+          "citation": "123 F.4th 788"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-053",
+      "cited_opinion_id": "S230-008",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 36709,
+          "citation_type": "FullCaseCitation",
+          "citation": "521 F.3d 1157"
+        },
+        {
+          "source_line": 36727,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        },
+        {
+          "source_line": 36795,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        },
+        {
+          "source_line": 36845,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at "
+        },
+        {
+          "source_line": 36848,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 36966,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1174"
+        },
+        {
+          "source_line": 36988,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1167"
+        },
+        {
+          "source_line": 36991,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 37012,
+          "citation_type": "ShortCaseCitation",
+          "citation": "521 F.3d at 1174"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-053",
+      "cited_opinion_id": "S230-011",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 36716,
+          "citation_type": "FullCaseCitation",
+          "citation": "570 F.3d 1096"
+        },
+        {
+          "source_line": 36718,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1102"
+        },
+        {
+          "source_line": 36732,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1102"
+        },
+        {
+          "source_line": 36734,
+          "citation_type": "IdCitation",
+          "citation": "id."
+        },
+        {
+          "source_line": 36805,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at "
+        },
+        {
+          "source_line": 36968,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1102"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-053",
+      "cited_opinion_id": "S230-029",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 36722,
+          "citation_type": "FullCaseCitation",
+          "citation": "918 F.3d 676"
+        },
+        {
+          "source_line": 36810,
+          "citation_type": "ShortCaseCitation",
+          "citation": "918 F.3d at 682"
+        },
+        {
+          "source_line": 36952,
+          "citation_type": "ShortCaseCitation",
+          "citation": "918 F.3d at 682"
+        },
+        {
+          "source_line": 36955,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-053",
+      "cited_opinion_id": "S230-033",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 36986,
+          "citation_type": "FullCaseCitation",
+          "citation": "934 F.3d 1093"
+        },
+        {
+          "source_line": 36994,
+          "citation_type": "ShortCaseCitation",
+          "citation": "934 F.3d at "
+        },
+        {
+          "source_line": 36997,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-053",
+      "cited_opinion_id": "S230-037",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 36935,
+          "citation_type": "FullCaseCitation",
+          "citation": "995 F.3d 1085"
+        },
+        {
+          "source_line": 36937,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 36939,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1088"
+        },
+        {
+          "source_line": 36941,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 36944,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1092"
+        },
+        {
+          "source_line": 36947,
+          "citation_type": "IdCitation",
+          "citation": "id."
+        },
+        {
+          "source_line": 36948,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 37044,
+          "citation_type": "ShortCaseCitation",
+          "citation": "995 F.3d at "
+        },
+        {
+          "source_line": 37055,
+          "citation_type": "ShortCaseCitation",
+          "citation": "995 F.3d at "
+        },
+        {
+          "source_line": 37056,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-053",
+      "cited_opinion_id": "S230-040",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 36788,
+          "citation_type": "FullCaseCitation",
+          "citation": "51 F.4th 1137"
+        },
+        {
+          "source_line": 36825,
+          "citation_type": "ShortCaseCitation",
+          "citation": "51 F.4th at 1145"
+        },
+        {
+          "source_line": 36855,
+          "citation_type": "ShortCaseCitation",
+          "citation": "51 F.4th at 1141"
+        },
+        {
+          "source_line": 36863,
+          "citation_type": "ShortCaseCitation",
+          "citation": "51 F.4th at 1141"
+        },
+        {
+          "source_line": 36865,
+          "citation_type": "IdCitation",
+          "citation": "Id. at 1142, 1145"
+        },
+        {
+          "source_line": 36887,
+          "citation_type": "ShortCaseCitation",
+          "citation": "51 F.4th at 1145"
+        },
+        {
+          "source_line": 36892,
+          "citation_type": "ShortCaseCitation",
+          "citation": "51 F.4th at 1145"
+        },
+        {
+          "source_line": 36893,
+          "citation_type": "ShortCaseCitation",
+          "citation": "51 F.4th at "
+        },
+        {
+          "source_line": 36895,
+          "citation_type": "ShortCaseCitation",
+          "citation": "51 F.4th at 1145"
+        },
+        {
+          "source_line": 36897,
+          "citation_type": "IdCitation",
+          "citation": "id."
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-053",
+      "cited_opinion_id": "S230-046",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 36720,
+          "citation_type": "FullCaseCitation",
+          "citation": "103 F.4th 732"
+        },
+        {
+          "source_line": 36804,
+          "citation_type": "ShortCaseCitation",
+          "citation": "103 F.4th at "
+        },
+        {
+          "source_line": 36812,
+          "citation_type": "ShortCaseCitation",
+          "citation": "103 F.4th at 742"
+        },
+        {
+          "source_line": 36814,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 36815,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 36834,
+          "citation_type": "ShortCaseCitation",
+          "citation": "103 F.4th at 742"
+        },
+        {
+          "source_line": 37045,
+          "citation_type": "ShortCaseCitation",
+          "citation": "103 F.4th at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-053",
+      "cited_opinion_id": "S230-049",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 36925,
+          "citation_type": "FullCaseCitation",
+          "citation": "122 F.4th 1266"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-053",
+      "cited_opinion_id": "S230-051",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 36997,
+          "citation_type": "FullCaseCitation",
+          "citation": "127 F.4th 516"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-053",
+      "cited_opinion_id": "S230-052",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 36831,
+          "citation_type": "FullCaseCitation",
+          "citation": "128 F.4th 1148"
+        },
+        {
+          "source_line": 36887,
+          "citation_type": "ShortCaseCitation",
+          "citation": "128 F.4th at "
+        },
+        {
+          "source_line": 36894,
+          "citation_type": "ShortCaseCitation",
+          "citation": "128 F.4th at 1155"
+        },
+        {
+          "source_line": 36899,
+          "citation_type": "ShortCaseCitation",
+          "citation": "128 F.4th at "
+        },
+        {
+          "source_line": 37006,
+          "citation_type": "ShortCaseCitation",
+          "citation": "128 F.4th at "
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-054",
+      "cited_opinion_id": "S230-001",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 37184,
+          "citation_type": "FullCaseCitation",
+          "citation": "129 F.3d 327"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-054",
+      "cited_opinion_id": "S230-003",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 37411,
+          "citation_type": "FullCaseCitation",
+          "citation": "318 F.3d 465"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-054",
+      "cited_opinion_id": "S230-013",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 37431,
+          "citation_type": "FullCaseCitation",
+          "citation": "570 F.3d 1187"
+        },
+        {
+          "source_line": 37435,
+          "citation_type": "IdCitation",
+          "citation": "Id.,"
+        },
+        {
+          "source_line": 37436,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1199"
+        },
+        {
+          "source_line": 37463,
+          "citation_type": "ShortCaseCitation",
+          "citation": "570 F.3d at 1199"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-054",
+      "cited_opinion_id": "S230-019",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 37353,
+          "citation_type": "FullCaseCitation",
+          "citation": "781 F.3d 25"
+        },
+        {
+          "source_line": 37371,
+          "citation_type": "FullCaseCitation",
+          "citation": "781 F.3d 25"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-054",
+      "cited_opinion_id": "S230-020",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 37195,
+          "citation_type": "FullCaseCitation",
+          "citation": "817 F.3d 12"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-054",
+      "cited_opinion_id": "S230-023",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 37424,
+          "citation_type": "FullCaseCitation",
+          "citation": "836 F.3d 1263"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-054",
+      "cited_opinion_id": "S230-024",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 37194,
+          "citation_type": "FullCaseCitation",
+          "citation": "838 F.3d 158"
+        },
+        {
+          "source_line": 37203,
+          "citation_type": "ShortCaseCitation",
+          "citation": "838 F.3d at 174"
+        },
+        {
+          "source_line": 37391,
+          "citation_type": "ShortCaseCitation",
+          "citation": "838 F.3d at 174"
+        },
+        {
+          "source_line": 37430,
+          "citation_type": "ShortCaseCitation",
+          "citation": "838 F.3d at 174"
+        },
+        {
+          "source_line": 37441,
+          "citation_type": "ShortCaseCitation",
+          "citation": "838 F.3d at 176"
+        },
+        {
+          "source_line": 37443,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 37454,
+          "citation_type": "IdCitation",
+          "citation": "Id."
+        },
+        {
+          "source_line": 37457,
+          "citation_type": "ShortCaseCitation",
+          "citation": "838 F.3d at "
+        },
+        {
+          "source_line": 37463,
+          "citation_type": "ShortCaseCitation",
+          "citation": "838 F.3d at 174"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-054",
+      "cited_opinion_id": "S230-032",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 37147,
+          "citation_type": "FullCaseCitation",
+          "citation": "934 F.3d 53"
+        },
+        {
+          "source_line": 37149,
+          "citation_type": "IdCitation",
+          "citation": "id."
+        },
+        {
+          "source_line": 37184,
+          "citation_type": "ShortCaseCitation",
+          "citation": "934 F.3d at 63"
+        },
+        {
+          "source_line": 37200,
+          "citation_type": "ShortCaseCitation",
+          "citation": "934 F.3d at 68"
+        },
+        {
+          "source_line": 37350,
+          "citation_type": "ShortCaseCitation",
+          "citation": "934 F.3d at 57"
+        },
+        {
+          "source_line": 37369,
+          "citation_type": "ShortCaseCitation",
+          "citation": "934 F.3d at 57"
+        },
+        {
+          "source_line": 37378,
+          "citation_type": "ShortCaseCitation",
+          "citation": "934 F.3d at 62"
+        },
+        {
+          "source_line": 37390,
+          "citation_type": "ShortCaseCitation",
+          "citation": "934 F.3d at 68"
+        },
+        {
+          "source_line": 37400,
+          "citation_type": "ShortCaseCitation",
+          "citation": "934 F.3d at 68"
+        },
+        {
+          "source_line": 37418,
+          "citation_type": "ShortCaseCitation",
+          "citation": "934 F.3d at 65"
+        },
+        {
+          "source_line": 37423,
+          "citation_type": "ShortCaseCitation",
+          "citation": "934 F.3d at 68"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-055",
+      "cited_opinion_id": "S230-009",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 340,
+          "citation_type": "FullCaseCitation",
+          "citation": "519 F.3d 666"
+        }
+      ]
+    },
+    {
+      "citing_opinion_id": "S230-056",
+      "cited_opinion_id": "S230-055",
+      "in_audited_baseline": true,
+      "parser_hits": [
+        {
+          "source_line": 915,
+          "citation_type": "FullCaseCitation",
+          "citation": "807 F.3d 229"
+        }
+      ]
+    }
+  ]
+}

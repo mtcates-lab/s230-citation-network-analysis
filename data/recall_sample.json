@@ -1,0 +1,107 @@
+{
+  "seed": 23019,
+  "method": "Simple random sample of included citing opinions, without replacement",
+  "status": "reference_inventory_not_supplied",
+  "opinions": [
+    {
+      "opinion_id": "S230-001",
+      "case_name": "Zeran v. America Online, Inc.",
+      "source_url": "https://www.dmlp.org/sites/citmedialaw.org/files/Zeran-4thCircuitOpinion.pdf"
+    },
+    {
+      "opinion_id": "S230-004",
+      "case_name": "Batzel v. Smith",
+      "source_url": "https://law.justia.com/cases/federal/appellate-courts/F3/333/1018/603120/"
+    },
+    {
+      "opinion_id": "S230-005",
+      "case_name": "Carafano v. Metrosplash.com, Inc.",
+      "source_url": "https://caselaw.findlaw.com/summary/opinion/us-9th-circuit/2003/08/13/118457.html"
+    },
+    {
+      "opinion_id": "S230-006",
+      "case_name": "Universal Communication Systems, Inc. v. Lycos, Inc.",
+      "source_url": "https://law.justia.com/cases/federal/appellate-courts/F3/478/413/473053/"
+    },
+    {
+      "opinion_id": "S230-007",
+      "case_name": "Perfect 10, Inc. v. CCBill LLC",
+      "source_url": "https://law.justia.com/cases/federal/appellate-courts/F3/488/1102/496805/"
+    },
+    {
+      "opinion_id": "S230-008",
+      "case_name": "Fair Housing Council of San Fernando Valley v. Roommates.com, LLC",
+      "source_url": "https://www.eff.org/files/filenode/cda230/fairhousing.pdf"
+    },
+    {
+      "opinion_id": "S230-014",
+      "case_name": "Nemet Chevrolet, Ltd. v. Consumeraffairs. Com, Inc.",
+      "source_url": "https://www.ca4.uscourts.gov/Opinions/Published/082097.P.pdf"
+    },
+    {
+      "opinion_id": "S230-015",
+      "case_name": "Johnson v. Arden",
+      "source_url": "https://openjurist.org/614/f3d/785/johnson-v-arden"
+    },
+    {
+      "opinion_id": "S230-018",
+      "case_name": "Jones v. Dirty World Entertainment Recordings LLC",
+      "source_url": "https://www.govinfo.gov/content/pkg/USCOURTS-ca6-13-05946/pdf/USCOURTS-ca6-13-05946-0.pdf"
+    },
+    {
+      "opinion_id": "S230-020",
+      "case_name": "Jane Doe No. 1 v. Backpage.Com, LLC",
+      "source_url": "https://openjurist.org/817/f3d/12/jane-doe-no-1-v-backpage-com-llc"
+    },
+    {
+      "opinion_id": "S230-027",
+      "case_name": "Small Justice LLC v. Xcentric Ventures LLC",
+      "source_url": "https://www.eff.org/files/2017/10/12/small_justice_opinion_first_circuit_0.pdf"
+    },
+    {
+      "opinion_id": "S230-032",
+      "case_name": "Force v. Facebook, Inc.",
+      "source_url": "https://law.justia.com/cases/federal/appellate-courts/ca2/18-397/18-397-2019-07-31.html"
+    },
+    {
+      "opinion_id": "S230-035",
+      "case_name": "La Liberte v. Reid",
+      "source_url": "https://law.justia.com/cases/federal/appellate-courts/ca2/19-3574/19-3574-2020-07-15.html"
+    },
+    {
+      "opinion_id": "S230-037",
+      "case_name": "Carly Lemmon v. Snap, Inc.",
+      "source_url": "https://cdn.ca9.uscourts.gov/datastore/opinions/2021/05/04/20-55295.pdf"
+    },
+    {
+      "opinion_id": "S230-044",
+      "case_name": "G.G. v. Salesforce.com, Inc.",
+      "source_url": "https://openjurist.org/76/f4th/544/g-g-v-salesforce-com-inc"
+    },
+    {
+      "opinion_id": "S230-047",
+      "case_name": "The Estate of Carson Bride v. Yolo Technologies, Inc.",
+      "source_url": "https://cdn.ca9.uscourts.gov/datastore/opinions/2024/08/22/23-55134.pdf"
+    },
+    {
+      "opinion_id": "S230-048",
+      "case_name": "Tawainna Anderson v. TikTok Inc",
+      "source_url": "https://www2.ca3.uscourts.gov/opinarch/223061p.pdf"
+    },
+    {
+      "opinion_id": "S230-050",
+      "case_name": "A. B. v. Salesforce",
+      "source_url": "https://law.justia.com/cases/federal/appellate-courts/ca5/23-20604/23-20604-2024-12-19.html"
+    },
+    {
+      "opinion_id": "S230-051",
+      "case_name": "M.P. v. Meta Platforms Inc.",
+      "source_url": "https://law.justia.com/cases/federal/appellate-courts/ca4/23-1880/23-1880-2025-02-04.html"
+    },
+    {
+      "opinion_id": "S230-056",
+      "case_name": "Children’s Health Defense v. Meta Platforms, Inc.",
+      "source_url": "https://www.govinfo.gov/content/pkg/USCOURTS-ca9-21-16210/pdf/USCOURTS-ca9-21-16210-0.pdf"
+    }
+  ]
+}
