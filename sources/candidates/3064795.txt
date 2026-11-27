@@ -1,0 +1,993 @@
+Case: 05-36189   05/07/2009         ID: 6911900       DktEntry: 44-1   Page: 1 of 23
+
+
+
+
+                             FOR PUBLICATION
+             UNITED STATES COURT OF APPEALS
+                  FOR THE NINTH CIRCUIT
+
+           CECILIA L. BARNES,                         No. 05-36189
+                           Plaintiff-Appellant,
+                           v.                           D.C. No.
+                                                      CV-05-00926-AA
+           YAHOO!, INC., a Delaware Corp.,
+                                                         OPINION
+                          Defendant-Appellee.
+                                                  
+                   Appeal from the United States District Court
+                            for the District of Oregon
+                     Ann L. Aiken, District Judge, Presiding
+
+                             Argued and Submitted
+                       October 14, 2008—Portland, Oregon
+
+                                Filed May 7, 2009
+
+             Before: Diarmuid F. O’Scannlain, Susan P. Graber, and
+                     Consuelo M. Callahan, Circuit Judges.
+
+                          Opinion by Judge O’Scannlain
+
+
+
+
+                                       5311
+Case: 05-36189    05/07/2009        ID: 6911900         DktEntry: 44-1   Page: 2 of 23
+
+
+
+
+           5314                BARNES v. YAHOO!, INC.
+
+
+
+
+                                    COUNSEL
+
+           Thomas R. Rask, III, Kell, Alterman & Runstein LLP, Port-
+           land, Oregon, argued the cause for the appellant and filed
+           briefs. Denise N. Gorrell, Kell, Alterman & Runstein LLP,
+           Portland, Oregon, was also on the briefs.
+
+           Patrick J. Carome, Wilmer, Cutler, Pickering, Hale and Dorr
+           LLP, Washington, D.C., argued the cause for the appellee and
+           filed the brief; Samir Jain and C. Colin Rushing, Wilmer, Cut-
+           ler, Pickering, Hale and Dorr LLP, Washington, D.C., and
+           Reginald Davis and Eulonda Skyles, of Counsel for Yahoo!,
+           Inc., Sunnyvale, California, were also on the brief.
+
+
+                                    OPINION
+
+           O’SCANNLAIN, Circuit Judge:
+
+              We must decide whether the Communications Decency Act
+           of 1996 protects an internet service provider from suit where
+           it undertook to remove from its website material harmful to
+           the plaintiff but failed to do so.
+Case: 05-36189    05/07/2009              ID: 6911900          DktEntry: 44-1         Page: 3 of 23
+
+
+
+
+                                   BARNES v. YAHOO!, INC.                        5315
+                                                I
+
+             This case stems from a dangerous, cruel, and highly inde-
+           cent use of the internet for the apparent purpose of revenge.1
+
+              In late 2004, Cecilia Barnes broke off a lengthy relationship
+           with her boyfriend. For reasons that are unclear, he responded
+           by posting profiles of Barnes on a website run by Yahoo!, Inc.
+           (“Yahoo”). According to Yahoo’s Member Directory, “[a]
+           public profile is a page with information about you that other
+           Yahoo! members can view. You[r] profile allows you to pub-
+           licly post information about yourself that you want to share
+           with the world. Many people post their age, pictures, location,
+           and hobbies on their profiles.” Through Yahoo’s online ser-
+           vice, computer users all over the country and the world can
+           view such profiles.
+
+              Barnes did not authorize her now former boyfriend to post
+           the profiles, which is hardly surprising considering their con-
+           tent. The profiles contained nude photographs of Barnes and
+           her boyfriend, taken without her knowledge, and some kind
+           of open solicitation, whether express or implied is unclear, to
+           engage in sexual intercourse. The ex-boyfriend then con-
+           ducted discussions in Yahoo’s online “chat rooms,” posing as
+           Barnes and directing male correspondents to the fraudulent
+           profiles he had created. The profiles also included the
+           addresses, real and electronic, and telephone number at
+           Barnes’ place of employment. Before long, men whom
+             1
+               The parties agree that, as this appeal comes to us on grant of a motion
+           for dismissal under Federal Rule of Civil Procedure 12(b)(6), we accept
+           as true the facts alleged in the complaint and construe them in the light
+           most favorable to the plaintiff. Anderson v. Clow (In re Stac Electronics
+           Securities Litig.), 89 F.3d 1399, 1403 (9th Cir. 1996) (also noting that
+           “conclusory allegations of law and unwarranted inferences are insufficient
+           to defeat a motion to dismiss for failure to state a claim” (internal quota-
+           tion marks omitted)). Yahoo has indicated that it would “hotly contest[ ]”
+           the factual allegations of the complaint if it is not dismissed.
+Case: 05-36189    05/07/2009          ID: 6911900        DktEntry: 44-1      Page: 4 of 23
+
+
+
+
+           5316                 BARNES v. YAHOO!, INC.
+           Barnes did not know were peppering her office with emails,
+           phone calls, and personal visits, all in the expectation of sex.
+
+              In accordance with Yahoo policy, Barnes mailed Yahoo a
+           copy of her photo ID and a signed statement denying her
+           involvement with the profiles and requesting their removal.
+           One month later, Yahoo had not responded but the undesired
+           advances from unknown men continued; Barnes again asked
+           Yahoo by mail to remove the profiles. Nothing happened. The
+           following month, Barnes sent Yahoo two more mailings. Dur-
+           ing the same period, a local news program was preparing to
+           broadcast a report on the incident. A day before the initial air
+           date of the broadcast, Yahoo broke its silence; its Director of
+           Communications, a Ms. Osako, called Barnes and asked her
+           to fax directly the previous statements she had mailed. Ms.
+           Osako told Barnes that she would “personally walk the state-
+           ments over to the division responsible for stopping unautho-
+           rized profiles and they would take care of it.” Barnes claims
+           to have relied on this statement and took no further action
+           regarding the profiles and the trouble they had caused.
+           Approximately two months passed without word from Yahoo,
+           at which point Barnes filed this lawsuit against Yahoo in Ore-
+           gon state court. Shortly thereafter, the profiles disappeared
+           from Yahoo’s website, apparently never to return.
+
+              Barnes’ complaint against Yahoo is somewhat unclear, but
+           it appears to allege two causes of action under Oregon law.
+           First, the complaint suggests a tort for the negligent provision
+           or non-provision of services which Yahoo undertook to pro-
+           vide. As Barnes pointed out in her briefs, Oregon has adopted
+           section 323 of the Restatement (Second) of Torts (1965),
+           which describes the elements of this claim. For the sake of
+           brevity, we refer to this tort, which is really a species of negli-
+           gence, as a “negligent undertaking.” Barnes also refers in her
+           complaint and in her briefs to Yahoo’s “promise” to remove
+           the indecent profiles and her reliance thereon to her detriment.
+           We construe such references to allege a cause of action under
+           section 90 of the Restatement (Second) of Contracts (1981).
+Case: 05-36189   05/07/2009          ID: 6911900         DktEntry: 44-1    Page: 5 of 23
+
+
+
+
+                                BARNES v. YAHOO!, INC.                 5317
+              After Yahoo removed the action to federal court, it moved
+           to dismiss the complaint under Federal Rule of Civil Proce-
+           dure 12(b)(6). Yahoo contended that section 230(c)(1) of the
+           Communications Decency Act (“the Act”) renders it immune
+           from liability in this case. See 47 U.S.C. § 230(c)(1). The dis-
+           trict court granted the motion to dismiss, finding that the Act
+           did in fact protect Yahoo from liability as a matter of law.
+           Barnes timely appealed, claiming that, in the first place, the
+           so-called immunity under section 230(c) did not apply to the
+           cause of action she has brought and that, even if it did, Yahoo
+           did not fit under the terms of such immunity.
+
+                                          II
+
+              Although the district court dismissed this case under Rule
+           12(b)(6), section 230(c) provides an affirmative defense. See
+           Doe v. GTE Corp., 347 F.3d 655, 657 (7th Cir. 2003). The
+           assertion of an affirmative defense does not mean that the
+           plaintiff has failed to state a claim, and therefore does not by
+           itself justify dismissal under Rule 12(b)(6). See Gomez v.
+           Toledo, 446 U.S. 635, 640 (1980) (“Since qualified immunity
+           is a defense, the burden of pleading it rests with the defen-
+           dant.”). Neither the parties nor the district court seem to have
+           recognized this, but Yahoo ought to have asserted its affirma-
+           tive defense by responsive pleading, which is the normal
+           method of presenting defenses except for those specifically
+           enumerated in Rule 12(b). Fed. R. Civ. P. 8(c)(1), 12(b)
+           (“How to Present Defenses. Every defense to a claim for
+           relief in any pleading must be asserted in the responsive
+           pleading if one is required.”). It might then have sought judg-
+           ment on the pleadings under Rule 12(c).
+
+             However, this oversight deprives us neither of subject-
+           matter nor appellate jurisdiction, as this docket remains an
+           appeal from a final decision of the district court in a diversity
+           case. See 28 U.S.C. §§ 1291 and 1332(a)(1). This being so, as
+           a matter of judicial economy we decline to “fuss[ ] over pro-
+           cedural niceties to which the parties are indifferent.” GTE
+Case: 05-36189    05/07/2009         ID: 6911900         DktEntry: 44-1    Page: 6 of 23
+
+
+
+
+           5318                 BARNES v. YAHOO!, INC.
+           Corp., 347 F.3d at 657. We hasten to clarify, all the same, that
+           section 230 is an affirmative defense and district courts are to
+           treat it as such.
+
+                                          III
+
+              The district court dismissed Barnes’ claim on the ground
+           that section 230(c)(1) makes Yahoo “immune” against any
+           liability for the content that Barnes’ former boyfriend had
+           posted. We begin by analyzing the structure and reach of the
+           statute itself.
+
+                                          A
+
+              [1] Section 230 of the Act, also known as the Cox-Wyden
+           Amendment (“the Amendment”), protects certain internet-
+           based actors from certain kinds of lawsuits. The Amendment
+           begins with a statement of findings and a statement of policy,
+           in subsections 230(a) and (b), respectively. These are rather
+           general, but they illustrate Congress’ appreciation for the
+           internet as a “forum for a true diversity of . . . myriad avenues
+           for intellectual activity,” which “ha[s] flourished . . . with a
+           minimum of government regulation.” § 230(a)(3)-(4). The
+           statute’s “policy” includes the promotion of interactive com-
+           puter services and the “vibrant and competitive free market”
+           for such services, as well as the encouragement of “blocking
+           and filtering technologies that empower parents to restrict
+           their children’s access to objectionable or inappropriate online
+           material.” § 230(b)(1)-(2) & (4)-(5). We have recognized in
+           this declaration of statutory purpose two parallel goals. The
+           statute is designed at once “to promote the free exchange of
+           information and ideas over the Internet and to encourage vol-
+           untary monitoring for offensive or obscene material.” Cara-
+           fano v. Metrosplash.com, Inc., 339 F.3d 1119, 1122 (9th Cir.
+           2003).
+
+             [2] Though we keep these goals, which the statutory lan-
+           guage declares, in mind, we must closely hew to the text of
+Case: 05-36189    05/07/2009             ID: 6911900       DktEntry: 44-1      Page: 7 of 23
+
+
+
+
+                                  BARNES v. YAHOO!, INC.                    5319
+           the statutory bar on liability in construing its extent. The oper-
+           ative section of the Amendment is section 230(c), which
+           states in full:
+
+                 (c) Protection for “good samaritan” blocking and
+                 screening of offensive material
+
+                 (1)   Treatment of publisher or speaker
+
+                 No provider or user of an interactive computer ser-
+                 vice shall be treated as the publisher or speaker of
+                 any information provided by another information
+                 content provider.
+
+                 (2)   Civil liability
+
+                 No provider or user of an interactive computer ser-
+                 vice shall be held liable on account of—
+
+                    (A) any action voluntarily taken in good faith to
+                 restrict access to or availability of material that the
+                 provider or user considers to be obscene, lewd, las-
+                 civious, filthy, excessively violent, harassing, or oth-
+                 erwise objectionable, whether or not such material is
+                 constitutionally protected; or
+
+                    (B) any action taken to enable or make available
+                 to information content providers or others the techni-
+                 cal means to restrict access to material described in
+                 paragraph (1).
+
+              [3] Section 230(c) has two parts. Yahoo relies exclusively
+           on the first part, which bars courts from treating certain inter-
+           net service providers as publishers or speakers. Looking at the
+           text, it appears clear that neither this subsection nor any other
+           declares a general immunity from liability deriving from
+           third-party content, as Yahoo argues it does. “Subsection
+           (c)(1) does not mention ‘immunity’ or any synonym.” Chi.
+Case: 05-36189    05/07/2009              ID: 6911900          DktEntry: 44-1          Page: 8 of 23
+
+
+
+
+           5320                    BARNES v. YAHOO!, INC.
+           Lawyers’ Comm. for Civil Rights Under Law, Inc. v. Craigs-
+           list, Inc., 519 F.3d 666, 669 (7th Cir. 2008). Our recent en
+           banc decision in Fair Housing Council of San Fernando Val-
+           ley v. Roommates.com, LLC, rested not on broad statements
+           of immunity but rather on a careful exegesis of the statutory
+           language. 521 F.3d 1157, 1171 (9th Cir. 2008) (en banc) (not-
+           ing that to “provid[e] immunity every time a website uses data
+           initially obtained from third parties would eviscerate [the stat-
+           ute]”2).
+
+              [4] Following this approach, one notices that subsection
+           (c)(1), which after all is captioned “Treatment of publisher or
+           speaker,” precludes liability only by means of a definition.
+           “No provider or user of an interactive computer service,” it
+           says, “shall be treated as the publisher or speaker of any
+           information provided by another information content provid-
+           er.” § 230(c)(1) (emphasis added). Subsection 230(e)(3)
+           makes explicit the relevance of this definition, for it cautions
+           that “[n]o cause of action may be brought and no liability may
+           be imposed under any State or local law that is inconsistent
+           with this section.”3 Bringing these two subsections together,
+           it appears that subsection (c)(1) only protects from liability
+           (1) a provider or user of an interactive computer service (2)
+           whom a plaintiff seeks to treat, under a state law cause of action,4
+           as a publisher or speaker (3) of information provided by
+           another information content provider.
+
+              [5] Barnes did not contest in the district court that Yahoo
+           is a provider of an interactive computer service, and we have
+           no trouble concluding that it qualifies as one.5 Nor is there any
+             2
+                Roommates interpreted a different subsection of the Amendment,
+           § 203(f)(3), but its approach remains instructive.
+              3
+                Conversely, “[n]othing in this section shall be construed to prevent any
+           State from enforcing any State law that is consistent with this section.”
+           § 230(e)(3).
+              4
+                Section 230(e) also refers to the Amendment’s effect on several federal
+           laws, but those laws are not relevant to this case.
+              5
+                Section 230 helpfully defines “interactive computer service” as “any
+           information service, system, or access software provider that provides or
+Case: 05-36189     05/07/2009              ID: 6911900          DktEntry: 44-1          Page: 9 of 23
+
+
+
+
+                                    BARNES v. YAHOO!, INC.                         5321
+           dispute that the “information content”—such as it is—at issue
+           in this case was provided by another “information content pro-
+           vider.”6 The flashpoint in this case is the meaning of the “pub-
+           lisher or speaker” part of subsection (c)(1), and that is where
+           we train our sights.
+
+                                                B
+
+              [6] By its terms, then, section (c)(1) only ensures that in
+           certain cases an internet service provider7 will not be “treated”
+           as the “publisher or speaker” of third-party content for the
+           purposes of another cause of action. The question before us
+           is how to determine when, for purposes of this statute, a plain-
+           tiff’s theory of liability would treat a defendant as a publisher
+           or speaker of third-party content.
+
+              The cause of action most frequently associated with the
+           cases on section 230 is defamation. See, e.g., Carafano, 339
+           F.3d 1119; Batzel v. Smith, 333 F.3d 1018 (9th Cir. 2003).
+           This is not surprising, because, as we and some of our sister
+           circuits have recognized, Congress enacted the Amendment in
+           part to respond to a New York state court decision, Stratton
+           Oakmont, Inc. v. Prodigy Servs. Co., 1995 WL 323710 (N.Y.
+
+           enables computer access by multiple users to a computer server, including
+           specifically a service or system that provides access to the Internet and
+           such systems operated or services offered by libraries or educational insti-
+           tutions.” § 230(f)(2).
+              6
+                The statute also tells us that this term “means any person or entity that
+           is responsible, in whole or in part, for the creation or development of
+           information provided through the Internet or any other interactive com-
+           puter service.” § 230(f)(3). We have recently reiterated that “providing
+           neutral tools to carry out what may be unlawful or illicit . . . does not
+           amount to ‘development’ ” for these purposes, Roommates, 521 F.3d at
+           1169; thus it is crystal clear that Yahoo is not an “information content pro-
+           vider” of the profiles.
+              7
+                Subsection 230(c)(1) also refers to interactive computer service users,
+           which we do not mention further because such reference is irrelevant to
+           this case.
+Case: 05-36189     05/07/2009         ID: 6911900         DktEntry: 44-1    Page: 10 of 23
+
+
+
+
+            5322                 BARNES v. YAHOO!, INC.
+            Sup. Ct. May 24, 1995) (unpublished), which held that an
+            internet service provider could be liable for defamation. See
+            e.g., Roommates, 521 F.3d at 1163; see also Zeran v. Am.
+            Online, Inc., 129 F.3d 327, 331 (4th Cir. 1997).
+
+               [7] But “a law’s scope often differs from its genesis,”
+            Craigslist, 519 F.3d at 671, and the language of the statute
+            does not limit its application to defamation cases. Indeed,
+            many causes of action might be premised on the publication
+            or speaking of what one might call “information content.” A
+            provider of information services might get sued for violating
+            anti-discrimination laws, see, e.g., Roommates, 521 F.3d
+            1157; for fraud, negligent misrepresentation, and ordinary
+            negligence, see, e.g., Doe v. MySpace, Inc., 528 F.3d 413 (5th
+            Cir. 2008), cert. denied, 129 S. Ct. 600; for false light, see,
+            e.g., Flowers v. Carville, 310 F.3d 1118 (9th Cir. 2002); or
+            even for negligent publication of advertisements that cause
+            harm to third parties, see Braun v. Soldier of Fortune Maga-
+            zine, Inc., 968 F.2d 1110 (11th Cir. 1992). Thus, what matters
+            is not the name of the cause of action—defamation versus
+            negligence versus intentional infliction of emotional distress
+            —what matters is whether the cause of action inherently
+            requires the court to treat the defendant as the “publisher or
+            speaker” of content provided by another. To put it another
+            way, courts must ask whether the duty that the plaintiff
+            alleges the defendant violated derives from the defendant’s
+            status or conduct as a “publisher or speaker.” If it does, sec-
+            tion 230(c)(1) precludes liability.
+
+               [8] We have indicated that publication involves reviewing,
+            editing, and deciding whether to publish or to withdraw from
+            publication third-party content. See Roommates, 521 F.3d at
+            1170-71 (“[A]ny activity that can be boiled down to deciding
+            whether to exclude material that third parties seek to post
+            online is perforce immune under section 230.”). We need not
+            perform any intellectual gymnastics to arrive at this result, for
+            it is rooted in the common sense and common definition of
+            what a publisher does. One dictionary defines “publisher,” in
+Case: 05-36189     05/07/2009             ID: 6911900         DktEntry: 44-1          Page: 11 of 23
+
+
+
+
+                                    BARNES v. YAHOO!, INC.                       5323
+            relevant part, as “the reproducer of a work intended for public
+            consumption” and also as “one whose business is publica-
+            tion.” See Webster’s Third New International Dictionary 1837
+            (Philip Babcock Gove ed., 1986). Thus, a publisher reviews
+            material submitted for publication, perhaps edits it for style or
+            technical fluency, and then decides whether to publish it.8 See
+            also Zeran, 129 F.3d at 330 (listing “deciding whether to pub-
+            lish, withdraw, postpone or alter content” as examples of “a
+            publisher’s traditional editorial functions”).
+
+                                               IV
+
+               Which leads us to whether Barnes, in her negligent under-
+            taking claim, seeks to treat Yahoo as a “publisher or speaker”
+            of the indecent profiles in order to hold Yahoo liable.
+
+                                                A
+
+               The Oregon law tort that Barnes claims Yahoo committed
+            derives from section 3239 of the Restatement (Second) of
+            Torts, which states: One who undertakes, gratuitously or for
+            consideration, to render services to another which he should
+            recognize as necessary for the protection of the other’s person
+            or things, is subject to liability to the other for physical harm
+            resulting from his failure to exercise reasonable care to per-
+            form his undertaking, if
+
+                  (a) his failure to exercise such care increases the
+                  risk of such harm, or
+              8
+                 As we pointed out in Batzel, it is immaterial whether this decision
+            comes in the form of deciding what to publish in the first place or what
+            to remove among the published material. 333 F.3d at 1032. This is particu-
+            larly so in the context of the internet, where material can be “posted” and
+            “unposted” with ease.
+               9
+                 We do not decide in this appeal whether Barnes has properly alleged
+            this cause of action under Oregon law.
+Case: 05-36189     05/07/2009        ID: 6911900         DktEntry: 44-1    Page: 12 of 23
+
+
+
+
+            5324                BARNES v. YAHOO!, INC.
+                 (b) the harm is suffered because of the other’s reli-
+                 ance upon the undertaking.
+
+               Barnes argues that this tort claim would not treat Yahoo as
+            a publisher. She points to her complaint, which acknowledges
+            that although Yahoo “may have had no initial responsibility
+            to act, once [Yahoo,] through its agent, undertook to act, [it]
+            must do so reasonably.” According to Barnes, this makes the
+            undertaking, not the publishing or failure to withdraw from
+            publication, the source of liability. Under this theory, Barnes’
+            cause of action would evade the reach of section 230(c)
+            entirely because it treats Yahoo not as a publisher, but rather
+            as one who undertook to perform a service and did it negli-
+            gently.
+
+               [9] We are not persuaded. As we implied above, a plaintiff
+            cannot sue someone for publishing third-party content simply
+            by changing the name of the theory from defamation to negli-
+            gence. Nor can he or she escape section 230(c) by labeling as
+            a “negligent undertaking” an action that is quintessentially
+            that of a publisher. The word “undertaking,” after all, is
+            meaningless without the following verb. That is, one does not
+            merely undertake; one undertakes to do something. And what
+            is the undertaking that Barnes alleges Yahoo failed to perform
+            with due care? The removal of the indecent profiles that her
+            former boyfriend posted on Yahoo’s website. But removing
+            content is something publishers do, and to impose liability on
+            the basis of such conduct necessarily involves treating the lia-
+            ble party as a publisher of the content it failed to remove. See
+            Craigslist, 519 F.3d at 671 (finding defendant protected
+            because “only in a capacity as publisher could [the defendant]
+            be liable under § 3604(c) [of the Fair Housing Act]”). In other
+            words, the duty that Barnes claims Yahoo violated derives
+            from Yahoo’s conduct as a publisher—the steps it allegedly
+            took, but later supposedly abandoned, to de-publish the offen-
+            sive profiles. It is because such conduct is publishing conduct
+            that we have insisted that section 230 protects from liability
+            “any activity that can be boiled down to deciding whether to
+Case: 05-36189     05/07/2009           ID: 6911900         DktEntry: 44-1        Page: 13 of 23
+
+
+
+
+                                  BARNES v. YAHOO!, INC.                     5325
+            exclude material that third parties seek to post online.” Room-
+            mates, 521 F.3d at 1170-71.
+
+               Although the tort of defamation is not the only form of lia-
+            bility for publishers to which subsection (c)(1) applies, its
+            reach confirms our conclusion. Indeed, we note that Yahoo
+            could be liable for defamation for precisely the conduct of
+            which Barnes accuses it. Defamation law sometimes imposes
+            “an affirmative duty to remove a publication made by anoth-
+            er.” Prosser and Keaton on Torts § 113, at 803. Courts have
+            applied this principle, including in a case that reads like a
+            low-tech version of the situation before us. In Hellar v.
+            Bianco, 244 P.2d 757, 758 (Cal. Ct. App. 1952), a woman
+            received a phone call from a man who sought to arrange an
+            unconventional, but apparently amorous, liaison. Id. at 758.
+            After being rebuffed, the man informed the woman that her
+            phone number appeared on the bathroom wall of a local bar
+            along with writing indicating that she “was an unchaste
+            woman who indulged in illicit amatory ventures.” Id. The
+            woman’s husband promptly called the bartender and
+            demanded he remove the defamatory graffito, which the bar-
+            tender said he would do when he got around to it. Id. at 758-
+            59. Shortly thereafter, the husband marched to the bar, police-
+            man in tow, and discovered the offending scrawl still gracing
+            the wall. Id. at 759. He defended his wife’s honor by suing the
+            bar’s owner.
+
+               [10] The California Court of Appeal held that it was “a
+            question for the jury whether, after knowledge of its exis-
+            tence, [the bar owner] negligently allowed the defamatory
+            matter to remain for so long a time as to be chargeable with
+            its republication.” Id. at 759. This holding suggests that
+            Yahoo could have been sued under our facts for defamation,
+            one of the elements of which is publication, which strongly
+            confirms our view that section 230(c)(1) bars this lawsuit.10
+              10
+                Hellar is not an anomaly, but of a piece with a longstanding theory
+            of defamation liability. See Byrne v. Dean, (1937) 1 K.B. 818; Tidmore
+Case: 05-36189     05/07/2009            ID: 6911900          DktEntry: 44-1         Page: 14 of 23
+
+
+
+
+            5326                   BARNES v. YAHOO!, INC.
+                                                B
+
+               Barnes argues that, even if subsection 230(c)(1) applies to
+            this tort in a general sense, it does not cover her claim because
+            she is suing Yahoo as a distributor, not as a publisher. This
+            argument asks us to join an ongoing academic debate, which
+            has developed in response to the Fourth Circuit’s Zeran opin-
+            ion, on whether “publisher” in subsection 230(c)(1) means
+            only “primary publisher” or both “primary publisher” and
+            “distributor,” also known as a “secondary publisher,” for pur-
+            poses of defamation liability.
+
+               To understand this debate, we briefly sketch the liability of
+            publishers and distributors in defamation law. One of the ele-
+            ments of the tort of defamation is “publication” of the defam-
+            atory matter, which simply means “communication
+            intentionally or by a negligent act to one other than the person
+            defamed.” Restatement (Second) of Torts § 577(1) (1965). It
+            is well established that “[e]very repetition of the defamation
+            is a publication in itself,” whether or not the person repeating
+            the defamation attributes it to its source. Prosser & Keaton
+            § 113, at 799. “[E]veryone who takes part in the publication,
+            as in the case of the owner, editor, printer, vendor, or even
+            carrier of a newspaper is charged with publication.” Id.; see
+            also Cianci v. New Times Publ’g Co., 639 F.2d 54, 60-61 (2d
+            Cir. 1980) (noting the “black-letter rule that one who repub-
+            lishes a libel is subject to liability just as if he had published
+            it originally” (internal quotation marks omitted)). However,
+            defamation law assigns different requirements of fault in
+            order to hold someone liable for different forms of publica-
+            tion. Hence, it became “necessary to classify participants into
+            three categories: primary publishers, secondary publishers or
+
+            v. Mills, 32 So. 2d 769 (Ala. Ct. App. 1947). Contra Scott v. Hull, 259
+            N.E.2d 160 (Ohio Ct. App. 1970) (accepting the Byrne line of cases but
+            distinguishing it on the ground that the writing was on the outside of the
+            proprietor’s building and, thus, not [the tenant’s] responsibility to
+            remove).
+Case: 05-36189    05/07/2009          ID: 6911900         DktEntry: 44-1     Page: 15 of 23
+
+
+
+
+                                 BARNES v. YAHOO!, INC.                  5327
+            disseminators, and those who are suppliers of equipment and
+            facilities and are not publishers at all.” Prosser & Keaton,
+            § 113 at 803. Primary publishers were held to a strict liability
+            standard, whereas secondary publishers were only liable for
+            publishing defamation with actual or constructive knowledge
+            of its defamatory character. Id. at 810-11. Secondary publish-
+            ers came to be known as distributors, see, e.g., Cubby, Inc. v.
+            CompuServe, Inc., 776 F. Supp. 135, 139 (S.D.N.Y. 1991).
+
+               Pointing to this legal background, Barnes argues that the
+            term “publisher” in section 230(c)(1) refers only to primary
+            publishers and not to secondary publishers or distributors. She
+            argues that because Congress enacted section 230 to overrule
+            Stratton Oakmont, which held an internet service provider lia-
+            ble as a primary publisher, not a distributor, the statute does
+            no more than overrule that decision’s application of publisher
+            liability. In Zeran, the Fourth Circuit rejected a similar argu-
+            ment, concluding that so-called distributor liability is merely
+            a subset of publisher liability for purposes of defamation law.
+            129 F.3d at 332. We have taken note of this issue before, but
+            have not yet had to rule on it for ourselves. See Batzel, 333
+            F.3d at 1027 n.10 (“We . . . need not decide whether
+            § 230(c)(1) encompasses both publishers and distributors.”).
+
+               In our view, however, we need not resolve the dispute at
+            all, because it has little to do with the meaning of the statutory
+            language. As noted above, section 230(c)(1) precludes courts
+            from treating internet service providers as publishers not just
+            for the purposes of defamation law, with its particular distinc-
+            tion between primary and secondary publishers, but in gen-
+            eral. The statute does not mention defamation, and we decline
+            to read the principles of defamation law into it. In any event,
+            if the reach of section 230(c)(1) were fastened so tightly to the
+            nuances of defamation law, our Roommates opinion, which
+            dealt with a lawsuit under the Fair Housing Act, would simply
+            have declared that the provision did not apply because there
+            was no claim of defamation. We will not engage in an analy-
+Case: 05-36189     05/07/2009         ID: 6911900         DktEntry: 44-1    Page: 16 of 23
+
+
+
+
+            5328                 BARNES v. YAHOO!, INC.
+            sis so contrary to the reasoning, and even some of the holding,
+            of our precedent.
+
+               Nor do we find particularly edifying the debate over the
+            exact reach of Stratton Oakmont, the New York case Con-
+            gress apparently meant to overrule. As the Seventh Circuit has
+            recognized,
+
+                 [a]lthough the impetus for the enactment of § 230(c)
+                 as a whole was a [decision] holding an information
+                 content provider liable, as a publisher, because it had
+                 exercised some selectivity with respect to the sexu-
+                 ally oriented material it would host for customers, a
+                 law’s scope often differs from its genesis. Once the
+                 legislative process gets rolling, interest groups seek
+                 (and often obtain) other provisions.
+
+            Craigslist, 519 F.3d at 671. Both parties make a lot of sound
+            and fury on the congressional intent of the immunity under
+            section 230, but such noise ultimately signifies nothing. It is
+            the language of the statute that defines and enacts the con-
+            cerns and aims of Congress; a particular concern does not
+            rewrite the language.
+
+                                           C
+
+               Leaving no stone unturned, Barnes reminds us that the stat-
+            utory purpose of the Amendment is to encourage websites
+            affirmatively to police themselves, not to provide an excuse
+            for doing nothing. This argument from statutory purpose has
+            more force to it, because section 230(c) is, after all, captioned
+            “Protection for ‘good samaritan’ blocking and screening of
+            offensive material.” Cf. Roommates, 521 F.3d at 1163-64. It
+            would indeed be strange for a provision so captioned to pro-
+            vide equal protection as between internet service providers
+            who do nothing and those who attempt to block and screen
+            offensive material. As the Seventh Circuit has recognized, if
+            section (c) did provide equal protection, then “[internet ser-
+Case: 05-36189     05/07/2009              ID: 6911900          DktEntry: 44-1          Page: 17 of 23
+
+
+
+
+                                    BARNES v. YAHOO!, INC.                         5329
+            vice providers] may be expected to take the do-nothing option
+            and enjoy immunity” because “precautions are costly.” GTE
+            Corp., 347 F.3d at 660.
+
+               [11] A closer look at the whole of section 230(c), we
+            believe, makes sense of this apparent contradiction. Subsec-
+            tion (c)(1), by itself, shields from liability all publication deci-
+            sions, whether to edit, to remove, or to post, with respect to
+            content generated entirely by third parties. Subsection (c)(2),
+            for its part, provides an additional shield from liability, but
+            only for “any action voluntarily taken in good faith to restrict
+            access to or availability of material that the provider . . . con-
+            siders to be obscene . . . or otherwise objectionable.”
+            § 230(c)(2)(A). Crucially, the persons who can take advantage
+            of this liability are not merely those whom subsection (c)(1)
+            already protects, but any provider of an interactive computer
+            service. See § 230(c)(2). Thus, even those who cannot take
+            advantage of subsection (c)(1), perhaps because they devel-
+            oped, even in part, the content at issue, see Roommates, 521
+            F.3d at 1162-63, can take advantage of subsection (c)(2) if
+            they act to restrict access to the content because they consider
+            it obscene or otherwise objectionable. Additionally, subsec-
+            tion (c)(2) also protects internet service providers from liabil-
+            ity not for publishing or speaking, but rather for actions taken
+            to restrict access to obscene or otherwise objectionable con-
+            tent.11
+
+               Thus, we must reject Barnes’ contention that it does vio-
+            lence to the statutory scheme to bar her suit for negligent
+            undertaking. To summarize, we hold that section 230(c)(1)
+            bars Barnes’ claim, under Oregon law, for negligent provision
+            of services that Yahoo undertook to provide. The district court
+            properly granted Yahoo’s motion to dismiss that cause of
+            action.
+              11
+                 It might be more straightforward to narrow the meaning of “publisher”
+            liability to include only affirmative acts of publication but not the refusal
+            to remove obscene material. That path, however, is closed to us. Batzel,
+            333 F.3d at 1032.
+Case: 05-36189     05/07/2009            ID: 6911900          DktEntry: 44-1         Page: 18 of 23
+
+
+
+
+            5330                   BARNES v. YAHOO!, INC.
+                                               V
+
+               As we indicated above, Barnes’ complaint could also be
+            read to base liability on section 90 of the Restatement (Sec-
+            ond) of Contracts, which describes a theory of recovery often
+            known as promissory estoppel. At oral argument, counsel for
+            Barnes acknowledged that its tort claim might be “recast” in
+            terms of promissory estoppel. We think it might, and in ana-
+            lyzing it as such now we add that liability for breach of prom-
+            ise is different from, and not merely a rephrasing of, liability
+            for negligent undertaking.
+
+                                               A
+
+               [12] Oregon has accepted promissory estoppel as a theory
+            of recovery. Bixler v. First Nat’l Bank of Or., 619 P.2d 895,
+            898 (Or. Ct. App. 1980) (citing Schafer v. Fraser, 290 P.2d
+            190, 199-206 (Or. 1955)). The “principal criteria” that deter-
+            mine “when action renders a promise enforceable” under this
+            doctrine are: “(1) a promise[;] (2) which the promisor, as a
+            reasonable person, could foresee would induce conduct of the
+            kind which occurred[;] (3) actual reliance on the promise[;]
+            (4) resulting in a substantial change in position.” Id. at 899.12
+
+               In most states, including Oregon, “ ‘[p]romissory estoppel’
+            is not a ‘cause of action’ in itself; rather it is a subset of a the-
+            ory of recovery based on a breach of contract and serves as
+            a substitute for consideration.” Rick Franklin Corp. v. State ex
+            rel. Dep’t of Transp., 140 P.3d 1136, 1140 n.5 (Or. Ct. App.
+            2006). “A promise binding under [section 90 of the Restate-
+            ment] is a contract . . . .” Restatement (Second) of Contracts
+            § 90 cmt. d (emphasis added).
+              12
+                 As we analyze here the reach of a federal statute that applies to all
+            fifty states, we discuss the law of contracts generally. However, Oregon
+            law applies to Barnes’ contract claim. Any conflict between this discus-
+            sion and Oregon law is to be resolved, on remand, in favor of Oregon law.
+Case: 05-36189     05/07/2009            ID: 6911900         DktEntry: 44-1         Page: 19 of 23
+
+
+
+
+                                   BARNES v. YAHOO!, INC.                      5331
+               Thus, aside from consideration, ordinary contract principles
+            usually apply.13 Just as “[c]ontract law is designed to protect
+            the expectations of the contracting parties,” 1 Samuel Willis-
+            ton & Richard A. Lord, A Treatise on the Law of Contracts
+            § 1.1 (4th ed. 2007), so is promissory estoppel. Similarly, the
+            majority rule in this country is that “any promise which is to
+            serve as the basis for a promissory estoppel claim or defense
+            [ ] be as clear and well defined as a promise that could serve
+            as an offer, or that otherwise might be sufficient to give rise
+            to a traditional contract supported by consideration.” 1 Willis-
+            ton & Lord, supra § 8.7; see also id. § 8.6 (“there must be a
+            promise, gratuitous at least in the sense that there is no con-
+            sideration to make it binding”).
+
+               This philosophy is reflected in the so-called “promissory
+            nature” of contract. Id. It is no small thing for courts to
+            enforce private bargains. The law justifies such intervention
+            only because the parties manifest, ex ante, their mutual desire
+            that each be able to call upon a judicial remedy if the other
+            should breach. Thus the Restatement defines a promise as “a
+            manifestation of intention to act or refrain from acting in a
+            specified way, so made as to justify a promisee in understand-
+            ing that a commitment has been made.” Restatement (Second)
+            of Contracts § 2(1) (emphasis added). “A promisor manifests
+            an intention if he believes or has reason to believe that the
+            promisee will infer that intention from his words or conduct.”
+            Id. § 2 cmt. b.
+
+              [13] Such, then, is the promise that promissory estoppel
+            requires: one that the promissor intends, actually or construc-
+              13
+                 One area where promissory estoppel does vary ordinary contract prin-
+            ciples is in the damages. Although “full-scale enforcement by normal rem-
+            edies is often appropriate,” Restatement (Second) of Contracts § 90
+            comment d, some courts have awarded damages to compensate the prom-
+            isee for his expected benefit (ordinary contract damages), while others
+            have awarded damages to compensate the promisee for his detrimental
+            reliance, see Jackson v. Morse, 871 A.2d 47, 52-53 (N.H. 2005) (collect-
+            ing cases).
+Case: 05-36189     05/07/2009         ID: 6911900         DktEntry: 44-1    Page: 20 of 23
+
+
+
+
+            5332                 BARNES v. YAHOO!, INC.
+            tively, to induce reliance on the part of the promisee. From
+            such intention courts infer the intention that the promise be
+            legally enforceable. Thus, when A sues B for breach of con-
+            tract, A is alleging that B violated an obligation that B
+            intended to be legally enforceable. In promissory estoppel
+            cases, courts simply infer that intention not from consider-
+            ation but from a promise that B could have foreseen would
+            induce A’s reliance.
+
+                                           B
+
+              Against this background, we inquire whether Barnes’ the-
+            ory of recovery under promissory estoppel would treat Yahoo
+            as a “publisher or speaker” under the Act.
+
+               [14] As we explained above, subsection 230(c)(1) pre-
+            cludes liability when the duty the plaintiff alleges the defen-
+            dant violated derives from the defendant’s status or conduct
+            as a publisher or speaker. In a promissory estoppel case, as in
+            any other contract case, the duty the defendant allegedly vio-
+            lated springs from a contract—an enforceable promise—not
+            from any non-contractual conduct or capacity of the defen-
+            dant. See GTE Corp., 347 F.3d at 662 (“Maybe [the] plaintiffs
+            would have a better argument that, by its contracts . . . , [the
+            defendant] assumed a duty to protect them.”). Barnes does not
+            seek to hold Yahoo liable as a publisher or speaker of third-
+            party content, but rather as the counter-party to a contract, as
+            a promisor who has breached.
+
+               How does this analysis differ from our discussion of liabil-
+            ity for the tort of negligent undertaking? See supra pp. at
+            5323-25. After all, even if Yahoo did make a promise, it
+            promised to take down third-party content from its website,
+            which is quintessential publisher conduct, just as what Yahoo
+            allegedly undertook to do consisted in publishing activity.
+            The difference is that the various torts we referred to above
+            each derive liability from behavior that is identical to publish-
+            ing or speaking: publishing defamatory material; publishing
+Case: 05-36189     05/07/2009              ID: 6911900           DktEntry: 44-1           Page: 21 of 23
+
+
+
+
+                                     BARNES v. YAHOO!, INC.                          5333
+            material that inflicts emotional distress; or indeed attempting
+            to de-publish hurtful material but doing it badly. To undertake
+            a thing, within the meaning of the tort, is to do it.
+
+               Promising is different because it is not synonymous with
+            the performance of the action promised. That is, whereas one
+            cannot undertake to do something without simultaneously
+            doing it, one can, and often does, promise to do something
+            without actually doing it at the same time. Contract liability
+            here would come not from Yahoo’s publishing conduct, but
+            from Yahoo’s manifest intention to be legally obligated to do
+            something, which happens to be removal of material from
+            publication. Contract law treats the outwardly manifested
+            intention to create an expectation on the part of another as a
+            legally significant event. That event generates a legal duty
+            distinct from the conduct at hand, be it the conduct of a pub-
+            lisher, of a doctor, or of an overzealous uncle.14
+
+               Furthermore, a court cannot simply infer a promise from an
+            attempt to de-publish of the sort that might support tort liabil-
+              14
+                 We are aware of some potentially countervailing history. Both promis-
+            sory estoppel and ordinary breach of contract actions evolved from the
+            common law writ of assumpsit. J. B. Ames, The History of Assumpsit, 2
+            Harv. L. Rev. 1, 2-4 (1888). Assumpsit originally sounded in tort, for only
+            formal contracts were enforceable as such until the refinement of the doc-
+            trine of consideration. Id. at 15-17; 1 Williston & Lord, supra § 1.16. The
+            tort of negligent undertaking is the vestige of this original tort; promissory
+            estoppel, too, retains some of the originally delictual nature of assumpsit.
+            Cf. Schafer v. Fraser, 290 P.2d at 205-06; 1 Williston & Lord, supra
+            § 8.1. Indeed, “it is not uncommon under modern rules of pleading for a
+            plaintiff to assert one count based upon negligent failure to perform a gra-
+            tuitous undertaking [under Restatement (Second) of Torts section 323] and
+            another based upon promissory estoppel.” 1 Williston & Lord, supra
+            § 8.1.
+               All the same, we believe the distinction we draw is sound. Though
+            promissory estoppel lurks on the sometimes blurry boundary between con-
+            tract and tort, its promissory character distinguishes it from tort. That char-
+            acter drives our analysis here and places promissory estoppel beyond the
+            reach of subsection 230(c)(1).
+Case: 05-36189     05/07/2009            ID: 6911900          DktEntry: 44-1         Page: 22 of 23
+
+
+
+
+            5334                   BARNES v. YAHOO!, INC.
+            ity under section 323 of the Restatement (Second) of Torts.
+            For, as a matter of contract law, the promise must “be as clear
+            and well defined as a promise that could serve as an offer, or
+            that otherwise might be sufficient to give rise to a traditional
+            contract supported by consideration.” 1 Williston & Lord,
+            supra § 8.7. “The formation of a contract,” indeed, “requires
+            a meeting of the minds of the parties, a standard that is mea-
+            sured by the objective manifestations of intent by both parties
+            to bind themselves to an agreement.” Rick Franklin Corp.,
+            140 P.3d at 1140; see also Cosgrove v. Bartolotta, 150 F.3d
+            729, 733 (7th Cir. 1998) (noting that if “[a] promise [ ] is
+            vague and hedged about with conditions . . . . [the promisee]
+            cannot plead promissory estoppel.”). Thus a general monitor-
+            ing policy, or even an attempt to help a particular person, on
+            the part of an interactive computer service such as Yahoo
+            does not suffice for contract liability. This makes it easy for
+            Yahoo to avoid liability: it need only disclaim any intention
+            to be bound. See Workman v. United Parcel Serv. Inc., 234
+            F.3d 998, 1001 (7th Cir. 2000) (“[C]onsideration or reliance
+            is a necessary but not a sufficient condition of the enforceabil-
+            ity of a promise. Another necessary condition is that the
+            promise be worded consistently with its being intended to be
+            enforceable.”).
+
+               [15] One might also approach this question from the per-
+            spective of waiver.15 The objective intention to be bound by
+            a promise—which, again, promissory estoppel derives from a
+            promise that induces reasonably foreseeable, detrimental
+            reliance—also signifies the waiver of certain defenses. A
+            putative promisor might defend on grounds that show that the
+            contract was never formed (the lack of acceptance or a meet-
+            ing of the minds, for example) or that he could not have
+            intended as the evidence at first suggests he did (unconsciona-
+            bility, duress, or incapacity, for example). Such defenses go
+              15
+                Indeed, promissory estoppel developed in part out of cases in which
+            “[p]romises of future action . . . relate[d] to an intended abandonment of
+            an existing right.” 1 Williston & Lord, supra § 8.4.
+Case: 05-36189    05/07/2009          ID: 6911900         DktEntry: 44-1    Page: 23 of 23
+
+
+
+
+                                 BARNES v. YAHOO!, INC.                 5335
+            to the integrity of the promise and the intention it signifies;
+            they usually cannot be waived by the agreement they purport
+            to undermine. But once a court concludes a promise is legally
+            enforceable according to contract law, it has implicitly con-
+            cluded that the promisor has manifestly intended that the
+            court enforce his promise. By so intending, he has agreed to
+            depart from the baseline rules (usually derived from tort or
+            statute) that govern the mine-run of relationships between
+            strangers. Subsection 230(c)(1) creates a baseline rule: no lia-
+            bility for publishing or speaking the content of other informa-
+            tion service providers. Insofar as Yahoo made a promise with
+            the constructive intent that it be enforceable, it has implicitly
+            agreed to an alteration in such baseline.
+
+               [16] Therefore, we conclude that, insofar as Barnes alleges
+            a breach of contract claim under the theory of promissory
+            estoppel, subsection 230(c)(1) of the Act does not preclude
+            her cause of action. Because we have only reviewed the affir-
+            mative defense that Yahoo raised in this appeal, we do not
+            reach the question whether Barnes has a viable contract claim
+            or whether Yahoo has an affirmative defense under subsection
+            230(c)(2) of the Act.
+
+                                           VI
+
+              For the foregoing reasons, we AFFIRM IN PART,
+            REVERSE IN PART, and REMAND for further proceedings.
+            Each party shall bear its own costs.
+

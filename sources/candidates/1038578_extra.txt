@@ -1,0 +1,634 @@
+  Case: 12-6122      Document: 006111800603             Filed: 08/28/2013   Page: 1
+
+
+                    RECOMMENDED FOR FULL-TEXT PUBLICATION
+                        Pursuant to Sixth Circuit I.O.P. 32.1(b)
+                               File Name: 13a0255p.06
+
+             UNITED STATES COURT OF APPEALS
+                           FOR THE SIXTH CIRCUIT
+                             _________________
+
+
+                                              X
+                                               -
+ KENNETH M. SEATON, dba Grand Resort
+
+                         Plaintiff-Appellant, --
+ Hotel and Convention Center,
+
+                                               -
+                                                        No. 12-6122
+
+                                               ,
+                                                >
+                                               -
+           v.
+
+                                               -
+                        Defendant-Appellee. N-
+ TRIPADVISOR LLC,
+
+
+                   Appeal from the United States District Court
+                for the Eastern District of Tennessee at Knoxville.
+             No. 3:11-cv-00549—Thomas W. Phillips, District Judge.
+                              Argued: July 30, 2013
+                      Decided and Filed: August 28, 2013
+              Before: MOORE, CLAY, and WHITE, Circuit Judges.
+
+                               _________________
+
+                                   COUNSEL
+ARGUED: Todd A. Shelton, JOHN ROGERS LAW GROUP, Greeneville, Tennessee,
+for Appellant. Laura R. Handman, DAVIS WRIGHT TREMAINE LLP, New York,
+New York, for Appellee. ON BRIEF: Todd A. Shelton, John T. Milburn Rogers, JOHN
+ROGERS LAW GROUP, Greeneville, Tennessee, Sidney Gilreath, GILREATH &
+ASSOCIATES, Knoxville, Tennessee, for Appellant. Laura R. Handman, James
+Rosenfeld, Samuel M. Bayard, DAVIS WRIGHT TREMAINE LLP, New York, New
+York, S. Russell Headrick, BAKER, DONELSON, BEARMAN, CALDWELL &
+BERKOWITZ, Knoxville, Tennessee, for Appellee.
+                               _________________
+
+                                    OPINION
+                               _________________
+
+       KAREN NELSON MOORE, Circuit Judge. Plaintiff Kenneth Seaton is the sole
+proprietor of Grand Resort Hotel and Convention Center (“Grand Resort”) located in
+Pigeon Forge, Tennessee. Defendant TripAdvisor LLC ranked Grand Resort number
+
+
+                                         1
+   Case: 12-6122           Document: 006111800603                  Filed: 08/28/2013          Page: 2
+
+
+No. 12-6122           Seaton v. TripAdvisor LLC                                                 Page 2
+
+
+one on its “2011 Dirtiest Hotels” list. Seaton filed suit in Tennessee state court, alleging
+claims for defamation and false-light invasion of privacy based on TripAdvisor’s
+placement of Grand Resort on the “2011 Dirtiest Hotels” list. After removing the case
+to federal court, TripAdvisor filed a motion to dismiss, asserting that Grand Resort’s
+placement on the list is protected under the First Amendment. Seaton moved to amend
+his complaint, seeking to add two additional claims: “trade libel/injurious falsehood”
+and tortious interference with prospective business relationships. The district court
+granted TripAdvisor’s motion to dismiss and denied Seaton’s motion to amend as being
+futile. For the reasons set forth in this opinion, we AFFIRM the district court’s grant
+of TripAdvisor’s motion to dismiss and its denial of Seaton’s motion to amend his
+complaint.
+
+                                       I. BACKGROUND
+
+         According to the complaint, Grand Resort has operated since 1982 and has
+“established itself as a valuable business in the state and county, [and] it justly and
+properly gained and kept the confidence and goodwill of the public generally, including
+many tourists that travel to The Great Smoky Mountains for vacation.” R.1-1 (Compl.
+at ¶ 5) (Page ID #5). Defendant TripAdvisor “is a worldwide company and subsidiary
+of Expedia, Inc. which is in the business of doing surveys of hotels and restaurants
+throughout the world.”1 Id. at ¶ 3 (Page ID #4). “On January 25, 2011, . . . TripAdvisor
+published a survey which concluded that . . . Grand Resort . . . was the dirtiest hotel in
+America.” Id. at ¶ 7 (Page ID #5).
+
+         On October 11, 2011, Seaton filed suit against TripAdvisor in the Circuit Court
+for Sevier County, Tennessee. In his initial complaint, Seaton alleged, among other
+things, that TripAdvisor
+
+         published its allegations . . . to cause the public to cease and refrain from
+         doing business with [Grand Resort] and to cause great injury and
+         irreparable damage to and to destroy [Grand Resort’s] business and
+
+         1
+          Because the facts used throughout this opinion are taken from Seaton’s complaint and proposed
+amended complaint, we caution readers that, in reality, TripAdvisor’s website might function differently
+than explained here.
+   Case: 12-6122       Document: 006111800603            Filed: 08/28/2013      Page: 3
+
+
+No. 12-6122        Seaton v. TripAdvisor LLC                                       Page 3
+
+
+       reputation by false and misleading means[. TripAdvisor] caused the [list]
+       to be published in the industry, including CNN, ABC, NBC, and WATE,
+       defaming [Grand Resort’s] business with unsubstantiated rumors and
+       grossly distorted ratings and misleading statements to be used by
+       consumers.
+                                            ...
+       TripAdvisor used a rating system which is flawed and inconsistent and
+       distorts actual performance and perspective.
+
+Id. at ¶ 7, 9 (Page ID #5–6). Although it is not entirely clear from the complaint, it
+appears that Seaton alleged two claims under Tennessee law: defamation and false-light
+invasion of privacy. See R. 25 (D. Ct. Op. at 6) (Page ID #271). Seaton sought five-
+million dollars of compensatory damages and five-million dollars of punitive damages.
+R. 1-1 (Compl. at ¶ 11) (Page ID #6).
+
+       TripAdvisor removed the case to the Eastern District of Tennessee on November
+17, 2011 on the basis of diversity jurisdiction, Seaton being a citizen of Tennessee and
+TripAdvisor being organized in Delaware with its principal place of business in
+Massachusetts. R. 1 (Not. of Removal) (Page ID #1–3). Shortly thereafter, TripAdvisor
+filed a motion to dismiss for failure to state a claim under Federal Rule of Civil
+Procedure 12(b)(6), attaching a screenshot of the “2011 Dirtiest Hotels” feature that
+appeared on its website. R. 7 (Mot. to Dismiss) (Page ID #39–40); R. 8-1 (Def. Ex. A)
+(Page ID #66).     This “2011 Dirtiest Hotels” list “as reported by travelers on
+TripAdvisor” contains: “Grand Resort Hotel & Convention Center[,] Pigeon Forge,
+Tennessee” next to the number “1” position; a photograph of a ripped bedspread; a
+quotation that “‘There was dirt at least 1/2” thick in the bathtub which was filled with
+lots of dark hair.’”; and a thumbs-down image beside the statement “87% of reviewers
+do not recommend this hotel.” Id.
+
+       On March 31, 2012, Seaton moved to amend his complaint. The proposed
+amended complaint added facts, including “different configurations” of the “2011
+Dirtiest Hotels” list, and two claims: tortious interference with prospective business
+relationships and “trade libel/injurious falsehood.” R. 16-1 (Am. Compl. at ¶¶ 9, 24–32)
+(Page ID #205–06, 210–13). Seaton also expanded his allegations:
+   Case: 12-6122          Document: 006111800603                Filed: 08/28/2013         Page: 4
+
+
+No. 12-6122          Seaton v. TripAdvisor LLC                                             Page 4
+
+
+        TripAdvisor used a flawed, inconsistent, unsupported, and improper
+        system or method of naming and/or designating the Grand Resort Hotel
+        and Convention Center as the dirtiest hotel in the United States or in
+        placing the Grand Resort Hotel and Convention Center on the “2011
+        Dirtiest Hotels” list.
+                                             ...
+        By relying, in part or in whole, upon . . . unverifiable data, and further
+        applying such faulty methodology, TripAdvisor knew or should have
+        known the statements it made regarding the “Dirtiest Hotels” list were
+        false and defaming to the Plaintiff and TripAdvisor acted with negligence
+        or reckless disregard for the truth or falsity of the statements.
+
+Id. at ¶¶ 13, 14 (Page ID #207–08).2 On August 22, 2012, the district court granted
+TripAdvisor’s motion to dismiss, reasoning that the list is protected opinion—it reflects
+TripAdvisor’s users’ subjective opinions—and therefore is not capable of being
+defamatory. R. 25 (D. Ct. Op. at 6–13) (Page ID #271–78). The district court denied
+Seaton’s motion to amend his complaint, finding that the additions would be futile
+because the added claims also require Seaton to show that TripAdvisor published false
+statements. Id. at 15–17 (Page ID #280–82). This timely appeal followed.
+
+                                        II. ANALYSIS
+
+        “[I]n cases raising First Amendment issues[,] an appellate court has an obligation
+to make an independent examination of the whole record in order to make sure that the
+judgment does not constitute a forbidden intrusion on the field of free expression.”
+Milkovich v. Lorain Journal Co., 497 U.S. 1, 17 (1990) ( internal quotation marks and
+alteration omitted). In the present case, we are confident that the district court’s
+judgment does not intrude on the First Amendment because the district court properly
+granted TripAdvisor’s motion to dismiss and denied Seaton’s motion to amend the
+complaint. Seaton did not state a plausible claim for defamation because TripAdvisor’s
+placement of Grand Resort on the “2011 Dirtiest Hotels” list is not capable of being
+defamatory. Placement on the “2011 Dirtiest Hotels” list constitutes protected opinion
+
+
+
+        2
+         Seaton sought also to add two defendants in his proposed amended complaint: TripAdvisor
+Holdings, LLC and Expedia, Inc. Given that Seaton does not address this in his brief on appeal, the
+proposed additional defendants do not appear to have any effect on Seaton’s appeal.
+   Case: 12-6122           Document: 006111800603                 Filed: 08/28/2013          Page: 5
+
+
+No. 12-6122           Seaton v. TripAdvisor LLC                                               Page 5
+
+
+because the list employs loose, hyperbolic language and its general tenor undermines
+any assertion by Seaton that the list communicates anything more than the opinions of
+TripAdvisor’s users. Seaton failed to state a plausible claim for false-light invasion of
+privacy because he did not allege that he was personally named on the list and because
+Grand Resort, as a business, cannot make such a claim under Tennessee law. Seaton’s
+claim for trade libel/injurious falsehood is not plausible, as pleaded by Seaton, because
+it requires proof of publication of a false statement of fact regarding Grand Resort;
+Seaton cannot prove falsity because the placement of hotels on TripAdvisor’s list
+constitutes protected opinion. Finally, Seaton did not state a plausible claim for tortious
+interference with prospective business relationships because, as he acknowledges, it
+relies on the “2011 Dirtiest Hotels” list being defamatory.
+
+        We review de novo both the district court’s grant of a Rule 12(b)(6) motion to
+dismiss and its denial of a motion to amend the complaint when it concludes that such
+an amendment would be futile. Louisville/Jefferson Cnty. Metro Gov’t v. Hotels.com,
+L.P., 590 F.3d 381, 384 (6th Cir. 2009); Dubuc v. Green Oak Twp., 312 F.3d 736, 743
+(6th Cir. 2002). “To survive a motion to dismiss, a complaint must contain sufficient
+factual matter, accepted as true, to ‘state a claim to relief that is plausible on its face.’”
+Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (quoting Bell Atlantic Corp. v. Twombly, 550
+U.S. 544, 570 (2007)). Although “[m]atters outside of the pleadings are not to be
+considered by a court in ruling on a 12(b)(6) motion to dismiss,” documents attached
+“‘to a motion to dismiss are considered part of the pleadings if they are referred to in the
+plaintiff’s complaint and are central to [the plaintiff’s] claim.’” Weiner v. Klais & Co.,
+108 F.3d 86, 88–89 (6th Cir. 1997) (quoting Venture Assocs. Corp. v. Zenith Data Sys.
+Corp., 987 F.2d 429, 431 (7th Cir. 1993)).3
+
+
+
+
+        3
+          Rather than address Seaton’s claims in his complaint and then proceed to address the (same)
+claims made in his proposed amended complaint, this opinion analyzes each of Seaton’s claims by type.
+In addition to making this opinion easier to follow, this is appropriate because Seaton’s arguments on
+appeal do not distinguish between the allegations made in his complaint and in his proposed amended
+complaint.
+   Case: 12-6122            Document: 006111800603                   Filed: 08/28/2013           Page: 6
+
+
+No. 12-6122            Seaton v. TripAdvisor LLC                                                  Page 6
+
+
+A. Defamation
+
+         “To establish a prima facie case of defamation in Tennessee, the plaintiff must
+establish that: 1) a party published a statement; 2) with knowledge that the statement is
+false and defaming to the other; or 3) with reckless disregard for the truth of the
+statement or with negligence in failing to ascertain the truth of the statement.” Sullivan
+v. Baptist Mem’l Hosp., 995 S.W.2d 569, 571 (Tenn. 1999). “The question of whether
+[a writing] was understood by its readers as defamatory is a question for the jury, but the
+preliminary determination of whether the [writing] is ‘capable of being so understood
+is a question of law to be determined by the court.’” McWhorter v. Barre, 132 S.W.3d
+354, 364 (Tenn. Ct. App. 2003) (quoting Memphis Publ’g Co. v. Nichols, 569 S.W.2d
+412, 419 (Tenn. 1978)). In the present case, Seaton’s claim for defamation turns on
+whether TripAdvisor’s “2011 Dirtiest Hotels” list is capable of being understood as
+defamatory.
+
+         Although the Supreme Court has refused to give blanket First Amendment
+protection for opinions, its precedents make clear that the First Amendment does protect
+“statements that cannot reasonably be interpreted as stating actual facts about an
+individual.” Milkovich, 497 U.S. at 20 (internal quotation marks and alteration omitted).
+In so stating, the Supreme Court reaffirmed its prior decisions that protect statements
+employing “loose, figurative, or hyperbolic language which would negate the impression
+that the writer was seriously maintaining” an assertion of fact.4 Id. at 20–21. The Court
+noted further that this impression could also be negated by “the general tenor of [an]
+
+
+
+
+         4
+           See Greenbelt Coop. Publ’g Ass’n v. Bresler, 398 U.S. 6, 14 (1970) (“It is simply impossible
+to believe that a reader who reached the word ‘blackmail’ in either article would not have understood
+exactly what was meant: it was Bresler’s public and wholly legal negotiating proposals that were being
+criticized. No reader could have thought that either the speakers at the meetings or the newspaper articles
+reporting their words were charging Bresler with the commission of a criminal offense. On the contrary,
+even the most careless reader must have perceived that the word was no more than rhetorical hyperbole,
+a vigorous epithet used by those who considered Bresler’s negotiating position extremely unreasonable.”);
+see also Old Dominion Branch No. 496, Nat’l Ass’n of Letter Carriers, AFL-CIO v. Austin, 418 U.S. 264,
+285–86, (1974) (“It is similarly impossible to believe that any reader of the Carrier’s Corner would have
+understood the newsletter to be charging the appellees with committing the criminal offense of treason.
+As in Bresler, Jack London’s ‘definition of a scab’ is merely rhetorical hyperbole, a lusty and imaginative
+expression of the contempt felt by union members towards those who refuse to join.”).
+   Case: 12-6122            Document: 006111800603                    Filed: 08/28/2013           Page: 7
+
+
+No. 12-6122            Seaton v. TripAdvisor LLC                                                   Page 7
+
+
+article.”5 Id. at 21. Tennessee courts, of course, adhere to Milkovich.6 See Hibdon v.
+Grabowski, 195 S.W.3d 48, 63 (Tenn. Ct. App. 2005) (“[S]tatements that cannot
+‘reasonably [be] interpreted as stating actual facts about an individual’ because they are
+expressed in ‘loose, figurative or hyperbolic language,’ and/or the content and tenor of
+the statements ‘negate the impression that the author seriously is maintaining an
+assertion of actual fact’ about the plaintiff are not provably false and, as such, will not
+provide a legal basis for defamation.”) (quoting Milkovich, 497 U.S. at 21); Farmer v.
+Hersh, No. W2006-01937-COA-R3-CV, 2007 WL 2264435, at *5 (Tenn. Ct. App. Aug.
+9, 2007) (“Mere hyperbole or exaggerated statements intended to make a point are not
+actionable defamatory statements.”); Shamblin v. Martinez, No. M2010-00974-COA-R3-
+CV, 2011 WL 1420896, at *6 (Tenn. Ct. App. Apr. 13, 2011) (Statement could not be
+construed as defamatory because “rhetorical hyperbole and matters of opinion . . . cannot
+be reasonably interpreted as stating actual facts about the Plaintiffs.”).
+
+         Seaton failed to state a plausible claim for defamation because TripAdvisor’s
+“2011 Dirtiest Hotels” list cannot reasonably be interpreted as stating, as an assertion of
+fact, that Grand Resort is the dirtiest hotel in America. We reach this conclusion for two
+reasons. First, TripAdvisor’s use of “dirtiest” amounts to rhetorical hyperbole. Second,
+the general tenor of the “2011 Dirtiest Hotels” list undermines any impression that
+TripAdvisor was seriously maintaining that Grand Resort is, in fact, the dirtiest hotel in
+
+
+
+         5
+           We recognize that Milkovich is cited often for reaffirming that “a statement on matters of public
+concern must be provable as false before there can be liability under state defamation law, at least in
+situations . . . where a media defendant is involved.” 497 U.S. 19–20 (citing Phila. Newspapers, Inc. v.
+Hepps, 475 U.S. 767 (1986)). We need not make this determination in the present case, however, because
+the other precedents reaffirmed in Milkovich provide ample protection for TripAdvisor’s placement of
+Grand Resort on the list.
+         6
+          In fact, Tennessee might offer more protection than the First Amendment. As explained by the
+Tennessee Court of Appeals,
+         Article I, Section 19 of the Tennessee Constitution provides at least as much protection
+         of the freedoms of speech and press as the First Amendment. Doe v. Doe, 127 S.W.3d
+         728, 732 (Tenn. 2004); City of Cleveland v. Wade, 206 S.W.3d 51, 56 n.6 (Tenn. Ct.
+         App. 2006). It could provide more. Leech v. Am. Booksellers Ass’n, Inc., 582 S.W.2d
+         738, 745 (Tenn. 1979). In fact, the Tennessee Supreme Court has held that its
+         protections of the freedoms of speech and press are “substantially stronger” than the
+         First Amendment because “it is clear and certain, leaving nothing to conjecture and
+         requiring no interpretation, construction, or clarification.” Press, Inc. v. Verran,
+         569 S.W.2d [435, 442 (Tenn. 1978)].
+Lewis v. NewsChannel 5 Network, L.P., 238 S.W.3d 270, 288 (Tenn. Ct. App. 2007).
+   Case: 12-6122            Document: 006111800603                  Filed: 08/28/2013           Page: 8
+
+
+No. 12-6122            Seaton v. TripAdvisor LLC                                                  Page 8
+
+
+America. For these reasons, TripAdvisor’s placement of Grand Resort on the “2011
+Dirtiest Hotels” list constitutes nonactionable opinion.
+
+         The use of the word “dirtiest” “negate[s] the impression that” TripAdvisor is
+communicating assertions of fact. Milkovich 497 U.S. at 21. “Dirtiest” is a loose,
+hyperbolic term because it is the superlative of an adjective that conveys an inherently
+subjective concept. Here, no reader of TripAdvisor’s list would understand Grand
+Resort to be, objectively, the dirtiest hotel in all the Americas, the North American
+continent, or even the United States. Instead, “even the most careless reader must have
+perceived” that “dirtiest” is simply an exaggeration and that Grand Resort is not,
+literally, the dirtiest hotel in the United States. See Greenbelt Coop. Publ’g Ass’n v.
+Bresler, 398 U.S. 6, 14 (1970). Thus, it is clear to us, as it would be to any reader, that
+TripAdvisor is not stating that Grand Resort is the dirtiest hotel in America as an actual
+assertion of fact. See id. at 20.
+
+         The general tenor of the “2011 Dirtiest Hotels” list buttresses the conclusion that
+readers would understand that by placing Grand Resort on the list, TripAdvisor is not
+stating an actual fact about Grand Resort. On the webpage in which the list appears,
+TripAdvisor states clearly “Dirtiest Hotels - United States as reported by travelers on
+TripAdvisor.” The implication from this statement is equally clear: TripAdvisor’s
+rankings are based on the subjective views of its users, not on objectively verifiable
+facts.7 With this, readers would discern that TripAdvisor did not conduct a scientific
+study to determine which ten hotels were objectively the dirtiest in America. Readers
+would, instead, understand the list to be communicating subjective opinions of travelers
+who use TripAdvisor. Also on the list, the entry for Grand Resort includes a photograph
+
+
+         7
+           At oral argument, Seaton argued that his claim for defamation was based also on TripAdvisor’s
+misrepresentation of its users’ survey responses. That is, Seaton newly contended that contrary to
+TripAdvisor’s assertion that the “2011 Dirtiest Hotels” list is based on “report[s] by travelers on
+TripAdvisor,” TripAdvisor’s users did not give Grand Resort the lowest ratings for cleanliness (the survey
+question used by TripAdvisor to determine “dirtiest.”). We need not decide whether this new allegation
+would suffice to assert a plausible claim for defamation because our review of the record reveals that
+Seaton did not make this specific allegation in his complaint or in his proposed amended complaint.
+Similarly, Seaton asserted at oral argument that his claim for defamation was predicated on TripAdvisor’s
+reliance on undisclosed facts—its users’ reviews and survey responses. Again, although this could perhaps
+be the basis for a defamation claim, our review of the record establishes that Seaton did not make this
+allegation in his complaint or his proposed amended complaint.
+   Case: 12-6122            Document: 006111800603                   Filed: 08/28/2013           Page: 9
+
+
+No. 12-6122            Seaton v. TripAdvisor LLC                                                  Page 9
+
+
+of a ripped bedspread and a quotation from a TripAdvisor user: “‘There was dirt at least
+1/2” thick in the bathtub which was filled with lots of dark hair.’”8 R. 8-1 (Def. Ex. A)
+(Page ID #66). No one reading the list would understand these two examples to be the
+determinative factors in what constitutes the dirtiest hotel in America. Readers would,
+instead, reasonably interpret these as entertaining examples of the specific experiences
+of two of TripAdvisor’s users. Thus, the immediate context of Grand Resort’s
+placement on the “2011 Dirtiest Hotels” supports the conclusion that the list cannot
+reasonably be understood as communicating that Grand Resort is, in fact, the dirtiest
+hotel in America.
+
+         The quotations regarding other hotels on the “2011 Dirtiest Hotels” list confirm
+that the list cannot be reasonably understood as asserting that the hotels on the list are,
+in fact, the ten dirtiest hotels in America. Beside each of the nine other hotels on the list
+is one of the following:
+
+         •      Hotel #2: “Had to go buy socks so my feet wouldn’t touch the carpet.”
+
+         •      Hotel #3: “They have dead roaches all over the hotel.”
+
+         •      Hotel #4: “The bathtub was full of dirty black stuff.”
+
+         •      Hotel #5: “Hold your nose for the garbage smell.”
+
+         •      Hotel #6: “Probably more sanitary to sleep in the bathroom of the room.”
+
+         •      Hotel #7: “Crusty white stains on the blankets and sheets.”
+
+         •      Hotel #8: “Mouse feces located around the base of the bathroom.”
+
+         •      Hotel #9: “Camp out on the beach instead.”
+
+         •      Hotel #10: “25 bug bites between the two of us.”
+
+
+
+         8
+          Seaton did not make specific allegations regarding these quotations in his complaint or proposed
+amended complaint. We note that even if the complaint or proposed amended complaint had alleged that
+TripAdvisor’s users’ statements are defamatory, TripAdvisor cannot be held liable for its users’ statements
+under the Communications Decency Act, 47 U.S.C. § 230(c)(1).
+  Case: 12-6122        Document: 006111800603              Filed: 08/28/2013        Page: 10
+
+
+No. 12-6122         Seaton v. TripAdvisor LLC                                       Page 10
+
+
+R. 8-1 (Def. Ex. A) (Page ID #66). It is clear that these are dramatic examples of
+TripAdvisor’s users’ experiences at these various hotels and serve the function of
+entertaining readers. Thus, the hyperbolic nature of these quotes highlights why the
+general tenor of the entire “2011 Dirtiest Hotels” list supports our conclusion that the list
+cannot reasonably be understood as asserting that these are, in fact, the ten dirtiest hotels
+in America. Further, the lack of a recurring theme of what TripAdvisor’s users
+considered to be dirty in each of the hotels on the list underscores why any reader would
+understand the list not to be communicating anything more than the experiences of
+individual users of TripAdvisor. In other words, the meaning of “dirtiest” is not easily
+pinned down when read beside these quotations; therefore, readers would not interpret
+“dirtiest” as making an assertion of fact. See Levinsky’s, Inc. v. Wal-Mart Stores, Inc.,
+127 F.3d 122, 129 (1st Cir. 1997) (“The vaguer a term, or the more meanings it
+reasonably can convey, the less likely it is to be actionable.”). Therefore, the general
+tenor of the entire “2011 Dirtiest Hotels” list supports our conclusion that TripAdvisor’s
+placement of Grand Resort as the dirtiest hotel in America cannot reasonably be
+understood as communicating an actual fact about Grand Resort.
+
+        The thrust of Seaton’s argument on appeal is that Grand Resort’s placement on
+the list connotes an assertion of fact when the “2011 Dirtiest Hotels” list is considered
+in its broader context. Seaton points to the fact that TripAdvisor considers itself to give
+the “World’s Most Trusted Travel Advice” and to “share the whole truth about hotels.”
+Appellant Br. at 29; R. 16-1 (Am. Compl. at ¶ 9) (Page ID #206). These statements,
+which Seaton characterizes as bolstering the credibility of the list, do not, however, have
+any bearing on whether placement on the list can “reasonably be interpreted as stating”
+an actual fact about Grand Resort. Milkovich, 497 U.S. at 20. Instead, TripAdvisor’s
+claim of trustworthiness relates to its conveyance of its individual users’ personal
+opinions. Further, “top ten” lists and the like appear with growing frequency on the web.
+It seems to us that a reasonable observer understands that placement on and ranking
+within the bulk of such lists constitutes opinion, not a provable fact. See, e.g., Reader’s
+Digest, Reader’s Digest Trust Poll: The 100 Most Trusted People in America (2013),
+http://www.rd.com/slideshows/readers-digest-trust-poll-the-100-most-trusted-people-
+  Case: 12-6122        Document: 006111800603             Filed: 08/28/2013        Page: 11
+
+
+No. 12-6122         Seaton v. TripAdvisor LLC                                      Page 11
+
+
+in-america (stating that Tom Hanks is the most trusted person in America and showing
+that Judith Sheindlin, “Judge Judy,” is more trusted than all nine Supreme Court
+Justices); Vogel v. Felice, 26 Cal. Rptr. 3d 350, 361 (Cal. Ct. App. 2005) (“[I]t is
+inconceivable that placement on the ‘Top Ten Dumb Asses’ list [appearing on a website]
+could be understood to convey any imputation of provable defamatory fact.”).
+Therefore, contrary to Seaton’s arguments on appeal, the broader context into which the
+“2011 Dirtiest Hotels list” fits supports our conclusion that TripAdvisor’s placement of
+Grand Resort on the list cannot reasonably be interpreted as stating an actual fact.
+
+        Seaton’s final argument is that “the percentage of negative reviews attributed to
+each of the ten hotels on the ‘2011 Dirtiest Hotels’ list does not correlate to each hotel’s
+one through ten ranking, exposing the flawed methodology or arbitrary manner by which
+the list was created.” Appellant Br. at 30. This assertion matches Seaton’s allegations
+made in his complaint and proposed amended complaint but does not advance his
+argument on appeal because it does not undermine the conclusion that placement on the
+list cannot reasonably be interpreted as stating actual facts. See R. 1-1 (Compl. at ¶ 9)
+(Page ID #6) (“Trip[A]dvisor used a rating system which is flawed and inconsistent and
+distorts actual performance and perspective.”); R. 16-1 (Am. Compl. at ¶ 13) (Page ID
+#207) (“TripAdvisor used a flawed, inconsistent, unsupported, and improper system or
+method of naming and/or designating the Grand Resort Hotel and Convention Center as
+the dirtiest hotel in the United States or in placing the Grand Resort Hotel and
+Convention Center on the ‘2011 Dirtiest Hotels’ list.”). Further, in Compuware Corp.
+v. Moody’s Investors Services, Inc., we made clear that the subjective weighing of
+factors cannot be proven false and therefore cannot be the basis of a defamation claim.
+499 F.3d 520, 529 (6th Cir. 2007) (“A Moody’s credit rating is a predictive opinion,
+dependent on a subjective and discretionary weighing of complex factors. We find no
+basis upon which we could conclude that the credit rating itself communicates any
+provably false factual connotation. Even if we could draw any fact-based inferences
+from this rating, such inferences could not be proven false because of the inherently
+subjective nature of Moody’s ratings calculation.”); see Milkovich, 497 U.S. at 19–21
+(reaffirming that the First Amendment protects statements that are not capable of being
+  Case: 12-6122         Document: 006111800603               Filed: 08/28/2013        Page: 12
+
+
+No. 12-6122          Seaton v. TripAdvisor LLC                                         Page 12
+
+
+proven false). Therefore, even if Seaton is correct that TripAdvisor employed a “flawed
+methodology” in creating the list, his claim for defamation still fails because
+TripAdvisor’s method of compiling its user reviews and surveys, as alleged by Seaton,
+is “inherently subjective [in] nature” and therefore protected under Compuware. 499
+F.3d at 529.
+
+        In sum, Seaton failed to state a plausible claim for defamation because
+TripAdvisor’s placement of Grand Resort on the “2011 Dirtiest Hotels” list is not
+capable of being understood as defamatory; it is protected, nonactionable opinion.
+TripAdvisor’s use of the word “dirtiest” constitutes loose, hyperbolic language, and the
+general tenor of the “2011 Dirtiest Hotels” list makes clear that placement on the list
+cannot reasonably be interpreted as stating actual facts about Grand Resort. Seaton’s
+arguments to the contrary are unavailing. For these reasons, we affirm the district
+court’s grant of TripAdvisor’s motion to dismiss and its denial of Seaton’s motion to
+amend the complaint as futile.
+
+B. False-Light Invasion of Privacy
+
+        Tennessee recognizes the separate, but related, tort of false-light invasion of
+privacy, which requires: (1) publicity, (2) that places the plaintiff in a false light, (3) that
+is “highly offensive to a reasonable person,” and (4) that the defendant knew of or acted
+with reckless disregard to the “falsity of the publicized matter and the false light in
+which the other would be placed.” West v. Media Gen. Convergence, Inc., 53 S.W.3d
+640, 643–44 (Tenn. 2001). Discussing the parameters of false-light invasion of privacy,
+the Supreme Court of Tennessee explained that:
+
+        [T]he right to privacy is a personal right. As such, the right cannot attach
+        to corporations or other business entities, may not be assigned to another,
+        nor may it be asserted by a member of the individual’s family, even if
+        brought after the death of the individual. Therefore, only those persons
+        who have been placed in a false light may recover for invasion of their
+        privacy.
+
+Id. at 648 (internal citation omitted).
+  Case: 12-6122             Document: 006111800603                   Filed: 08/28/2013            Page: 13
+
+
+No. 12-6122            Seaton v. TripAdvisor LLC                                                   Page 13
+
+
+         In the case at hand, Seaton did not allege in his complaint or in his proposed
+amended complaint that he was named personally in Trip Advisor’s list, and our own
+review of the list confirms why: Trip Advisor named only Grand Resort. Therefore,
+Seaton cannot recover under his own theory of the case because he did not make
+plausible allegations that he was placed personally in a false light. Id. Further, Seaton
+cannot recover on behalf of Grand Resort because it is a business and as such does not
+have the right under Tennessee law to recover for a violation of its privacy. Id.
+Therefore, we affirm the district court’s grant of TripAdvisor’s motion to dismiss and
+its denial of Seaton’s motion to amend his complaint as futile because Seaton failed to
+allege a plausible claim for false-light invasion of privacy.9
+
+C. Trade Libel/Injurious Falsehood
+
+         As noted by the district court, “[t]o the extent that Tennessee common law
+recognizes trade libel and injurious falsehood as causes of action, such claims require
+proof of the publication of a false statement of fact.” Seaton v. TripAdvisor, LLC, 2012
+WL 3637394, at *8 (E.D. Tenn. Aug. 22, 2012) (citing Kan. Bankers Sur. Co. v. Bahr
+Consultants, Inc., 69 F. Supp. 2d 1004, 1015 (E.D. Tenn. 1999); AmMed. Direct, LLC
+v. Liberty Med. Supply, Inc., 2009 WL 3680539, at *8 (M.D. Tenn. Sept. 23, 2009);
+Medison Am., Inc. v. Preferred Med. Sys., LLC, 548 F. Supp. 2d 567, 584 (W.D. Tenn.
+2007)). On appeal, Seaton concedes the same: “Trade libel . . . includes, as an element,
+proof of publication of a false statement of fact regarding the plaintiff’s business,
+causing damages to the business.” Appellant Br. at 39–40. Seaton cannot prove falsity,
+however, because Grand Resort’s placement on TripAdvisor’s list constitutes protected
+opinion. Restatement (Second) of Torts § 623A cmt. c (1977) (“There is no recovery in
+
+
+         9
+           Although this was not the rationale used by the district court, we may affirm the district court’s
+judgment on any basis supported by the record. Schlaud v. Snyder, 717 F.3d 451, 459 n.6 (6th Cir. 2013).
+This is not to say that the district court’s rationale was wrong. To the contrary, we agree with the district
+court that Seaton cannot prove falsity, an element of false-light invasion of privacy, because Grand
+Resort’s placement on TripAdvisor’s list constitutes protected opinion. We note also that Seaton’s claims
+for false-light invasion of privacy, trade libel/injurious falsehood, and tortious interference with
+prospective business relationships appear to be an attempt to bypass the First Amendment. See
+Compuware, 499 F.3d at 529 (“[S]tricter scrutiny may be warranted where a plaintiff attempts to use a
+state-law claim to avoid the strict requirements for establishing a libel or defamation claim.”) (internal
+quotation marks omitted); Boladian v. UMG Recordings, Inc., 123 F. App’x 165, 169 (6th Cir. 2005) (“A
+party may not skirt the requirements of defamation law by pleading another, related cause of action.”).
+  Case: 12-6122        Document: 006111800603            Filed: 08/28/2013       Page: 14
+
+
+No. 12-6122        Seaton v. TripAdvisor LLC                                     Page 14
+
+
+defamation for the expression of a mere opinion that does not carry by implication the
+allegation of defamatory facts.”); id. § 626 cmt. a (“This Section [Disparagement of
+Quality - Trade Libel] is a special application of the general principle stated in § 623A,
+to which reference should be made. The Comments under that Section are all applicable
+here, so far as they are pertinent. The particular form of injurious falsehood that
+involves disparagement of quality is commonly called “trade libel.”); Robert D. Sack,
+Sack on Defamation: Libel, Slander and Related Problems § 13:1.4[D] (4th ed. 2012).
+Therefore, we affirm the district court’s denial of Seaton’s motion to amend his
+complaint to add this claim of trade libel/injurious falsehood as futile.
+
+D. Tortious Interference with Prospective Business Relationships
+
+       Tortious interference with prospective business relationships has the following
+elements under Tennessee law:
+
+       (1) an existing business relationship with specific third parties or a
+       prospective relationship with an identifiable class of third persons; (2)
+       the defendant’s knowledge of that relationship and not a mere awareness
+       of the plaintiff’s business dealings with others in general; (3) the
+       defendant’s intent to cause the breach or termination of the business
+       relationship; (4) the defendant’s improper motive or improper means; and
+       finally, (5) damages resulting from the tortious interference.
+
+Trau-Med of Am., Inc. v. Allstate Ins. Co., 71 S.W.3d 691, 701 (Tenn. 2002) (citations
+and emphasis omitted); see R. 25 (D. Ct. Op. at 15–16) (Page ID #280–81). Under
+Tennessee law, “improper means” includes defamation. Trau-Med of Am., Inc.,
+71 S.W.3d at 701 n.5. On appeal Seaton notes that “[t]ortious interference with
+prospective business relationships, under Tennessee law, is a similar claim [to trade
+libel/injurious falsehood] in the sense that it requires improper conduct, which could
+include defamation, resulting in damages to business relationships.” Appellant Br. at 40.
+The district court held that because Seaton relied solely on defamation to establish
+improper means, his claim for tortious interference with prospective business
+relationships fails. Seaton does not argue that the district court held wrongly that his
+claim for tortious interference with prospective business relationships required proof of
+  Case: 12-6122            Document: 006111800603         Filed: 08/28/2013        Page: 15
+
+
+No. 12-6122         Seaton v. TripAdvisor LLC                                      Page 15
+
+
+defamation; instead, he challenges the district court’s determination that the “2011
+Dirtiest Hotels” list is not defamatory. Id. Because we agree with the district court that
+Grand Resort’s placement on the list is not capable of being understood as defamatory,
+Seaton failed to state a plausible claim for tortious interference with prospective business
+relationships. Therefore, we affirm the district court’s denial of Seaton’s motion to
+amend his complaint to add this claim of tortious interference with prospective business
+relationships as futile.
+
+                                  III. CONCLUSION
+
+        For the reasons set forth in this opinion, we AFFIRM the district court’s
+judgment granting TripAdvisor’s motion to dismiss and denying Seaton’s motion to
+amend his complaint as futile.
+

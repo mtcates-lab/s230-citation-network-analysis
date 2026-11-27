@@ -1,0 +1,913 @@
+Case: 17-1898   Document: 00117276960    Page: 1   Date Filed: 04/12/2018   Entry ID: 6163025
+
+
+
+
+                  United States Court of Appeals
+                               For the First Circuit
+
+
+      No. 17-1898
+
+                                        PETER HIAM,
+
+                               Plaintiff, Appellant,
+
+                                  BROOKE HUTCHENS,
+
+                                        Plaintiff,
+
+                                            v.
+
+                                 HOMEAWAY.COM, INC.,
+
+                                Defendant, Appellee.
+
+
+                  APPEAL FROM THE UNITED STATES DISTRICT COURT
+                        FOR THE DISTRICT OF MASSACHUSETTS
+
+                  [Hon. William G. Young, U.S. District Judge]
+
+
+                                          Before
+
+                             Lynch, Stahl, and Kayatta,
+                                   Circuit Judges.
+
+
+           John C. Traficonte for appellant.
+           Jonathan M. Albano, with whom Amanda V. McGee and Morgan, Lewis
+      & Bockius LLP were on brief, for appellee.
+
+
+                                   April 12, 2018
+Case: 17-1898   Document: 00117276960    Page: 2    Date Filed: 04/12/2018   Entry ID: 6163025
+
+
+
+                  KAYATTA, Circuit Judge. Duped into parting with thousands
+
+      of dollars to reserve a vacation rental property in Belize that
+
+      apparently did not exist, plaintiff Peter Hiam sued the owner of the
+
+      website on which he found the ersatz tropical villa, claiming that
+
+      the website's guarantee misled him.            The district court granted
+
+      summary    judgment   to   the    website's    owner,    HomeAway.com,      Inc.
+
+      ("HomeAway").     On appeal, Hiam argues that the district court
+
+      incorrectly applied Massachusetts consumer protection law. Finding
+
+      no error in the judgment, we affirm.
+
+                                            I.
+
+                  Since we are reviewing an order granting summary judgment
+
+      to HomeAway, we recite the facts in the light most favorable to Hiam,
+
+      the nonmoving party. Walsh v. TelTech Sys., Inc., 821 F.3d 155, 157-
+
+      58 (1st Cir. 2016).        Hiam enlisted the help of his adult son,
+
+      Christopher, to plan a family vacation for the end of 2014. In April
+
+      2014, Christopher (on behalf of his father) checked for possible
+
+      opportunities on VRBO.com, a website owned and operated by HomeAway.
+
+      The parties agree that VRBO.com (short for "vacation rentals by
+
+      owner") is a website-based business that allows property owners to
+
+      advertise their vacation rentals to the public. VRBO.com acts like
+
+      a searchable online bulletin board; it allows property owners to list
+
+      their properties, but HomeAway does not itself own or manage any
+
+      properties, nor does it make itself a party to any contracts between
+
+      property owners and renters.
+
+
+                                          - 2 -
+Case: 17-1898   Document: 00117276960    Page: 3    Date Filed: 04/12/2018   Entry ID: 6163025
+
+
+
+                  After     browsing     VRBO.com's      offerings,      Christopher
+
+      identified a promising option purportedly located in Placencia,
+
+      Belize.    The "Jewels of Belize" estate advertised itself as a
+
+      beachfront property with room for fourteen people, a private chef,
+
+      transportation around Belize, and other amenities. Communicating at
+
+      first through the VRBO website and then directly by email with a
+
+      purported representative from the estate, Hiam and his son decided
+
+      to book the property for a one-week period at the end of 2014 into
+
+      early 2015. The total cost for the rental was $46,565, which Hiam
+
+      sent to the purported proprietors in two equal installments paid in
+
+      April and October of 2014.        Silence then ensued, and Hiam shortly
+
+      thereafter realized he had been taken.            The Jewels of Belize, it
+
+      appears, did not even exist.
+
+                  In December of 2014, Hiam directed his son to contact
+
+      HomeAway for help.       Two months later, HomeAway customer service
+
+      informed the Hiams that HomeAway removed the listing for the property
+
+      from the VRBO site "because [HomeAway was] uncertain of the
+
+      availability of the property" and because no response had been
+
+      received from the owner. Nonetheless, HomeAway told the Hiams that
+
+      it had concluded that the property was real and legitimate, and offered
+
+      them no further assistance.        By this point in time, HomeAway had
+
+      received customer service inquiries from Brooke Hutchens and two other
+
+      unnamed individuals, each of whom claimed that the Jewels of Belize
+
+      had   similarly     defrauded    them   of   thousands    of   dollars.      And
+
+
+                                          - 3 -
+Case: 17-1898   Document: 00117276960    Page: 4   Date Filed: 04/12/2018   Entry ID: 6163025
+
+
+
+      previously, in August 2014, other individuals had written in to alert
+
+      HomeAway that the listing was "a totally bogus scam" and depicted
+
+      a property located on a Caribbean island.
+
+                  At the time, HomeAway maintained a limited refund policy
+
+      called the "Basic Rental Guarantee" (the "Guarantee"). We attach a
+
+      copy of the Guarantee as an appendix to this opinion. The Guarantee
+
+      offered a maximum $1000 refund to customers who fell victim to
+
+      "Internet Fraud," as determined and defined by HomeAway, but only
+
+      when customers satisfied a series of conditions and requirements.
+
+      To qualify, the customer needed to have been a "Registered Traveler"
+
+      within the meaning of the Guarantee's terms, have paid for the rental
+
+      through a covered payment method (excluding wire transfer services
+
+      like Western Union), have been denied a refund from the payment
+
+      provider and the property owner, and have reported the alleged fraud
+
+      to HomeAway within just seven business days of the first event giving
+
+      rise to the refund request.       Additionally, the $1000 refund was only
+
+      payable if HomeAway determined, in its "reasonable discretion," that
+
+      the complained-of listing constituted "Internet Fraud," meaning it
+
+      was "fictitious or illegitimate" because the property did not exist
+
+      or because it was advertised with the intent of defrauding travelers.
+
+                  Hiam does not seek the $1000 refund offered by the
+
+      Guarantee. Rather, he claims that the Guarantee caused him to lose
+
+      $46,565 by misleading him into believing that HomeAway made reasonable
+
+      efforts to keep fraudulent listings off its site. And because it seems
+
+
+                                          - 4 -
+Case: 17-1898   Document: 00117276960   Page: 5   Date Filed: 04/12/2018   Entry ID: 6163025
+
+
+
+      that HomeAway does nothing to check out offerings before posting them,
+
+      Hiam argues that HomeAway is liable for common law fraud and for
+
+      engaging in unfair or deceptive trade practices under Massachusetts'
+
+      Chapter 93A. Mass. Gen. Laws ch. 93A, § 2(a) ("Chapter 93A"). The
+
+      district court concluded as a matter of law that the Guarantee was
+
+      not deceptive or fraudulent in the manner alleged, and disposed of
+
+      the three counts in Hiam's complaint that hinge on accepting his
+
+      construction of the Guarantee as a deceptive representation.1             Hiam
+
+      v. HomeAway.com, Inc., 267 F. Supp. 3d 338, 352 (D. Mass. 2017).          Hiam
+
+      appeals this ruling.2
+
+                                          II.
+
+                                           A.
+
+                  Hiam's arguments on appeal train principally on the use
+
+      of the word "guarantee" in the title of the "Basic Rental Guarantee."
+
+      The pivotal question, one we consider de novo, is whether under
+
+      Massachusetts law we should construe the use of the word "guarantee"
+
+      as a representation or warranty by HomeAway to its users that some
+
+      degree of pre-screening or verification of listings takes place.
+
+            1Counts II and VII arise under Chapter 93A, while count IV
+      sounds in common law fraud. As Hiam presented them to the district
+      court, all three counts rest on the contention that the Guarantee
+      makes the representations or promises he alleges.
+            2Hiam does not appeal the district court's grant of summary
+      judgment as to the other counts in his complaint, or as to arguments
+      within his appealed counts that do not involve the Guarantee.
+      Although Hiam was joined by a co-plaintiff, Brooke Hutchens, below,
+      she has not filed a notice of appeal to challenge the district court's
+      grant of summary judgment on her claims under Colorado law.
+
+
+                                         - 5 -
+Case: 17-1898   Document: 00117276960    Page: 6   Date Filed: 04/12/2018   Entry ID: 6163025
+
+
+
+                    Hiam argues that the answer is yes, but this argument fails
+
+      in the starting blocks because there is no language at all in the
+
+      Guarantee that makes any such representation or warranty.                   The
+
+      document simply establishes a process for obtaining a refund of up
+
+      to   $1000,    subject   to   various   conditions.      The   document    also
+
+      references a separate program in which, for a fee, HomeAway offers
+
+      the ability to participate in a broader refund plan that covers more
+
+      risks and pays up to $10,000. The only mention at all of any screening
+
+      whatsoever by HomeAway takes the form of a condition to payment; that
+
+      is, HomeAway will not pay a refund claim unless, among other things,
+
+      the "listing is subsequently determined to be, in HomeAway's
+
+      reasonable discretion, fictitious or illegitimate."            In other words,
+
+      when a qualified user timely makes a claim for a limited refund,
+
+      HomeAway at that time checks out the listing and pays the specified
+
+      refund if it determines in its reasonable discretion that the offering
+
+      is illegitimate.
+
+                    Nothing in this arrangement implies that HomeAway checked
+
+      out the listing before receiving a claim under the Guarantee. And
+
+      if there were any doubt on this point, the website's terms and
+
+      conditions (by which all "Registered Traveler[s]" agree to be bound)
+
+      would eliminate it. HomeAway states in those terms and conditions
+
+      that "[w]e have no duty to pre-screen content posted on the Site by
+
+      members, travelers or other users."          HomeAway also "specifically
+
+      disclaim[s] any and all liability arising from the alleged accuracy
+
+
+                                          - 6 -
+Case: 17-1898   Document: 00117276960    Page: 7   Date Filed: 04/12/2018   Entry ID: 6163025
+
+
+
+      of the listings" and advises customers that they are "solely
+
+      responsible for verifying the accuracy of . . . content and
+
+      descriptions."
+
+                  Undaunted by the force of the Guarantee's actual terms,
+
+      Hiam points to regulations adopted under Chapter 93A.           See 940 Mass.
+
+      Code Regs. 3.01 & 3.03.           Hiam construes these regulations as
+
+      transforming the word "guarantee" as used in any consumer advertising
+
+      into some type of "representation" about "some characteristic of the
+
+      product or service." In the case of VRBO.com listings, Hiam says that
+
+      the implicit "characteristic" of the products offered on the site
+
+      is their reasonably verified authenticity as a result of VRBO.com's
+
+      self-policing.
+
+                  Having reviewed the subject regulations de novo, Smith v.
+
+      Jenkins, 732 F.3d 51, 70–71 (1st Cir. 2013), we find nothing that
+
+      deems every "guarantee," no matter how worded, to be a representation
+
+      of some fact concerning the guaranteed product. To the contrary, one
+
+      subsection of the regulations describes that an additional duty by
+
+      a seller is triggered "[w]here guarantees are employed in such a manner
+
+      as to constitute representations of material facts." 940 Mass. Code
+
+      Regs. 3.03(7).      That   wording    plainly    presumes     that    the   word
+
+      "guarantee" can be used in some other manner (such as, for example,
+
+      to assure a refund in the event the consumer is not satisfied).
+
+                  Chapter 93A regulations identify several characteristics
+
+      that a guarantee should have in order to avoid being deceptive: it
+
+
+                                          - 7 -
+Case: 17-1898   Document: 00117276960   Page: 8   Date Filed: 04/12/2018   Entry ID: 6163025
+
+
+
+      should "clearly and conspicuously disclose" the "nature and extent
+
+      of the guarantee," including "[w]hat product or part of the product"
+
+      is covered, what part of the product is excluded, the "duration of
+
+      the guarantee," and what a claimant "must do before the guarantor
+
+      will fulfill his obligation under the guarantee."            940 Mass. Code
+
+      Regs. 3.03(1). Further, it must clearly identify the guarantor and
+
+      disclose "exactly what the guarantor undertakes to do under the
+
+      guarantee." Id. 3.03(1)(b). In turn, and tellingly, the regulation
+
+      lists a "refund" as an example of what a guarantor may undertake to
+
+      do. Id.
+
+                  The HomeAway Guarantee performs each of these functions.
+
+      It clearly discloses that the "nature and extent of the guarantee"
+
+      is a conditional limited refund of 50% of the amount paid, up to $1000.
+
+      Any amount lost above that is excluded from coverage. Section 4.9
+
+      of the Guarantee specifies the duration of the guarantee, requiring
+
+      the consumer to notify HomeAway within seven business days of the
+
+      "first event giving rise to" the reimbursement request. Section 1
+
+      requires the claimant to do a number of things before becoming eligible
+
+      under the Guarantee, including requesting and being denied a refund
+
+      from the property owner. The Guarantee lists these prerequisites in
+
+      bullet points in a section that begins, "You qualify for the Program
+
+      if you do all of the following."        Subsequent sections add further
+
+      detail to those requirements.         Finally, the Guarantee explains
+
+      exactly what the guarantor will do upon receiving a qualifying
+
+
+                                         - 8 -
+Case: 17-1898   Document: 00117276960   Page: 9   Date Filed: 04/12/2018   Entry ID: 6163025
+
+
+
+      complaint:    pay up to $1000 if funds are lost as a result of "Internet
+
+      Fraud," a defined term.
+
+                  We agree with the district court that a factfinder could
+
+      determine that HomeAway implicitly promises to conduct some kind of
+
+      after-the-fact investigation before denying an otherwise qualifying
+
+      refund claim. Hiam, 267 F. Supp. 3d at 352. We also share Hiam's
+
+      bewilderment that, after claiming to investigate the listing,
+
+      HomeAway concluded that the Jewels of Belize property was legitimate.
+
+      HomeAway could not even reach the putative owners, and by the time
+
+      it responded to Hiam, it had received the complaints of several others
+
+      who, during the same timeframe, lost money to the fraudsters and
+
+      complained to customer service or otherwise wrote in to alert HomeAway
+
+      that the listing was a "bogus scam booking." But Hiam does not argue
+
+      that he otherwise qualified for a refund (i.e., that he was a
+
+      "Registered Traveler" who made a timely claim, etc.). Nor does he
+
+      argue that any deficiency in HomeAway's investigation of his complaint
+
+      otherwise caused him any harm.        Hiam also expressly disavows any
+
+      attempt to claim a refund under the actual terms of the Guarantee.
+
+      He also failed to develop in the district court or on appeal, in other
+
+      than a fleeting and cursory manner, any contention that HomeAway owed
+
+      him a duty of care in investigating the complaints of others and caused
+
+      him harm by breaching that duty. CMM Cable Rep, Inc. v. Ocean Coast
+
+      Props., Inc., 97 F.3d 1504, 1525–26 (1st Cir. 1996) (arguments not
+
+      made before the district court cannot be raised for the first time
+
+
+                                         - 9 -
+Case: 17-1898   Document: 00117276960   Page: 10   Date Filed: 04/12/2018   Entry ID: 6163025
+
+
+
+      on appeal); United States v. Zannino, 895 F.2d 1, 17 (1st Cir. 1990)
+
+      (arguments made in only a perfunctory manner are deemed waived).
+
+                  In sum, Hiam's claim concerning the effect of HomeAway's
+
+      Guarantee is limited, and so too is our holding in response: we agree
+
+      with the district court that the Guarantee itself is not misleading
+
+      or deceptive under Massachusetts law in the manner alleged by Hiam.
+
+                                           B.
+
+                  Hiam also sought to hold HomeAway liable under a regulation
+
+      that prohibits any "seller of travel services" from making deceptive
+
+      or misleading representations.       940 Mass. Code Regs. 15.02 & 15.03.
+
+      The district court rejected this claim because it decided that
+
+      HomeAway was not a "seller of travel services" as defined in the
+
+      applicable regulations. 267 F. Supp. 3d at 348. The district court
+
+      also determined that even if the regulations applied in this instance,
+
+      they would be preempted by Section 230 of the Communications Decency
+
+      Act ("CDA"), 47 U.S.C. § 230. 267 F. Supp. 3d at 348–49.
+
+                  Hiam argues that HomeAway "arranges" travel services, so
+
+      it fits the regulation's definition of a "seller of travel services."
+
+      940 Mass. Code Regs. 15.02. And as a seller of travel services, Hiam
+
+      argues, HomeAway violated the regulation (and therefore Chapter 93A)
+
+      by "representing to Peter Hiam that the fictitious property . . . was
+
+
+
+
+                                         - 10 -
+Case: 17-1898   Document: 00117276960   Page: 11   Date Filed: 04/12/2018   Entry ID: 6163025
+
+
+
+      'legitimate,'" a false representation made in contravention of 940
+
+      Mass. Code. Regs. 15.03.3
+
+                  We have already rejected Hiam's argument that the Guarantee
+
+      itself entailed any representation concerning the authenticity of
+
+      listings.     So we assume that Hiam is referring to the specific
+
+      representation that "the property is legitimate" made by HomeAway
+
+      in an email response to Hiam's customer service complaint. While the
+
+      record would adequately support a finding that this after-the-fact
+
+      representation was false, Hiam says nothing at all regarding how such
+
+      an after-the-fact misrepresentation caused him any injury, nor does
+
+      he develop any argument that he can prevail without proof of some
+
+      injury. See Hershenow v. Enter. Rent-A-Car Co. of Bos., Inc., 840
+
+      N.E.2d 526, 533 (Mass. 2006) (recovery under Chapter 93A's private
+
+      right of action requires a showing of loss).        Thus, without deciding
+
+      whether HomeAway is a "seller of travel services" or whether the CDA
+
+      would apply if so, we affirm the grant of summary judgment as to this
+
+      claim.
+
+                                           C.
+
+                  Hiam's final grievance on appeal is that he was unfairly
+
+      ambushed by the district court's resolution of the merits of his
+
+      claims, given that HomeAway sought summary judgment on the grounds
+
+            3Hiam's opening brief also says that "other violations were also
+      identified" in his complaint, but the brief does nothing to explain
+      what they were or why they are violations of the regulations beyond
+      cross-referencing his complaint. Any such claims are therefore
+      waived. See Zannino, 895 F.2d at 17.
+
+
+                                         - 11 -
+Case: 17-1898   Document: 00117276960   Page: 12   Date Filed: 04/12/2018   Entry ID: 6163025
+
+
+
+      that the CDA, which immunizes websites from liability for content
+
+      posted by third parties, barred his suit. We see no such ambush.
+
+                  HomeAway's request to resolve the entire case based on CDA
+
+      immunity reasonably put Hiam on notice of the need to show that he
+
+      had viable claims that did not rely on the mere maintenance of the
+
+      website or on the actions of third parties, but rather relied, in
+
+      Hiam's words, on "HomeAway's own actions and representations." See
+
+      Universal Commc'n Sys., Inc. v. Lycos, Inc., 478 F.3d 413, 419 (1st
+
+      Cir. 2007) (interactive computer service providers remain liable for
+
+      their own speech). And in opposing summary judgment, Hiam did, "in
+
+      an abundance of caution," marshal his ammunition in support of the
+
+      merits of his claims, submitting a statement of material facts and
+
+      a memorandum that used the merits of his claims as reasons for
+
+      rejecting CDA immunity. At that point in the proceedings, discovery
+
+      had come to a close, save for one deposition of a HomeAway
+
+      representative whose statements may have shed light on HomeAway's
+
+      investigatory activities generally.          Hiam filed no request under
+
+      Federal Rule of Civil Procedure 56(d) to obtain more discovery before
+
+      the court ruled on the summary judgment motion. Even on appeal, Hiam
+
+      points to no additional evidence or discovery that could support his
+
+      reading of the Guarantee or show that he was injured by HomeAway's
+
+      after-the-fact assertion that the property was legitimate. In short,
+
+      nothing about the manner in which the district court proceeded in
+
+      deciding the summary judgment motion caused Hiam any harm.
+
+
+                                         - 12 -
+Case: 17-1898   Document: 00117276960   Page: 13   Date Filed: 04/12/2018   Entry ID: 6163025
+
+
+
+                                          III.
+
+                  The judgment below is affirmed.4
+
+
+
+
+            4We dismiss as moot Hiam's argument on appeal that the district
+      court improperly resolved the factual question of whether Hiam paid
+      for his would-be rental through a payment type covered by the
+      Guarantee. Even if the district court erred in concluding that Hiam
+      made a disqualifying "wire transfer," 267 F. Supp. 3d at 353, Hiam
+      is not seeking a refund under the terms of the Guarantee, and in any
+      event, he has conceded that he failed to make a timely request under
+      the Guarantee. We similarly have no need to opine on HomeAway's
+      contention that Hiam's claims, were they otherwise valid, would be
+      preempted by the CDA.
+
+
+                                         - 13 -
+Case: 17-1898       Document: 00117276960         Page: 14 Date Filed: 04/12/2018             Entry ID: 6163025
+                                                -APPENDIX-
+
+
+
+                                 Terms and Conditions
+                        Basic Rental Guarantee from HomeAway
+      When you request reimbursement under, or register your vacation rental for, the Basic Rental
+      Guarantee from HomeAway (the “Basic Program”), you agree with, accept and are subject to
+      these terms and conditions (the “Terms”). As detailed below, the Basic Program is intended to
+      provide protection against Internet Fraud (as defined below) for 50% of the money you pay for
+      deposits or rental fees up to a maximum of one thousand dollars ($1,000). The HomeAway
+      Carefree Rental Guarantee is a separate program offered for a fee that provides up to ten
+      thousand dollars ($10,000) of protection against the following: (i) Internet Fraud; (ii) Wrongful
+      Denial of Entry; (iii) Material Misrepresentation; and (iv) Wrongful Deposit Loss, in each case
+      as detailed and/or defined in a separate agreement. All amounts in these terms are in U.S.
+      dollars. The Basic Plan does not require that you register your rental prior to making payment to
+      the advertiser.
+
+      1.       General Program Guidelines.
+
+      You qualify for the Program if you do all of the following:
+
+           x     Find, inquire about, and rent a vacation rental property advertised in the HomeAway, Inc.
+                 community of websites HomeAway.com, GreatRentals.com, CyberRentals.com,
+                 VRBO.com, VacationRentals.com, FloridaVacations.com, MexicoVacations.com,
+                 Holiday-Rentals.co.uk, HolidayRentals.fr, OwnersDirect.co.uk, FeWo-direkt.de,
+                 Homelidays.com, or Abritel.fr (collectively, “HomeAway” or the “HomeAway Sites”);
+           x     Register for the Basic Program by submitting a Basic Rental Guarantee Reimbursement
+                 Request Form. Such registration being hereinafter referred to as a “Registration”. IN
+                 ORDER TO BE A REGISTERED TRAVELER UNDER THE PROGRAM, THE
+                 LISTING OF THE SUBJECT RENTAL PROPERTY MUST BE AN ACTIVE LISTING
+                 ON A HOMEAWAY SITE AT THE TIME OF PAYMENT, AND YOUR PAYMENT
+                 TO THE PROPERTY OWNER OR MANAGER MUST BE RECEIVED BY THE
+                 PROPERTY OWNER OR MANAGER BEFORE HOMEAWAY HAS SENT YOU
+                 NOTICE (IF ANY) THAT THE SUBJECT RENTAL PROPERTY IS INELIGIBLE
+                 FOR PARTICIPATION IN THE PROGRAM. A traveler who properly pays and
+                 completes the Registration is hereafter referred to as a “Registered Traveler”;
+           x     Send money to the property owner or manager via credit card, PayPal, check or direct
+                 bank transfer to secure the booking or reservation of the property;
+           x     Incur a loss of funds in accordance with these Terms;
+           x     Notify HomeAway of your loss within the required time periods set forth below;
+           x     Are denied reimbursement for your loss of funds from (i) the property owner or manager,
+                 and (ii) PayPal or your bank, payment provider or credit card issuer (as applicable); and
+           x     Submit a completed HomeAway Basic Rental Guarantee Request for Reimbursement
+                 Form (the “Reimbursement Request Form”) within the required time periods set forth
+                 below.
+
+
+
+
+                                                      -14-
+Case: 17-1898       Document: 00117276960            Page: 15       Date Filed: 04/12/2018         Entry ID: 6163025
+
+
+
+      2.       Protections Provided.
+
+      Subject to the restrictions and limitations set forth in these Terms, the Basic Program provides
+      aggregate protection to Registered Travelers under the Basic Program equal to the lesser of one
+      thousand dollars ($1,000) or fifty percent (50%) of the amounts actually paid by a Registered
+      Traveler to a property manager or owner where such funds are lost or misappropriated as the
+      result of Internet Fraud. “Internet Fraud” is defined as a deposit or payment by a Registered
+      Traveler for a vacation rental that is listed on a HomeAway Site where such listing is
+      subsequently determined to be, in HomeAway’s reasonable discretion, fictitious or illegitimate
+      because the holiday rental property (i) does not exist as a property available for rent, or (ii) was
+      advertised by the advertiser with the intention of defrauding travelers and to lead the traveler to
+      believe the advertised property was available as a rental property.
+
+      3.   Illustrative Examples of Losses of Funds Not Protected.
+
+      The following are illustrative examples of losses of funds that the Basic Program DOES NOT
+      protect against, as determined in the reasonable judgment of HomeAway:
+
+           x     Any deposits or payments for a vacation rental that are not refunded or returned because
+                 the Registered Traveler does not comply with the property owner’s or manager’s policies,
+                 is in breach of the rental agreement, or as otherwise stated in the rental agreement.
+           x     ANY DAMAGES OTHER THAN AMOUNTS ACTUALLY PAID TO OR
+                 DEPOSITED WITH THE PROPERTY OWNER OR MANAGER, INCLUDING ANY
+                 INDIRECT LOSSES, LOSS OF OPPORTUNITY, LOSS OF CUSTOM FEES, OTHER
+                 CONTRACTUAL PENALTIES, AIRFARE AND/OR ANY OTHER COST,
+                 EXPENSE, LOSS OR DAMAGE.
+           x     Payments or deposits made to any property owner or manager via Western Union,
+                 MoneyGram, or other instant wire transfer services.
+           x     Payments or deposits made to any property owner or manager after HomeAway has sent
+                 notice to a Registered Traveler that the subject property is not eligible for participation in
+                 the Basic Program or the HomeAway Carefree Rental Guarantee program.
+           x     Any loss of any kind where the Registered Traveler and the property owner or manager
+                 are related to each other in any degree, or are acting in concert to defraud HomeAway.
+           x     Any loss of funds that is caused by or results from events outside the control of
+                 HomeAway and/or the property owner or manager, including, but not limited to weather
+                 events, natural disasters or political or security threats.
+           x     Any loss of funds except for a loss involving Internet Fraud, including, without
+                 limitation, any loss involving Wrongful Denial of Entry, Material Misrepresentation,
+                 Wrongful Deposit Loss, events that might be characterized as "renter's remorse", "bait
+                 and switch" or any objection by the Registered Traveler to the location, condition or
+                 suitability of purpose of the property, all as determined by HomeAway in its reasonable
+                 judgment. Wrongful Denial of Entry, Material Misrepresentation, Wrongful Deposit
+                 Loss are as defined in the terms and conditions of the HomeAway Carefree Rental
+                 Guarantee.
+
+
+
+
+                                                          -15-
+Case: 17-1898    Document: 00117276960           Page: 16       Date Filed: 04/12/2018         Entry ID: 6163025
+
+
+
+         x   Any deposits or payments for a vacation rental that are not refunded or returned because
+             a Registered Traveler and the property owner or manager are in a dispute over whether a
+             refund is due.
+         x   Any deposits or payments to the property owner or manager in excess of $1,000.00.
+         x   Any loss of funds related to a listed vacation rental property that exists but is the subject
+             of a dispute over whether the property owner or manager has the authority to lease the
+             subject property.
+         x   Any loss of funds that is caused by the takeover or “phish” of a property owner’s or
+             manager’s email account or the property owner’s or manager’s account on a HomeAway
+             site.
+
+      4. Process Requirements.
+
+      In order to obtain any reimbursement from HomeAway under the Basic Program, a Registered
+      Traveler must comply with the requirements set forth below. Failure to follow these
+      requirements, or the taking of any action by any Registered Traveler without the written consent
+      by HomeAway that impairs HomeAway’s ability and/or right to mitigate any loss, or the making
+      by any Registered Traveler of any false or misleading statement with respect to any request for
+      reimbursement hereunder, will void eligibility for reimbursement under the Basic Program.
+
+      4.1 Third Party Reimbursement. If a Registered Traveler has paid money to a property owner
+      or manager via direct bank transfer, PayPal, credit card or check, upon learning of the existence
+      of a potential loss of funds protected under the Basic Program, the Registered Traveler must
+      immediately contact the bank(s), PayPal or credit card issuer (as applicable) to request recovery
+      or reimbursement of the Registered Traveler’s funds (a “Chargeback”). A Registered Traveler is
+      only entitled to receive payment from HomeAway under the Basic Program if the bank(s),
+      PayPal or credit card issuer (as applicable) denies a Registered Traveler’s request for a
+      Chargeback. A Registered Traveler must provide HomeAway with written proof that he or she
+      contacted the bank(s), PayPal or credit card issuer (as applicable) and that a request for a
+      Chargeback was denied. A Registered Traveler is required to accept any settlement from the
+      bank(s), PayPal or credit card issuer (as applicable), but may still be eligible for additional
+      payments under the Basic Program if such settlement is for less than the maximum
+      reimbursement amount under the applicable Plan.
+
+      4.2 Proof of Identity. A Registered Traveler must provide written proof of his or her identity
+      (e.g., copy of passport, driver's license, utility bills, credit card information, etc.) as HomeAway
+      may request in its sole discretion. HomeAway may request one or more forms of proof of
+      identity, and any determination by HomeAway with respect to the valid existence of any proof of
+      identity shall be made in HomeAway’s reasonable discretion.
+
+      4.3 Document the listing. A Registered Traveler must provide written proof that the subject
+      property was listed on one of the HomeAway Sites.
+
+      4.4 Document the inquiry. A Registered Traveler must provide a copy (electronic or in print) of
+      the inquiry email verification (the “Initial Inquiry”) provided by the HomeAway Site when the
+      Registered Traveler first inquired about the subject property, and HomeAway must be able to
+
+
+
+                                                    -16-
+Case: 17-1898    Document: 00117276960             Page: 17        Date Filed: 04/12/2018    Entry ID: 6163025
+
+
+
+      verify this Initial Inquiry by finding a log of this inquiry in its database.
+
+      4.5 Document the reservation. A Registered Traveler must prove that he or she reached a final
+      agreement with the property owner or manager regarding the listed vacation rental and provide
+      HomeAway with all requested documentation of email, telephone, written or other
+      communications with the property owner or manager regarding the rental property.
+
+      4.6 Document all payment(s). If HomeAway sends the Registered Traveler a notice that a
+      listing or property is not eligible for participation in the Basic Program, then the Registered
+      Traveler must prove that he or she made payment via direct bank transfer, PayPal, check or
+      credit card to the property owner or manager prior to HomeAway’s transmission of such notice.
+      A Registered Traveler must provide written documentation of all payments and refunds (partial,
+      full and/or deposit) made to or by the property owner or manager. A Registered Traveler must
+      prove that those payments were made prior to HomeAway’s transmission of any notice that the
+      subject property was not eligible for participation in the Basic Program or the HomeAway
+      Carefree Rental Guarantee.
+
+      4.8 Document the loss. The Registered Traveler must provide HomeAway with all requested
+      written documentation of lost or misappropriated funds.. Further, the Registered Traveler must
+      provide written evidence that the property owner or manager received funds from the Registered
+      Traveler, was notified of the Registered Traveler’s refund claim, and refused or failed to return
+      or refund such funds to the Registered Traveler. Claimants should not alter or destroy any
+      documentation related to the lost or misappropriated funds until the matter is resolved.
+
+      4.9 Notify HomeAway. The Registered Traveler must notify HomeAway within seven (7)
+      business days of the first event giving rise to a Registered Traveler’s request for reimbursement
+      under the Basic Program by: (i) email to customer support; or (ii) by mail to HomeAway Basic
+      Rental Guarantee Basic Program, HomeAway.com, 1011 W Fifth Street, Suite 300, Austin, TX
+      78703; or (iii) by calling 1-877-228-3145 or 512-782-0805.
+
+      4.10 File a Reimbursement Request. The Registered Traveler must complete, sign and submit
+      the Reimbursement Request Form with all requested documentation to HomeAway within thirty
+      (30) days of (i) receiving the Reimbursement Request Form or (ii) the departure date set forth in
+      your Registration, whichever is later. The as-submitted Reimbursement Request Form must
+      contain the Registered Traveler’s agreement that:
+
+          x   Any payment available to such Registered Traveler under the Basic Program shall be
+              payable only to the extent that the proceeds of any coverage or recovery provided by any
+              insurance policy or any other source of recovery held or collectible by any applicant
+              under the Basic Program is insufficient to reimburse wholly the Registered Traveler for
+              lost or misappropriated payments made to the property owner or manager;
+          x   If HomeAway pays for the reimbursement, reversal or chargeback that a Registered
+              Traveler seeks from a property owner or manager, such traveler agrees that HomeAway
+              assumes all of his or her rights against the property owner or manager and any third
+              parties related to the payment, and may pursue such rights directly or on such traveler’s
+              behalf, in HomeAway's sole discretion; and
+
+
+
+                                                      -17-
+Case: 17-1898   Document: 00117276960          Page: 18      Date Filed: 04/12/2018       Entry ID: 6163025
+
+
+
+         x   Such Registered Traveler agrees to execute a general release agreement in form and
+             substance acceptable to HomeAway, thereby releasing HomeAway from any and all
+             claims such traveler may have arising prior to the date of the payment made by
+             HomeAway.
+
+      4.11 Help us help you. For the avoidance of doubt, if a Registered Traveler requests
+      reimbursement under the Basic Program, he or she agrees to provide to HomeAway, on a timely
+      basis, any documentation requested to support such request. Such traveler also agrees to fully
+      cooperate with HomeAway in all aspects of the reimbursement process. HomeAway may close
+      without payment any reimbursement request file of a Registered Traveler who does not respond
+      to inquiries regarding an alleged fund loss or misappropriation within specified times.
+
+      4.12 Reimbursement process. HomeAway will complete the processing of each request for
+      reimbursement under the Basic Program within a reasonable time period after receipt of all
+      requested documentation. As noted above, it is recommended that Registered Travelers who are
+      seeking reimbursement do not discard or alter any documentation related to the reimbursement
+      request until the matter is resolved.
+
+      4.13 Other offers. By registering for the Basic Program, each Registered Traveler further
+      agrees that HomeAway may transmit its email newsletters to such person, along with other
+      account information that may be targeted to such traveler’s interests.
+
+      5. Entire Agreement; Contact Information. These Terms constitute the entire agreement
+      between HomeAway and each Registered Traveler with respect to the Basic Program. Except as
+      may be modified by these Terms, each Registered Traveler acknowledges and agrees that it is
+      bound by the existing Terms and Conditions of Use of the HomeAway Sites. In the event of any
+      conflict between these Terms and the Terms and Conditions of Use, these Terms will govern. If
+      you have any questions regarding the Basic Program or these Terms, please contact us by: (i)
+      email to customer support; (ii) by mail to HomeAway Basic Rental Guarantee Basic Program,
+      HomeAway.com, 1011 W Fifth Street, Suite 300, Austin, TX 78703; or (iii) by calling 1-877-
+      228-3145 or 512-782-0805.
+
+      [End of Terms]
+
+
+
+
+                                                  -18-
+

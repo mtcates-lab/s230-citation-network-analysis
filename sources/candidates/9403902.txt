@@ -1,0 +1,501 @@
+             Case: 22-1748      Document: 33-2           Filed: 06/02/2023       Page: 1
+
+
+
+                                RECOMMENDED FOR PUBLICATION
+                                Pursuant to Sixth Circuit I.O.P. 32.1(b)
+                                       File Name: 23a0117p.06
+
+                   UNITED STATES COURT OF APPEALS
+                                  FOR THE SIXTH CIRCUIT
+
+
+
+                                                              ┐
+ JASON KUTCHINSKI, as parent and next friend to H.K., a
+                                                              │
+ minor,
+                                                              │
+                                   Plaintiff-Appellant,       │
+                                                               >       No. 22-1748
+                                                              │
+        v.                                                    │
+                                                              │
+ FREELAND COMMUNITY SCHOOL DISTRICT; MATTHEW                  │
+ A. CAIRY and TRACI L. SMITH, in their official and           │
+ individual capacities,                                       │
+                             Defendants-Appellees.            │
+                                                              ┘
+
+ Appeal from the United States District Court for the Eastern District of Michigan at Bay City.
+                      No. 1:19-cv-13810—Sean F. Cox, District Judge.
+
+                                      Argued: May 1, 2023
+
+                                Decided and Filed: June 2, 2023
+
+                 Before: GILMAN, READLER, and MATHIS, Circuit Judges.
+
+                                      _________________
+
+                                            COUNSEL
+
+ARGUED: Philip L. Ellison, OUTSIDE LEGAL COUNSEL PLC, Hemlock, Michigan, for
+Appellant. Jacob G. Lyday, O’NEILL, WALLACE & DOYLE, P.C., Saginaw, Michigan, for
+Appellees. ON BRIEF: Philip L. Ellison, OUTSIDE LEGAL COUNSEL PLC, Hemlock,
+Michigan, Matthew E. Gronda, GRONDA PLC, St. Charles, Michigan, for Appellant. Gregory
+W. Mair, O’NEILL, WALLACE & DOYLE, P.C., Saginaw, Michigan, for Appellees.
+            Case: 22-1748        Document: 33-2         Filed: 06/02/2023   Page: 2
+
+
+ No. 22-1748                 Kutchinski v. Freeland Cmty. Sch. Dist.                     Page 2
+
+
+                                       _________________
+
+                                            OPINION
+                                       _________________
+
+       MATHIS, Circuit Judge. H.K., a high-school student at Freeland Community School
+District, created a fake Instagram account impersonating one of his teachers. The account was
+benign at first, but soon became graphic, harassing, and threatening when two of his friends
+added their own posts to the account. News of the account spread fast, fueled by the students’
+own efforts. They accepted requests to follow the account and H.K.’s friends tagged teachers in
+their posts. H.K. eventually decided that the attention was too much and he deleted the account.
+
+       The school traced the account to H.K. and the other two students and imposed an
+immediate five-day suspension pending further investigation. After concluding the investigation
+and providing H.K. with an administrative hearing on the matter, the school suspended him for
+ten days.
+
+       H.K.’s father, Jason Kutchinski, then sued the school district, the principal, and the
+superintendent under 42 U.S.C. § 1983, claiming that the ten-day suspension violated H.K.’s
+free-speech and due-process rights. The district court denied Kutchinski’s motion for partial
+summary judgment and granted summary judgment to Defendants. Because Defendants had the
+authority to regulate H.K.’s off-campus speech and because the rule Defendants relied on to
+discipline H.K. was sufficiently definite, we affirm.
+
+                                                 I.
+
+       H.K. was at his home as Friday night bled into Saturday morning when he created a fake
+Instagram account to impersonate his biology teacher, Steven M. Schmidt.           He wrote the
+account’s first post—a photograph of a gas pump with a hypodermic needle embedded in it with
+the caption “[w]atch out guys, I am concerned for everyone’s safety!” R. 51-3, PageID 1000;
+R. 51-16, PageID 1063. Later that night, while H.K. played online games with his two friends,
+K.L. and L.F., he told them about the account and shared the log-in information with them.
+According to H.K., K.L. or L.F. later added the following biography to the account:
+               Case: 22-1748      Document: 33-2        Filed: 06/02/2023     Page: 3
+
+
+ No. 22-1748                  Kutchinski v. Freeland Cmty. Sch. Dist.                      Page 3
+
+
+                 Steven Schmidt
+                 Biology teacher at Freeland High School
+                 1 Loving Wife #lovers married in 2016
+                 Father of 2 beautiful twins #blessed and one 1 girl
+                 #growingup
+
+R. 51-16, PageID 1063; R. 51-3, PageID 1001.
+
+       Soon after receiving the log-in information, K.L. and L.F. wrote several posts about
+Schmidt, English teacher Chelsea Howson, substitute teacher/football coach Trey Anderson, and
+an unnamed disabled student. The posts displayed:
+
+           •     A photo of the disabled student with the caption “[g]lad this sicko is
+                 out of our school #ass[a]ult #Blessed”
+           •     A photo of Schmidt and his wife and child with the caption “[j]ust
+                 #gangbanged my wife with 4 other men in the back of an Arby’s
+                 #notmykid #14inches”
+           •     A photo of Schmidt and his wife with the caption “[h]appy 3rd
+                 Anniversary to my beautiful wife! #loving #anniversary #STDs”
+           •     A photo of Howson with the caption “[b]est sex in a Pet Smart #big
+                 #throbbing #14inches #raw”
+           •     A graphic video with the caption “[m]ight have to cheat on my wife
+                 [two winking emojis] #big #14inches”
+           •     A photo of Anderson with two unknown students with the caption
+                 “I will find and kill @_treyanderson__ [I’m] going to strangle him
+                 with my barehands [sic] until he is barely conscious, then let go. Once
+                 he is awake again [I’m] gonna run him over with my fucking car and
+                 crush [h]is skull into a million pieces. #lol @elite_edge”
+           •     A photo of Anderson with his cat with the caption “I could beat up
+                 @_treyanderson__ and anyone else in @elite_edge and then curb
+                 stomp his cat. #gains @peta”
+
+R. 51-3, PageID 997–1005.
+
+       K.L. and L.F. tagged Howson and Anderson in the posts referencing them. K.L. told
+H.K. about the posts that he had made to the account, and H.K. monitored the account and
+viewed the posts himself. H.K. did not delete them. Instead, he joked with K.L. and L.F. about
+the posts and the three accepted 18 requests to follow the account.
+               Case: 22-1748    Document: 33-2        Filed: 06/02/2023     Page: 4
+
+
+ No. 22-1748                Kutchinski v. Freeland Cmty. Sch. Dist.                      Page 4
+
+
+       By Sunday, Schmidt and Howson learned about the account and contacted the school’s
+principal, Traci L. Smith (“Principal Smith”), to let her know about the account’s existence.
+Schmidt told Principal Smith:
+
+       Someone has set up an account and is pretending to be me on Instagram. The
+       posts they are making are highly inappropriate. I have attached screenshots of
+       them as of 6:00am 5-12. I filed reports for impersonation, threats of violence, and
+       harrassment [sic] on Instagram as well. If there is anything else I need to do,
+       please let me know.
+
+R. 51-2, PageID 996.
+
+       The account remained active when school commenced on Monday morning. By this
+time, Schmidt’s and Howson’s students had learned about the account. According to Howson,
+“students were whispering about the incident, mainly in the afternoon after it had . . . spread
+around.” R. 49-3, PageID 924. This made her feel “incredibly humiliated the entire day”
+because she “knew that students knew about it . . . [and she] was humiliated to even bring the
+topic up.” Id. at 926. A student reported to another teacher that Howson was crying in one of
+her classes.
+
+       H.K. grew concerned that the account was getting out of control. He deleted the account
+during his lunch period after several friends urged him to do so.
+
+       Principal Smith investigated the account’s origins throughout the day. She spoke with
+teachers, who told her about several “classroom disruptions going on in their rooms,” and called
+“multiple students out of the classroom,” one of whom identified H.K., K.L., and L.F. as the
+students involved with the account. R. 49-1, PageID 894, 897.
+
+       Principal Smith put H.K. on an immediate five-day suspension. According to the notice
+letter sent to H.K.’s parents, the basis of his suspension was “impersonating a staff member by
+creating a fake on line [sic] account, posting to it, and sharing online log in [sic] information
+with others who posted additional inappropriate material.” R. 51-6, PageID 1010. The letter
+also notified H.K.’s parents that further investigation could result in additional punishment.
+And that is exactly what happened.
+             Case: 22-1748          Document: 33-2            Filed: 06/02/2023           Page: 5
+
+
+ No. 22-1748                    Kutchinski v. Freeland Cmty. Sch. Dist.                                   Page 5
+
+
+       On May 30, 2019, Freeland’s superintendent, Matthew A. Cairy (“Superintendent
+Cairy”), notified H.K.’s parents that Principal Smith had recommended H.K.’s expulsion and
+that Freeland would conduct a disciplinary hearing.
+
+       H.K., his parents, his legal counsel, Principal Smith, and Superintendent Cairy attended
+the hearing. On August 6, 2019, Superintendent Cairy notified H.K. that he would receive a ten-
+day suspension “for his actions on May 11–13, 2019, including: gross misbehavior for his
+posting a fake Instagram account impersonating a teacher (under an assumed name), posting to
+that account as the teacher, and sharing the username and password with other students.” R. 51-
+15, PageID 1053.
+
+       Kutchinski sued Defendants on H.K.’s behalf, alleging that H.K.’s ten-day suspension
+violated his First Amendment and Fourteenth Amendment rights.1 The case proceeded to
+discovery, after which the parties filed competing motions for summary judgment. The district
+court ultimately granted Defendants’ summary judgment motion and denied Kutchinski’s
+summary judgment motion.
+
+                                                       II.
+
+       We review the grant of summary judgment de novo. See Puskas v. Delaware Cnty.,
+56 F.4th 1088, 1093 (6th Cir. 2023). Summary judgment is appropriate where “the movant
+shows that there is no genuine dispute as to any material fact and the movant is entitled to
+judgment as a matter of law.” FED. R. CIV. P. 56(a). In reviewing the motion, we view all
+evidence and draw all reasonable inferences in the light most favorable to the nonmoving party.
+Palma v. Johns, 27 F.4th 419, 427 (6th Cir. 2022).
+
+                                                      III.
+
+       This appeal involves two questions. First, whether Defendants could punish H.K. for his
+involvement with the Instagram account. And second, whether one of the school rules that
+Defendants relied on to suspend H.K. was unconstitutionally vague. The First Amendment’s
+
+
+
+       1Kutchinski sued Superintendent Cairy and Principal Smith in both their official and individual capacities.
+              Case: 22-1748     Document: 33-2       Filed: 06/02/2023      Page: 6
+
+
+ No. 22-1748                Kutchinski v. Freeland Cmty. Sch. Dist.                       Page 6
+
+
+Free Speech Clause controls the first question. The Fourteenth Amendment’s Due Process
+Clause controls the second. We address each question in turn.
+
+                                               A.
+
+          Applicable to the States through the Fourteenth Amendment, the First Amendment
+prohibits the government from “abridging the freedom of speech.” U.S. CONST. amend. I;
+Grosjean v. Am. Press Co., 297 U.S. 233, 243 (1936). Specifically, the Free Speech Clause
+protects “the right to speak freely and the right to refrain from speaking at all.” Wooley v.
+Maynard, 430 U.S. 705, 714 (1977). Though broadly phrased, the freedom of speech is not
+unlimited. For example, “[e]xpression, whether oral or written or symbolized by conduct, is
+subject to reasonable time, place, or manner restrictions.” Clark v. Cmty. for Creative Non-
+Violence, 468 U.S. 288, 293 (1984). The schoolhouse is one such restriction. Although students
+do not “shed their constitutional rights to freedom of speech or expression at the schoolhouse
+gate,” Tinker v. Des Moines Indep. Cmty. Sch. Dist., 393 U.S. 503, 506 (1969), their First
+Amendment rights “are not automatically coextensive with the rights of adults in other settings,”
+Bethel Sch. Dist. No. 403 v. Fraser, 478 U.S. 675, 682 (1986). As such, students’ free-speech
+rights apply “in light of the special characteristics of the school environment.” Tinker, 393 U.S.
+at 506.
+
+          The Supreme Court has outlined four categories of student speech that schools may
+regulate: (1) indecent, offensively lewd, or vulgar speech uttered during a school assembly on
+school grounds, see Fraser, 478 U.S. at 683–85; (2) speech during school or at a school-
+sponsored event that schools “reasonably regard as promoting illegal drug use,” see Morse v.
+Frederick, 551 U.S. 393, 408 (2007); (3) “speech in school-sponsored expressive activities” if
+the schools’ “actions are reasonably related to legitimate pedagogical concerns,” see Hazelwood
+Sch. Dist. v. Kuhlmeier, 484 U.S. 260, 273 (1988); and (4) on-campus and some off-campus
+speech that “materially disrupts classwork or involves substantial disorder or invasions of the
+rights of others,” see Tinker, 393 U.S. at 513; Mahanoy Area Sch. Dist. v. B.L. ex rel. Levy, 141
+S. Ct. 2038, 2045 (2021). Because this case involves off-campus speech, it implicates the fourth
+category.
+            Case: 22-1748         Document: 33-2       Filed: 06/02/2023      Page: 7
+
+
+ No. 22-1748                 Kutchinski v. Freeland Cmty. Sch. Dist.                       Page 7
+
+
+       Mahanoy guides our analysis. In Mahanoy, a high-school student who was passed over
+for her school’s varsity cheerleading team reacted by posting on Snapchat with a caption that
+contained “vulgar language and gestures criticizing both the school and the school’s cheerleading
+team.” Id. at 2042–43. The student made the post over the weekend while she was not at school.
+Id. at 2043. The school later discovered the post and suspended her from the junior varsity
+cheerleading squad. See id. The Court found that the suspension violated the student’s free-
+speech rights. See id.
+
+       Although a “school’s regulatory interests remain significant in some off-campus
+circumstances,” such as “serious or severe bullying or harassment targeting particular individuals
+[or] threats aimed at teachers or other students,” schools do not have the same authority to
+regulate off-campus speech as they do on-campus speech. Id. at 2045. Mahanoy identified three
+features of off-campus speech that “diminish the strength of the unique educational
+characteristics that might call for special First Amendment leeway.” Id. at 2046.
+
+       First, for off-campus speech, the school rarely stands in loco parentis. Id. “The doctrine
+of in loco parentis treats school administrators as standing in the place of students’ parents under
+circumstances where the children’s actual parents cannot protect, guide, and discipline them.”
+Id. Thus, “off-campus speech will normally fall within the zone of parental, rather than school-
+related, responsibility.”   Id.    Second, off-campus regulations, coupled with on-campus
+regulations, cover “all the speech a student utters during the full 24-hour day.” Id. “That means
+courts must be more skeptical of a school’s efforts to regulate off-campus speech, for doing so
+may mean the student cannot engage in that kind of speech at all.” Id. Third, “the school itself
+has an interest in protecting a student’s unpopular expression, especially when the expression
+takes place off campus.” Id. American democracy works only if we protect the “marketplace of
+ideas.” Id. “That protection must include the protection of unpopular ideas, for popular ideas
+have less need for protection.” Id. “[T]hese three features of much off-campus speech mean that
+the leeway the First Amendment grants to schools in light of their special characteristics is
+diminished.” Id.
+
+       As Justice Alito’s concurrence points out, we can view a school’s ability to regulate off-
+campus speech on a spectrum. At one end of the spectrum, schools can probably regulate
+               Case: 22-1748     Document: 33-2       Filed: 06/02/2023       Page: 8
+
+
+ No. 22-1748                 Kutchinski v. Freeland Cmty. Sch. Dist.                       Page 8
+
+
+“speech that takes place during or as part of what amounts to a temporal or spatial extension of
+the regular school program, e.g., online instruction at home, assigned essays or other homework,
+and transportation to and from school.” Id. at 2054 (Alito, J., concurring). At the other end of
+the spectrum, schools generally cannot regulate “speech that is not expressly and specifically
+directed at the school, school administrators, teachers, or fellow students and that addresses
+matters of public concern[.]” Id. at 2055 (Alito, J., concurring). The middle of the spectrum
+includes “speech that criticizes or derides school administrators, teachers, or other staff
+members” or “involves criticism or hurtful remarks about other students.” Id. at 2057 (Alito, J.,
+concurring).
+
+       The student speech at issue here involves serious or severe harassment of three teachers
+and a Freeland student. See id. at 2045 (majority opinion). Therefore, Defendants could regulate
+the speech and discipline H.K. so long as he bore some responsibility for the speech and the
+speech substantially disrupted classwork (or Defendants reasonably believed the speech would
+disrupt classwork). See id. at 2052 (Alito, J., concurring) (“[A] school must have the authority to
+protect everyone on its premises, and therefore schools must be able to prohibit threatening and
+harassing speech.”).
+
+                                                 1.
+
+       Whether H.K. was responsible for the subject speech.            To recap, H.K. created an
+Instagram account mimicking Schmidt and made one innocuous post on the account. Hours after
+creating the account, H.K. provided the account’s log-in information to K.L. and L.F. so that
+they could post on the account. K.L. and L.F. made the incendiary posts and, in fact, K.L. told
+H.K. when K.L. was posting on the account. H.K. joked with K.L. and L.F. about their posts and
+accepted requests to follow the account.
+
+       We have not had the occasion to address when one student can be held responsible for the
+speech of others, but some of our sister circuits have. In Doe v. Hopkinton Public Schools, after
+a high school disciplined eight students on a hockey team for bullying one of their teammates,
+two of the students sued, arguing that the discipline violated their free-speech rights because they
+were not active participants in the bullying. 19 F.4th 493, 498, 507 (1st Cir. 2021). The Doe
+            Case: 22-1748        Document: 33-2        Filed: 06/02/2023    Page: 9
+
+
+ No. 22-1748                 Kutchinski v. Freeland Cmty. Sch. Dist.                      Page 9
+
+
+court found that the two students’ derogatory comments in a Snapchat group conversation about
+the bullied student “were causally connected to the direct bullying because they encouraged
+other group members to continue” the bullying. Id. at 505–07. As the Doe court aptly observed:
+“Children often bully as a group. The children who stand up on the sidewalk and cheer as one of
+their friends shakes down a smaller student for his lunch money may not be as culpable, but they
+are not entirely blameless.” Id. at 507 (citation omitted).
+
+       Similarly, in Chen ex rel. Chen v. Albany Unified School District, a student sued after a
+high school disciplined the student for “liking” and commenting on Instagram posts about other
+students that were highly insulting or racist. 56 F.4th 708, 711–12 (9th Cir. 2022). Because the
+student “egg[ed] on a bully who torment[ed] classmates,” the Chen court found that the
+student was an “affirmative participa[nt] in what ended up . . . as abusive harassment targeted at
+particular students.” Id. at 723; see also Kowalski v. Berkeley Cnty. Schs., 652 F.3d 565, 567,
+572–74 (4th Cir. 2011) (upholding the suspension of a student who created a MySpace page to
+bully another student and subsequently commented on friends’ posts which made derogatory
+comments about the student).
+
+       Like the First, Fourth, and Ninth Circuits, we hold that when a student causes, contributes
+to, or affirmatively participates in harmful speech, the student bears responsibility for the
+harmful speech. And because H.K. contributed to the harmful speech by creating the Instagram
+account, granting K.L. and L.F. access to the account, joking with K.L. and L.F. about their
+posts, and accepting followers, he bears responsibility for the speech related to the Instagram
+account.
+
+       Kutchinski disagrees and makes two arguments. First, Kutchinski argues that Section
+230 of the Communications Decency Act, 47 U.S.C. § 230, bars Defendants from disciplining
+H.K. for the posts made by K.L. and L.F. This is incorrect. Under § 230(c)(1), “[n]o provider or
+user of an interactive computer service shall be treated as the publisher or speaker of any
+information provided by another information content provider.” To the extent § 230 applies, we
+do not treat H.K. as the “publisher or speaker” of the posts made by K.L. and L.F. Instead, we
+have found that H.K. contributed to the harmful speech through his own actions.
+            Case: 22-1748        Document: 33-2      Filed: 06/02/2023      Page: 10
+
+
+ No. 22-1748                 Kutchinski v. Freeland Cmty. Sch. Dist.                     Page 10
+
+
+       Second, Kutchinski argues that disciplining H.K. for the posts emanating from the
+Instagram account violates H.K.’s First Amendment freedom-of-association rights. “The First
+Amendment . . . restricts the ability of the State to impose liability on an individual solely
+because of his association with another.” NAACP v. Claiborne Hardware Co., 458 U.S. 886,
+918–19 (1982). “The right to associate does not lose all constitutional protection merely because
+some members of the group may have participated in conduct or advocated doctrine that itself is
+not protected.” Id. at 908. But Defendants did not discipline H.K. because he associated with
+K.L. and L.F. They determined that H.K. jointly participated in the wrongful behavior. Thus,
+Defendants did not impinge on H.K.’s freedom-of-association rights.
+
+                                                2.
+
+       Substantial disruption. Having determined that H.K. bears responsibility for the harmful
+speech, we next consider whether the subject speech caused, or had the potential to cause,
+substantial disruption at Freeland. Substantial disruption is a “demanding standard.” Mahanoy,
+141 S. Ct. at 2047–48. To justify barring speech, a school must “show that its action was caused
+by something more than a mere desire to avoid the discomfort and unpleasantness that always
+accompany an unpopular viewpoint.” Tinker, 393 U.S. at 509. “[U]ndifferentiated fear or
+apprehension . . . is not enough to overcome the right to freedom of expression.” Id. at 508.
+
+       That said, “Tinker does not require disruption to have actually occurred.” Lowery v.
+Euverard, 497 F.3d 584, 593 (6th Cir. 2007). “Nor does Tinker ‘require certainty that disruption
+will occur.’” Id. at 592 (quoting Pinard v. Clatskanie Sch. Dist. 6J, 467 F.3d 755, 767 n.17 (9th
+Cir. 2006)). Instead, we must decide whether Defendants reasonably forecast that the posts from
+the Instagram account “would cause material and substantial disruption to schoolwork and
+school discipline.” See Barr v. Lafon, 538 F.3d 554, 565 (6th Cir. 2008). “The rationale for this
+standard lies in the fact that requiring evidence of disruption caused by the banned speech would
+place ‘school officials . . . between the proverbial rock and hard place: either they allow
+disruption to occur, or they are guilty of a constitutional violation.’” Id. (quoting Lowery,
+497 F.3d at 596) (alteration in original).
+             Case: 22-1748      Document: 33-2        Filed: 06/02/2023       Page: 11
+
+
+ No. 22-1748                 Kutchinski v. Freeland Cmty. Sch. Dist.                         Page 11
+
+
+         Defendants reasonably forecasted that a fake Instagram account that impersonated a
+Freeland teacher and directed sexual and violent posts at three Freeland teachers and a student
+would substantially disrupt normal school proceedings.          When school resumed after the
+weekend, Principal Smith tried to get out ahead of the anticipated disruptions by investigating
+the account’s origins throughout the school day. And, in fact, one could reasonably argue that
+actual disruption occurred. A student saw one of the targeted teachers crying in one of her
+classes. Students whispered about the posts during the day with each other. Multiple teachers
+reported disruptions in their classes. See Mahanoy, 141 S. Ct. at 2052–53 (Alito, J., concurring)
+(“An effective instructional atmosphere could not be maintained in a school, and good teachers
+would be hard to recruit and retain, if students were free to abuse or disrespect them.”).
+
+         Interestingly, Kutchinski suggests that Principal Smith’s investigation of the Instagram
+account during the school day caused the disruption. But because Principal Smith reasonably
+believed that disruption would take place, she was permitted to take steps to thwart the
+disruption. See Barr, 538 F.3d at 565.
+
+         “[S]chool officials need a degree of flexible authority to respond to disciplinary
+challenges.”    Morse, 551 U.S. at 428 (Breyer, J. concurring in the judgment in part and
+dissenting in part). Courts thus provide educators a high degree of deference in the exercise of
+their professional judgment lest they “substitute their own notions of sound educational policy
+for those of the school authorities which they review.” Bd. of Educ. of Hendrick Hudson Cent.
+Sch. Dist. v. Rowley, 458 U.S. 176, 206 (1982); see Safford Unified Sch. Dist. No. 1 v. Redding,
+557 U.S. 364, 377 (2009).
+
+         Defendants did not violate H.K.’s free-speech rights by disciplining him. The district
+court properly granted summary judgment to Defendants on Kutchinski’s First Amendment
+claim.
+
+                                                 B.
+
+         Kutchinski also asserts that even if H.K.’s suspension did not violate H.K.’s free-speech
+rights, the suspension was still improper because Defendants relied on an unconstitutionally
+vague rule in the Freeland Middle/High School Student Handbook as the basis for the
+           Case: 22-1748       Document: 33-2        Filed: 06/02/2023     Page: 12
+
+
+ No. 22-1748                Kutchinski v. Freeland Cmty. Sch. Dist.                     Page 12
+
+
+suspension. The Fourteenth Amendment prohibits the States from depriving “any person of life,
+liberty, or property, without due process of law.” U.S. CONST. amend. XIV, § 1. “[T]he State is
+constrained to recognize a student’s legitimate entitlement to a public education as a property
+interest which is protected by the Due Process Clause and which may not be taken away for
+misconduct without adherence to the minimum procedures required by that Clause.” Goss v.
+Lopez, 419 U.S. 565, 574 (1975). But “maintaining security and order in the schools requires a
+certain degree of flexibility in school disciplinary procedures.” New Jersey v. T.L.O., 469 U.S.
+325, 340 (1985). “Given the school’s need to be able to impose disciplinary sanctions for a wide
+range of unanticipated conduct disruptive of the educational process, the school disciplinary
+rules need not be as detailed as a criminal code which imposes criminal sanctions.” Fraser,
+478 U.S. at 686.
+
+       A school’s policy is unconstitutionally vague “when it either (1) fails to inform ordinary
+people what conduct is prohibited, or (2) allows for arbitrary and discriminatory enforcement.”
+Meriwether v. Hartop, 992 F.3d 492, 517–18 (6th Cir. 2021) (citing Kolender v. Lawson, 461
+U.S. 352, 357 (1983)).     The analysis depends on the context.        For example, “[t]here is
+substantially more room for imprecision in regulations bearing only civil, or employment,
+consequences, than would be tolerated in a criminal code.” Id. at 518 (citation and quotation
+marks omitted). Moreover, “a plaintiff who engages in some conduct that is clearly proscribed
+cannot complain of the vagueness of the law as applied to the conduct of others.” Id. (quoting
+Holder v. Humanitarian L. Project, 561 U.S. 1, 18–19 (2010)).
+
+       Kutchinski challenges Rule 10 of the Handbook, which states that “[s]tudents guilty of
+gross misbehavior, persistent disobedience or having habits detrimental to the school will be
+suspended or excluded from [the school].” R. 51-17, PageID 1082. According to Kutchinski,
+Rule 10 is unconstitutionally vague because a prohibition on “gross misbehavior fails to give
+students of ordinary intelligence the reasonable opportunity to know what is prohibited.”
+
+       The Oxford English Dictionary defines misbehavior as “improper conduct.”
+Misbehavior, OXFORD ENGLISH DICTIONARY (3d ed. 2022). The same dictionary defines gross
+as “flagrant” and “[g]laring.” Gross, OXFORD ENGLISH DICTIONARY (3d ed. 2022). Thus, a
+            Case: 22-1748       Document: 33-2       Filed: 06/02/2023      Page: 13
+
+
+ No. 22-1748                 Kutchinski v. Freeland Cmty. Sch. Dist.                     Page 13
+
+
+student engages in gross misbehavior when his actions constitute flagrant or glaring improper
+conduct. The conduct at issue fits the bill.
+
+       “The root of the vagueness doctrine is a rough idea of fairness. It is not a principle
+designed to convert into a constitutional dilemma the practical difficulties in drawing [school
+policies.]” Colten v. Kentucky, 407 U.S. 104, 110 (1972); see Green Party of Tenn. v. Hargett,
+700 F.3d 816, 825 (6th Cir. 2012). There is certainly some imprecision or subjectivity as to what
+constitutes “gross misbehavior.” But schools are not held to the utmost specificity in drafting
+their disciplinary rules. See Fraser, 478 U.S. at 686 (finding that a school rule barring “obscene”
+language did not violate a student’s due-process rights); Ward v. Rock Against Racism, 491 U.S.
+781, 794 (1989) (noting that “perfect clarity and precise guidance have never been required even
+of regulations that restrict expressive activity”). More imprecise or subjective prohibitions have
+survived our review. See Fowler v. Bd. of Educ. of Lincoln Cnty., 819 F.2d 657, 665–66 (6th
+Cir. 1987) (finding a statute proscribing “conduct unbecoming a teacher” was not
+unconstitutionally vague). Given this latitude, Rule 10 is not unconstitutionally vague and the
+district court did not err in granting Defendants’ motion for summary judgment and denying
+Kutchinski’s motion for partial summary judgment on the due-process claim.
+
+                                               IV.
+
+       For the aforementioned reasons, we AFFIRM the district court’s judgment.
+

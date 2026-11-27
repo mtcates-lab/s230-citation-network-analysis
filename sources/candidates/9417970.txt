@@ -1,0 +1,264 @@
+Case: 22-35262, 08/03/2023, ID: 12767266, DktEntry: 52-1, Page 1 of 8
+
+
+
+
+                         FOR PUBLICATION
+
+           UNITED STATES COURT OF APPEALS
+                FOR THE NINTH CIRCUIT
+
+        JOHN BOSHEARS, on behalf of               No. 22-35262
+        himself and all others similarly
+        situated,                                D.C. No. 2:21-
+                                                 cv-01222-MJP
+                      Plaintiff-Appellee,
+
+          v.                                       OPINION
+
+        PEOPLECONNECT, INC.,
+
+                      Defendant-Appellant.
+
+               Appeal from the United States District Court
+                 for the Western District of Washington
+               Marsha J. Pechman, District Judge, Presiding
+
+                   Argued and Submitted July 13, 2023
+                       San Francisco, California
+
+                          Filed August 3, 2023
+
+           Before: Carlos T. Bea, Mark J. Bennett, and Holly A.
+                         Thomas, Circuit Judges.
+
+                          Opinion by Judge Bea
+Case: 22-35262, 08/03/2023, ID: 12767266, DktEntry: 52-1, Page 2 of 8
+        2               BOSHEARS V. PEOPLECONNECT, INC.
+
+
+                                  SUMMARY *
+
+
+                    Federal Arbitration Act/Jurisdiction
+
+            In a suit alleging that defendant PeopleConnect, Inc.,
+        violated plaintiff’s right of publicity by using his photo on
+        its website Classmates.com, the panel dismissed the appeal
+        in part for lack of appellate jurisdiction, vacated the district
+        court’s order denying PeopleConnect’s motion to compel
+        arbitration, and remanded.
+            In response to plaintiff’s lawsuit, PeopleConnect sought
+        to compel arbitration under section 4 of the Federal
+        Arbitration Act (“FAA”) and also sought to dismiss the
+        complaint on immunity grounds. The district court denied
+        both requests in a document labeled a single “order.” On
+        appeal, PeopleConnect asserted that because the district
+        court denied the motion to dismiss in the same “order” in
+        which it denied the motion to compel arbitration, the whole
+        “order” was reviewable under FAA § 16(a), which allows
+        for interlocutory appeals of orders denying motions to
+        compel arbitration.
+            The panel determined that it had jurisdiction to review
+        the district court’s order denying the motion to compel
+        arbitration. In a concurrently filed memorandum
+        disposition, the panel vacated the order and remanded for
+        further proceedings.
+           Addressing whether it had jurisdiction to review the
+        denial of PeopleConnect’s motion to dismiss, the panel held
+
+        *
+         This summary constitutes no part of the opinion of the court. It has
+        been prepared by court staff for the convenience of the reader.
+Case: 22-35262, 08/03/2023, ID: 12767266, DktEntry: 52-1, Page 3 of 8
+                       BOSHEARS V. PEOPLECONNECT, INC.               3
+
+
+        that two orders do not become one “order” for the purposes
+        of § 16(a) solely by virtue of the fact that they appear in the
+        same document. Notwithstanding its label as a single
+        “order,” the document clearly contained multiple
+        orders. Because § 16(a) grants jurisdiction to review only an
+        order denying a motion to compel arbitration, and because
+        the district court’s denial of the motion to dismiss was not
+        part of such an order, the panel lacked jurisdiction to review
+        it.
+
+
+
+                                 COUNSEL
+
+        Ian H. Gershengorn (argued) and Illyana A. Green, Jenner &
+        Block LLP, Washington, D.C.; Clifford W. Berlow, Debbie
+        L. Berman, Wade A. Thompson, and Daniel W. Bobier,
+        Jenner & Block LLP, Chicago, Illinois; Brent Caslin, Jenner
+        & Block LLP, Los Angeles, California; Michael
+        Rosenberger and Mark A. Wilner, Gordon Tilden Thomas &
+        Cordell LLP, Seattle, Washington; for Defendant-Appellant.
+        Ben R. Osborn (argued), Law Office of Benjamin R. Osborn,
+        Brooklyn, New York; Michael F. Ram, Morgan & Morgan
+        Complex Litigation Group, San Francisco, California;
+        Samuel J. Strauss and Raina Borrelli, Turke & Strauss LLP,
+        Madison, Wisconsin; for Plaintiff-Appellee.
+Case: 22-35262, 08/03/2023, ID: 12767266, DktEntry: 52-1, Page 4 of 8
+        4              BOSHEARS V. PEOPLECONNECT, INC.
+
+
+                                  OPINION
+
+        BEA, Circuit Judge:
+
+            Plaintiff-Appellee John Boshears sued Defendant-
+        Appellant PeopleConnect, Inc., alleging that it violated his
+        right of publicity by using his photo on its website,
+        Classmates.com. PeopleConnect responded by seeking two
+        forms of relief. First, it sought to compel Boshears to
+        arbitrate his claims under section 4 of the Federal Arbitration
+        Act (FAA). See 9 U.S.C. § 4. Second, it sought to dismiss
+        Boshears’s complaint, see Fed. R. Civ. P. 12(b)(6), arguing
+        in relevant part that it was entitled to section 230 immunity
+        under the Communications Decency Act, see 47 U.S.C.
+        § 230. In a 26-page document labeled a single “order,” the
+        district court denied both requests for relief. PeopleConnect
+        filed an interlocutory appeal, attempting to challenge both
+        denials by relying on the FAA as the basis for interlocutory
+        appellate jurisdiction. See 9 U.S.C. § 16(a).
+            Section 16(a) reads, in relevant part: “An appeal may be
+        taken from . . . an order . . . denying a petition under section
+        4 of this title to order arbitration to proceed.” Id. More
+        simply, § 16(a) allows for “appeals of orders
+        denying . . . motions to compel arbitration.” Coinbase, Inc.
+        v. Bielski, 143 S. Ct. 1915, 1919 (2023) (emphasis removed).
+        Section 16(a) allows us to review the first issue raised on
+        appeal—whether the district court correctly denied
+        PeopleConnect’s motion to compel arbitration. We address
+        that issue in a concurrently filed memorandum disposition in
+        which we vacate the district court’s order denying the
+        motion to compel arbitration and remand for further
+        proceedings. In this opinion, we address only our jurisdiction
+        to review the second issue—whether the district court
+Case: 22-35262, 08/03/2023, ID: 12767266, DktEntry: 52-1, Page 5 of 8
+                        BOSHEARS V. PEOPLECONNECT, INC.                 5
+
+
+        correctly denied PeopleConnect’s Rule 12(b)(6) motion to
+        dismiss based on § 230 immunity.
+            Absent a final judgment, see 28 U.S.C. § 1291, we
+        generally lack jurisdiction to review the denial of a Rule
+        12(b)(6) motion. Hilton v. Hallmark Cards, 599 F.3d 894,
+        900 (9th Cir. 2010). PeopleConnect invokes neither the
+        collateral order doctrine nor the pendent appellate
+        jurisdiction doctrine, see Cunningham v. Gates, 229 F.3d
+        1271, 1283–84 (9th Cir. 2000), as amended (Oct. 31, 2000)
+        (describing these doctrines), to argue that we may review
+        such a denial here. Instead, it relies solely on the “plain
+        language” of § 16(a). PeopleConnect contends that the
+        district court denied its Rule 12(b)(6) motion in the same
+        “order” in which the district court denied its motion to
+        compel arbitration, and therefore the whole “order” is
+        reviewable under § 16(a).
+            PeopleConnect conflates, and thereby confuses, the
+        meaning of an order with that of a document. Cf. Fed. R.
+        App. P. 4(a)(7)(A) (distinguishing an “order” from the
+        “document” in which it is set forth). An “order” refers to a
+        “written direction or command,” not to the document in
+        which that “direction or command” is “delivered by a court
+        or judge” to the parties. See BP P.L.C. v. Mayor & City
+        Council of Baltimore, 141 S. Ct. 1532, 1537 (2021) (cleaned
+        up). In the document at issue here, the district court
+        addressed PeopleConnect’s arbitration argument separately
+        from its § 230 argument. At the end of its arbitration
+        analysis, the district court wrote: “The Court thus DENIES
+        [PeopleConnect’s] request to compel arbitration.” Six pages
+        later, at the end of its § 230 analysis, the district court wrote:
+        “The Court DENIES the Motion [to dismiss] as to this
+        argument.” These are separate “written direction[s] or
+        command[s].” Id. (citation omitted). They are thus different
+Case: 22-35262, 08/03/2023, ID: 12767266, DktEntry: 52-1, Page 6 of 8
+        6              BOSHEARS V. PEOPLECONNECT, INC.
+
+
+        “order[s]” that merely happen to appear in the same
+        document. Id.
+            Courts frequently issue multiple orders in the same
+        document, particularly when a party request multiple forms
+        of relief at the same time, as PeopleConnect did here. And it
+        is also common for a district court to label such a document
+        a singular “order,” as the district court did here. But we may
+        “look behind the district court’s characterization” of its order
+        to determine whether we have appellate jurisdiction to
+        review it. Cf. Atl. Nat. Tr. LLC v. Mt. Hawley Ins. Co., 621
+        F.3d 931, 938 (9th Cir. 2010) (interpreting the appellate
+        jurisdiction-stripping provisions in 28 U.S.C. § 1447).
+        Notwithstanding its label as a single “order,” the document
+        clearly contains multiple orders.
+            This all seems fairly commonsensical. Yet the parties do
+        not cite, and we were unable to find, a published opinion
+        from our Circuit expressly explaining this obvious principle.
+        The closest case we could find, Blair v. Rent-A-Center, Inc.,
+        928 F.3d 819 (9th Cir. 2019), held that § 16(a) did not grant
+        jurisdiction to review a denial of a motion for a discretionary
+        stay, id. at 832, even though the district court denied that
+        motion in the same document in which it denied a motion to
+        compel arbitration, Blair v. Rent-A-Ctr., Inc., 2017 WL
+        4805577, at *6 (N.D. Cal. Oct. 25, 2017). We now make
+        explicit what was implied in Blair—two orders do not
+        become one “order” for the purpose of § 16(a) solely by
+        virtue of the fact that they appear in the same document.
+            In arguing otherwise, PeopleConnect cites BP P.L.C.,
+        141 S. Ct. at 1537 (concluding that 28 U.S.C. § 1447(d)
+        allows review of all rejected bases for federal jurisdiction in
+        an order remanding a case to state court), and some out-of-
+        circuit cases interpreting § 16(a). See Donelson v.
+Case: 22-35262, 08/03/2023, ID: 12767266, DktEntry: 52-1, Page 7 of 8
+                       BOSHEARS V. PEOPLECONNECT, INC.               7
+
+
+        Ameriprise Fin. Servs., Inc., 999 F.3d 1080, 1086–87 (8th
+        Cir. 2021) (concluding that § 16(a) allows review of a denial
+        of a motion to strike class-action allegations); Int’l Energy
+        Ventures Mgmt., L.L.C. v. United Energy Grp., Ltd., 999
+        F.3d 257, 263 n.1 (5th Cir. 2021) (concluding that § 16(a)
+        allows review of whether an arbitration defense was
+        waived).
+            To the extent BP P.L.C. is helpful, it merely suggests that
+        § 16(a) grants jurisdiction to review all of the reasoning in
+        an order denying a motion to compel arbitration—“not just
+        some of its parts or pieces.” 141 S. Ct. at 1538. And
+        Donelson—PeopleConnect’s strongest case—might suggest
+        that we can review issues intertwined with a motion to
+        compel arbitration. See 999 F.3d at 1088 (“[The very]
+        purpose of moving to strike was so that the district court
+        could compel arbitration under the terms of the Client
+        Agreement.”). But neither suggestion is of any help to
+        PeopleConnect. The district court’s denial of § 230
+        immunity was plainly not part of the reasoning it articulated
+        in support of its denial of PeopleConnect’s motion to compel
+        arbitration. Nor did the motion to compel arbitration “turn[]
+        on” whether PeopleConnect was entitled to § 230 immunity.
+        Id. at 1091.
+            Because § 16(a) grants us jurisdiction to review only an
+        order denying a motion to compel arbitration, and because
+        the district court’s denial of § 230 immunity is not part of
+        such an order, we lack jurisdiction to review it. We dismiss
+        this portion of PeopleConnect’s appeal.
+            Finally, we address costs. In his answering brief,
+        Boshears requested an award of fees and costs for
+        responding to PeopleConnect’s § 230 immunity argument.
+        Boshears was required to request this award in “a separately
+Case: 22-35262, 08/03/2023, ID: 12767266, DktEntry: 52-1, Page 8 of 8
+        8             BOSHEARS V. PEOPLECONNECT, INC.
+
+
+        filed motion.” Fed. R. App. P. 38; see also Higgins v. Vortex
+        Fishing Sys., Inc., 379 F.3d 701, 709 (9th Cir. 2004).
+        Regardless, we deny Boshears’s request. See Exxon Valdez
+        v. Exxon Mobil, 568 F.3d 1077, 1081 (9th Cir. 2009) (“[O]ur
+        usual practice when each side wins something and loses
+        something” is to “exercise our discretion by requiring each
+        party to bear its own costs.”). Each party shall bear its own
+        costs on appeal. See Fed. R. App. P. 39(a)(4); Ninth Cir.
+        Gen. Order 4.5(e).
+          DISMISSED IN PART, VACATED IN PART, AND
+        REMANDED.
+

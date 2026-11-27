@@ -1,0 +1,1094 @@
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 1 of 28
+
+PUBLISHED
+UNITED STATES COURT OF APPEALS
+FOR THE FOURTH CIRCUIT
+No. 21-1678
+TYRONE HENDERSON, SR.; GEORGE I. HARRISON, JR.; ROBERT MCBRIDE, on
+behalf of himself and others similarly situated,
+Plaintiffs-Appellants,
+v.
+THE SOURCE FOR PUBLIC DATA, L.P., d/b/a Publicdata.com; SHADOWSOFT,
+INC.; HARLINGTON-STRAKER STUDIO, INC.; AND DALE BRUCE
+STRINGFELLOW,
+Defendants-Appellees.
+-----------------------------FEDERAL TRADE COMMISSION; CONSUMER FINANCIAL PROTECTION
+BUREAU; NORTH CAROLINA; TEXAS; ALABAMA; ARIZONA;
+ARKANSAS; CONNECTICUT; GEORGIA; IOWA; MAINE; MICHIGAN;
+MINNESOTA; MISSISSIPPI; NEBRASKA; NEVADA; NORTH DAKOTA;
+OHIO; SOUTH CAROLINA; SOUTH DAKOTA; UTAH; VERMONT;
+VIRGINIA; NATIONAL CONSUMER LAW CENTER; NATIONAL FAIR
+HOUSING ALLIANCE; LAWYERS' COMMITTEE FOR CIVIL RIGHTS
+UNDER LAW
+Amici Supporting Appellants.
+Appeal from the United States District Court for the Eastern District of Virginia, at
+Richmond. Henry E. Hudson, Senior District Judge. (3:20-cv-00294-HEH)
+Argued: May 3, 2022
+
+Decided: November 3, 2022
+
+1
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 2 of 28
+
+Before AGEE, RICHARDSON, and QUATTLEBAUM, Circuit Judges.
+Reversed and remanded by published opinion. Judge Richardson wrote the opinion, in
+which Judge Agee and Judge Quattlebaum joined.
+ARGUED: Jennifer D. Bennett, GUPTA WESSLER, San Francisco, California, for
+Appellants. Kyle David Highful, OFFICE OF THE ATTORNEY GENERAL OF TEXAS,
+Austin, Texas, for Amici States. Theodore (Jack) Metzler, FEDERAL TRADE
+COMMISSION, Washington, D.C., for Amicus Federal Trade Commission. Misha
+Tseytlin, TROUTMAN PEPPER HAMILTON SANDERS LLP, Chicago, Illinois, for
+Appellees. ON BRIEF: Leonard A. Bennett, Craig C. Marchiando, CONSUMER
+LITIGATION ASSOCIATES, P.C., Newport News, Virginia; Kristi C. Kelly, KELLY
+GUZZO PLC, Fairfax, Virginia; Matthew W.H. Wessler, GUPTA WESSLER,
+Washington, D.C., for Appellants. Timothy J. St. George, Richmond, Virginia, Ronald I.
+Raether, Jr., TROUTMAN PEPPER HAMILTON SANDERS LLP, Irvine, California, for
+Appellees. Steven Van Meter, Acting General Counsel, Steven Y. Bressler, Acting Deputy
+General Counsel, Laura Hussain, Assistant General Counsel, Derick Sohn, Senior Counsel,
+CONSUMER FINANCIAL PROTECTION BUREAU, Washington, D.C.; James Reilly
+Dolan, Acting General Counsel, Joel Marcus, Deputy General Counsel, FEDERAL
+TRADE COMMISSION, Washington, D.C.; Joshua H. Stein, Attorney General, Daniel P.
+Mosteller, Deputy General Counsel, NORTH CAROLINA DEPARTMENT OF JUSTICE,
+Raleigh, North Carolina, for Amici Federal Trade Commission, Consumer Financial
+Protection Bureau, and North Carolina. John G. Albanese, Ariana Kiener, BERGER
+MONTAGUE PC, Minneapolis, Minnesota, for Amici National Consumer Law Center,
+Upturn, American Civil Liberties Union, National Housing Law Project, National
+Employment Law Project, and National Low Income Housing Coalition. Ken Paxton,
+Attorney General, Brent Webster, First Assistant Attorney General, Judd E. Stone II,
+Solicitor General, Bill Davis, Deputy Solicitor General, OFFICE OF THE ATTORNEY
+GENERAL OF TEXAS, Austin, Texas, for Amicus State of Texas. Steve Marshall,
+Attorney General, OFFICE OF THE ATTORNEY GENERAL OF ALABAMA,
+Montgomery, Alabama, for Amicus State of Alabama. Mark Brnovich, Attorney General,
+OFFICE OF THE ATTORNEY GENERAL OF ARIZONA, Phoenix, Arizona, for Amicus
+State of Arizona. Leslie Rutledge, Attorney General, OFFICE OF THE ATTORNEY
+GENERAL OF ARKANSAS, Little Rock, Arkansas, for Amicus State of Arkansas.
+William Tong, Attorney General, OFFICE OF THE ATTORNEY GENERAL OF
+CONNECTICUT, Hartford, Connecticut, for Amicus State of Connecticut. Christopher
+M. Carr, Attorney General, OFFICE OF THE ATTORNEY GENERAL OF GEORGIA,
+Atlanta, Georgia, for Amicus State of Georgia. Tom Miller, Attorney General, OFFICE
+OF THE ATTORNEY GENERAL OF IOWA, Des Moines, Iowa, for Amicus State of
+Iowa. Aaron M. Frey, Attorney General, OFFICE OF THE ATTORNEY GENERAL OF
+MAINE, Augusta, Maine, for Amicus State of Maine. Dana Nessel, Attorney General,
+2
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 3 of 28
+
+OFFICE OF THE ATTORNEY GENERAL OF MICHIGAN, Lansing, Michigan, for
+Amicus State of Michigan. Keith Ellison, Attorney General, OFFICE OF THE
+ATTORNEY GENERAL OF MINNESOTA, St. Paul, Minnesota, for Amicus State of
+Minnesota. Lynn Fitch, Attorney General, OFFICE OF THE ATTORNEY GENERAL
+OF MISSISSIPPI, Jackson, Mississippi, for Amicus State of Mississippi. Douglas J.
+Peterson, Attorney General, OFFICE OF THE ATTORNEY GENERAL OF NEBRASKA,
+Lincoln, Nebraska, for Amicus State of Nebraska. Aaron D. Ford, Attorney General,
+OFFICE OF THE ATTORNEY GENERAL OF NEVADA, Las Vegas, Nevada, for
+Amicus State of Nevada. Wayne Stenehjem, Attorney General, OFFICE OF THE
+ATTORNEY GENERAL OF NORTH DAKOTA, Bismarck, North Dakota, for Amicus
+State of North Dakota. Dave Yost, Attorney General, OFFICE OF THE ATTORNEY
+GENERAL OF OHIO, Columbus, Ohio, for Amicus State of Ohio. Alan Wilson, Attorney
+General, OFFICE OF THE ATTORNEY GENERAL OF SOUTH CAROLINA,
+Columbia, South Carolina, for Amicus State of South Carolina. Jason R. Ravnsborg,
+Attorney General, OFFICE OF THE ATTORNEY GENERAL OF SOUTH DAKOTA,
+Pierre, South Dakota, for Amicus State of South Dakota. Sean D. Reyes, Attorney General,
+OFFICE OF THE ATTORNEY GENERAL OF UTAH, Salt Lake City, Utah, for Amicus
+State of Utah. Thomas J. Donovan, Jr., Attorney General, OFFICE OF THE ATTORNEY
+GENERAL OF VERMONT, Montpelier, Vermont, for Amicus State of Vermont. Mark
+R. Herring, Attorney General, OFFICE OF THE ATTORNEY GENERAL OF VIRGINIA,
+Richmond, Virginia, for Amicus Commonwealth of Virginia. Jon Greenbaum, David
+Brody, Noah Baron, Adonne Washington, LAWYERS’ COMMITTEE FOR CIVIL
+RIGHTS UNDER LAW, Washington, D.C.; D. Scott Chang, Morgan Williams,
+NATIONAL FAIR HOUSING ALLIANCE, Washington, D.C.; Zarema A. Jaramillo,
+Joshua E. Morris, Washington, D.C., Mary J. Hildebrand, Sydney J. Kaplan,
+LOWENSTEIN SANDLER LLP, New York, New York, for Amici the Lawyers’
+Committee for Civil Rights Under Law and the National Fair Housing Alliance.
+
+3
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 4 of 28
+
+RICHARDSON, Circuit Judge:
+Section 230(c)(1) of the Communications Decency Act protects some parties
+operating online from specific claims that would lead to liability for conduct done offline.
+But it is not a license to do whatever one wants online. Protection under § 230(c)(1)
+extends only to bar certain claims imposing liability for specific information that another
+party provided.
+Public Data sought § 230(c)(1) protection against four claims brought against it for
+violating the Fair Credit Reporting Act (“FCRA”). The district court agreed that the claims
+were precluded by § 230(c)(1). Plaintiffs appealed, arguing that § 230(c)(1) does not apply.
+We agree. Plaintiffs have alleged facts that, if true, render § 230(c)(1) inapplicable to their
+four claims. So we reverse the district court and remand for further proceedings.
+I.
+
+Background
+Defendants are The Source of Public Data, L.P.; ShadowSoft, Inc.; Harlington-
+
+Straker Studio, Inc.; and Dale Bruce Stringfellow. Defendants’ relation to each other and
+to the website PublicData.com is complex but unimportant to this appeal. Rather than
+break out the white board and red string to understand how they fit together, we accept on
+appeal Plaintiffs’ allegation that all Defendants are alter egos jointly responsible for any
+FCRA liability arising from the business activities conducted on PublicData.com. 1 So we
+refer to Defendants collectively as “Public Data.”
+
+This case comes to us on appeal from the district court’s grant of a motion for
+judgment on the pleadings under Federal Rule of Civil Procedure 12(c). Our review is de
+novo, and we apply the same standards as we would for a Rule 12(b)(6) motion. Massey
+(Continued)
+1
+
+4
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 5 of 28
+
+Public Data’s business is providing third parties with information about individuals.
+Plaintiffs allege that it involves four steps.
+First, Public Data acquires public records, such as criminal and civil records, voting
+records, driving information, and professional licensing. These records come from various
+local, state, and federal authorities (and other businesses that have already collected those
+records).
+Second, Public Data “parses” the collected information and puts it into a proprietary
+format. This can include taking steps to “reformat and alter” the raw documents, putting
+them “into a layout or presentation [Public Data] believe[s] is more user-friendly.” J.A.
+16. For criminal records, Public Data “distill[s]” the data subject’s criminal history into
+“glib statements,” “strip[s] out or suppress[es] all identifying information relating to the
+charges,” and then “replace[s] this information with [its] own internally created summaries
+of the charges, bereft of any detail.” J.A. 30.
+Third, Public Data creates a database of all this information which it then
+“publishes” on the website PublicData.com.
+
+Public Data does not look for or fix
+
+inaccuracies in the database, and the website disclaims any responsibility for inaccurate
+information. Public Data also does not respond to requests to correct or remove inaccurate
+information from the database.
+
+v. Ojaniit, 759 F.3d 343, 353 (4th Cir. 2014). This means that we accept all well-pleaded
+facts in the complaint as true. Drager v. PLIVA USA, Inc., 741 F.3d 470, 474 (4th Cir.
+2014). Given the procedural posture, our factual summary takes Plaintiffs’ Second
+Amended Complaint at face value.
+5
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 6 of 28
+
+Fourth, Public Data sells access to the database, “disbursing [the] information . . .
+for the purpose of furnishing consumer reports to third parties.” J.A. 19. All things told,
+Plaintiffs allege that Public Data sells 50 million consumer searches and reports per year.
+Public Data knows that traffic includes some buyers using its data and reports to check
+creditworthiness and some performing background checks for employment purposes.
+Plaintiffs allege that Public Data’s activities injured them. Plaintiffs Henderson,
+Harrison, and McBride have each requested a copy of the records Public Data keeps on
+them, but Public Data has not provided those records. Plaintiff McBride also alleges that
+he applied for a job that required a background check. As part of that check, his potential
+employer used a background report from Public Data. Public Data’s report on McBride
+was inaccurate because it contained misleading and incomplete criminal history. McBride
+was not hired. 2
+Plaintiffs bring four claims against Public Data alleging it violated four provisions
+of the FCRA. 3 Underlying each claim is the contention that Public Data must comply with
+
+McBride alleges that he learned about the inaccurate information included in the
+report when he sued his potential employer and obtained the report in discovery.
+2
+
+Plaintiffs together represent a putative class for Count One, Plaintiff McBride
+alone represents a class for Counts Two and Three, and Count Four is an individual claim
+brought by Plaintiff McBride. Given the posture of this case, we express no opinion on the
+class allegations or propriety of class certification.
+3
+
+6
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 7 of 28
+
+the FCRA because they produce “consumer report[s]” and are a “consumer reporting
+agency” under the Act. 4
+In Count One, Plaintiffs allege that Public Data violated § 1681g 5 by failing to
+provide them a copy of their own records and a notice of their FCRA rights when requested.
+In Count Three, Plaintiff McBride alleges that Public Data violated § 1681b(b)(1) 6 by
+failing to get certain certifications from employers it provided reports to, and by failing to
+provide those employers with a consumer-rights summary. Counts Two and Four both
+seek to impose liability for Public Data’s failure to maintain proper procedures to ensure
+accurate information. Count Two alleges that Public Data violated § 1681k(a) 7 by failing
+
+These terms are defined in 15 U.S.C. § 1681a(d) and (f), respectively. Since the
+only issue on appeal is whether 47 U.S.C. § 230(c)(1) bars Plaintiffs’ claims, we do not
+address whether Public Data qualifies as a “consumer reporting agency” under the FCRA.
+4
+
+“Every consumer reporting agency shall, upon request . . . clearly and accurately
+disclose to the consumer” certain information including “[a]ll information in the
+consumer’s file at the time of the request,” “[t]he sources of the information,” and the
+“[i]dentification of each person . . . that procured a consumer report” within the two years
+before the request, if procured “for employment purposes,” or within one year otherwise.
+15 U.S.C. § 1681g(a)(1)–(3).
+5
+
+Section 1681b(b)(1) requires that a consumer reporting agency obtain
+certifications from its employer-customers stating they will comply with § 1681b(b)(2)(A),
+and that the consumer reporting agency provide those employer-customers with a summary
+of the consumer’s rights. 15 U.S.C. § 1681b(b)(1).
+6
+
+“A consumer reporting agency which furnishes a consumer report for employment
+purposes and which for that purpose compiles and reports items of information on
+consumers which are matters of public record and are likely to have an adverse effect upon
+a consumer’s ability to obtain employment shall—(1) at the time such public record
+information is reported to the user of such consumer report, notify the consumer of the fact
+that public record information is being reported by the consumer reporting agency, together
+with the name and address of the person to whom such information is being reported; or
+(Continued)
+7
+
+7
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 8 of 28
+
+to notify Plaintiffs when it provided their records for employment purposes and by failing
+to establish adequate procedures to ensure complete and up to date information in those
+records. And in Count Four, Plaintiff McBride alleges, for himself only, that Public Data
+violated § 1681e(b) 8 by not implementing sufficient procedures to ensure accuracy in its
+reports.
+Public Data moved for judgment on the pleadings, arguing that each claim was
+barred by § 230(c)(1). The district court agreed and granted judgment for Public Data. See
+Henderson v. Source for Pub. Data, 540 F. Supp. 3d 539, 543 (E.D. Va. May 19, 2021).
+Plaintiffs appealed, and we have jurisdiction under 28 U.S.C. § 1291.
+II.
+
+Discussion
+Section 230 provides internet platforms with limited legal protections.
+
+See
+
+generally Adam Candeub, Reading Section 230 as Written, 1 J. Free Speech L. 139 (2021).
+Subsection 230(c)(1) prohibits treating an interactive computer service as a publisher or
+speaker of any information provided by a third party. And § 230(c)(2) bars liability for a
+platform’s actions to restrict access to obscene, lewd, lascivious, filthy, excessively violent,
+harassing, or otherwise-objectionable material.
+
+(2) maintain strict procedures designed to insure that whenever public record information
+which is likely to have an adverse effect on a consumer’s ability to obtain employment is
+reported it is complete and up to date.” 15 U.S.C. § 1681k(a).
+“Whenever a consumer reporting agency prepares a consumer report it shall follow
+reasonable procedures to assure maximum possible accuracy of the information concerning
+the individual about whom the report relates.” 15 U.S.C. § 1681e(b).
+8
+
+8
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 9 of 28
+
+On appeal, this case deals exclusively with the protection provided by § 230(c)(1):
+“No provider or user of an interactive computer service shall be treated as the publisher or
+speaker of any information provided by another information content provider.” Read
+plainly, this text requires that a defendant like Public Data must establish three things to
+claim protection: (1) The defendant is a “‘provider or user of an interactive computer
+service’”; (2) the plaintiff’s claim holds the defendant “responsible ‘as the publisher or
+speaker of any information’”; and (3) the relevant information was “‘provided by another
+information content provider.’” Nemet Chevrolet, Ltd. v. Consumeraffairs.com, Inc., 591
+F.3d 250, 254 (4th Cir. 2009) (quoting § 230(c)(1)). 9 These three requirements look first
+to the defendant’s status (i.e., are they a provider or user of an “interactive computer
+service”), then to the kind of claim the plaintiff has brought (i.e., does the plaintiff treat the
+defendant as a publisher or speaker of information), and finally to the source of the
+information underlying the plaintiff’s claim (i.e., who provided the information).
+
+There was some confusion below about these requirements. See Henderson, 540
+F. Supp. 3d at 547. And that is understandable given that we have not been clear about
+separating (c)(1)’s three distinct requirements. See Zeran v. American Online, Inc., 129
+F.3d 327, 330 (4th Cir. 1997) (discussing the protection in broad terms, without separating
+into distinct prongs). But when grappling with § 230(c)(1), we have applied these ideas, if
+not always in a neat and ordered row. See id. (discussing (1) “service providers” being (3)
+held “liable for information originating with a third-party user of the service,” (2) “in a
+publisher’s role”); see also Nemet, 591 F.3d at 254–55; Erie Ins. Co. v. Amazon.com, Inc.,
+925 F.3d 135, 139–40 (4th Cir. 2019). To avoid confusion, we follow our sister circuits
+and read the statute to create three requirements. See HomeAway.com, Inc. v. City of Santa
+Monica, 918 F.3d 676, 681 (9th Cir. 2019); FTC v. LeadClick Media, LLC, 838 F.3d 158,
+173 (2d Cir. 2016); Marshall’s Locksmith Serv. Inc. v. Google, LLC, 925 F.3d 1263, 1267–
+68 (D.C. Cir. 2019).
+9
+
+9
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 10 of 28
+
+Public Data asserts that its activities, as described in Plaintiffs’ FRCA claims, satisfy
+all three § 230(c)(1) requirements, so that § 230(c)(1) bars those claims.
+
+Plaintiffs
+
+disagree. For this appeal, they admit that Public Data is an interactive computer service 10
+but challenge the other two requirements necessary for § 230(c)(1) protection. On the
+second requirement, Plaintiffs argue their claims do not treat Public Data as the publisher
+or speaker of the offending information. And on the third requirement, Plaintiffs allege
+that Public Data itself acted as an “information content provider” of the offending
+information such that the information did not come solely from “another information
+content provider.”
+We conclude that § 230(c)(1) does not bar Counts One and Three because those
+claims do not treat Public Data as a publisher or speaker of information. For Counts Two
+and Four, we need not determine whether this second requirement is met because we
+conclude that Plaintiffs have alleged enough facts to plausibly infer that Public Data is an
+information content provider that provided the improper information. As Public Data
+cannot establish at this stage that it meets the third requirement for Counts Two and Four,
+§ 230(c)(1) does not now apply. So we reverse, and all claims are remanded for further
+proceedings consistent with this opinion.
+
+“The term ‘interactive computer service’ means any information service, system,
+or access software provider that provides or enables computer access by multiple users to
+a computer server, including specifically a service or system that provides access to the
+Internet and such systems operated or services offered by libraries or educational
+institutions.” § 230(f)(2). Hosting a website “enables computer access by multiple users
+to a computer server.” See LeadClick, 838 F.3d at 174 (“Courts typically have held that
+internet service providers, website exchange systems, online message boards, and search
+engines fall within this definition.”).
+10
+
+10
+
+USCA4 Appeal: 21-1678
+
+A.
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 11 of 28
+
+Requirement Two: Publisher or Speaker of Information
+
+Section 230(c)(1)’s second requirement asks whether the plaintiff’s legal claim
+requires that the defendant be “treated as the publisher or speaker of any information.” In
+other words, for protection to apply, the claim must turn on some “information,” and must
+treat the defendant as the “publisher or speaker” of that information. See § 230(c)(1) (No
+internet platform “shall be treated as the publisher or speaker of any information . . .”); see
+also Zeran, 129 F.3d at 330 (describing § 230(c)(1) as protecting a defendant from being
+“liable for information” when the defendant acts in the “publisher’s role” for that
+information). A claim treats the defendant “as the publisher or speaker of any information”
+when it (1) makes the defendant liable for publishing certain information to third parties,
+and (2) seeks to impose liability based on that information’s improper content.
+Our precedent demands that we ask whether the claim “thrust[s]” the interactive
+service provider “into the role of a traditional publisher.” Zeran, 129 F.3d at 332. The
+term “publisher” as used in § 230(c)(1) “derive[s] [its] legal significance from the context
+of defamation law.” Id. 11 Thus, the scope of “the role of a traditional publisher,” and
+
+When “a word is obviously transplanted from another legal source, whether the
+common law or other legislation, it brings the old soil with it.” Stokeling v. United States,
+139 S. Ct. 544, 551 (2019) (internal citation and quotation marks omitted). “Publisher” is
+just such a transplanted word. Section 230(c)(1) altered the way common-law-defamation
+claims would apply to users and providers of interactive computer services that the
+common law would otherwise hold liable as publishers. Malwarebytes, Inc. v. Enigma
+Software Grp. USA, LLC, 141 S. Ct. 13, 14 (2020) (Thomas, J., statement respecting denial
+of certiorari) (discussing Stratton Oakmont, Inc. v. Prodigy Services Co., 1995 WL 323710,
+at *3–*4 (N.Y. Sup. Ct. May 24, 1995)); Jones v. Dirty World Ent. Recordings LLC, 755
+F.3d 398, 407 (6th Cir. 2014) (“Section 230 marks a departure from the common-law rule
+that allocates liability to publishers . . . of tortious material written or prepared by others.”).
+11
+
+11
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 12 of 28
+
+therefore the scope of what § 230(c)(1) protects, is guided by the common law. See id.
+(“[Defendant] falls squarely within this traditional definition of a publisher and, therefore,
+is clearly protected by § 230’s immunity.” (citing W. Page Keeton et al., Prosser and
+Keeton on the Law of Torts § 113, at 803 (5th ed. 1984)). 12
+At common law, a publisher was someone who intentionally or negligently
+disseminated information to third parties. 13 In this context, a third party is someone other
+than the subject of the information disseminated. 14 Thus, for a claim to treat someone as a
+
+Defamation at common law distinguished between publisher and distributor
+liability but Zeran did not make this distinction. Instead, Zeran determined that distributor
+liability “is merely a subset, or a species, of publisher liability” and so treated them the
+same under § 230(c)(1). Zeran, 129 F.3d at 332. The decision has been questioned for
+failing to make this distinction. See, e.g., Malwarebytes, 141 S. Ct. at 14–15 (Thomas, J.,
+statement respecting denial of certiorari). But the approach taken in the Fourth Circuit
+since Zeran has been clear, and the parties have made no arguments based on this
+distinction.
+12
+
+See Restatement (Second) of Torts § 577, at 201 (Am. L. Inst. 1965) (“Publication
+of defamatory matter is its communication intentionally or by a negligent act to one other
+than the person defamed.”); Publish, Black’s Law Dictionary 1268 (8th ed. 2004) (defining
+“publish” as including “[t]o distribute copies . . . to the public” and “[t]o communicate
+(defamatory words) to someone other than the person defamed”); Yousling v. Dare, 98
+N.W. 371, 371 (Iowa 1904) (“The cases . . . uniformly hold that . . . the sending of a
+communication containing defamatory language directly to the person defamed, without
+any proof that, through the agency or in pursuance of the intention of the sender, it has
+come to the knowledge of any one else, does not show such publication as to render the
+sender liable in damages.”).
+13
+
+See Restatement (Second) of Torts § 577 cmt. b, at 202 (Am. L. Inst. 1965);
+Scottsdale Cap. Advisors Corp. v. The Deal, LLC, 887 F.3d 17, 21 (1st Cir. 2018)
+(“[P]ublication, does not mean merely uttering or writing. Rather, ‘publication’ . . . means
+to communicate the defamatory material to a third party (that is, a party who is not the
+subject of the defamatory material) . . .”); Sheffill v. Van Deusen, 79 Mass. 304, 305 (1859)
+(asserting that there can be no publication unless the words spoken were heard by third
+persons).
+14
+
+12
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 13 of 28
+
+publisher under § 230(c)(1), the claim must seek to impose liability based on the
+defendant’s dissemination of information to someone who is not the subject of the
+information.
+But that alone is not enough. To meet the second requirement for § 230(c)(1)
+protection, liability under the claim must be “based on the content of the speech published”
+by the interactive service provider. Erie Insurance Co., 925 F.3d at 139. At common law,
+defamation required publishing a “false and defamatory statement.” Restatement (Second)
+of Torts § 558(a), at 155 (Am. L. Inst. 1965). The publisher was held liable because of the
+improper nature of the content of the published information. 15 In other words, to hold
+someone liable as a publisher at common law was to hold them responsible for the content’s
+
+Other information-based torts at common law follow this mold, imposing liability
+on publishers for the improper nature of their disseminated content. For example, falselight claims hold a publisher liable only when there is “at least an implicit false statement
+of objective fact.” Flowers v. Carville, 310 F.3d 1118, 1132 (9th Cir. 2002).
+And publisher liability at common law did not always require that the “impropriety”
+of the content be that it was false and defamatory. Claims based on publicity given to
+private life impose liability on a publisher for information that is “highly offensive to a
+reasonable person.” Restatement (Second) of Torts § 652D, at 383 (Am. L. Inst. 1965).
+Reaching further back, publishers in England were prosecuted under a fourteenth century
+statute banning “constructive treason” for printing “seditious, poisonous, and scandalous”
+information even if that information was not false and defamatory. William T. Mayton,
+Seditious Libel and the Lost Guarantee of a Freedom of Expression, 84 Colum. L. Rev. 91,
+100–101 (1984); Geoffrey R. Stone et al., Constitutional Law 1009–10 (8th ed. 2018).
+Similarly, while libel required that the published information dishonor another or provoke
+violence, “truth was no defense.” Philip Hamburger, The Development of the law of
+Seditious Libel and the Control of the Press, 37 Stan. L. Rev. 661, 712 (1985).
+While it is commonly accepted that Congress passed § 230 in part as reaction to a
+case involving a defamation suit against an internet company, see Malwarebytes, Inc., 141
+S. Ct. at 14 (Thomas, J., statement respecting denial of certiorari) (discussing Stratton,
+1995 WL 323710), § 230(c)(1) protection is not limited to defamation suits.
+15
+
+13
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 14 of 28
+
+improper character. We have interpreted “publisher” in §230(c)(1) in line with this
+common-law understanding. Thus for § 230(c)(1) protection to apply, we require that
+liability attach to the defendant on account of some improper content within their
+publication. See Erie Ins. Co., 925 F.3d at 139–40 (“There is no claim made based on the
+content of speech published by [Defendant]—such as a claim that [Defendant] had liability
+as the publisher of a misrepresentation of the product or of defamatory content.”).
+This improper-content requirement helps dispel Public Data’s notion that a claim
+holds a defendant liable as a publisher anytime there is a “but-for” causal relationship
+between the act of publication and liability. See Appellee’s Response Brief 20–21 (“Put
+another way, had Public Data not published court records on its website, Plaintiffs could
+not have brought their Section 1681g(a) claim.”). This “but-for” publication test would
+say a claim treats an entity as a “publisher” under § 230(c)(1) if liability hinges in any way
+on the act of publishing. This but-for test bears little relation to publisher liability at
+common law. To be held liable for information “as the publisher or speaker” means more
+than that the publication of information was a but-for cause of the harm. See Erie Ins. Co.,
+925 F.3d at 139–40; HomeAway.com, 918 F.3d at 682.
+Erie Insurance is a good example. There, we held that Amazon was not protected
+by § 230(c)(1) in a product-liability suit even though publishing information was a but-for
+cause of the harm—i.e., the product was bought from Amazon’s website, making the
+advertisement’s publication a necessary link in the causal chain that led to setting the
+buyer’s house on fire. See Erie Insurance Co., 925 F.3d at 138–40. Though publishing
+information was a but-for cause, we refused to apply § 230(c)(1) protection because the
+14
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 15 of 28
+
+plaintiff’s product-liability claim was based on Amazon “as the seller of the defective
+product . . . [not] the content of speech published by Amazon.” Id. at 139–40.
+So, to paraphrase the test we began with, a claim only treats the defendant “as the
+publisher or speaker of any information” under § 230(c)(1) if it (1) bases the defendant’s
+liability on the disseminating of information to third parties and (2) imposes liability based
+on the information’s improper content.
+Based on these two requirements, we can see that § 230(c)(1) does not provide
+blanket protection from claims asserted under the FCRA just because they depend in some
+way on publishing information. Yes, the FCRA imposes procedural obligations on any
+“consumer reporting agency.” See Ross v. FDIC, 625 F.3d 808, 812 (4th Cir. 2010) (“The
+FCRA is a comprehensive statutory scheme designed to regulate the consumer reporting
+industry.”). And each claim here alleges that Public Data ignored those obligations as a
+member of that regulated industry. 16 So publishing information online is a but-for cause
+
+Each FCRA claim here is triggered by a defendant’s status as a “consumer
+reporting agency” as defined in 15 U.S.C. § 1681a(f). See 15 U.S.C. §§ 1681g(a) (“Every
+consumer reporting agency shall”); 1681k(a) (“A consumer reporting agency . . . shall”);
+1681b(b)(1) (“A consumer reporting agency may furnish a consumer report for
+employment purposes only if”); 1681e(b) (“Whenever a consumer reporting agency
+prepares a consumer report it shall”).
+A “consumer reporting agency” is defined as “any person which, for monetary
+fees . . . regularly engages . . . in the practice of assembling or evaluating consumer credit
+information . . . for the purpose of furnishing consumer reports to third parties.”
+§ 1681a(f). Circular as it is, “companies that regularly prepare consumer reports” are
+consumer reporting agencies. Berry v. Schulman, 807 F.3d 600, 605 (4th Cir. 2015). The
+district court did not determine whether Plaintiffs made sufficient allegations to prove that
+Public Data is a “consumer reporting agency,” and we take no position on that question.
+Of course, Public Data may contest that claim below. But here we only consider the
+preliminary question of whether § 230 bars Plaintiffs’ FCRA claims even if Public Data is
+a “consumer reporting agency.”
+16
+
+15
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 16 of 28
+
+of Public Data being a consumer reporting agency subject to the FCRA’s requirements.
+Most of what Public Data allegedly does, after all, is publish things on the internet. That
+means that publishing information is one but-for cause of these FCRA claims against
+Public Data. If Public Data is a “consumer reporting agency” subject to FCRA liability, it
+is one because it is the publisher or speaker of consumer report information. Yet that alone
+is not sufficient, as we do not apply a but-for test. See Erie Ins., 925 F.3d at 139–140;
+HomeAway.com, 918 F.3d at 682. We must instead examine each specific claim. 17
+It is also true that, at a high level, liability under the FCRA depends on the content
+of the information published. Both the definition of “consumer reporting agency” and the
+definition
+
+of
+
+“consumer
+
+reports”
+
+reference
+
+“credit
+
+information”
+
+or
+
+“information . . . bearing on a consumer’s credit worthiness.” § 1681a(d)(1), (f). If Public
+Data and its activities did not meet these definitions, there could be no liability under these
+FCRA claims. In this way, liability for each claim hinges on the published information’s
+content. Yet, while the informational content matters, § 230(c)(1) protects Public Data
+only from claims that demand the information’s content be improper before imposing
+liability.
+
+And, as a class, there is nothing improper about “credit information” or
+
+Section 230(e) catalogues other laws for which § 230(c)(1) must not be construed
+to impair. And the FCRA is not on the that list. But that tells us little about whether
+§ 230(c)(1) can bar specific FCRA claims because § 230(e) does not establish “an
+exception to a prohibition that would otherwise reach the conduct excepted.” Edward J.
+DeBartolo Corp. v. Fla. Gulf Coast Bldg. & Constr. Trades Council, 485 U.S. 568, 582
+(1988). Instead, it suggests a “clarification of the meaning of [§ 230] rather than an
+exception” to its coverage. Id. at 586. In other words, a FCRA claim must first impose
+liability on the defendant as the publisher or speaker of information to trigger the FCRA in
+the first place. If it does, then § 230(c)(1) can apply to FCRA claims. And if it does not,
+then § 230(c)(1) will not apply.
+17
+
+16
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 17 of 28
+
+“information . . . bearing on a consumer’s credit worthiness.” Again, we must examine
+each specific claim in context to see if the claim treats Public Data as a publisher under
+§ 230(c)(1).
+Finally, when considering whether any claim treats Public Data as a publisher, our
+precedent teaches that we must look beyond the claim’s formal elements. Beginning in
+Zeran, our Court has stressed a functional approach. In our functional analysis, we ask
+whether holding this defendant liable requires treating them as a publisher, not whether
+every abstract violation requires it. See Zeran, 129 F.2d at 332; Erie Ins. Co., 925 F.3d at
+139. To make this determination, we look to see what the plaintiff in our case must prove.
+If the plaintiff’s recovery requires treating the defendant as a publisher, then the defendant
+has satisfied § 230(c)(1)’s second requirement.
+Zeran itself is instructive. There, Kenneth Zeran made a negligence claim against
+AOL. Zeran, 129 F.3d at 332. A defendant can, of course, be negligent without publishing
+anything. Yet Zeran asserted that AOL was negligent “because it communicated to third
+parties an allegedly defamatory statement.” Id. at 333. That is, Zeran’s specific negligence
+claim treated the defendant as a publisher. So while not every negligence claim treats a
+defendant as a publisher, Zeran’s negligence claim did; so we held that claim was
+foreclosed by § 230(c)(1). Id. at 332–33.
+We thus turn to the four specific claims asserted.
+Count One is based on FCRA § 1681g and does not seek to impose liability on
+Public Data as a speaker or publisher of any information. Section 1681g requires consumer
+reporting agencies to give consumers a copy of their own consumer report along with an
+17
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 18 of 28
+
+FCRA notice upon request. 18 So it is based on a failure to disseminate information about
+an individual to that same individual, not a third party. Recall that “[p]ublication of
+defamatory matter is its communication intentionally or by a negligent act to one other
+than the person defamed.” See Restatement (Second) of Torts § 577, at 201 (emphasis
+added). So Section 1681g does not seek to hold Public Data liable “as the publisher” under
+§ 230(c)(1), and § 230(c)(1) does not bar Count One.
+Like Count One, Count Three does not treat Public Data as a speaker or publisher.
+Count Three seeks to impose liability on Public Data for violating § 1681b(b)(1), which
+lays out two requirements that a consumer reporting agency must meet before they may
+provide a consumer report “for employment purposes.” § 1681b(b)(1). First, the employer
+who gets the report must certify both that they have complied with the FCRA’s
+requirements and that they will not use the information in violation of state or federal law.
+§ 1681b(b)(1)(A)(i)–(ii). And, second, the consumer reporting agency must also provide
+a summary of the consumer’s FCRA rights to the employer. § 1681b(b)(1)(B).
+
+Zeran left the door open to finding § 230(c)(1) protection applies when a claim
+holds a party liable for a decision not to publish, Zeran, 129 F.3d at 330, and we need not
+decide here if we should shut it. Zeran suggested that it might allow § 230(c)(1) to bar
+claims whenever avoiding liability under those claims would require acting as a publisher.
+Id. In other words, it is possible to read Zeran as applying § 230(c)(1) protection when an
+interactive service provider would be held liable for failing to publish information. See id.;
+see also Doe v. Internet Brands, Inc., 824 F.3d 846, 851 (implying that not providing a
+warning can be an act of publishing by considering whether § 230(c)(1) could bar a
+negligent-failure-to-warn claim). Since even in those circumstances the failure to publish
+would still need to relate to information meant to be disseminated to third-parties, we need
+not reach this question here.
+18
+
+18
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 19 of 28
+
+The requirement that a consumer reporting agency obtain certification from an
+employer is easily disposed of because liability is in no way based on the improper content
+of any information spoken or published by Public Data. Here, if liability is based on
+information, it is only Public Data’s failure to obtain the required information
+(certification) from the employer that matters.
+Slightly more vexingly, Count Three also does not treat Public Data as a publisher
+because liability depends on Public Data’s failure to provide a summary of consumer rights
+to the putative employer (§ 1681b(b)(1)’s second requirement). Even if Public Data’s
+decision to not provide the required summary could be described as a publisher’s decision,
+the information it failed to provide is proper and lawful content. And § 230(c)(1) applies
+only when the claim depends on the content’s impropriety. Therefore, Public Data’s failure
+to summarize consumer rights cannot fall within § 230(c)(1) protection.
+Unlike Counts One and Three, Counts Two and Four may seek to hold Public Data
+liable as the publisher of information. Section 1681e(b), the basis for Count Four, requires
+that a consumer reporting agency “follow reasonable procedures to assure maximum
+possible accuracy of the information concerning the individual about whom the report
+relates.” Likewise, liability under § 1681k(a), the gravamen of Count Two, requires that a
+consumer reporting agency that is selling consumer reports “for employment purposes”
+which “are likely to have an adverse effect on a consumer’s ability to obtain employment”
+must “maintain strict procedures” to ensure that any consumer information “is complete
+
+19
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 20 of 28
+
+and up to date.” §§ 1681k(a), 1681(k)(a)(2). 19 Thus, both claims seek to impose liability
+based on an agency’s failure to maintain proper procedures to ensure accurate information.
+On its face, liability for failing to maintain proper procedures does not seem to fall within
+§ 230(c)(1)’s ambit as we have described it. After all, the FCRA’s statutory language here
+requires neither dissemination of information to third parties nor improper content. Yet a
+little digging uncovers two levels of complexity.
+First, current Fourth Circuit precedent requires that a plaintiff bringing a claim under
+both § 1681e(b), and by implication § 1681k(a), show the defendant’s “consumer report
+contains inaccurate information.” Dalton, 257 F.3d at 415. Though the textual basis for
+requiring an inaccuracy is unclear, Dalton provided that liability under Counts 2 and 4
+depend on inaccurate information. 20
+
+And that suggests that Counts 2 and 4 thus
+
+functionally impose liability on the defendant based on the information’s impropriety.
+Second, a private plaintiff bringing a claim in federal court, as is the case here, under
+§ 1681e(b) or § 1681k(a) must show that Public Data disseminated information to third
+parties to satisfy Article III standing. TransUnion LLC v. Ramirez, 141 S. Ct. 2190, 2214
+
+Liability under § 1681k(a) also requires that the defendant fail to provide
+notifications to the consumer that the report was provided to a potential employer.
+§ 1681k(a)(1). We have already explained why a consumer-notification requirement like
+this does not impose liability on Public Data as a publisher or speaker of information—it
+is a failure to disseminate information about an individual to that same individual, not a
+third party.
+19
+
+Dalton held that violating § 1681e(b) requires inaccurate information. Id. While
+Dalton did not address § 1681k(a)’s reasonable-procedures requirement, we see no
+principled way to distinguish the two provisions and so read Dalton to require the same
+inaccuracy.
+20
+
+20
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 21 of 28
+
+(2021). The statutory provisions might be violated without the dissemination of any
+information, as the FCRA itself does not condition these provisions on disseminating the
+report but on failing to follow proper procedures to ensure a report’s accuracy. But a
+private plaintiff lacks standing to bring a reasonable-procedures claim unless the plaintiff’s
+report was provided to a third party. Id. So it may be that these reasonable-procedures
+claims turn on Public Data providing the inaccurate information to a third party. 21 See id;
+Spokeo, Inc. v. Robins, 578 U.S. 330, 342 (2016) (providing “entirely accurate”
+information without complying fully with the FCRA’s procedures is a “bare procedural
+violation” that cannot “satisfy . . . Article III”). Considering past precedent and the
+Constitution’s limited judicial power, perhaps Counts Two and Four functionally depend
+on Public Data disseminating inaccurate information to a third party. But we need not, and
+do not, decide whether our functional approach can stretch the meaning of being “treated
+as the publisher or speaker of any information” far enough to cover Counts Two and Four.
+For as we will see, Public Data was “another information content provider” for the
+information at issue in Counts 2 and 4. So, based on the third requirement, § 230(c)(1)
+protection fails for those two counts.
+B.
+
+Requirement Three: Provided by Another Information Content
+Provider
+
+The third and final requirement for § 230(c)(1) protection is that the information at
+issue in the plaintiff’s claim be “provided by another information content provider.”
+
+Again, at least in federal court. See TransUnion, 141 S. Ct. at 2224 n.9 (Thomas,
+J., dissenting) (suggesting a non-publication claim could be brought in state court).
+21
+
+21
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 22 of 28
+
+§ 230(c)(1) (emphasis added). An “‘information content provider’ means any person or
+entity that is responsible, in whole or in part, for the creation or development of information
+provided through the Internet or any other interactive computer service.” § 230(f)(3).
+Plaintiffs argue that this third requirement is not met because Public Data itself is
+an “information content provider” for the relevant information. 22 We agree. The plaintiffs’
+complaint plausibly alleges that Public Data is an information content provider for the
+information that creates liability under these two counts. So, on these alleged facts,
+§ 230(c)(1) does not bar Counts Two and Four. 23
+Public Data is an “information content provider” if they are “responsible, in whole
+or in part, for the creation or development” of the information at issue. This Court has
+never fully defined the terms “creation” or “development” as they are used in the statute.
+
+Public Data can be both “a provider or user of an interactive computer service”
+and also the “information content provider.” And when a defendant is both, § 230(c)(1)
+provides no protection. Section 230(c)(1) applies only when the information for which
+liability is being imposed on the provider or user of an interactive computer service is
+“provided” by “another” information content provider. § 230(c)(1). The use of the
+modifier another shows that an interactive computer service provider can be an information
+content provider at the same time. See § 230(c)(1) (“No provider or user of an interactive
+computer service shall be treated as the publisher or speaker of any information provided
+by another information content provider.” (emphasis added)). And when a provider of an
+interactive computer service also provides the information at issue in a claim, it receives
+no protection under § 230(c)(1). See Nemet, 591 F.3d at 254. In other words, § 230(c)(1)
+does not protect entities for their own speech, it protects them only when they serve as a
+conduit for other’s speech. See Zeran, 129 F.3d at 333.
+22
+
+Since we determine that Public Data is an information content provider, we do
+not address Plaintiffs’ argument that “provided” in the statute means “provided to the
+internet user” not “provided to the internet company.” Appellee’s Brief 34–35; see, e.g.,
+Batzel v. Smith, 333 F.3d 1018, 1033 (9th 2003) (“The structure and purpose of § 230(c)(1)
+indicate that the immunity applies only with regard to third-party information provided for
+use on the Internet.”).
+23
+
+22
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 23 of 28
+
+But we have explained that “lawsuits seeking to hold a service provider liable for its
+exercise of a publisher’s traditional editorial functions—such as deciding whether to
+publish, withdraw, postpone or alter content—are barred.” Zeran, 129 F.3d at 330; see
+also Nemet, 591 F.3d at 258 ( “creation” or “development” of information requires
+“something more than [what] a website operator performs as part of its traditional editorial
+function”).
+Other circuits have put more flesh onto these definitions, determining that an
+interactive computer service provider or user is responsible for the development 24 of the
+information at issue in the case if they “directly and ‘materially’ contributed to what made
+the content itself ‘unlawful.’” Force v. Facebook, 934 F.3d 53, 68 (2d Cir. 2019) (quoting
+LeadClick, 838 F.3d at 174); see Fair Hous. Council of San Fernando Valley v.
+Roommates.Com, LLC, 521 F.3d 1157, 1168 (9th Cir. 2008) (explaining that a defendant
+is an information content provider if they “contribute[d] materially to the alleged illegality
+of the conduct”); Jones, 755 F.3d at 413 (“Consistent with our sister circuits, we adopt the
+material contribution test.”). And while this Court has never explicitly adopted “material
+contribution” as the test, we applied it in Nemet to determine that the website operator there
+was not an information content provider. See Nemet, 591 F.3d at 257–58 (noting that the
+plaintiff failed to allege that the website operator “contributed to the allegedly fraudulent
+nature of the comments at issue”).
+
+Since we find that Public Data has “developed” the information at issue we need
+not consider whether it might also have “created” that information.
+24
+
+23
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 24 of 28
+
+Additionally, the material-contribution test fits well within our broader § 230(c)(1)
+jurisprudence. Zeran and Nemet rest on the principle that liability for an interactive
+computer service user or provider must turn on “something more than . . . its traditional
+editorial function.” Nemet, 591 F.3d at 258 (citing Zeran, 129 F.3d at 330). All the
+material-contribution test does is put a more helpful name to this “something more”
+standard. And defining “something more” as a material contribution makes sense. As
+Zeran notes, § 230 bars liability against “companies that serve as intermediaries for other
+parties’ potentially injurious messages.” Zeran, 129 F.3d at 330–31. But where a company
+materially contributes to a message’s unlawful content, that company stops being a mere
+“intermediary” for another party’s message. Instead, the company is adding new content
+to the message that harms the plaintiff. We thus hold that an interactive computer service
+is not responsible for developing the unlawful information unless they have gone beyond
+the exercise of traditional editorial functions and materially contributed to what made the
+content unlawful.
+Whether a defendant developed information such that they are an “information
+content provider” turns on whether the defendant has materially contributed to the piece(s)
+of information relevant to liability. Section 230(c)(1) applies if a defendant has materially
+contributed only to parts of the disseminated information that do not make the disseminated
+information unlawful (if § 230(c)(1) is otherwise applicable). For example, in Jones, the
+Sixth Circuit determined that a website had not materially contributed to defamatory
+content that it hosted. Jones, 755 F.3d at 416. This was so even though the website
+operator had authored his own comments underneath the alleged defamatory material. Id.
+24
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 25 of 28
+
+In drawing this conclusion, the court noted that “[t]o be sure, [the operator] was an
+information content provider as to his comment . . . [b]ut [Plaintiff] did not allege that [the
+operator’s] comments were defamatory.” Id. In other words, the § 230(c)(1)’s third
+requirement did not turn on whether the defendant materially contributed to some part of
+the total information disseminated—i.e., the entire post—but on whether the defendant
+materially contributed to the defamatory aspect of the information. Id.; see La Liberte v.
+Reid, 966 F.3d 79, 89 (2d Cir. 2020) (applying liability when defendant was responsible
+for the content’s defamatory portion). Our approach is the same. See Nemet, 591 F.3d at
+255–60 (discussing twenty allegedly defamatory posts in separate groups based on the
+defendant’s involvement with the posts before concluding that the plaintiff failed to show
+that defendant “was responsible for the creation or development of the allegedly
+defamatory content at issue”).
+Plaintiffs have alleged enough facts to show that Public Data’s own actions
+contributed in a material way to what made the content at issue in Counts Two and Four
+inaccurate and thus improper. Plaintiff McBride claims that the report Public Data sent to
+his potential employer was inaccurate because it omitted or summarized information in a
+way that made it misleading.
+
+And, from Plaintiffs’ allegations, it is plausible that
+
+McBride’s report was misleading based on Public Data’s own actions.
+As a general matter, Plaintiffs claim that Public Data handles criminal matters by
+“strip[ping] out or suppress[ing] all identifying information relating to the charges . . .
+[including] dispositions” and that it then “replace[s] this information with [its] own
+internally created summaries of the charges, bereft of any detail.” J.A. 30. As to McBride’s
+25
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 26 of 28
+
+report specifically, Plaintiffs allege that the report “suggest[ed] that Plaintiff McBride had
+been convicted of each of the offenses listed,” but that “the report was inaccurate and
+incomplete as it failed to indicate that several of the offenses listed had been nolle prossed.”
+J.A. 37–38. These allegations, and all reasonable inferences, sufficiently allege that the
+inaccuracies in McBride’s report resulted from Public Data’s stripping out the nolle
+prosequi disposition for McBride’s charges and adding in its own misleading summaries.
+Thus, on Plaintiffs’ allegations, Public Data’s summaries and omissions materially
+contribute to the report’s impropriety. They are not merely an exercise of traditional
+editorial functions. When Zeran proclaimed that § 230(c)(1) barred claims based on a
+defendant’s exercise of traditional editorial functions, it also provided a suggestive list
+including “deciding whether to publish, withdraw, postpone or alter content.” Zeran, 129
+F.3d at 330. Of course, in a sense, omitting the criminal charge dispositions is just
+“altering” their content, as is creating new charge summaries. Yet, Zeran’s list of protected
+functions must be read in its context, and that context cabins that list to merely “editorial”
+functions. It cannot be stretched to include actions that go beyond formatting or procedural
+alterations and change the substance of the content altered. 25 An interactive service
+
+An extreme example helps illustrate this point. Take a writer of a ransom note
+who cuts letters out of a magazine to list his demands. That writer might be said to be
+“altering” content. Yet, the note’s writer is hardly acting as an “editor” of the magazine.
+Instead, he has substantively changed the magazine’s content and transformed it from
+benign information about sports or entertainment into threatening information about bags
+of cash and ultimatums.
+25
+
+26
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 27 of 28
+
+provider becomes an information content provider whenever their actions cross the line
+into substantively altering the content at issue in ways that make it unlawful. 26
+Applying these principles to Counts Two and Four, Public Data—according to
+Plaintiffs’ allegations—has materially contributed to what makes the content at issue
+unlawful. The content relevant to Counts Two and Four is only unlawful because it is
+inaccurate. But, as alleged, the content provided to Public Data about McBride was not
+inaccurate. Instead, through Public Data’s actions, the records were changed so as to
+introduce the inaccuracies. Public Data thus made substantive changes to the records’
+content that materially contributed to the records’ unlawfulness. That makes Public Data
+an information content provider, under the allegations, for the information relevant to
+Counts Two and Four, meaning that it is not entitled to § 230(c)(1) protection for those
+claims.
+*
+
+*
+
+*
+
+Drawing this line here is reinforced by another contextual reading of Zeran’s list
+of traditional editorial functions. After listing some traditional editorial functions for which
+liability is barred, Zeran then said that § 230(c)(1) prevents suits that “cast [the defendant]
+in the same position as the party who originally posted the offensive messages.” Id. at 333.
+Zeran saw § 230(c)(1) as vicarious liability protection that could not be used as a shield
+when the offensiveness of the message comes from the defendant themselves rather than a
+third party. See id.; see also Nemet, 591 F.3d at 254 (“Congress thus established a general
+rule that providers of interactive computer services are liable . . . for speech that is properly
+attributable to them”); cf. La Liberte, 966 F.3d at 89 (holding that there is no § 230
+immunity for a defendant who posted a third-party’s photo, but who supplied her own
+defamatory commentary to it). So we may not read the traditional editorial functions listed
+in Zeran so broadly as to include a defendant’s substantive alterations that introduced the
+inaccuracy or falsity at issue in the claim.
+26
+
+27
+
+USCA4 Appeal: 21-1678
+
+Doc: 88
+
+Filed: 11/03/2022
+
+Pg: 28 of 28
+
+Section 230(c)(1) provides protection to interactive computer services. Zeran, 129
+F.3d at 331. But it does not insulate a company from liability for all conduct that happens
+to be transmitted through the internet. Instead, protection under § 230(c)(1) extends only
+to bar certain claims, in specific circumstances, against particular types of parties. Here,
+the district court erred by finding that § 230(c)(1) barred all counts asserted against Public
+Data. To the contrary, on the facts as alleged, it does not apply to any of them. Counts
+One and Three are not barred because they do not seek to hold Public Data liable as a
+publisher under the provision. Counts Two and Four are not barred because Public Data
+is itself an information content provider for the information relevant to those counts.
+REVERSED AND REMANDED
+
+28
+
+

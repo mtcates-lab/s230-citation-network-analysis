@@ -1,0 +1,306 @@
+420 F.3d 440
+420 F.3d 440
+CITY OF SHOREACRES; et al., Plaintiffs,
+City of Shoreacres; City of Taylor Lake Village, Texas; Galveston Bay Conservation and Preservation Association; Texas Committee on Natural Resources; Galveston Bay Foundation; Houston Yacht Club; Professionals Involved in Seafood Concerned Enterprises; Gulf Restoration Network; City of Seabrook; City of El Lago, Plaintiffs-Appellants,
+v.
+Leonard D. WATERWORTH, Colonel, District Engineer, Galveston District-U.S. Army Corps of Engineers; Robert B. Flowers, Lieutenant General, Commander and Chief of Engineers, U.S. Army Corps of Engineers; Les Brownlee, Acting Secretary of the Army; United States Army Corps of Engineers, Defendants-Appellees,
+Port of Houston Authority, Intervenor Defendant-Appellee.
+No. 04-20527.
+United States Court of Appeals, Fifth Circuit.
+August 8, 2005.
+COPYRIGHT MATERIAL OMITTED COPYRIGHT MATERIAL OMITTED James B. Blackburn, Jr. (argued), Blackburn & Carter, Houston, TX, for City of Shoreacres, City of Taylor Lake Village, Texas, Galveston Bay Conservation and Preservation Ass'n, Texas Committee on Natural Resources, Galveston Bay Foundation, Houston Yacht Club, Professionals Involved in Seafood Concerned Enterprises, Gulf Restoration Network and City of El Lago.
+Judith R. Blakeway, Strasburger & Price, San Antonio, TX, for City of Seabrook.
+John A. Bryson (argued), U.S. Dept. of Justice, Environment & Natural Resources Div., Washington, DC, for District-U.S. Army Corps of Engineers, Robert B. Flowers, Les Brownlee and United States Army Corps of Engineers.
+Sharon M. Mattox (argued), Vinson & Elkins, Houston, TX, for Port of Houston Authority.
+Nathan Allan Wesely, Royston, Rayzor, Vickery & Williams, Houston, TX, for West Gulf Maritime Ass'n, Amicus Curiae.
+Gregory Thomas Broderick, Pacific Legal Foundation, Sacramento, CA, for Pacific Legal Foundation and John A. Rapanos, Amici Curiae.
+Anthony G. Buzbee, Buzbee Law Firm, Galveston, TX, for International Longshoremen's Ass'n Local No. 24, International Longshoremen's Ass'n Local No. 28, International Longshoremen's Ass'n Local No. 1530 and International Longshoremen's Ass'n Local No. 1351, Amici Curiae.
+Appeal from the United States District Court for the Southern District of Texas.
+Before GARWOOD, SMITH and CLEMENT, Circuit Judges.
+GARWOOD, Circuit Judge:
+1
+Plaintiffs-appellants brought this suit under the National Environmental Policy Act (NEPA), 42 U.S.C. § 4321
+et seq.,
+and the Clean Water Act (CWA), 33 U.S.C. § 1251
+et seq.,
+against the United States Army Corps of Engineers (Corps) seeking recision of a 33 U.S.C. § 1344 dredge and fill permit issued by the Corps to the Port of Houston (Port) for the construction of a ten-berth cargo and cruise ship terminal adjacent to the Bayport Shipping Channel off Galveston Bay. The district court granted summary judgment to the Corps and the intervenor Port. We affirm.
+Facts and Proceedings Below
+2
+On October 8, 1998, the Port filed an application with the Corps for a 33 U.S.C. § 1344 permit to dredge and fill navigable waters of the United States. The Port proposed building a cargo and cruise ship terminal on undeveloped land adjacent to the Bayport Shipping Channel along the northwestern coast of Galveston Bay. The plan called for seven cargo ship berths, three cruise ship berths, and extensive ancillary facilities along a region of the coast that is heavily industrialized. The Port intends to finance the Bayport project with proceeds from a $387 million 1999 bond issue for that purpose approved by the voters of Harris County, Texas in which both the Port and Bayport are located.
+3
+The Corps undertook the comprehensive technical and public interest review required by the Code of Federal Regulations.
+See, e.g.,
+33 C.F.R. § 230 (procedures for implementing NEPA); 33 C.F.R. § 320 (outlining the Corps' general regulatory policy); 40 C.F.R. § 1502 (preparation of an environmental impact statement). Following public input and preliminary technical work, the Corps issued its Draft Environmental Impact Statement (DEIS) on November 12, 2001. The Corps continued its technical work and accepted public comment on the DEIS until August 2002. Nine months later, on May 16, 2003, the Corps issued its Final Environmental Impact Statement (FEIS) and entertained further public comment until August 2003. The Corps then issued its eight-volume Record of Decision (ROD) on December 19, 2003, in which the Corps approved a plan for the construction of the Bayport terminal and the mandatory preservation of undeveloped areas elsewhere to compensate for the environmental loss at Bayport. The Corps granted the 33 U.S.C. § 1344 dredge and fill permit on January 5, 2004, over five years after the permit application was filed.
+4
+Meanwhile, as the Corps was considering the Bayport permit application, it was also considering a similar dredge and fill permit application filed in April 2000 by Texas City, Texas to build a six-berth cargo terminal at Shoal Point in Galveston County along the southwestern coast of Galveston Bay. The Corps issued a permit to Texas City on April 23, 2003, approximately one month before it handed down its FEIS on the Port's Bayport permit application.
+5
+On January 29, 2004, appellants filed their second (and final) amended complaint asking the district court to vacate the permit and enjoin the Port from proceeding with the Bayport project because the Corps had issued the permit in violation of the CWA and NEPA.
+1
+Appellants also sought a preliminary injunction against construction while judicial review was pending. Rather than rule on this motion, the district court agreed to an expedited pretrial schedule and a summary judgment ruling by May 4, 2004. The Port then agreed to "stand still" while the case went forward through summary judgment. The parties filed cross-motions for summary judgment in April 2004, and the district court granted summary judgment to appellees and against appellants on May 4, 2004. Final judgment was entered the same day.
+Discussion
+1. Standard of Review
+6
+We review a grant of summary judgment
+de novo
+under the same standard applied by the district court.
+Terrebonne Parish Sch. Bd. v. Mobil Oil Corp.,
+310 F.3d 870, 877 (5th Cir. 2002).
+7
+The decision of the Corps to grant a permit under 33 U.S.C. § 1344 is reviewed under the standard set forth in the Administrative Procedures Act, 5 U.S.C. § 701
+et seq.
+We will "hold unlawful and set aside" the Corps' permit to the Port only if we determine that the Corps' "action, findings, and conclusions" are,
+inter alia,
+"arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law." 5 U.S.C. § 706(2)(A);
+Shell Offshore v. Babbitt,
+238 F.3d 622, 627 (5th Cir. 2001). "We accord substantial weight" to the Corps' interpretation of its permit granting authority under 33 U.S.C. § 1344 because "`[a]n agency's construction of a statute it is charged with enforcing is entitled to deference if it is reasonable and not in conflict with the expressed intent of Congress.'"
+Save Our Community v. USEPA,
+971 F.2d 1155, 1163 (5th Cir. 1992) (quoting
+United States v. Riverside Bayview Homes, Inc.,
+474 U.S. 121, 106 S.Ct. 455, 461, 88 L.Ed.2d 419 (1985));
+Avoyelles Sportsmen's League, Inc. v. Marsh,
+715 F.2d 897, 904 (5th Cir. 1983) ("This standard of review is highly deferential");
+Sabine River Authority v. U.S. Dep't of Interior,
+951 F.2d 669, 678 (5th Cir. 1992) ("[u]nder this highly deferential standard of review, a reviewing court has the `least latitude in finding grounds for reversal'") (quoting
+North Buckhead Civic Assoc. v. Skinner,
+903 F.2d 1533, 1538 (11th Cir. 1990)). "We must look at the decision not as the chemist, biologist or statistician that we are qualified neither by training nor experience to be, but as a reviewing court exercising our narrowly defined duty of holding agencies to certain minimal standards of rationality."
+Avoyelles,
+715 F.2d at 905 (internal quotation marks and citation omitted).
+8
+This deferential standard of review applies regardless of whether we are reviewing the Corps' decision under the CWA or NEPA.
+2. The Clean Water Act
+a. Determination of Wetlands Jurisdiction
+9
+The centerpiece of appellants' challenge to the dredge and fill permit is that the Corps erroneously determined the extent of its regulatory jurisdiction over the wetlands at the Bayport site.
+2
+Appellants maintain the entire approximately 146 acres of wetlands at the Bayport site constitutes jurisdictional wetlands, substantially more than what the Corps concluded were present (the Corps found only 19.7 acres of jurisdictional wetlands, as well as 126.7 acres of non-jurisdictional wetlands and 1.56 acres of intertidal mud flats). Appellants contend that the Corps, by undercounting the acreage within its wetlands jurisdiction, corrupted the entire decisional process under the CWA.
+3
+10
+According to the ROD, the Corps, using its Wetlands Delineation Manual, initially determined on April 28, 1999, that there were 102 acres of wetlands at the Bayport site subject to its regulatory jurisdiction.
+4
+The Corps concluded, however, that it needed to reevaluate its jurisdictional determination after the Supreme Court handed down
+Solid Waste Agency v. United States Army Corps of Eng'rs,
+531 U.S. 159, 121 S.Ct. 675, 683-84, 148 L.Ed.2d 576 (2001) (holding that the "migratory bird rule," upon which much of the Corps' initial determination in this case had been predicated, overreached the Corps' authority under the Clean Water Act). After re-surveying Bayport, the Corps concluded that of the total some 146 acres of wetlands at the site only 19.7 acres came within its jurisdiction. The Corps then evaluated the Port's permit application in light of this determination.
+11
+We do not find it necessary to consider the several ways in which appellants challenge the Corps' jurisdictional determination. In the ROD, the Corps responded point-by-point to substantive public questions about its environmental impact statements. One question concerned the possibility that using a particular survey technology called LIDAR would enlarge wetlands jurisdiction to 40 acres. The Corps replied that LIDAR is not an approved technique in the Wetlands Delineation Manual, but in any case:
+12
+Even assuming that all wetlands and other aquatic areas on the Bayport site were jurisdictional, which is not the case, the mitigation provided by the [Port], involving over 1,130 acres of wetlands and other habitat, adequately compensates for environmental impacts as evidenced by the acceptance of this plan by the [other state and federal] resource agencies. As a result,
+even if
+the [Corps] were to conclude that all of the aquatic areas on the site, including
+all of the wetlands on the site, were subject to
+[Clean Water Act]
+jurisdiction,
+the [Port] has provided ample mitigation to compensate for the loss of all aquatic areas on the site that will be filled in or otherwise degraded by the project. Consequently, the [33 U.S.C. § 1344]
+permit
+that the [Corps] proposes to issue
+would still be fully justified
+in this case by the generous mitigation package offered by the [Port]. Therefore,
+issuance of the proposed permit would still be appropriate
+under
+all
+applicable laws and regulations even if
+all
+aquatic areas on the project site
+were subject to
+[Clean Water Act]
+jurisdiction.
+13
+(emphasis added). Given that the Corps clearly would have made the same decision even if it used the wetlands determination that appellants advocate, we need not consider whether the Corps abused its discretion in concluding that it could exercise regulatory jurisdiction over only 19.7 acres of wetlands.
+Manning v. Upjohn Co.,
+862 F.2d 545, 547 (5th Cir. 1989) ("Principles of judicial restraint dictate that if resolution of an issue effectively disposes of a case, we should resolve the case on that basis without reaching any other issues that might be presented.").
+5
+b. Practicable Alternatives
+14
+The Corps may not issue a 33 U.S.C. § 1344 dredge and fill permit "if there is a practicable alternative to the proposed discharge which would have less adverse impact on the aquatic ecosystem, so long as the alternative does not have other significant adverse environmental consequences." 40 C.F.R. § 230.10(a). Appellants contend that Shoal Point and Pelican Island, both of which are in southwestern Galveston Bay, are practicable alternatives to the Bayport site but, in an abuse of discretion, were not considered by the Corps. 40 C.F.R. § 230.10(a)(ii) (defining a practicable alternative as,
+inter alia,
+"[d]ischarge of dredged or fill material at other locations in waters of the United States . . ."). They assert that, as a result of this oversight, the dredge and fill permit issued to the Port is unlawful under the CWA.
+15
+While Shoal Point and Pelican Island are arguably plausible alternatives given that they are reasonably proximate to Bayport and may be environmentally acceptable, they must nevertheless be "practicable" under a detailed test. An alternative is practicable only if
+16
+"it is available and capable of being done after taking into consideration cost, existing technology, and logistics in light of overall project purposes. If it is otherwise a practicable alternative, an area not presently owned by the applicant which could reasonably be obtained, utilized, expanded, or managed in order to fulfill the basic purpose of the proposed activity may be considered."
+17
+40 C.F.R. § 230.10(a)(2).
+18
+The Corps contends that neither Shoal Point nor Pelican Island is a "practicable alternative" under this definition for several reasons. First, Shoal Point was not "available." On April 23, 2003, the Corps issued a permit to Texas City to build a six-berth cargo and cruise ship terminal at Shoal Point and thus Shoal Point was not available to the Port. Shoal Point was also unavailable for the additional reason that the Port undisputedly has no authority to condemn land outside of Harris County, Tex. Water Code § 62.1071(c), and the absence of eminent domain power would present a serious impediment to assembling the many contiguous parcels at Shoal Point that the project would require.
+6
+19
+Furthermore, neither Shoal Point nor Pelican Island is a logistically feasible alternative, and thus is not "practicable," because the Port intends to fund its project with the proceeds of a 1999 Harris County bond issue. The proceeds of this bond issue, however, could not legally be spent outside of Harris County, which excludes both Shoal Point and Pelican Island because they are in Galveston County.
+20
+In addition, building the new terminal at Shoal Point or Pelican Island would not comport with the Port's "overall project purpose," which was to further expand Harris County as one of the nation's major ports. Situating the port at either Shoal Point or Pelican Island would frustrate the overall project purpose in the further sense that it would needlessly complicate, rather than simplify, the logistics of maritime commerce through Harris County because the shipping industry would have to move passengers and goods through locations that are comparatively remote from metropolitan Houston.
+21
+Appellants only dispute two of these reasons. They contend that the absence of condemnation power and the 1999 bond issue do not
+ipso facto
+preclude acquiring land outside of Harris County because the Port could have financed the project at Shoal Point or Pelican Island with operating revenues. However, there is no evidence that the Port has any surplus operating revenues, much less that any such would be sufficient for that purpose, and the passage of the bond issue suggests otherwise. Even if we were to consider the Corps' other reasons arbitrary and capricious, which we hold they are not, appellants would still not prevail under this objection because an unowned alternative site is a "practicable alternative" under 40 C.F.R. § 230.10(a)(2) only if the site "could reasonably be obtained." A mere, unsupported theoretical possibility of acquiring the alternative site, which is all that appellants offer, does not constitute a showing that the alternative site is reasonably obtainable, much less that the Corps' decision was arbitrary and capricious. Appellants have not, therefore, shown that the Corps' decision not to consider Shoal Point and Pelican Island was an abuse of discretion.
+c. Deepening the Houston Ship Channel
+22
+Appellants contend that the scope of shipping to and from the Bayport terminal will eventually lead to deepening the Houston Ship Channel from forty-five to fifty feet to accommodate the larger vessels that are expected to traverse the oceans in the future.
+7
+They argue that deepening the channel will have an adverse effect on Galveston Bay's freshwater ecosystems because it will alter the Bay's salinity. Because, they allege, the Bayport project will lead to the deepening of the Houston Ship Channel and such deepening will "cause or contribute to significant degradation of the waters of the United States[,]" 40 C.F.R. § 230.10(c), the Corps should not have issued the Port its dredge and fill permit.
+23
+40 C.F.R. § 230.10(c) does not, however, require the Corps to consider the effects of the Bayport terminal itself once it begins operations. Instead, section 230.10(c) requires the Corps to consider whether "the
+discharge
+of dredged or fill material [pursuant to a 33 U.S.C. § 1344 permit] will cause or contribute to significant degradation of the waters of the United States" (emphasis added), not the effect of any completed project.
+See, e.g.,
+40 C.F.R. § 230.10(c)(3) (instructing the regulatory agency to consider "[s]ignificantly adverse effects of the
+discharge of pollutants
+on aquatic ecosystem diversity") (emphasis added);
+see also
+40 C.F.R. § 230.11(g) (defining a "cumulative impact" for the purposes of the CWA as "changes in an aquatic ecosystem that are attributable to the collective effect of a number of individual
+discharges
+of dredged or fill material"). The deepening of the Houston Ship Channel will not result from the
+discharge
+of dredged or fill material from the Bayport project. Rather, the deepening of the Houston Ship Channel, if it ever occurs, will be the result of a separate project (requiring Congressional approval) undertaken for that specific purpose. It was, therefore, not an abuse of discretion for the Corps to construe the CWA and its regulations as not requiring the Corps to consider any future deepening of the Houston Ship Channel as an adverse environmental consequence of issuing a dredge and fill permit to the Port.
+8
+3. The National Environmental Policy Act
+24
+Unlike the Clean Water Act, which has substantive environmental goals, 33 U.S.C. § 1251 ("The objective of this chapter is to restore and maintain the chemical, physical, and biological integrity of the Nation's waters."), the National Environmental Policy Act is strictly procedural.
+Robertson v. Methow Valley Citizens Council,
+490 U.S. 332, 109 S.Ct. 1835, 1846, 104 L.Ed.2d 351 (1989) (stating that "it is now well settled that NEPA itself does not mandate particular results, but simply prescribes the necessary process"). "Indeed, NEPA does not prohibit the undertaking of federal projects patently destructive of the environment; it simply mandates that the agency gather, study, and disseminate information concerning the projects' environmental consequences."
+Sabine,
+951 F.2d at 676.
+25
+NEPA requires, among other things, the preparation of a comprehensive environmental impact statement whenever "proposals for legislation and other major Federal actions significantly affect[] the quality of the human environment . . ." 42 U.S.C. § 4332(2)(C); 40 C.F.R. § 1502. Appellants contend that the Corps' final environmental impact statement was procedurally defective under NEPA because (1) it did not properly elucidate the no-action alternative required by 40 C.F.R. § 1502.14, and (2) it did not treat the deepening of the Houston Ship Channel as a foreseeable environmental consequence of the Bayport project under 40 C.F.R. § 1502.16. Appellants also argue that the Corps' ultimate decision to grant the dredge and fill permit to the Port was irrationally inconsistent with one of the conclusions set forth in the FEIS.
+a. The No-Action Alternative
+26
+An essential feature of an EIS is its analysis of alternatives to the proposed action. This alternatives analysis, described by the relevant regulation as "the heart of the environmental impact statement[,]" must "[r]igorously explore and objectively evaluate all reasonable alternatives" to the proposed action, including the "no-action alternative" in which it is assumed that the project does not go forward. 40 C.F.R. § 1502.14. The importance of the alternatives analysis is reflected in our three-part test for evaluating an EIS, which requires,
+inter alia,
+determining "whether the agency in good faith objectively has taken a hard look at the environmental consequences of a proposed action and alternatives . . ."
+Miss. River Basin Alliance v. Westphal,
+230 F.3d 170, 174 (5th Cir. 2000) (internal quotation marks and citation omitted).
+9
+NEPA requires only that the Corps consider alternatives relevant to the applicant's goals and the Corps is not to define what those goals should be.
+Citizens Against Burlington, Inc. v. Busey,
+938 F.2d 190, 198 (D.C.Cir.)
+cert. denied
+502 U.S. 994, 112 S.Ct. 616, 116 L.Ed.2d 638 (1991). In this case, the Corps identified seven alternative sites and configurations for the Bayport project. These alternatives were evaluated under twenty broad criteria and the Corps ultimately issued a permit to build the ten-berth terminal at Bayport.
+27
+Appellants contend that the Corps' no-action alternative, which was part of the FEIS issued on May 16, 2003, was flawed because it proceeded under the assumption that no new ship terminals would be built in Galveston Bay. Appellants argue that this assumption was irrational on its face because the Corps, just three weeks earlier on April 23, had granted a permit to Texas City to construct a six-berth terminal at Shoal Point on the southwestern tip of Galveston Bay. Appellants assert that an environmental impact statement this defective violates NEPA because it does not supply a basis for informed decisionmaking.
+28
+The Corps responds that its Bayport FEIS was all but finished when the ROD and permit for the Texas City project were issued. In rejecting a request to prepare a supplemental EIS, the Corps decided not to treat the proposed Shoal Point project as "an existing condition" for the purposes of the Bayport FEIS because the mere issuance of a 33 U.S.C. § 1344 permit to Texas City did not make its six-berth project a
+fait accompli.
+The ROD noted that other factors controlled when, or even if, the Shoal Point terminal would ever be built.
+See Custer County Action Assn. v. Garvey,
+256 F.3d 1024, 1040 (10th Cir.2001) (characterizing the no-action alternative as the "status quo" or the "current level of activity"). Rather than frame the not-yet-constructed Shoal Point terminal as an "existing condition," the Corps treated it as a potential cumulative impact and evaluated the Port's Bayport permit application in light of this assumption.
+10
+While appellants may not agree with this methodology, it is neither arbitrary nor capricious and thus is entitled to deference.
+b. Deepening the Houston Ship Channel
+29
+Appellants contend, as discussed previously,
+supra
+§ 2(c), that the cargo ships of the future will be too large to use the Houston Ship Channel at its current depth of forty-five feet and will require future dredging to fifty feet. By being an otherwise potential destination for such vessels, appellants assert that the Bayport terminal, and by extension the 33 U.S.C. § 1344 permit to dredge and fill for that terminal, will in effect "cause" the channel to be deepened by five feet sometime in the future. Such deepening, they maintain, will have drastic environmental consequences because the deeper channel will raise the salinity of transitional ecosystems in Galveston Bay that are primarily freshwater. They charge that the Corps acted arbitrarily under NEPA in refusing to consider the deepening of the Houston Ship Channel as an indirect effect of granting the Port's dredge and fill permit because such deepening is a reasonably foreseeable, not speculative, cumulative effect of the permit.
+30
+First, before we examine whether deepening the Houston Ship Channel is too speculative to warrant consideration as a cumulative impact, there is meaningful doubt that deepening the channel can be an effect NEPA requires the Corps to consider at all. NEPA requires the Corps to take into account both the direct and indirect adverse environmental consequences of issuing a 33 U.S.C. § 1344 dredge and fill permit. 42 U.S.C. § 4332(C)(ii); 40 C.F.R. 1502.16(a) & (b). Indirect effects are those "which are
+caused
+by the action and are later in time or farther removed in distance, but are still reasonably foreseeable." 40 C.F.R. § 1508.8(b) (emphasis added). "[A] `but for' causal relationship is insufficient to make an agency responsible for a particular effect under NEPA and the relevant regulations."
+DOT v. Pub. Citizen,
+541 U.S. 752, 124 S.Ct. 2204, 2215, 159 L.Ed.2d 60 (2004). Rather, a plaintiff mounting a NEPA challenge must establish that an alleged effect will ensue as a "proximate cause," in the sense meant by tort law, of the proposed agency action.
+Id.
+(citing Prosser and Keeton for the proximate cause standard).
+31
+However, it is doubtful that an environmental effect may be considered as proximately caused by the action of a particular federal regulator if that effect is directly caused by the action of another government entity over which the regulator has no control. In
+DOT v. Public Citizen,
+the Supreme Court held that the Department of Transportation had no duty under NEPA to prepare an environmental assessment of the effects of Mexican motor carriers using American highways because the authority to allow or prohibit Mexican motor carriers into the country rested solely with the President. 124 S.Ct. at 2214-15. The Court held, in other words, that pollution from Mexican motor carriers was not an "effect" that the DOT had to consider because no "action" by the DOT would "cause" Mexican motor carriers to enter the United States. It is undisputed that the Houston Ship Channel can only be deepened by an Act of Congress, not any decision by the Corps.
+11
+If the rationale of
+Public Citizen
+is applicable, the deepening of the Houston Ship Channel, if it ever occurs, would not be treated as a 40 C.F.R. § 1508.8(b) "indirect effect" "caused" by the Corps' decision to grant a 33 U.S.C. § 1344 dredge and fill permit to the Port. 124 S.Ct. at 2217 ("We hold that where an agency has no ability to prevent a certain effect due to its limited statutory authority over the relevant actions, the agency cannot be considered a legally relevant `cause' of the effect."). Under such an analysis, the Corps, therefore, would not be obligated under NEPA to consider this possibility and did not abuse its discretion in declining to do so.
+12
+32
+We need not, and do not, ultimately determine whether such a
+Public Citizen
+analysis is appropriate in this context. That is so because in any event, even if we were to assume that deepening the Houston Ship Channel is not
+per se
+excluded as a matter of law (merely because requiring Congressional approval) from the sorts of cumulative environmental effects that the Corps ought to account for in its FEIS, there was no need to do so in this case because for a number of reasons it is impossible to know whether the channel will ever be deepened. The Corps' obligation under NEPA to consider cumulative impacts is confined to impacts that are "reasonably foreseeable." 40 C.F.R. § 1508.7. An impact is "reasonably foreseeable" if it is "sufficiently likely to occur that a person of ordinary prudence would take it into account in reaching a decision."
+Sierra Club v. Marsh,
+976 F.2d 763, 767 (1st Cir.1992). "Reasonable foreseeability" does not include "highly speculative harms" that "distort[] the decisionmaking process" by emphasizing consequences beyond those of "greatest concern to the public and of greatest relevance to the agency's decision."
+Robertson,
+109 S.Ct. at 1849 (internal quotation marks and citations omitted);
+Vermont Yankee Nuclear Power Corp. v. Natural Resources Defense Council, Inc.,
+435 U.S. 519, 98 S.Ct. 1197, 1215-16, 55 L.Ed.2d 460 (1978) ("Time and resources are simply too limited to hold that an impact statement fails because the agency failed to ferret out every possible alternative, regardless of how uncommon or unknown that alternative may have been at the time the project was approved.");
+Limerick Ecology Action v. NRC,
+869 F.2d 719, 745 (3d Cir.1989).
+33
+The Port properly cites several reasons why asserting that the channel will be deepened is pure speculation. First, the Corps expressly concluded that for the "foreseeable" future "almost" the only vessels using the Bayport terminal would be Panamax-class ships, the largest able to traverse the Panama Canal. Such vessels already operate safely in the Houston Ship Channel and would not require deepening it in the future. See note 7,
+supra.
+The Port also points to a report prepared for Texas City's Shoal Point project indicating that there is no plausible economic justification for deepening the channel in the foreseeable future. In addition to the absence of any need to deepen the channel, it could only be done, as mentioned above, by Congress alone and there is no proposal for any such project.
+13
+Finally, even if there were a proposal, history indicates that it takes decades to dredge the channel. The Port notes that the channel is only now being dredged to forty-five feet and this comes more than thirty years and three hundred million dollars after the deepening was initially proposed.
+14
+34
+Significantly, appellants themselves offer absolutely no concrete analysis with respect to the likelihood that the channel will need to be dredged within the Corps' twenty-seven year planning horizon. Rather than explain how the Corps erroneously interpreted the evidence in the administrative record, they simply recite the platitude that mere uncertainty does not equal a lack of reasonable foreseeability. While this is true, indeed obvious, in a sense, such proposition does not mean that it was an abuse of discretion for the Corps to treat deepening the Houston Ship Channel as too speculative to warrant consideration as a cumulative impact of the Port's dredge and fill permit. None of the cases appellants cite involves an undertaking remotely resembling in any of its implications an enterprise like deepening the Houston Ship Channel. It cannot be said that the Corps acted arbitrarily and capriciously under NEPA in reaching its decision.
+c. The Split Alternative
+35
+Appellants also argue that it was arbitrary and capricious for the Corps to issue a dredge and fill permit to the Port for the construction of a ten-berth terminal at Bayport after granting a permit to Texas City for the construction of a six-berth terminal at Shoal Point because the Corps expressly rejected splitting the Bayport project's seven cargo berths between the two sites. Appellants contend that if it was environmentally unacceptable to split the Bayport project into four cargo berths at Bayport and three cargo berths at Shoal Point, then it must,
+a fortiori,
+be environmentally unacceptable for there to be seven cargo berths at Bayport (plus three cruise ship berths) and six at Shoal Point.
+36
+Appellants misunderstand the nature of the Corps' responsibility under NEPA, which is not to produce any particular outcome but instead simply to produce informed decisionmaking with respect to the specific application before it. The Corps prepared its FEIS and ROD as part of the process of considering the Port's application for a 33 U.S.C. § 1344 dredge and fill permit for the purpose of constructing a ten-berth terminal at Bayport. One of the alternatives developed by the Corps contemplated splitting the seven cargo berths between Bayport and Shoal Point. After careful deliberation, the Corps concluded that the inefficiencies of this four-three split rendered it inferior to siting all seven cargo berths at Bayport alone. Nothing in this specific conclusion, which pertained only to the Bayport permit application, implies that the Corps could not rationally approve two separate permits for two separate projects at Bayport and Shoal Point.
+15
+Appellants, therefore, have not shown that the Corps acted arbitrarily and capriciously.
+Conclusion
+37
+For the foregoing reasons, the judgment of the district court is
+38
+AFFIRMED.
+Notes:
+1
+As with the original and first amended complaints (respectively filed June 24 and August 15, 2003), the second amended complaint did not name the Port as a defendant. The Port is an intervenor, having been permitted on October 16, 2003, to intervene as a matter of right under Fed.R.Civ.P. 24(a)
+2
+The Clean Water Act requires a permit "for the discharge of dredged or fill material into the navigable waters" of the United States. 33 U.S.C. § 1344(a). "Waters of the United States" are those waters affecting interstate or international commerce, including "interstate wetlands." 33 C.F.R. § 328.3(a)(2). The Corps does not have the authority to regulate isolated, intrastate waters
+Solid Waste Agency v. U.S. Army Corps of Eng'rs,
+531 U.S. 159, 121 S.Ct. 675, 683-84, 148 L.Ed.2d 576 (2001) (holding that the mere presence of migratory birds does not bring an otherwise isolated body of water under the regulatory jurisdiction of the Corps).
+3
+Appellants argue that the Corps' determination of its wetlands jurisdiction is a legal question subject to
+de novo
+review. In particular, they argue that it was an error of law for the Corps to refuse to consider whether overland sheet flow should be used at all in determining whether certain waters are "waters of the United States." We disagree with this characterization of the Corps' decision. The Corps did not categorically refuse to use overland sheet flow in its analysis. Rather, it determined that in this particular setting the overland sheet flow shown was as a factual, scientific matter inadequate to establish a sufficient hydrological nexus with interstate waters. In other words, unlike in
+In re Needham,
+354 F.3d 340, 344 (5th Cir. 2003), in which the appellant challenged the district court's construction of the Oil Pollution Act, 33 U.S.C. 2201
+et seq.,
+the jurisdictional issue here may be more properly considered as a question of fact concerning "the extent, not the existence, of agency jurisdiction."
+Avoyelles,
+715 F.2d 897, 906 (5th Cir. 1983). The Corps generally has broad discretion to decide whether a sufficient hydrological nexus exists to bring wetlands under regulatory control:
+The wetlands determination is precisely the type of agency decision that is normally subject to limited judicial review. The EPA developed an extensive administrative record in making its decision; it collected reports from its own expert consultants, as well as from the parties. The determination itself, which requires an analysis of the types of vegetation, soil and water conditions that would indicate the existence of wetlands, is the kind of scientific decision normally accorded significant deference by the courts. De novo review would permit the courts to intrude into an area in which they have no particular competence.
+Id.
+(citations omitted);
+see also
+40 C.F.R § 230.41(a)(2) (stating that determining the extent of wetlands is a task for specialists).
+4
+This determination followed a year and a half of study and was the result of the Port's request for an initial survey, filed well before the Port actually submitted its dredge and fill permit application, on the extent of the Corps' wetlands jurisdiction
+5
+Appellants also argue that the allegedly flawed jurisdictional determination resulted in inadequate compensatory mitigation. They contend in particular that the permit the Corps approved violated the longstanding Memorandum of Agreement (MOA) between it and the Environmental Protection Agency (EPA)concerning how to define proper compensatory mitigation. We reject this contention. Not only does the Corps disagree with this contention, which it has the discretion to do, the EPA itself was involved in the decisionmaking process and ultimately approved the Corps' mitigation plan. Furthermore, the other three resource management agencies that took part in the decision — the United States Fish and Wildlife Service, the Texas Commission on Environmental Quality, and the Texas Parks and Wildlife Department — also approved of the Corp's permit plan. Moreover, in light of the unanimous approval of the Corps' action by every environmental regulator involved in this case, it simply cannot be said that the Corps acted arbitrarily and capriciously in issuing the dredge and fill permit to the Port
+6
+This was not a problem with respect to Pelican Island because the Port purchased Pelican Island in 2000
+7
+We note that the evidence plainly supports the Corps' finding that the Bayport terminal does
+not require
+deepening of the channel. The Corps determined that the current depth was more than "sufficient for operation of the Panamax vessels that are expected to be the most common vessels calling at the proposed facilities;" that "[t]he largest of these [Panamax class] ships . . . are able to operate in minimum water depths of 40 feet;" and that: "[f]or the foreseeable future, containerized cargo shipped through the Gulf of Mexico ports, including the Port of Houston, will be carried almost exclusively by Panamax class ships, which include the largest ships able to transit the Panama Canal." These findings are not arbitrary or capricious or unsupported by substantial evidence.
+Of course, nothing in the challenged permit authorizes or purports to authorize any channel deepening. As all parties recognize, any deepening of the Houston Ship Channel requires Congressional authorization.
+8
+Furthermore, even if we were to credit appellants' construction of section 230.10, which is so capacious as to reach even the most attenuated effects, the Corps plainly has the discretion under the APA to adopt the narrower, and indeed far more plausible, view that the regulation reaches only the proximate environmental effects of the discharge itself
+9
+We note that this three-part test is applied under the highly deferential standard of review set forth in the APA
+Miss. River Basin Alliance v. Westphal,
+230 F.3d 170, 174-75 (5th Cir. 2000) (stating that the APA governs and that an agency conclusion supported by evidence in the record warrants deference).
+The other two prongs of the test are (1) whether the environmental impact statement is sufficiently detailed to allow others to understand its reasoning; and (2) whether the alternatives are sufficiently well developed to allow a "reasoned choice."
+Id.
+10
+A cumulative impact "is the impact on the environment which results from the incremental impact of the action when added to other past, present, and reasonably foreseeable future actions regardless of what agency (Federal or non-Federal) or person undertakes such other actions. Cumulative impacts can result from individually minor but collectively significant actions taking place over a period of time." 40 C.F.R. § 1508.7
+11
+In the FEIS for the Bayport project, the Corps considered the cumulative environmental consequences to Galveston Bay of permitting the Bayport project to go forward in light of other current projects in the Bay, including the current deepening of the Houston Ship Channel from 40 to 45 feet, which was authorized by Congress as part of the Water Resources Development Act of 1996, 33 U.S.C. § 2230
+et seq.
+12
+Appellants try to distinguish
+Public Citizen
+on the ground that it involved whether the DOT had any obligation at all to prepare an environmental assessment whereas in this case there is no dispute that the Corps had to prepare an EIS. However, both
+Public Citizen
+and this case turn on whether the environmental consequences of another governmental entity's independent action should be treated as an "indirect effect" of a prior action by a different agency.
+13
+This is not to imply that the absence of a proposal for a related action means that it can automatically be excluded from NEPA consideration
+See Fritiofson v. Alexander,
+772 F.2d 1225, 1243 (5th Cir.1985).
+14
+We note too that the Corps concluded that Bayport will be responsible for less than two percent of the expected growth in shipping in Galveston Bay over the next several decades. Given this conclusion, which appellants do not challenge, it cannot plausibly be said that the Bayport project is foreseeably going to "cause" the Houston Ship Channel to be deepened
+15
+We also note that Bayport is significantly closer to Houston than is Shoal Point. The Port's Bayport project was always intended to handle cargo destined for Houston (including that to thereafter be further transported over land out of Houston). That was not true to the same extent with respect to Texas City's Shoal Point project
+CC∅
+| Transformed by
+Public.Resource.Org

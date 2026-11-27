@@ -1,0 +1,945 @@
+             Case: 13-5946     Document: 69-2         Filed: 06/16/2014     Page: 1
+
+
+
+                        RECOMMENDED FOR FULL-TEXT PUBLICATION
+                            Pursuant to Sixth Circuit I.O.P. 32.1(b)
+                                   File Name: 14a0125p.06
+
+                  UNITED STATES COURT OF APPEALS
+                                FOR THE SIXTH CIRCUIT
+                                  _________________
+
+
+ SARAH JONES,                                         ┐
+                                Plaintiff-Appellee,   │
+                                                      │
+                                                      │       No. 13-5946
+       v.                                             │
+                                                       >
+                                                      │
+ DIRTY WORLD ENTERTAINMENT RECORDINGS LLC,            │
+ et al.,                                              │
+                                Defendants,           │
+                                                      │
+                                                      │
+ HOOMAN KARAMIAN, aka Nik Richie, aka Corbin          │
+ Grimes; DIRTY WORLD, LLC, dba thedirty.com,          │
+                           Defendants-Appellants.     │
+                                                      ┘
+                        Appeal from the United States District Court
+                     for the Eastern District of Kentucky at Covington.
+                No. 2:09-cv-00219—William O. Bertelsman, District Judge.
+                                  Argued: May 1, 2014
+                             Decided and Filed: June 16, 2014
+
+                  Before: GUY, GIBBONS, and GRIFFIN, Circuit Judges.
+                                 _________________
+
+                                       COUNSEL
+
+ARGUED: David S. Gingras, GINGRAS LAW OFFICE, PLLC, Phoenix, Arizona, for
+Appellants. Christopher D. Roach, ERIC C. DETERS & PARTNERS, P.S.C., Independence,
+Kentucky, for Appellee. ON BRIEF: David S. Gingras, GINGRAS LAW OFFICE, PLLC,
+Phoenix, Arizona, Alexander C. Ward, Alexis B. Mattingly, HUDDLESTON BOLEN, LLP,
+Ashland, Kentucky, for Appellants. Eric C. Deters, ERIC C. DETERS & PARTNERS, P.S.C.,
+Independence, Kentucky, for Appellee. Marc J. Randazza, RANDAZZA LEGAL GROUP, Las
+Vegas, Nevada, John C. Greiner, GRAYDON HEAD & RITCHEY LLP, Cincinnati, Ohio,
+Patrick J. Carome, Samir C. Jain, WILMER CUTLER PICKERING HALE AND DORR LLP,
+Washington, D.C., Junis L. Baldon, FROST BROWN TODD LLC, Louisville, Kentucky,
+William E. Sharp, ACLU OF KENTUCKY, Louisville, Kentucky for Amici Curiae.
+
+
+
+
+                                             1
+                  Case: 13-5946     Document: 69-2       Filed: 06/16/2014      Page: 2
+
+
+No. 13-5946         Jones v. Dirty World Entm’t Recordings, et al.               Page 2
+
+                                       _________________
+
+                                              OPINION
+                                       _________________
+
+         JULIA SMITH GIBBONS, Circuit Judge. This case presents the issue of whether the
+Communications Decency Act of 1996 (CDA), 47 U.S.C. § 230, bars the state-law defamation
+claims of plaintiff-appellee Sarah Jones. Jones was the unwelcome subject of several posts
+anonymously uploaded to www.TheDirty.com, a popular website operated by defendants-
+appellants Nik Lamas-Richie and DIRTY WORLD, LLC (“Dirty World”), and of remarks
+Richie posted on the site.      The website enables users to anonymously upload comments,
+photographs, and video, which Richie then selects and publishes along with his own distinct,
+editorial comments. In short, the website is a user-generated tabloid primarily targeting non-
+public figures.
+
+         In response to the posts appearing on www.TheDirty.com, Jones brought an action in
+federal district court alleging state tort claims of defamation, libel per se, false light, and
+intentional inflection of emotional distress. Richie and Dirty World claimed that § 230(c)(1)
+barred these claims. The district court rejected this argument and denied defendants-appellants’
+motion to dismiss, motion for summary judgment, motion to revise judgment, and motion for
+judgment as a matter of law. The district court also denied Richie’s and Dirty World’s motion
+for leave to file an interlocutory appeal. The case was submitted to a jury, twice. The first trial
+ended in a mistrial upon a joint motion. The second trial resulted in a verdict in favor of Jones
+for $38,000 in compensatory damages and $300,000 in punitive damages. On appeal, Richie and
+Dirty World maintain that § 230(c)(1) barred Jones’s claims.
+
+         This is a case of first impression in this circuit. In Doe v. SexSearch.com, we “explicitly
+reserve[d] the question of [the] scope [of the CDA] for another day.” 551 F.3d 412, 416 (6th Cir.
+2008).    We now consider when a website is not an “information content provider” under
+47 U.S.C. § 230(f)(3) with respect to information it publishes such that § 230(c)(1) bars state-law
+tort claims predicated on that information.
+              Case: 13-5946        Document: 69-2         Filed: 06/16/2014     Page: 3
+
+
+No. 13-5946       Jones v. Dirty World Entm’t Recordings, et al.                 Page 3
+
+       Jones was found to be the object of defamatory content published on a user-generated,
+online tabloid; however, the judgment in her favor cannot stand. Under the CDA, Richie and
+Dirty World were neither the creators nor the developers of the challenged defamatory content
+that was published on the website. Jones’s tort claims are grounded on the statements of another
+content provider yet seek to impose liability on Dirty World and Richie as if they were the
+publishers or speakers of those statements. Section 230(c)(1) therefore bars Jones’s claims.
+Accordingly, we vacate the judgment in favor of Jones and reverse the district court’s denial of
+Dirty World’s and Richie’s motion for judgment as a matter of law with instructions to enter
+judgment as a matter of law in their favor.
+
+                                                I.
+
+       Richie is currently employed as the manager of DIRTY WORLD, LLC (“Dirty World”),
+which owns and operates the website www.TheDirty.com.                  Richie is also the founder
+of www.DirtyScottsdale.com,      which    he   started    in   March    2007.     Richie   created
+www.DirtyScottsdale.com as a forum to post comments and observations about residents of
+Scottsdale who he believed warranted comment.            Richie’s website garnered attention from
+national media, and, as the site increased in popularity, it branched out to cover more than
+seventy different cities in the United States and Canada. The site then adopted a geographically
+neutral name—www.TheDirty.com. The website receives approximately six hundred thousand
+visits each day and eighteen million visits each month.
+
+       As the website grew, its focus and format changed. In the beginning, Richie created
+nearly all the content on the site, and users could not directly upload content. This is no longer
+true. For the past several years and currently, users of the site, who colloquially refer to
+themselves as “The Dirty Army,” may submit “dirt”—i.e., content that may include text,
+photographs, or video about any subject. Users may also post comments about the content
+submitted by others. The vast majority of the content appearing on www.TheDirty.com is
+comprised of submissions uploaded directly by third-party users.
+
+       The content submission form instructs users to “Tell us what’s happening. Remember to
+tell us who, what, when, where, why.” The content submission form requires users to submit a
+title and category for their submission as well as their city or college for indexing. Submissions
+              Case: 13-5946       Document: 69-2       Filed: 06/16/2014      Page: 4
+
+
+No. 13-5946      Jones v. Dirty World Entm’t Recordings, et al.               Page 4
+
+appear on the website as though they were authored by a single, anonymous author—“THE
+DIRTY ARMY.” This eponymous introduction is automatically added to every post that Richie
+receives from a third-party user. Many, but not all, of the submissions and commentaries
+appearing on the website relate to stories, news, and gossip about local individuals who are not
+public figures. The site receives thousands of new submissions each day. Richie or his staff
+selects and edits approximately 150 to 200 submissions for publication each day. The editing
+done to published submissions only consists of deletion. Richie or his staff briefly reviews each
+submission selected for publication to ensure that nudity, obscenity, threats of violence,
+profanity, and racial slurs are removed. Richie typically adds a short, one-line comment about
+the post with “some sort of humorous or satirical observation.” Richie, however, does not
+materially change, create, or modify any part of the user-generated submission, nor does he fact-
+check submissions for accuracy. Apart from his clearly denoted comments appended at the end
+of each submission, which appear in bold-face text and are signed “-nik,” Richie does not create
+any of the posts that appear on www.TheDirty.com. The bold-face text and signature are
+designed to distinguish editorial remarks from third-party submissions. Comments that appear in
+bold face and are signed “-nik” are only written and published by Richie.
+
+       Sarah Jones is a resident of northern Kentucky. Jones was a teacher at Dixie Heights
+High School in Edgewood, Kentucky, and a member of the Cincinnati BenGals, the cheerleading
+squad for the Cincinnati Bengals professional football team. From October 2009 to January
+2010, Jones was the subject of several submissions posted by anonymous users on
+www.TheDirty.com and of editorial remarks posted by Richie.
+
+       First, on October 27, 2009, a visitor to www.TheDirty.com submitted two photographs of
+Jones and a male companion and the following post:
+
+       THE DIRTY ARMY: Nik, this is Sara J, Cincinnati Bengal Cheerleader. She’s
+       been spotted around town lately with the infamous Shayne Graham. She has also
+       slept with every other Bengal Football player. This girl is a teacher too!! You
+       would think with Graham’s paycheck he could attract something a little easier on
+       the eyes Nik!
+
+Appearing directly beneath this post, Richie added:
+              Case: 13-5946        Document: 69-2       Filed: 06/16/2014       Page: 5
+
+
+No. 13-5946       Jones v. Dirty World Entm’t Recordings, et al.                 Page 5
+
+       Everyone in Cincinnati knows this kicker is a Sex Addict. It is no secret… he
+       can’t even keep relationships because his Red Rocket has freckles that need to be
+       touched constantly. – nik
+
+Jones requested that the post be removed. Richie informed Jones that the post would not be
+removed.
+
+       Second, on December 7, 2009, a visitor submitted a photograph of Jones and the
+following post:
+
+       THE DIRTY ARMY: Nik, here we have Sarah J, captain cheerleader of the
+       playoff bound cinci bengals. . Most ppl see Sarah has [sic] a gorgeous cheerleader
+       AND highschool teacher. . yes she’s also a teacher. . but what most of you don’t
+       know is. . Her ex Nate. . cheated on her with over 50 girls in 4 yrs. . in that time
+       he tested positive for Chlamydia Infection and Gonorrhea. . so im sure Sarah also
+       has both. . whats worse is he brags about doing sarah in the gym. . football field. .
+       her class room at the school she teaches at DIXIE Heights.
+
+Appearing directly after this post, Richie remarked: “Why are all high school teachers freaks in
+the sack?- nik”
+
+       Third, on December 9, 2009, a visitor submitted another photograph of Jones and a male
+companion and the following post:
+
+       THE DIRTY ARMY: Nik, ok you all seen the past posting of the dirty Bengals
+       cheerleader/teacher. . . well here is her main man Nate. Posted a few pics of the
+       infected couple. Oh an for everyone saying sarah is so gorgeous check her out in
+       these non photoshopped pics.
+
+Appearing directly after this post, Richie added:
+
+       Cool tribal tat man. For a second yesterday I was jealous of those high school
+       kids for having a cheerleader teacher, but not anymore. – nik
+
+       Jones sent Richie over twenty-seven emails, pleading for Richie to remove these posts
+from the website, to no avail. Jones’s father similarly wrote to Richie, also to no avail. She then
+sought legal help, and her attorney informed Richie that if the posts were not removed by
+December 14, 2009, Jones would file suit. The posts were not removed. Jones, qua Jane Doe,
+filed in federal district court this action on December 23, 2009, against Dirty World
+Entertainment Recordings, LLC, which operated a website called www.thedirt.com. Apparently,
+Jones sued the wrong party, as neither Richie nor Dirty World has or ever had any relationship
+                Case: 13-5946         Document: 69-2          Filed: 06/16/2014        Page: 6
+
+
+No. 13-5946         Jones v. Dirty World Entm’t Recordings, et al.                      Page 6
+
+with either Dirty World Entertainment Recordings, LLC, or www.thedirt.com.1 Nevertheless,
+the lawsuit sparked national media attention, which precipitated further postings on
+www.TheDirty.com regarding Jones.
+
+        For instance, on December 29, a visitor submitted a photograph and the following post:
+
+        THE DIRTY ARMY: Nik, i just saw the Huffington Post and I just [sic] the latest
+        post on beat Bang-GALS cheer squad and back in May I was out clubbing in
+        Cinci and those cheer chicks were hosting the club and i could not believe how
+        ugly they were, here is some pics of them from that night.
+
+Richie added:
+
+        I think they all need to be kicked off and the Cincinnati Bengals should start over.
+        Note to self: Never try to battle the DIRTY ARMY. – nik
+
+        Also, on December 29, 2009, a visitor to the website published two photographs and the
+following post:
+
+        THE DIRTY ARMY: Nik since the Bengals organization loves you so much i
+        decided to submit some pics from a recent cheerleader calendar release party I
+        went to, to show how beat there squad is with out make up and being half naked.
+        Reality is their cheerleaders are FUGLY and the whole NFL thinks they are beat.
+
+Richie added:
+
+        I love how the DIRTY ARMY has a war mentality. . . why go after one ugly
+        cheerleader when you can go after all the brown baggers. (Sorry Cleveland
+        Browns that was not a stab at your girls.) – nik
+
+On January 9, 2010, the October 27, 2009, submission was reposted after Richie added an
+additional comment, which specifically related to the 2009 NFL playoffs. After the litigation
+commenced, Richie posted a public letter to Jones:
+
+        If you know the truth then why do you care? With all the media attention this is
+        only going to get worse for you. Your lawyer is trying to make a name for
+        himself using you as his pawn. If anything me just seeing your face on the news
+        right now will get you fired from your job. All you had to do is read the FAQ
+
+
+        1
+         In his affidavit, Richie stated that www.thedirty.com is owned and operated by Dirty World, LLC, not
+Dirty World Entertainment Recordings, LLC. In her second amended complaint, Jones properly added Dirty World,
+LLC dba Thedirty.com as a party.
+               Case: 13-5946       Document: 69-2        Filed: 06/16/2014       Page: 7
+
+
+No. 13-5946       Jones v. Dirty World Entm’t Recordings, et al.                  Page 7
+
+        section like every other normal person to get stuff removed. You dug your own
+        grave here Sarah. I am a very reasonable person… hope it was worth it.- nik.
+
+He also removed the first three posts regarding Jones.          The posts on www.TheDirty.com
+humiliated Jones, allegedly undermining her position as an educator, her membership in the
+Cincinnati BenGals, and her personal life.
+
+        Jones amended her action to proceed against Dirty World Entertainment Recordings,
+LLC, dba www.thedirt.com; Hooman Karamian, aka Nik Richie, aka Corbin Grimes; Dirty
+World, LLC, dba www.TheDirty.com; and Dirty World Entertainment, LLC, dba
+www.TheDirty.com, alleging claims of defamation, libel per se, false light, and intentional
+inflection of emotional distress. Dirty World moved to dismiss, arguing that the district court
+lacked jurisdiction over Dirty World and that Jones failed to state a claim upon which relief may
+be granted. Richie (formerly known as Hooman Karamian) also moved to dismiss, arguing
+insufficiency of service of process, lack of personal jurisdiction, and failure to state a claim upon
+which relief may be granted. The district court denied both motions. See Jones v. Dirty World
+Entm’t Recordings, LLC (Jones II), No. 2009-219, 2011 WL 1457343, at *1−2 (E.D. Ky. Apr.
+15, 2011); Jones v. Dirty World Entm’t Recordings, LLC (Jones I), 766 F. Supp. 2d 828, 828−36
+(E.D. Ky. 2011). In their motions to dismiss, both Dirty World and Richie argued that under the
+CDA, 47 U.S.C. § 230(c), they are immune from suit. The district court treated the CDA
+argument as a motion for summary judgment and granted Jones’s oral motion for a period of
+discovery to respond. Jones II, 2011 WL 1457343, at *2; Jones I, 766 F. Supp. 2d at 836.
+
+        Dirty World and Richie then moved for summary judgment, arguing that § 230(c)(1)
+affords them immunity from liability for content created by third parties and that the content they
+created, as opposed to that created by third parties, constitutes non-actionable expressions of
+opinion that are non-defamatory as a matter of law. The district court denied the motion, holding
+that Dirty World and Richie are not entitled to immunity under the CDA. Jones v. Dirty World
+Entm’t Recordings, LLC (Jones III), 840 F. Supp. 2d 1008, 1010−13 (E.D. Ky. 2012). The case
+was tried and submitted to a jury, but upon a joint motion by both parties, the court declared a
+mistrial.
+                 Case: 13-5946      Document: 69-2        Filed: 06/16/2014       Page: 8
+
+
+No. 13-5946         Jones v. Dirty World Entm’t Recordings, et al.                 Page 8
+
+          Dirty World and Richie then filed a motion under Federal Rule of Civil Procedure 54(b),
+requesting that the court change its order holding that Dirty World and Richie were not entitled
+to immunity under the CDA. In the alternative, Dirty World and Richie moved for an order
+certifying the issue for an immediate interlocutory appeal pursuant to 28 U.S.C. § 1292(b). The
+district court treated the motion as a second motion for summary judgment and denied it. The
+district court also denied the alternative motion for leave to file an interlocutory appeal. The
+case was again tried. See Jones v. Dirty World Entm’t Recordings, LLC (Jones IV), 965 F. Supp.
+2d 818, 819 (E.D. Ky. 2013). At the conclusion of the presentation of evidence in the second
+trial, Dirty World and Richie made a timely motion for judgment as a matter of law pursuant to
+Federal Rule of Civil Procedure 50. Their Rule 50 motion again claimed immunity. See id. The
+district court denied the motion, holding that “a website owner who intentionally encourages
+illegal or actionable third-party postings to which he adds his own comments ratifying or
+adopting the posts becomes a ‘creator’ or ‘developer’ of that content and is not entitled to
+immunity.” Id. at 821. Thus, the district court concluded that “[d]efendants, when they re-
+published the matters in evidence, had the same duties and liabilities for re-publishing libelous
+material as the author of such materials.”
+
+          The case was submitted to the second jury, which returned a verdict in favor of Jones for
+$38,000 in compensatory damages and $300,000 in punitive damages. The district court entered
+a judgment in favor of Jones. Dirty World and Richie timely filed a notice of appeal from the
+district court’s (1) entry of final judgment in favor of Jones, (2) denial of their motions to dismiss
+for lack of personal jurisdiction, and (3) denial of their motion for judgment as a matter of law.
+The sole issue on appeal is whether the district court erred in denying Dirty World’s and Richie’s
+motion for judgment as a matter of law by holding that the CDA does not bar Jones’s state tort
+claims.
+
+                                                 II.
+                                                 A.
+
+          “We review a district court’s denial of a motion for judgment as a matter of law or a
+renewed motion for judgment as a matter of law de novo.” Noble v. Brinker Int’l, Inc., 391 F.3d
+715, 720 (6th Cir. 2004) (citing United States v. Alpine Indus., Inc., 352 F.3d 1017, 1022 (6th
+                 Case: 13-5946          Document: 69-2            Filed: 06/16/2014          Page: 9
+
+
+No. 13-5946          Jones v. Dirty World Entm’t Recordings, et al.                           Page 9
+
+Cir. 2003)). The only claim that Dirty World and Richie raise on appeal is entitlement to
+immunity under the CDA. Appellants argued immunity under the CDA several times before the
+district court; hence, the claim is properly presented on appeal, cf. Dunlap v. Mich. Dep’t of
+Corr., 65 F. App’x 971, 972 (6th Cir. 2003), and reviewed de novo, Smith v. Leis, 407 F. App’x
+918, 927 (6th Cir. 2011) (“Claims of entitlement to immunity are questions of law, therefore they
+are reviewed de novo.”). Any other claim or defense that they argued before the district court is
+waived. See Farm Labor Org. Comm. v. Ohio State Highway Patrol, 308 F.3d 523, 544 n.8 (6th
+Cir. 2002) (“It is well established that an issue not raised in a party’s briefs on appeal may be
+deemed waived.” (citing Ahlers v. Schebil, 188 F.3d 365, 374 (6th Cir. 1999))).
+
+                                                        B.
+
+        We begin with a discussion of § 230 of the CDA. Section 230 of the CDA immunizes
+providers of interactive computer services2 against liability arising from content created by third
+parties. Section 230(c)(1) provides that “[n]o provider or user of an interactive computer service
+shall be treated as the publisher or speaker of any information provided by another information
+content provider.” Although § 230(c)(1) does not explicitly mention immunity or a synonym
+thereof, this and other circuits have recognized the provision to protect internet service providers
+for the display of content created by someone else. Seaton v. TripAdvisor LLC, 728 F.3d 592,
+599 n.8 (6th Cir. 2013) (recognizing that § 230(c)(1) provides immunity); see also Almeida v.
+Amazon.com, Inc., 456 F.3d 1316, 1321 (11th Cir. 2006) (“The majority of federal circuits have
+interpreted the CDA to establish broad federal immunity to any cause of action that would make
+service providers liable for information originating with a third-party user of the service.”)
+(internal citations and quotations omitted); accord Johnson v. Arden, 614 F.3d 785, 791 (8th Cir.
+2010); Doe v. MySpace, Inc., 528 F.3d 413, 418 (5th Cir. 2008); Chicago Lawyers’ Comm. for
+Civil Rights Under Law, Inc. v. Craigslist, Inc., 519 F.3d 666, 671 (7th Cir. 2008); Universal
+Commc’n Sys., Inc. v. Lycos, Inc., 478 F.3d 413, 418−19 (1st Cir. 2007); Batzel v. Smith,
+333 F.3d 1018, 1026−30 (9th Cir. 2003); Green v. Am. Online (AOL), 318 F.3d 465, 471 (3d Cir.
+
+        2
+          “The term ‘interactive computer service’ means any information service, system, or access software
+provider that provides or enables computer access by multiple users to a computer server, including specifically a
+service or system that provides access to the Internet and such systems operated or services offered by libraries or
+educational institutions.” 47 U.S.C. § 230(f)(2). These providers include broadband providers, hosting companies,
+and website operators like Dirty World and Richie.
+              Case: 13-5946       Document: 69-2          Filed: 06/16/2014    Page: 10
+
+
+No. 13-5946       Jones v. Dirty World Entm’t Recordings, et al.                Page 10
+
+2003); Ben Ezra, Weinstein, & Co. v. AOL, 206 F.3d 980, 984−85 (10th Cir. 2000); Zeran v.
+AOL, 129 F.3d 327, 328 (4th Cir. 1997). Furthermore, § 230(e)(3) provides that “[n]o cause of
+action may be brought and no liability may be imposed under any State or local law that is
+inconsistent with this section.” 47 U.S.C. § 230(e)(3).
+
+       Section 230 marks a departure from the common-law rule that allocates liability to
+publishers or distributors of tortious material written or prepared by others. See Batzel, 333 F.3d
+at 1026−27. “Absent § 230, a person who published or distributed speech over the Internet could
+be held liable for defamation even if he or she was not the author of the defamatory text, and,
+indeed, at least with regard to publishers, even if unaware of the statement.” Id. (citing Stratton
+Oakmont, Inc. v. Prodigy Servs. Co., 1995 WL 323710 (N.Y. Sup. Ct. May 24, 1995) (pre-CDA
+case holding internet service provider liable for posting by third party on one of its electronic
+bulletin boards)). Congress, however, decided to treat the internet differently. Id.
+
+       At its core, § 230 bars “lawsuits seeking to hold a service provider liable for its exercise
+of a publisher’s traditional editorial functions—such as deciding whether to publish, withdraw,
+postpone or alter content.” Zeran, 129 F.3d at 330. In Zeran, a case arising shortly after the
+enactment of the CDA, the panel considered a defamation claim against America Online (AOL)
+alleging “that AOL unreasonably delayed in removing defamatory messages posted by an
+unidentified third party, refused to post retractions of those messages, and failed to screen for
+similar postings thereafter.” Id. at 328. The Zeran court explained that the CDA squarely barred
+this claim. See id. at 330−35.
+
+       By barring publisher-liability and notice-liability defamation claims lodged against
+interactive computer service providers, § 230 serves three main purposes. First, it “maintain[s]
+the robust nature of Internet communication and, accordingly, . . . keep[s] government
+interference in the medium to a minimum.” Id. at 330; see also 47 U.S.C. § 230(b)(2) (“It is the
+policy of the United States . . . to preserve the vibrant and competitive free market that presently
+exists for the Internet and other interactive computer services, unfettered by Federal or State
+regulation.”). Second, the immunity provided by § 230 protects against the “heckler’s veto” that
+would chill free speech. Without § 230, persons who perceive themselves as the objects of
+unwelcome speech on the internet could threaten litigation against interactive computer service
+               Case: 13-5946      Document: 69-2       Filed: 06/16/2014      Page: 11
+
+
+No. 13-5946       Jones v. Dirty World Entm’t Recordings, et al.               Page 11
+
+providers, who would then face a choice: remove the content or face litigation costs and potential
+liability. See Zeran, 129 F.3d at 331 (“The specter of tort liability in an area of such prolific
+speech would have an obvious chilling effect.”). Immunity shields service providers from this
+choice. See Nemet Chevrolet, Ltd. v. Consumeraffairs.com, Inc., 591 F.3d 250, 254 (4th Cir.
+2009) (“[I]mmunity is an immunity from suit rather than a mere defense to liability and . . . is
+effectively lost if a case is erroneously permitted to go to trial.” (internal quotation marks
+omitted)). Third, § 230 encourages interactive computer service providers to self-regulate. An
+early internet case, Stratton Oakmont, held that at common law the provider of an electronic
+message-board service was potentially liable for its user’s defamatory message because it had
+engaged in voluntary self-policing of the third-party content made available through its service.
+1995 WL 323710, at *4. Section 230 set out to abrogate this precedent. See S. Rep. No. 104-
+230, at 194 (1996) (“One of the specific purposes of [§ 230] is to overrule Stratton Oakmont v.
+Prodigy and any other similar decisions . . . .”); see also, e.g., Zeran, 129 F.3d at 331 (“Another
+important purpose of § 230 was to encourage service providers to self-regulate the dissemination
+of offensive material over their services. In this respect, § 230 responded to [Stratton
+Oakmont].”).
+
+       The protection provided by § 230 has been understood to merit expansion. Congress has
+extended the protection of § 230 into new areas. See 28 U.S.C. § 4102(c)(1) (providing that U.S.
+courts “shall not recognize or enforce” foreign defamation judgments that are inconsistent with
+§ 230); 47 U.S.C. § 941(e)(1) (extending § 230 protection to new class of entities). And courts
+have construed the immunity provisions in § 230 broadly. See, e.g., Nemet, 591 F.3d at 254
+(collecting cases). Moreover, “close cases . . . must be resolved in favor of immunity, lest we cut
+the heart out of section 230 by forcing websites to face death by ten thousand duck-bites,
+fighting off claims that they promoted or encouraged—or at least tacitly assented to—the
+illegality of third parties.” Fair Hous. Council of San Fernando Valley v. Roommates.Com,
+LLC, 521 F.3d 1157, 1174 (9th Cir. 2008) (en banc).
+                Case: 13-5946           Document: 69-2           Filed: 06/16/2014           Page: 12
+
+
+No. 13-5946          Jones v. Dirty World Entm’t Recordings, et al.                          Page 12
+
+         Section 230(c)(1)’s grant of immunity is not without limits, however.3 It applies only to
+the extent that an interactive computer service provider is not also the information content
+provider of the content at issue. An “information content provider” is defined as “any person or
+entity that is responsible, in whole or in part, for the creation or development of information
+provided through the Internet or any other interactive computer service.” 47 U.S.C. § 230(f)(3).
+A website operator can simultaneously act as both a service provider and a content provider. If a
+website displays content that is created entirely by third parties, then it is only a service provider
+with respect to that content—and thus is immune from claims predicated on that content. But if
+a website operator is in part responsible for the creation or development of content, then it is an
+information content provider as to that content—and is not immune from claims predicated on it.
+Carafano v. Metrosplash.com, Inc., 339 F.3d 1119, 1123 (9th Cir. 2003) (“Under the statutory
+scheme, an ‘interactive computer service’ qualifies for immunity so long as it does not also
+function as an ‘information content provider’ for the portion of the statement or publication at
+issue.”). Thus, a website may be immune from liability for some of the third-party content it
+publishes but be subject to liability for the content that it is responsible for as a creator or
+developer. See Roommates, 521 F.3d at 1162−63, 1165; see also Batzel, 333 F. 3d at 1033. In
+short, immunity under the CDA depends on the pedigree of the content at issue.
+
+         Aware of this limit on § 230 immunity, courts have recognized that § 230 bars a claim if
+(1) the defendant asserting immunity is an interactive computer service provider, (2) the
+particular information at issue was provided by another information content provider, and (3) the
+claim seeks to treat the defendant as a publisher or speaker of that information. See, e.g.,
+Universal Commc’n Sys., 478 F.3d at 418. By contrast, a defendant is not entitled to protection
+from claims based on the publication of information if the defendant is “responsible, in whole or
+in part, for the creation or development of [the] information.” 47 U.S.C. § 230(f)(3).
+
+
+
+
+         3
+          Section 230(e) outlines a few exceptions, such as for claims under intellectual property laws. See 47
+U.S.C. § 230(e)(2) (“Nothing in this section shall be construed to limit or expand any law pertaining to intellectual
+property.”). These exceptions to § 230(c) immunity are inapplicable in this case.
+              Case: 13-5946      Document: 69-2        Filed: 06/16/2014      Page: 13
+
+
+No. 13-5946       Jones v. Dirty World Entm’t Recordings, et al.              Page 13
+
+                                               C.
+
+       This case turns on how narrowly or capaciously the statutory term “development” in
+§ 230(f)(3) is read. The district court held, and Jones maintains on appeal, that Dirty World and
+Richie are not immune under the CDA because Dirty World and Richie are information content
+providers with respect to the information underlying Jones’s defamation claims because they
+developed that information. See Jones IV, 965 F. Supp. 2d at 823. The district court set forth a
+test to measure whether a defendant is responsible for the development of the information
+grounding a plaintiff’s state tort claim. According to the district court, “a website owner who
+intentionally encourages illegal or actionable third-party postings to which he adds his own
+comments ratifying or adopting the posts becomes a ‘creator’ or ‘developer’ of that content and
+is not entitled to immunity.” Id. at 821. Dirty World and Richie argue that the district court’s
+test of development is erroneous, swallowing the protection provided by § 230(c)(1) and
+undermining the purposes served by the CDA. They maintain that, properly understood, they did
+not develop the statements forming the basis of Jones’s defamation claims.
+
+       In our two opinions addressing the CDA, this court has neither expounded the meaning of
+“development” in § 230(f)(3) nor addressed the scope of immunity that § 230(c) provides. See
+Seaton, 728 F.3d at 599 n.8; Doe, 551 F.3d at 416. Nevertheless, drawing inferences from these
+cases, it is not difficult to identify an overly inclusive and exclusive reading of “development.”
+An overly inclusive interpretation of “development” in § 230(f)(3) would posit that a website
+operator is responsible for the development of content created by a third party merely by
+displaying or allowing access to it. Cf. Roommates, 521 F.3d at 1167 (“It’s true that the broadest
+sense of the term ‘develop’ could include the functions of an ordinary search engine—indeed,
+just about any function performed by a website.”). But to read the term so broadly would defeat
+the purposes of the CDA and swallow the core immunity that § 230(c) provides for the “exercise
+of a publisher’s traditional editorial functions.”     See Zeran, 129 F.3d at 330; see also
+Roommates, 521 F.3d at 1167 (stating that “development” cannot be read to swallow § 230
+immunity). Our recognition that the CDA affords immunity forecloses this overbroad reading of
+“development.”
+              Case: 13-5946       Document: 69-2       Filed: 06/16/2014     Page: 14
+
+
+No. 13-5946        Jones v. Dirty World Entm’t Recordings, et al.            Page 14
+
+       By contrast, an overly exclusive interpretation of “development” would exclude all the
+publishing, editorial, and screening functions of a website operator from the set of actions that
+the term denotes. Some courts have implied this interpretation, however. See, e.g., Doe v.
+SexSearch.com, 502 F. Supp. 2d 719, 727 (N.D. Ohio 2007), aff’d, 551 F.3d 412 (6th Cir. 2008).
+But we have refused to adopt it. See Doe, 551 F.3d at 415 (“[W]e do not reach the question of
+whether the [CDA] provides SexSearch with immunity from suit. We do not adopt the district
+court’s discussion of the Act, which would read § 230 more broadly than any previous Court of
+Appeals decision has read it, potentially abrogating all state- or common-law causes of action
+brought against interactive Internet services.”). We have maintained that, despite the CDA, some
+state tort claims will lie against website operators acting in their publishing, editorial, or
+screening capacities.
+
+       Therefore, limited circuit precedent suggests the proper interpretation of “development of
+information provided through the Internet,” § 230(f)(3), means something more involved than
+merely displaying or allowing access to content created by a third party; otherwise § 230(c)(1)
+would be meaningless. And instances of development may include some functions a website
+operator may conduct with respect to content originating from a third party. See SexSearch.com,
+551 F.3d at 415.
+
+       Beyond providing a basis to identify overly inclusive and exclusive interpretations of
+“development” in § 230(f)(3), our cases have not further illuminated the scope of the immunity
+furnished by the CDA. Decisions from our sister circuits, however, provide a workable measure
+of “development” that not only preserves the broad immunity the CDA provides for website
+operators’ exercise of traditional publisher functions but also highlights the limited
+circumstances under which exercises of those functions are not protected. The leading case is
+Roommates. There, the Ninth Circuit sitting en banc discussed the meaning of “development” at
+length. See 521 F.3d at 1167−68. In Roommates, as a condition for using an online roommate-
+finding service, a website required each user seeking to offer living space to create a profile
+describing his desired roommate and, in so doing, required that user “to disclose his sex, sexual
+orientation and whether he would bring children to a household.” Id. at 1161. The website also
+encouraged its users to provide additional comments describing themselves and their desired
+              Case: 13-5946       Document: 69-2         Filed: 06/16/2014       Page: 15
+
+
+No. 13-5946       Jones v. Dirty World Entm’t Recordings, et al.                 Page 15
+
+roommate. Id. The fair housing councils of San Fernando Valley and San Diego sued, alleging
+that the website violated the Fair Housing Act and state housing discrimination laws. Id. at
+1162. The court held that a website operator was not entitled to immunity with respect to
+allegedly unlawful content that it required its users to submit and with respect to the search
+engine that was built on that content. Id. at 1165−68. But the court also held that the website
+was immune as to claims based on the website’s encouragement that users provide additional
+comments, some of which were alleged to be discriminatory. Id. at 1173−75. To arrive at these
+divergent holdings, the court applied a specific measure of development:
+
+       [W]e interpret the term “development” as referring not merely to augmenting the
+       content generally, but to materially contributing to its alleged unlawfulness. In
+       other words, a website helps to develop unlawful content, and thus falls within the
+       exception to section 230, if it contributes materially to the alleged illegality of the
+       conduct.
+
+521 F.3d at 1167−68 (emphasis added). A material contribution to the alleged illegality of the
+content does not mean merely taking action that is necessary to the display of allegedly illegal
+content. Rather, it means being responsible for what makes the displayed content allegedly
+unlawful. Cf. Chicago Lawyers’ Comm., 519 F.3d at 671 (“Causation . . . must refer to causing a
+particular statement to be made, or perhaps the discriminatory content of a statement. That’s the
+sense in which a non-publisher can cause a discriminatory ad, while one who causes the
+forbidden content may not be a publisher.”). “In an abundance of caution,” the Roommates court
+gave several examples of applications of the “material contribution” test. For example:
+
+       If an individual uses an ordinary search engine to query for a “white roommate,”
+       the search engine has not contributed to any alleged unlawfulness in the
+       individual’s conduct; providing neutral tools to carry out what may be unlawful
+       or illicit searches does not amount to “development” for purposes of the immunity
+       exception. A dating website that requires users to enter their sex, race, religion
+       and marital status through drop-down menus, and that provides means for users to
+       search along the same lines, retains its CDA immunity insofar as it does not
+       contribute to any alleged illegality.
+
+521 F.3d at 1169. In contrast to this example, the court observed that Roommates required
+subscribers to disclose information about protected characteristics as a condition of accessing its
+service and “designed its search and email systems to limit the listings available to subscribers
+based on sex, sexual orientation and presence of children.”          Id. at 1166, 1169.      Because
+              Case: 13-5946         Document: 69-2        Filed: 06/16/2014       Page: 16
+
+
+No. 13-5946          Jones v. Dirty World Entm’t Recordings, et al.                Page 16
+
+Roommates required information about protected characteristics and engineered its search and
+email systems to limit access to housing listings based on those protected characteristics, the
+court held that the website materially contributed to the alleged illegality of hiding certain
+listings. See id. at 1166−69, 1172.
+
+        The court also gave specific examples of the application of the material contribution test
+for a website that solicits, edits, and displays content originating from third parties (i.e., a website
+akin to www.TheDirty.com). For example:
+
+        A website operator who edits user-created content—such as by correcting
+        spelling, removing obscenity or trimming for length—retains his immunity for
+        any illegality in the user-created content, provided that the edits are unrelated to
+        the illegality. However, a website operator who edits in a manner that contributes
+        to the alleged illegality—such as by removing the word “not” from a user’s
+        message reading “[Name] did not steal the artwork” in order to transform an
+        innocent message into a libelous one—is directly involved in the alleged illegality
+        and thus not immune.
+
+Id. at 1169 (alteration in original); see also Batzel, 333 F.3d at 1035 (holding that an editor of an
+email newsletter who received and published allegedly actionable information, adding a short
+headnote, was immune under § 230 because an editor’s changes to the length and spelling of
+third-party content do not contribute to the libelousness of the message). The Roommates court
+further explained:
+
+        And any activity that can be boiled down to deciding whether to exclude material
+        that third parties seek to post online is perforce immune under section 230. But if
+        the editor publishes material that he does not believe was tendered to him for
+        posting online, then he is the one making the affirmative decision to publish, and
+        so he contributes materially to its allegedly unlawful dissemination. He is thus
+        properly deemed a developer and not entitled to CDA immunity.
+
+521 F.3d at 1170−71 (internal citations omitted).
+
+        Accordingly, the Roommates court held that § 230 barred the fair housing councils’
+claims grounded on the allegedly discriminatory statements displayed through Roommate’s
+operation of the “additional comments” section of its website. Id. at 1173. The court explained:
+
+        Roommate publishes these comments as written. It does not provide any specific
+        guidance as to what the essay should contain, nor does it urge subscribers to input
+        discriminatory preferences. Roommate is not responsible, in whole or in part, for
+               Case: 13-5946      Document: 69-2       Filed: 06/16/2014      Page: 17
+
+
+No. 13-5946       Jones v. Dirty World Entm’t Recordings, et al.               Page 17
+
+       the development of this content, which comes entirely from subscribers and is
+       passively displayed by Roommate. Without reviewing every essay, Roommate
+       would have no way to distinguish unlawful discriminatory preferences from
+       perfectly legitimate statements. Nor can there be any doubt that this information
+       was tendered to Roommate for publication online. This is precisely the kind of
+       situation for which section 230 was designed to provide immunity.
+
+Id. at 1173−74 (internal citation omitted). Furthermore, the court rejected the argument made by
+the fair housing councils that the website developed the allegedly illegal content displayed in the
+additional comments section because the website encouraged the submission of discriminatory
+preferences.   Id. at 1174.   The court reasoned that “[t]he fact that Roommate encourages
+subscribers to provide something in response to the prompt is not enough to make it a
+‘develop[er]’ of the information.” Id. (second alteration in original). Because “Roommate does
+not tell subscribers what kind of information they should or must include as ‘Additional
+Comments,’ and certainly does not encourage or enhance any discriminatory content created by
+users,” the court held that the operation of the additional comments section did not materially
+contribute to the alleged unlawfulness of the content displayed on the website’s comments
+section. Id.
+
+       The material contribution test has been adopted and applied by other circuits, with
+instructive effect.   Compare Nemet, 591 F.3d at 257−58 (holding that a website did not
+contribute to alleged illegality), with Accusearch, 570 F.3d at 1200−01 (holding that a website
+did contribute to alleged illegality). In Nemet, Nemet, the owner of a Chevrolet dealership, sued
+Consumeraffairs.com, a website allowing users to comment on the quality of goods and services,
+after various allegedly tortious, third-party posts appeared on the website relating to automobiles
+sold or serviced by him. 591 F.3d at 252. The website claimed immunity under the CDA.
+Nemet responded that the website was, in fact, an information content provider under
+§ 230(f)(3), and was thus liable as a co-developer, because of the “structure and design of its
+website” and because “Consumeraffiars.com solicit[ed] its customers’ complaints [and] steered
+them into specific categor[ies].” Id. at 256 (first and third alterations in original) (quotation
+marks omitted). The panel affirmed the district court’s grant of the website’s motion to dismiss
+because “[e]ven accepting as true all of the facts Nemet pled as to Consumeraffairs.com’s
+liability for the structure and design of its website, the amended complaint does not show, or
+              Case: 13-5946       Document: 69-2        Filed: 06/16/2014       Page: 18
+
+
+No. 13-5946       Jones v. Dirty World Entm’t Recordings, et al.                Page 18
+
+even intimate, that Consumeraffairs.com contributed to the allegedly fraudulent nature of the
+comments at issue.” Id. at 257 (internal quotation marks omitted).
+
+       In Accusearch, Accusearch operated a website that sold the confidential information of
+individuals, including their telephone records, which the website paid researchers to obtain.
+570 F.3d at 1190. The Federal Trade Commission brought suit against the website operator to
+curtail its sale of confidential information and to disgorge its profits from the sale of information
+in telephone records. Id. Accusearch claimed immunity under the CDA, arguing that it merely
+displayed the allegedly illegal conduct that originated from its third-party researchers. Id. The
+panel rejected this argument and held that the website operator developed the confidential
+telephone records within the meaning of the CDA. The panel cited Roommates’s material
+contribution test and found “[t]hat language applies to Accusearch’s role in this case.” Id. at
+1200 (citing Roommates, 570 F.3d at 1168). The Accusearch panel reasoned that “[b]y paying
+its researchers to acquire telephone records, knowing that the confidentiality of the records was
+protected by law, it contributed mightily to the unlawful conduct of its researchers.” Id. The
+panel noted that “the offensive postings were Accusearch’s raison d’etre and it affirmatively
+solicited them.” Id. It thus found that “Accusearch’s actions were not ‘neutral’ with respect to
+generating offensive content; on the contrary, its actions were intended to generate such
+content.” Id. at 1201. Accordingly, the panel held that “Accusearch is not entitled to immunity
+under the CDA.” Id.
+
+       Other circuits, while not explicitly relying on Roommates’s material contribution test,
+have issued decisions consistent with it. See, e.g., Johnson, 614 F.3d at 791 (holding that a
+website hosting company was immune to state tort claims grounded on unwelcome content
+posted to a client’s website); Chicago Lawyers’ Comm., 519 F.3d at 671 (holding that
+craigslist.com was immune to fair housing claims based on discriminatory listings posted by
+third parties); Green, 318 F.3d at 471 (holding that AOL was immune to state tort claims
+grounded on third-party content); Ben Ezra, 206 F.3d at 984−85 (holding that defendant was
+immune to the defamation claim when it made its own editorial decisions with respect to third-
+party information published on its website); Zeran, 129 F.3d at 330−35.
+              Case: 13-5946        Document: 69-2         Filed: 06/16/2014       Page: 19
+
+
+No. 13-5946        Jones v. Dirty World Entm’t Recordings, et al.                 Page 19
+
+                                                  D.
+
+       Consistent with our sister circuits, we adopt the material contribution test to determine
+whether a website operator is “responsible, in whole or in part, for the creation or development
+of [allegedly tortious] information.” 47 U.S.C. § 230(f)(3). And we expressly decline to adopt
+the definition of “development” set forth by the district court.
+
+       The district court read the foregoing decisions, identified Roommates as the guiding
+precedent, but derived a different rule. In its memorandum opinion explaining the denial of
+Dirty World’s and Richie’s Rule 50 motion, the district court gave two formulations of a rule
+providing when the CDA does not bar a plaintiff’s claim. First, the district court said that a
+“website owner who intentionally encourages illegal or actionable third-party postings to which
+he adds his own comments ratifying or adopting the posts becomes a ‘creator’ or ‘developer’ of
+that content and is not entitled to immunity.” Jones IV, 965 F. Supp. 2d at 821. Second, in a
+different formulation, the district court said that “if . . . [website] owners, as in the instant case,
+invite invidious postings, elaborate on them with comments of their own, and call upon others to
+respond in kind, the immunity does not apply.” Id. at 822. The district court arrived at these
+rules by over-reading the operative language contained in the analytic parts of Johnson,
+Accusearh, and Chicago Lawyers’ Committee. See id. at 820 (finding that the Johnson “ruling
+was based on the fact that ‘the record contains no evidence that [the internet service provider]
+designed its website to be a portal for defamatory material or [did] anything to induce
+defamatory postings’” (alterations in original) (quoting Johnson, 614 F.3d at 792)); id. (finding
+that the Accusearch court “held that one is not ‘responsible’ for ‘developing’ allegedly
+actionable information only ‘if one’s conduct was neutral with respect to the offensiveness of the
+content’” (quoting Accusearch, 570 F.3d at 1199); id. at 820 (finding that Chicago Lawyers’
+Committee “noted that ‘[n]othing in the service craigslist offers induces anyone to post any
+particular listing or express a preference for discrimination’” (alteration in original) (quoting
+Chicago Lawyers’ Comm., 519 F.3d at 671−72)). The district court read “inducement” to mean
+invitation and “neutral with respect to the offensiveness of the content” as a description of a
+website’s orientation, not of a condition that users upload unlawful content, cf. Roommates,
+                 Case: 13-5946     Document: 69-2       Filed: 06/16/2014     Page: 20
+
+
+No. 13-5946         Jones v. Dirty World Entm’t Recordings, et al.            Page 20
+
+521 F.3d at 1166−69, or that contractors conduct unlawful action, cf. Accusearch, 570 F.3d at
+1200−01.
+
+       We do not adopt the district court’s encouragement test of immunity under the CDA.
+The district court misapprehended how other circuits, particularly the Ninth Circuit in
+Roommates, have separated what constitutes “development” in § 230(f)(3) from what does not.
+The district court elided the crucial distinction between, on the one hand, taking actions
+(traditional to publishers) that are necessary to the display of unwelcome and actionable content
+and, on the other hand, responsibility for what makes the displayed content illegal or actionable.
+See Roommates, 521 F.3d at 1169−74. This is the distinction that divides the holdings in
+Roommates and Accusearch, which stripped the respective defendants of the CDA’s protection,
+from the holdings in Roommates, Chicago Lawyers’ Committee, Johnson, Batzel, Nemet, and
+Zeran, which barred the respective plaintiffs’ claims.         In Roommates, the website was
+responsible for the alleged discrimination by requiring users to submit protected characteristics
+and hiding listings based on those submissions. 521 F.3d at 1165−68. In Accusearch, the
+website was responsible for the illegal purchase and resale of confidential telephone records.
+570 F.3d at 1200−01. But in Chicago Lawyers’ Committee, 519 F.3d at 671−72, and Nemet,
+591 F.3d at 256−57, for example, the website operators provided a forum for user posts, did not
+require users to violate the law as a condition of posting, did not compensate for the posting of
+actionable speech, did not post actionable content themselves, and therefore were not responsible
+for the actionable speech that was displayed on their websites. The district court’s rule does not
+neatly divide these cases. An encouragement theory of “development” does not obviously
+capture what was allegedly unlawful about the design of Roommate’s website, particularly its
+search engine, or Accusearch’s payment for unlawful conduct. And it does not obviously leave
+out the neutral fora created by the commercially oriented websites targeted by the claims in
+Chicago Lawyers’ Committee and Nemet (craigslist.com and www.consumeraffairs.com,
+respectively).
+
+       More importantly, an encouragement test would inflate the meaning of “development” to
+the point of eclipsing the immunity from publisher-liability that Congress established. Many
+websites not only allow but also actively invite and encourage users to post particular types of
+              Case: 13-5946      Document: 69-2       Filed: 06/16/2014      Page: 21
+
+
+No. 13-5946      Jones v. Dirty World Entm’t Recordings, et al.              Page 21
+
+content.   Some of this content will be unwelcome to others—e.g., unfavorable reviews of
+consumer products and services, allegations of price gouging, complaints of fraud on consumers,
+reports of bed bugs, collections of cease-and-desist notices relating to online speech. And much
+of this content is commented upon by the website operators who make the forum available.
+Indeed, much of it is “adopted” by website operators, gathered into reports, and republished
+online. Under an encouragement test of development, these websites would lose the immunity
+under the CDA and be subject to hecklers’ suits aimed at the publisher. Moreover, under the
+district court’s rule, courts would then have to decide what constitutes “encouragement” in order
+to determine immunity under the CDA—a concept that is certainly more difficult to define and
+apply than the Ninth Circuit’s material contribution test. See Zeran, 129 F.3d at 333. Congress
+envisioned an uninhibited, robust, and wide-open internet, see § 230(a)(1)−(5), but the
+muddiness of an encouragement rule would cloud that vision. Accordingly, other courts have
+declined to hold that websites were not entitled to the immunity furnished by the CDA because
+they selected and edited content for display, thereby encouraging the posting of similar content.
+See, e.g., Roommates, 521 F.3d at 1174 (“Such weak encouragement cannot strip a website of its
+section 230 immunity, lest that immunity be rendered meaningless as a practical matter.”);
+Batzel, 333 F.3d at 1031. We do the same.
+
+       The district court also suggested that when an interactive computer service provider adds
+commentary to third-party content that “ratifies or adopts” that content, then the provider
+becomes a “creator” or “developer” of that content and is not entitled to the CDA’s protection.
+Jones IV, 965 F. Supp. 2d at 821; see also id. at 823 (“Thus, Richie’s conduct cannot be said to
+have been ‘neutral with respect to the offensiveness of the content,’ such that he is not
+‘responsible’ for it within the meaning of 47 U.S.C. § 230(f)(3).”). An adoption or ratification
+theory, however, is not only inconsistent with the material contribution standard of
+“development” but also abuses the concept of responsibility. A website operator cannot be
+responsible for what makes another party’s statement actionable by commenting on that
+statement post hoc. To be sure, a website operator’s previous comments on prior postings could
+encourage subsequent invidious postings, but that loose understanding of responsibility collapses
+into the encouragement measure of “development,” which we reject. See, e.g., Roommates,
+521 F.3d at 1174; Batzel, 333 F.3d at 1031. As other courts have recognized, the adoption
+              Case: 13-5946       Document: 69-2       Filed: 06/16/2014      Page: 22
+
+
+No. 13-5946       Jones v. Dirty World Entm’t Recordings, et al.               Page 22
+
+theory of “development” would undermine the CDA for the same reasons as an encouragement
+theory. See Parisi v. Sinclair, 774 F. Supp. 2d 310, 316 (D.D.C. 2011) (dismissing plaintiffs’
+claims as barred by the CDA despite their argument that defendant “adopted” the statements at
+issue as its own and finding that “it would be contrary to the purpose of the CDA, which sought
+to encourage the vibrant and competitive free market of ideas on the Internet, by establishing
+immunity for internet publication of third-party content to require a fact-based analysis of if and
+when a defendant adopted particular statements and revoke immunity on that basis” (internal
+citations and quotation marks omitted)).
+
+                                                III.
+
+       We now apply the material contribution measure of “development” to the facts of this
+case. Jones’s defamation claims target the statements that were posted by a third party on
+October 27 and December 7, 2009.           Because Dirty World and Richie did not materially
+contribute to the illegality of those statements, the CDA bars Jones’s claims. See Nemet,
+591 F.3d at 260 (affirming dismissal where plaintiff failed to show defendant “was responsible
+for the creation or development of the allegedly defamatory content at issue” (emphasis added)).
+
+       Dirty World and Richie did not author the statements at issue; however, they did select
+the statements for publication. But Richie and Dirty World cannot be found to have materially
+contributed to the defamatory content of the statements posted on October 27 and December 7,
+2009, simply because those posts were selected for publication. See Batzel, 333 F.3d at 1035
+(holding that an editor of an email newsletter who received and published allegedly actionable
+information, adding a short headnote, was immune under § 230 because an editor’s changes to
+the length and spelling of third-party content do not contribute to the libelousness of the
+message). Nor can they be found to have materially contributed to the defamatory content
+through the decision not to remove the posts. See Zeran, 129 F.3d at 330 (holding CDA
+immunity applied even though “AOL unreasonably delayed in removing defamatory messages
+posted by an unidentified third party, refused to post retractions of those messages, and failed to
+screen for similar postings thereafter”). The CDA expressly bars “lawsuits seeking to hold a
+service provider liable for its exercise of a publisher’s traditional editorial functions—such as
+deciding whether to publish, withdraw, postpone or alter content.” Id.
+               Case: 13-5946      Document: 69-2       Filed: 06/16/2014      Page: 23
+
+
+No. 13-5946       Jones v. Dirty World Entm’t Recordings, et al.               Page 23
+
+       Unlike in Roommates, the website that Richie operated did not require users to post
+illegal or actionable content as a condition of use. Cf. Roommates, 521 F.3d at 1165−68. Nor
+does the name of the website, www.TheDirty.com, suggest that only illegal or actionable content
+will be published. Unlike in Accusearch, Richie or Dirty World did not compensate users for the
+submission of unlawful content. Cf. Accusearch, 570 F.3d at 1200−01. The website’s content
+submission form simply instructs users to “[t]ell us what’s happening. Remember to tell us who,
+what, when, where, why.” The form additionally provides labels by which to categorize the
+submission. These tools, neutral (both in orientation and design) as to what third parties submit,
+do not constitute a material contribution to any defamatory speech that is uploaded. See Nemet,
+591 F.3d at 256 (finding that the “structure and design of [defendant’s] website” and the
+website’s “solicit[ion of] its customers’ complaints [and] steer[ing] them into specific
+categor[ies]” did not constitute development under § 230(f)(3)” (fifth alteration in original)
+(internal quotation marks omitted)); Roommates, 521 F.3d at 1173−74 (holding that § 230 barred
+the fair housing councils’ claims grounded on the discriminatory statements displayed through
+Roommate’s operation of the “additional comments” section of its website).
+
+       Further, Richie’s comment on the December 7 post—viz., “Why are all high school
+teachers freaks in the sack?”—although absurd, did not materially contribute to the defamatory
+content of the statements uploaded on October 27 and December 7, 2009. Richie’s remark was
+made after each of the defamatory postings had already been displayed. It would break the
+concepts of responsibility and material contribution to hold Richie responsible for the
+defamatory content of speech because he later commented on that speech. Although ludicrous,
+Richie’s remarks did not materially contribute to the defamatory content of the posts appearing
+on the website. More importantly, the CDA bars claims lodged against website operators for
+their editorial functions, such as the posting of comments concerning third-party posts, so long as
+those comments are not themselves actionable. See Zeran, 129 F.3d at 330; see also 47 U.S.C.
+§ 230(f)(3).
+
+       To be sure, Richie was an information content provider as to his comment on the
+December 7 post. But Jones did not allege that Richie’s comments were defamatory. And the
+district court did not hold that Richie’s comments were themselves tortious. Rather, the court
+                Case: 13-5946          Document: 69-2           Filed: 06/16/2014         Page: 24
+
+
+No. 13-5946          Jones v. Dirty World Entm’t Recordings, et al.                        Page 24
+
+concluded that those comments “effectively ratified and adopted the defamatory third-party post”
+and thereby developed the defamatory statements, thus ruling that the CDA did not bar Jones’s
+claims. Jones IV, 965 F. Supp. 2d at 823 (“Defendants are mistaken, for the salient point about
+Richie’s tagline is not that it was defamatory itself and thus outside CDA immunity, but rather
+that it effectively ratified and adopted the defamatory third-party post.”). The district court’s
+adoption or ratification test, however, is inconsistent with the material contribution standard of
+“development” and, if established, would undermine the CDA. Therefore, Dirty World and
+Richie did not develop the statements forming the basis of Jones’s tort claims and accordingly
+are not information content providers as to them.
+
+        Because (1) the defendants are interactive service providers, (2) the statements at issue
+were provided by another information content provider, and (3) Jones’s claim seeks to treat the
+defendants as a publisher or speaker of those statements, the CDA bars Jones’s claims. See
+Universal Commc’n Sys., 478 F.3d at 418. Given the role that the CDA plays in an open and
+robust internet by preventing the speech-chilling threat of the heckler’s veto, we point out that
+determinations of immunity under the CDA should be resolved at an earlier stage of litigation.4
+See Nemet, 591 F.3d at 254 (“[I]mmunity is an immunity from suit rather than a mere defense to
+liability [and] is effectively lost if a case is erroneously permitted to go to trial.”).
+
+                                                       IV.
+
+        We note that the broad immunity furnished by the CDA does not necessarily leave
+persons who are the objects of anonymously posted, online, defamatory content without a
+remedy. In this case, Jones conceded that she did not attempt to recover from the person(s)
+whose comments Richie elected to publish. She conceded that she did not attempt to subpoena
+Richie or Dirty World to discover who authored the defamatory posts. Instead, she sued Dirty
+World and Richie. But, under the CDA, Jones cannot seek her recovery from the online
+publisher where that publisher did not materially contribute to the tortious content. Congress
+envisioned a free and open internet, see § 230(a)(1)−(5), and the immunity provision of
+§ 230(c)(1), which subverts common-law publisher-liability, serves that purpose. While some
+
+        4
+           Certification of the interlocutory appeal sought by Dirty World and Richie could have obviated the need
+for the second trial. An even earlier interlocutory appeal would have resolved the case prior to trial.
+              Case: 13-5946          Document: 69-2      Filed: 06/16/2014   Page: 25
+
+
+No. 13-5946       Jones v. Dirty World Entm’t Recordings, et al.             Page 25
+
+exercises of the considerable freedom that Congress allowed online publishers are regrettable,
+freedom and its uses are distinct. Congress enacted § 230(c)(1) to preserve a free internet, and
+that enactment resolves this case.
+
+       For the foregoing reasons, we vacate the judgment in favor of Jones and reverse the
+district court’s denial of Dirty World’s and Richie’s motion for judgment as a matter of law with
+instructions to enter judgment as a matter of law in their favor.
+

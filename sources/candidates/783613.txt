@@ -1,0 +1,356 @@
+344 F.3d 292
+344 F.3d 292
+Mario DIBLASIO, M.D. and Mario Diblasio, M.D., P.C., Plaintiffs-Appellants,
+v.
+Antonia C. NOVELLO, in her individual and official capacity, Lisa Hampton, in her individual and official capacity, and the New York State Department of Health, Defendants-Appellees.
+Docket No. 02-9298.
+United States Court of Appeals, Second Circuit.
+Argued: May 2, 2003.
+Decided September 18, 2003.
+KEVIN J. HARRINGTON, Harrington, Ocko & Monk, LLP, White Plains, NY, for Plaintiffs-Appellants.
+JAMES M. HERSHLER, Assistant Attorney General (Eliot Spitzer, Attorney General of the State of New York, Deon J. Nossel, Assistant Solicitor General, on the brief) for Defendants-Appellees.
+Before: WALKER, Chief Judge, MINER and LEVAL, Circuit Judges.
+JOHN M. WALKER, JR., Chief Judge.
+1
+Plaintiffs-Appellants Mario DiBlasio, M.D. and Mario DiBlasio, M.D., P.C. (collectively, "DiBlasio") appeal from a judgment entered by the United States District Court for the Southern District of New York (William H. Pauley, III,
+District Judge
+), dismissing on the pleadings various substantive and procedural due process claims brought against defendants Antonia C. Novello ("Novello") and Lisa Hampton ("Hampton") in their individual capacities.
+1
+The district court concluded that both defendants were shielded from DiBlasio's substantive due process claims by absolute immunity and that DiBlasio had failed to state a claim for a "stigma plus" procedural due process violation. We find that DiBlasio's substantive due process claims are not barred by absolute immunity and that the district court erred in dismissing the "stigma plus" claims. Accordingly, we vacate the district court's judgment and remand for further proceedings.
+BACKGROUND
+2
+In 1998, DiBlasio, a licensed radiologist, was hired by Radiologist Steven Bier, M.D., P.C. ("Bier"). Bier contracted with the Bronx Healthy Women Partnership to provide breast cancer screening services for its patients, who were largely underinsured women. DiBlasio worked as a "batch reader" of mammography films, meaning that he provided clinical interpretations of mammograms and had little or no contact with patients.
+3
+In March 2000, the New York State Department of Health ("N.Y. D.O.H." or "the department") launched an investigation of Bier's billing practices. In connection with that investigation, the department reviewed Bier's breast cancer detection rate. After concluding that Bier's detection rate was sufficiently low to warrant further scrutiny, the State Board for Professional Medical Conduct ("the Board") turned its attention to certain radiologists employed by Bier. On March 23, 2000, the Board assigned defendant Hampton, a department fraud investigator and the Director of the Medical Fraud Unit of the Office of Medical Professional Conduct ("OMPC"), to investigate DiBlasio's rate of error in detecting cancer. Following her investigation, Hampton recommended that the department temporarily suspend DiBlasio's physician's licence pursuant to the summary suspension procedures in New York Public Health Law § 230.
+4
+In the months leading up to DiBlasio's summary suspension, Hampton met with DiBlasio on two occasions. The first meeting, in April 2000, concerned billing irregularities at Bier P.C. The second meeting, and the one with which we are principally concerned, dealt with DiBlasio's own purported medical misconduct. On May 17, 2000, Hampton phoned DiBlasio to schedule the second meeting for either May 19 or May 22. DiBlasio chose May 22. On Saturday, May 20, 2000, DiBlasio received a letter from Hampton stating that he was being investigated for professional misconduct and that the May 22 meeting was related to that investigation. The letter made no mention of DiBlasio's right to be represented by counsel and DiBlasio attended the meeting unrepresented.
+5
+Three days later, on May 25, 2000, Novello summarily suspended DiBlasio's medical license pursuant to § 230(12)(a) and, through the Board, issued a Statement of Charges, specifying four instances of alleged professional misconduct. On May 31, 2000, Novello issued a press release and posted a statement on the N.Y. D.O.H. website, announcing DiBlasio's suspension and making assertions regarding DiBlasio's incompetence as a radiologist that DiBlasio now alleges were false and defamatory. A month later, on June 30, 2000, the department issued a second press release and a report claiming that DiBlasio's incompetence may have risen to the level of "criminality" and may have resulted in patient deaths.
+6
+On July 26, 2000, two months after DiBlasio's summary suspension from medical practice, a hearing committee of the OMPC began to evaluate whether DiBlasio's summary suspension should be continued pending the final resolution of the misconduct charges. Six months later, on December 18, 2000, the Committee announced its finding that no basis existed for the continued complete suspension of DiBlasio's medical license. The Committee suggested that, with the exception of mammography, he be permitted to practice radiology with supervision. Pursuant to her authority under § 230(12)(a), Novello rejected the hearing committee's recommendation and ordered the continuation of the complete suspension of DiBlasio's license.
+7
+On January 10, 2001, DiBlasio initiated Article 78 proceedings in state court. He claimed that Novello's disregard of the hearing committee's December 18, 2000 recommendation was arbitrary and capricious and sought an injunction barring Novello from enforcing the complete summary suspension of his physician's license. On January 25, 2001, the state court rejected DiBlasio's claim and denied his request for an injunction. However, on the following day, January 26, 2001, the hearing committee determined that the four misconduct charges against DiBlasio were unfounded and ordered the case dismissed pursuant to its authority under § 230(10).
+8
+DiBlasio brought this lawsuit in the Southern District of New York on May 25, 2001. He alleged substantive due process claims based on purported misconduct during the investigation and summary suspension proceedings, a procedural due process "stigma plus" claim based on Novello's allegedly defamatory statements, and various violations of New York State law.
+9
+On September 30, 2002, the district court dismissed all of DiBlasio's claims. The district court held that all claims brought against the N.Y. D.O.H. and Novello and Hampton in their official capacities were barred by the Eleventh Amendment; and that, with the exception of his "stigma plus" claim, DiBlasio's due process claims against Novello and Hampton in their individual capacities were barred by absolute immunity. The district court held that the "stigma plus" claim must be dismissed because Novello's statements were "random and unauthorized," and thus the only process due was a post-deprivation name-clearing hearing, which was satisfied by the hearing committee's final determination regarding his suspension and the availability of an Article 78 proceeding. Having dismissed DiBlasio's federal claims, the district court declined to exercise supplemental jurisdiction over his state claims and dismissed those as well.
+10
+DiBlasio filed a timely notice of appeal, challenging only the dismissal of his federal claims against Novello and Hampton in their individual capacities. DiBlasio does not appeal the dismissal of his complaint against the N.Y. D.O.H. or Novello and Hampton in their official capacities.
+DISCUSSION
+I.
+Rooker-Feldman
+11
+Defendants argue, at the outset, that the
+Rooker-Feldman
+doctrine deprived the district court of jurisdiction over DiBlasio's "as applied" due process claims because "the essential allegations" underlying that claim "were actually and necessarily decided in their prior Article 78 proceeding."
+See Rooker v. Fidelity Trust Co.,
+263 U.S. 413, 44 S.Ct. 149, 68 L.Ed. 362 (1923);
+Dist. of Columbia Court of Appeals v. Feldman,
+460 U.S. 462, 103 S.Ct. 1303, 75 L.Ed.2d 206 (1983). We agree with the district court that the
+Rooker-Feldman
+doctrine does not apply to this case.
+12
+We have observed that the scope of the
+Rooker-Feldman
+doctrine is at least as broad as the doctrines of claim and issue preclusion.
+See Moccio v. N.Y. State Office of Court Admin.,
+95 F.3d 195, 199 (2d Cir.1996). However, because "claim preclusion generally does not operate to bar a § 1983 suit following the resolution of an Article 78 proceeding,"
+Colon v. Coughlin,
+58 F.3d 865, 870 n. 3 (2d Cir.1995), the defendants must rely on issue preclusion to support their
+Rooker-Feldman
+argument. "Under New York law, the doctrine of issue preclusion only applies if (1) the issue in question was actually and necessarily decided in a prior proceeding, and (2) the party against whom the doctrine is asserted had a full and fair opportunity to litigate the issue in the first proceeding."
+Id.
+at 869 (footnote omitted).
+13
+The only issue decided in DiBlasio's Article 78 proceeding was whether, under the standards applicable to a preliminary injunction, DiBlasio demonstrated that Novello's decision to override the hearing committee's recommendation to modify the summary suspension was "arbitrary and capricious" pursuant to N.Y. C.P.L.R. 7803(3). Thus, although DiBlasio's Article 78 claim was based on many of the same facts underlying his federal constitutional claims, the claims are not comparable. Deciding the federal claims in DiBlasio's favor would not necessarily contradict the Article 78 court's determination that Novello's decision was not "arbitrary and capricious." Accordingly, we conclude the district court correctly held that DiBlasio's due process claims were not barred under
+Rooker-Feldman.
+II.
+Absolute Immunity
+14
+We next consider whether the district court erred in dismissing DiBlasio's substantive due process claim on the basis that Novello and Hampton had absolute immunity from suit. We find that the extension of absolute immunity to Novello and Hampton was improper and, accordingly, vacate the district court's order to the extent that it relied on a finding of absolute immunity and remand for further proceedings.
+15
+Courts have recognized two forms of immunity: absolute and qualified.
+See Buckley v. Fitzsimmons,
+509 U.S. 259, 268, 113 S.Ct. 2606, 125 L.Ed.2d 209 (1993). "The presumption is that qualified rather than absolute immunity is sufficient to protect government officials in the exercise of their duties," and hence courts are generally "quite sparing" in their recognition of absolute immunity.
+Burns v. Reed,
+500 U.S. 478, 486-87, 111 S.Ct. 1934, 114 L.Ed.2d 547 (1991) (citations omitted). Absolute immunity is accorded to judges and prosecutors functioning in their official capacities and, under certain circumstances, is also extended to officials of government agencies "performing certain functions analogous to those of a prosecutor" or a judge.
+Butz v. Economou,
+438 U.S. 478, 515, 98 S.Ct. 2894, 57 L.Ed.2d 895 (1978). In considering whether the procedures used by the agency are sufficiently similar to judicial process to warrant a grant of absolute immunity, we employ a "functional approach,"
+Cleavinger v. Saxner,
+474 U.S. 193, 201-02, 106 S.Ct. 496, 88 L.Ed.2d 507 (1985) (citing
+Harlow v. Fitzgerald,
+457 U.S. 800, 810, 102 S.Ct. 2727, 73 L.Ed.2d 396 (1982)), and look to whether the actions taken by the official are "functionally comparable" to that of a judge or a prosecutor,
+Butz,
+438 U.S. at 513, 98 S.Ct. 2894;
+see also Imbler v. Pachtman,
+424 U.S. 409, 423 n. 20, 96 S.Ct. 984, 47 L.Ed.2d 128 (1976);
+Young v. Selsky,
+41 F.3d 47, 51 (2d Cir.1994). Government actors who seek absolute immunity "bear the burden of showing that public policy requires an exemption of that scope."
+Butz,
+438 U.S. at 506, 98 S.Ct. 2894. However, once a court determines that an official was functioning in a core judicial or prosecutorial capacity, absolute immunity applies "however erroneous the act may have been, and however injurious in its consequences it may have proved to the plaintiff."
+Cleavinger,
+474 U.S. at 199-200, 106 S.Ct. 496 (internal quotations and citations omitted).
+16
+Whether the officials here functioned in a judicial or prosecutorial capacity requires us to briefly review the operation of New York Public Health Law § 230(10) and § 230(12)(a). Section 230 creates the OMPC, governs disciplinary proceedings concerning physicians suspected of misconduct, and establishes the conditions under which physicians' licenses can be suspended temporarily or permanently.
+See
+N.Y. Pub. Health Law § 230(10) & (12). Section 230 also governs the procedures the department must follow if it summarily suspends a physician's license prior to conducting a full investigation and hearing.
+See
+§ 230(12)(a).
+17
+Section 230(12)(a) authorizes the commissioner of the N.Y. D.O.H. to summarily suspend a license if, "after an investigation and a recommendation by [an investigative committee of the Board], based upon a determination that a licensee is causing, engaging in or maintaining a condition or activity which in the commissioner's opinion constitutes an imminent danger ... and that it therefore appears to be prejudicial... to delay action until an opportunity for a hearing can be provided." § 230(12)(a). Before summarily suspending a physician's license, the Board must also conduct an interview of the physician.
+See
+§ 230(10)(a)(iii). After a summary order issues, the Board, through a hearing committee, must commence hearing proceedings within ten days, "provided ... that the hearing shall be completed within ninety days," § 230(12)(a), and in these proceedings the committee must "first determine whether by a preponderance of the evidence, the licencee is ... engaging in a ... activity which constitutes an imminent danger to the health of the people,"
+id.
+The commissioner has authority to adopt the hearing committee's recommendation or to leave the summary order in effect pending final resolution of the case.
+See
+§ 230(12)(a). Section 230(12)(a) specifies that summary orders "shall be public upon issuance." § 230(12)(a).
+18
+In determining whether officials acting pursuant to § 230 should be granted absolute immunity we consider whether § 230's procedures governing summary suspension of physicians' licenses share enough of the "characteristics of the judicial process," and whether the officials themselves were functioning in a manner sufficiently analogous to a judge or prosecutor.
+See Butz,
+438 U.S. at 513, 98 S.Ct. 2894 (quotation marks and citations omitted). In evaluating the process itself, we assess the six factors outlined in
+Butz,
+that are "characteristic[] of the judicial process":
+19
+(a) the need to assure that the individual can perform his functions without harassment or intimidation; (b) the presence of safeguards that reduce the need for private damages actions as a means of controlling unconstitutional conduct; (c) insulation from political influence; (d) the importance of precedent; (e) the adversary nature of the process; and (f) the correctability of error on appeal.
+20
+Cleavinger,
+474 U.S. at 202, 106 S.Ct. 496 (citing
+Butz,
+438 U.S. at 512, 98 S.Ct. 2894).
+21
+In this case, two
+Butz
+factors weigh in favor of absolute immunity. With respect to whether the commissioner is insulated from political influence, DiBlasio contends that the commissioner of health "serves at the will of the Governor," and hence is subject to the fluctuations of political forces. Were this the case, we agree that it would be improper to characterize the commissioner as insulated from political influence. However, DiBlasio has provided no evidence that the commissioner is, in fact, subject to at will removal, and New York law is not clear on this point.
+Compare
+N.Y. Pub. Health Law § 204(1) ("[t]he commissioner shall be appointed by the governor, by and with the advice and consent of the senate and shall hold office until the end of the term [of that governor]...")
+with
+N.Y. Const., art. 5, § 4 (department heads "shall be appointed by the governor by and with the advice and consent of the senate and may be removed by the governor, in a manner prescribed by law"). For purposes of this appeal, we will assume that the commissioner is not removable at will and that such insulation from political influence weighs in favor of a grant of absolute immunity under
+Butz.
+Additionally, we do not doubt that suspension of a physician's license pursuant to § 230's summary procedures is likely to stimulate "harassment or intimidation" in the form of a litigious reaction from the disappointed physician, as evidenced by this lawsuit. Although these considerations are important, assessment of the remaining
+Butz
+factors convinces us that summary suspension pursuant to § 230 lacks sufficient similarity to the judicial process to warrant absolute immunity from suit for involved officials.
+22
+First, we find that § 230 inadequately protects physicians from wrongful deprivation of their professional licenses, the second
+Butz
+factor. Defendants emphasize those aspects of § 230 that serve to limit the N.Y. D.O.H.'s discretion in summary proceedings. For example, prior to summarily suspending a physician's license, the hearing committee must investigate the allegations of misconduct and make a recommendation regarding whether charges should be brought.
+See
+N.Y. Pub. Health Law § 230(12)(a). Hence, as the district court observed, the party seeking the summary suspension "is not part of the Commissioner's own staff [and its members] are appointed by either the Commissioner or the Board of Regents for terms of three years." In addition, the Board must conduct a pre-suspension interview with the physician, at which the physician may have counsel present and may submit written comments or expert opinion.
+See id.
+at § 230(10)(a)(iii). Finally, § 230 requires that the Board commence a hearing within ten days of the summary suspension, thus providing prompt post-deprivation review.
+See
+§ 230(12)(a).
+23
+Although these procedures provide some protection to physicians subjected to summary suspension proceedings, the efficacy of those procedures are seriously diminished by other features of § 230. First, by the terms of § 230, the Board's hearing committee has the power to suggest a course of action only, while the commissioner has the final authority to summarily suspend a physician's license.
+See
+§ 230(12)(a). Second, although the hearing committee must initiate suspension proceedings, the independence of that body is severely undermined by the commissioner's appointment and removal powers: eighty percent of the Board members and, derivatively, we can assume that approximately eighty percent of those on the hearing committee, are appointed by the commissioner herself,
+see
+§ 230(1), and can be removed at the commissioner's "pleasure,"
+see id.
+at § 230(3). Third, the post-deprivation hearing before the Board's hearing committee provides no real check on the commissioner's conduct because, under the statute, and as happened here, the commissioner is free to reject the hearing committee's recommendation that the suspension be lifted. In short, under § 230 the commissioner has virtually unfettered authority to determine whether a physician's license should be summarily suspended pending resolution of misconduct charges — a process that, in this case, took eight months. The absence of meaningful safeguards against arbitrary executive action in a summary suspension proceeding weigh against extending absolute immunity to Novello and Hampton.
+24
+Butz
+also requires us to consider whether a wrongful summary suspension is "correctabl[e] on appeal."
+Butz,
+438 U.S. at 512, 98 S.Ct. 2894. The district court reasoned that the hearing required by § 230(10)(f) and the availability of an Article 78 proceeding provide prompt review of a summary suspension, hence weighing in favor of absolute immunity. In the context of determining whether absolute immunity is appropriate, the hearing available under § 230, while providing an avenue for review of the charges themselves, provides no meaningful review of the summary suspension because, as happened here, the commissioner is free to ignore the hearing committee's recommendation. In addition, in the context of determining whether absolute immunity is appropriate, Article 78 proceedings are generally not considered adequate avenues for "appeal."
+See Young,
+41 F.3d at 54.
+25
+Finally, we also observe that § 230's procedures for the imposition and review of summary suspensions assign no value to precedent, nor are the procedures adversarial in nature — both of which weigh against absolute immunity under
+Butz. See
+438 U.S. at 512, 98 S.Ct. 2894. The defendants dispute the second point, and argue that the obligatory pre-suspension interview is an adversarial proceeding. We are unconvinced: Even though physicians are permitted to have an attorney present at the interview, and are allowed to present countervailing evidence, the interviews lack key elements of an adversarial proceeding, such as a neutral decision maker and evidentiary rules.
+Cf. Young,
+41 F.3d at 53-54. In sum, New York State's procedures governing summary suspensions lack the hallmarks and safeguards of a judicial proceeding that would render absolute immunity for those officials involved appropriate.
+2
+26
+Moreover, we find that, even if the summary process itself shared more characteristics with a judicial proceeding, neither Novello's nor Hampton's role in the summary suspension was sufficiently analogous to that of a judge or prosecutor, respectively, to warrant absolute immunity from suit. Novello should be accorded absolute immunity only if her role in the summary suspension proceeding is "functionally comparable to that of a judge."
+Butz,
+438 U.S. at 513, 98 S.Ct. 2894 (internal quotation marks and citations omitted). In
+Butz,
+the Court paid close attention to the role of an administrative law judge ("ALJ") under the Administrative Procedure Act ("APA"), and specifically asked whether the ALJ's function and authority is sufficiently similar to that of a judge. Does the official have authority to issue subpoenas, make evidentiary rulings, regulate the course of the hearing, and make or recommend decisions? More importantly, does she exercise judgment "free from pressures by the parties or other officials within the agency"?
+Butz,
+438 U.S. at 513-14, 98 S.Ct. 2894. In concluding that the ALJ's function was similar to that of a judge, the
+Butz
+Court distinguished the pre-APA system, under which "there was considerable concern that persons hearing administrative cases at the trial level could not exercise independent judgment because they were required to perform prosecutorial and investigative functions as well as their judicial work, and because they were often subordinate to executive officials within the agency."
+Id.
+at 513-14, 98 S.Ct. 2894 (citations omitted).
+27
+In this case, although the commissioner of the N.Y. D.O.H. has the ultimate authority to summarily suspend a physician's license, her functions otherwise do not resemble that of a judge. Defendants do not allege that the commissioner issued subpoenas in the instant case, or that she regulated the course of any hearings. As importantly, as agency head she appears to wear several hats in the course of a summary proceeding: overseer of the investigation, initiator of charges and summary proceedings, and final arbiter of the decision to impose and sustain the summary suspension of a physician's license. By blending the roles of investigator, prosecutor, and judge, § 230 unduly risks compromising the independence and neutrality of the commissioner's judgment, and abrogating the checking function achieved in the judicial system by separating investigative, prosecutorial, and judicial staffs.
+Cf. Young,
+41 F.3d at 53 (lack of insulation of Director of Special Housing and Inmate Disciplinary Programs from communication with hearing officers about a specific case significant factor in finding that absolute immunity does not attach).
+28
+Similarly, Hampton's role in the summary suspension process lacks sufficient resemblance to that of a prosecutor to warrant absolute immunity. The key to whether a prosecutor should be afforded absolute immunity is the degree to which the specific conduct at issue is "intimately associated with the judicial phase of the criminal process."
+Imbler,
+424 U.S. at 430, 96 S.Ct. 984;
+Burns,
+500 U.S. at 486, 111 S.Ct. 1934. In assessing whether absolute immunity should attach to a prosecutor, or an agency official claiming prosecutorial immunity, we have focused on the timing of the conduct at issue, drawing a distinction between the investigative and prosecutorial functions,
+see Buckley,
+509 U.S. at 274, 113 S.Ct. 2606 ("A prosecutor... is [not] an advocate before he has probable cause to have anyone arrested.");
+Hill v. City of New York,
+45 F.3d 653, 661 (2d Cir.1995) ("Before any formal legal proceeding has begun and before there is probable cause to arrest, ... a prosecutor receives only qualified immunity for his acts.") (citations omitted), and the authority of the individual claiming immunity to make the decision to initiate a prosecution,
+see Scotto v. Almenas,
+143 F.3d 105, 112 (2d Cir.1998) (where parole officer had no statutory authority to initiate parole revocation procedure, but could only recommend such action be taken by his superior, he is not acting in a prosecutorial function).
+29
+Defendants argue that the district court properly categorized Hampton's function as "prosecutorial" because DiBlasio's "allegations focused [on Hampton's] function[] in initiating the proceeding and assembling the evidence upon which plaintiffs were suspended." We disagree. Defendants have provided insufficient evidence to support a conclusion that Hampton performed her investigation before the OMPC decided to summarily suspend DiBlasio's license, and thus that her function can be analogized to the role of a prosecutor preparing for a grand jury or a trial.
+Cf. Buckley,
+509 U.S. at 273, 113 S.Ct. 2606 (to qualify for absolute immunity, a prosecutor's investigative activities "must include the professional evaluation of the evidence assembled by the police and appropriate preparation for its presentation at trial or before a grand jury
+after
+a decision to seek an indictment has been made") (emphasis added).
+30
+Moreover, even if Hampton's investigation occurred before the OMPC decided to initiate suspension proceedings, she would not be eligible for prosecutorial immunity because, as discussed above, § 230's summary procedures are not judicial in nature. Prosecutors are granted absolute immunity only for those functions that are "intimately associated with the judicial phase of the criminal process,"
+Imbler,
+424 U.S. at 430, 96 S.Ct. 984, in part because absolute immunity is designed to "free[] the judicial process of the harassment or intimidation" associated with collateral litigation,
+Forrester v. White,
+484 U.S. 219, 226, 108 S.Ct. 538, 98 L.Ed.2d 555 (1988). Because summary suspension proceedings conducted pursuant to § 230 are not judicial in nature, Hampton's investigative work was not "intimately associated" with a judicial proceeding.
+31
+Finally, Hampton, as an investigator, lacked the authority to initiate charges against a physician,
+see
+N.Y. Pub. Health Law § 230(10)(a)(iv) (after an investigation is conducted and after the director of the OMPC obtains the concurrence of a majority of an investigation committee, consults with the executive secretary, and "determines that a hearing is warranted[,] the
+director shall
+... direct counsel to prepare the charges") (emphasis added), and had no authority to trigger summary proceedings,
+see
+§ 230(12)(a) (commissioner has authority to summarily suspend physician's license "after an investigation and a
+recommendation by a committee on professional conduct
+") (emphasis added). Thus, the statutory limitations on Hampton's authority counsel against granting her prosecutorial immunity.
+32
+In light of the fact that the summary procedures provided in § 230 are insufficiently similar to a judicial proceeding to warrant absolute immunity, and that neither Novello's nor Hampton's role in the summary suspension was "functionally comparable" to that of a judge or prosecutor, we conclude the district court erred in granting them absolute immunity.
+III.
+Stigma Plus
+33
+DiBlasio's complaint alleges that Novello's statements to the press on May 31, 2000 and June 30, 2000 are actionable as a component of a "stigma plus" violation. "Stigma plus" refers to a claim brought for injury to one's reputation (the stigma) coupled with the deprivation of some "tangible interest" or property right (the plus), without adequate process.
+See Paul v. Davis,
+424 U.S. 693, 701-02, 711-12, 96 S.Ct. 1155, 47 L.Ed.2d 405 (1976);
+Neu v. Corcoran,
+869 F.2d 662, 667 (2d Cir.1989). Although it is clear that defamation "plus" loss of government employment satisfies the
+Paul
+"plus factor," we have also observed that, outside that context, "it is not entirely clear what the `plus' is."
+Neu,
+869 F.2d at 667. For purposes of this appeal, we need not consider this issue because, in the proceedings before the district court, defendants apparently conceded that Novello's allegedly defamatory statements to the press deprived DiBlasio of his "tangible interest" in the practice of medicine, but argued that DiBlasio's post-deprivation hearing satisfied due process requirements.
+34
+The district court agreed, determining that Novello's allegedly defamatory statements were "random and unauthorized," and hence that only a post-deprivation hearing was required. The court further found that the Article 78 proceeding and the hearing committee's proceedings provided adequate post-deprivation name-clearing hearings.
+See Hellenic Am. Neighborhood Action Comm. v. City of New York,
+101 F.3d 877, 880 (2d Cir.1996). On that basis, the court dismissed DiBlasio's "stigma plus" claim. We conclude that the district court erred in finding that the conduct of a high-ranking official such as Novello was "random and unauthorized" and accordingly remand for further proceedings.
+35
+Generally, due process requires that a state afford persons "some kind of hearing" prior to depriving them of a liberty or property interest.
+See Hodel v. Va. Surface Mining & Reclamation Ass'n,
+452 U.S. 264, 299, 101 S.Ct. 2352, 69 L.Ed.2d 1 (1981). However, due process does not require the impossible.
+See Zinermon v. Burch,
+494 U.S. 113, 128-29, 110 S.Ct. 975, 108 L.Ed.2d 100 (1990). Where a deprivation at the hands of a government actor is "random and unauthorized," hence rendering it impossible for the government to provide a pre-deprivation hearing, due process requires only a post-deprivation proceeding.
+See Parratt v. Taylor,
+451 U.S. 527, 541, 101 S.Ct. 1908, 68 L.Ed.2d 420 (1981) (loss of a prisoner's mail-order product was a negligent, random, and unauthorized act by a prison employee, and hence a post-deprivation tort suit was sufficient to satisfy due process);
+see also Hudson v. Palmer,
+468 U.S. 517, 534, 104 S.Ct. 3194, 82 L.Ed.2d 393 (1984) (only post-deprivation remedy is required following intentional destruction of an inmate's personal property by a prison guard, because the state was not "in a position to provide for predeprivation process").
+36
+We have determined, however, that the "random and unauthorized" exception to the requirement of a pre-deprivation hearing does not apply where the government actor in question is a high-ranking official with "final authority over significant matters."
+Burtnieks v. City of New York,
+716 F.2d 982, 988 (2d Cir.1983);
+see also Dwyer v. Regan,
+777 F.2d 825, 832 (2d Cir.1985). In
+Dwyer,
+we explicitly distinguished
+Hudson
+and
+Parratt
+as involving "lower-echelon state employees,"
+Dwyer,
+777 F.2d at 832, and in
+Burtnieks
+reasoned that categorizing acts of high-level officials as "random and unauthorized" makes little sense because the state acts through its high-level officials,
+see Burtnieks,
+716 F.2d at 988.
+37
+Relying on
+Dwyer
+and
+Burtnieks,
+DiBlasio argues that the district court erred in finding that the "random and unauthorized" exception applied to Novello's various purportedly defamatory statements. We agree. The commissioner of the N.Y. D.O.H. is a high-level state official with final authority on many department matters, including the content of press releases and her own statements in press conferences. Moreover, pursuant to § 230(12)(a), summary suspensions are public upon issuance. Under such circumstances, it would make little sense to characterize her public statements as "random and unauthorized."
+38
+Defendants argue that, to the extent that Novello's statements were false and malicious, she clearly exceeded her authority and, at least to that extent, her statements were random and unauthorized because such statements violated state law. This argument is unpersuasive because defendants misconstrue the meaning of "unauthorized" as that term is used in
+Parratt
+and
+Hudson.
+In
+Zinermon,
+the Supreme Court clarified the meaning of "unauthorized," explaining that where a state "delegate[s] to [the defendants] the power and authority to effect the very deprivation complained of[,] and also delegate[s] to them the concomitant duty to initiate the procedural safeguards set up by state law to guard against unlawful [deprivation]," abuse of that authority is not considered "random and unauthorized" as that phrase is used in
+Parratt
+and
+Hudson. Zinermon,
+494 U.S. at 138, 110 S.Ct. 975. In response to the dissenters' suggestion that "departures from otherwise unimpugned and established state procedures" are necessarily "unauthorized,"
+id.
+at 141, 110 S.Ct. 975 (O'Connor, J., dissenting), the
+Zinermon
+majority further explained that "
+Parratt
+and
+Hudson
+... do not stand for the proposition that in every case where a deprivation is caused by an `unauthorized departure ... from established practices,... state officials can escape § 1983 liability simply because the State provides [a post-deprivation review in the form of a] tort remed[y].'"
+Id.
+at 138 n. 20, 110 S.Ct. 975.
+39
+In the instant case, Novello had the authority to summarily suspend DiBlasio's license, and had the duty as commissioner to ensure that the department followed the prescribed procedures governing summary suspensions. Accordingly, any abuse of that authority that rose to the level of a due process violation cannot be considered "random and unauthorized." The fact that some of her statements were defamatory or otherwise in violation of state law does not, under the circumstances here, render them "unauthorized," as that term is understood in the applicable case law.
+40
+To the extent that defendants argue that our holding in
+Komlosi v. New York State Office of Mental Retardation and Developmental Disabilities
+supports a contrary view, they are mistaken.
+See
+64 F.3d 810 (2d Cir.1995). In
+Komlosi,
+the plaintiff waived his right to a "name-clearing hearing" — an arbitration that would have been held
+prior
+to the publication of the defamatory statements.
+Id.
+at 818. Hence, the
+Komlosi
+court did not even consider the issue of whether a post-deprivation name-clearing hearing was sufficient.
+See id.
+3
+41
+Finally, defendants argue that, quite aside from whether Novello's statements were random and unauthorized, the post-deprivation procedures available in this case were adequate because of the emergency nature of the situation and the need to inform the public of purported dangers posed by DiBlasio's practice of radiology. We do not take issue with the proposition that, under certain emergency circumstances, a post-deprivation hearing is all that is required to satisfy due process.
+See, e.g., Hodel,
+452 U.S. at 299-300 & 303, 101 S.Ct. 2352 (where statute authorizes Secretary of Interior to order cessation of mining operation upon discovery of immediate danger, provision for a post-deprivation hearing within five days satisfies due process). However, the issue of whether DiBlasio's alleged misconduct was or was not an emergency, and the necessity of calling the public's attention to DiBlasio's summary suspension in order to address that purported emergency, involves a disputed issue of fact that is inappropriate to consider in the context of a Rule 12(b)(6) motion.
+See Burtnieks,
+716 F.2d at 988 ("Under
+Parratt,
+before reaching the question of the adequacy of the state remedies, a court must first find the necessity of quick action [due to an emergency] or the impracticality of providing any predeprivation process.") (internal quotation marks omitted). Even if a proper exercise of caution justified an immediate pre-hearing suspension of DiBlasio, so as to protect the public, it is more difficult to justify the pre-hearing issuance of a press release containing stigmatizing statements about him. DiBlasio was a spot reader and had no contact with patients. Because of his anonymity among patients, notifying the public of his suspension would serve little purpose: Women whose mammograms he read in the past would not know to be re-screened and, in the unlikely event that DiBlasio were to attempt to practice during the suspension period, women seeking screening would not know to find a different radiologist to read their mammograms.
+42
+For the foregoing reasons, we conclude that the district court erred in finding that Novello's conduct was "random and unauthorized," and hence erred in dismissing DiBlasio's claim alleging a "stigma plus" due process violation on that basis.
+43
+Because the district court dismissed all of DiBlasio's § 1983 claims, it declined to exercise supplemental jurisdiction over his state law claims. As we have reinstated DiBlasio's § 1983 claims against Novello and Hampton in their individual capacities, we also reinstate DiBlasio's state law claims.
+CONCLUSION
+44
+For the foregoing reasons, we VACATE the district court's dismissal of DiBlasio's claims against Novello and Hampton in their individual capacities, VACATE the dismissal of DiBlasio's state law claims, and REMAND for further proceedings. Costs to plaintiffs.
+Notes:
+1
+DiBlasio also asserted all of his claims against Novello and Hampton in their official capacities and against the State of New York Department of Health. The district court held that all such claims were barred by the Eleventh Amendment and dismissed them pursuant to Fed.R.Civ.P. 12(b)(1). DiBlasio does not appeal that ruling
+2
+Although several circuits have found that medical board examiners have judicial immunity from suits brought against them for their conduct in license suspension proceedings,
+see, e.g., Mishler v. Clift,
+191 F.3d 998 (9th Cir.1999);
+Ostrzenski v. Seigel,
+177 F.3d 245 (4th Cir.1999);
+O'Neal v. Miss. Bd. Of Nursing,
+113 F.3d 62 (5th Cir.1997);
+Wang v. N.H. Bd. of Registration in Med.,
+55 F.3d 698 (1st Cir.1995);
+Watts v. Burkhart,
+978 F.2d 269 (6th Cir.1992) (en banc);
+Bettencourt v. Bd. of Registration in Med.,
+904 F.2d 772 (1st Cir. 1990);
+Horwitz v. State Bd. of Med. Exam'rs,
+822 F.2d 1508 (10th Cir.1987), the defendants' heavy reliance on these cases is misplaced. Medical license suspension procedures vary, and the procedures at issue in those cases generally provide physicians much greater protection from erroneous deprivation than New York's procedure regulating summary suspension of medical licenses.
+3
+Defendants also rely on
+Hellenic,
+101 F.3d 877, for the proposition that the random and unauthorized exception set forth in
+Parratt
+and
+Hudson
+applies in the instant case. Such reliance is misplaced. In
+Hellenic,
+a city contractor was effectively blacklisted from city procurements by directives issued by the director of the Mayor's office of contracts and the City's chief procurement officer.
+See
+101 F.3d at 879. We found that such conduct was "random and unauthorized," and that therefore the availability of a post deprivation hearing satisfied due process requirements. We did not find that the contracts officer had "final authority over significant matters,"
+Burtnieks,
+716 F.2d at 988, nor is there any indication that the parties in that case raised the issue of the contract or procurement officers' final authority.
+CC∅
+| Transformed by
+Public.Resource.Org

@@ -1,0 +1,789 @@
+Case: 23-20604         Document: 96-1        Page: 1     Date Filed: 12/19/2024
+
+
+
+
+           United States Court of Appeals
+                for the Fifth Circuit                                        United States Court of Appeals
+                                ____________                                          Fifth Circuit
+
+                                                                                    FILED
+                                 No. 23-20604                               December 19, 2024
+                                ____________
+                                                                               Lyle W. Cayce
+                                                                                    Clerk
+A.B.; R.J.; J.F.; P.P.; A.E.; Jane Doe,
+
+                                                             Plaintiffs—Appellees,
+
+                                       versus
+
+Salesforce, Incorporated,
+
+                                          Defendant—Appellant.
+                 ______________________________
+
+                Appeals from the United States District Court
+                     for the Southern District of Texas
+                 USDC Nos. 4:20-CV-1254, 4:20-CV-1256,
+                        4:20-CV-1516, 4:21-CV-2856
+                ______________________________
+
+Before Willett and Douglas, Circuit Judges, and Morales, District
+Judge.
+David S. Morales, District Judge:
+       This interlocutory appeal centers around section 230 of the
+Communications Decency Act. Plaintiffs, a group of sex-trafficking victims,
+were trafficked through advertisements posted on Backpage.com, an online
+advertisement forum. They sued Salesforce, a company that provided cloud-
+
+       _____________________
+       
+          United States District Judge for the Southern District of Texas, sitting by
+designation.
+ Case: 23-20604         Document: 96-1         Page: 2      Date Filed: 12/19/2024
+
+
+
+
+                                     No. 23-20604
+
+
+based software tools and related support services to Backpage. Salesforce
+moved for summary judgment on the grounds that section 230 bars Plaintiffs’
+claims. Because Plaintiffs’ claims do not treat Salesforce as the publisher or
+speaker of third-party content, Salesforce cannot avail itself of section 230’s
+grant of immunity. Accordingly, we AFFIRM the district court’s denial of
+summary judgment and REMAND for further proceedings consistent with
+this opinion.
+                                           I
+        Salesforce is a business-software company that provides cloud-based
+customer-relationship-management               (“CRM”)         technology.       Unlike
+traditional CRM technology, Salesforce’s software allows businesses to
+dispense with rolodexes,1 physical files, CDs, or local databases and instead
+organize their customer data on Salesforce’s servers. All types of businesses
+use this software, and Salesforce is the world’s largest CRM-software
+provider.
+        Backpage was a Craigslist-style online advertisement forum. But it did
+not just provide a forum for advertising the sale of your couch before a big
+move—the website also included advertisements for erotic dancers and
+escort services. In fact, during a 2017 Senate investigation, Backpage did not
+deny that its site was used for criminal activity, including the sale of children
+for sex. That investigation eventually found that Backpage knowingly
+facilitated both prostitution and child sex trafficking, and had concealed
+evidence of criminal activity on its platform. Ultimately, the Department of
+Justice seized Backpage, and in 2018, Backpage pled guilty to human
+trafficking.
+
+        _____________________
+        1
+         “Rolodex” is a genericized portmanteau referring to a desktop card index used to
+record names, addresses, and telephone numbers.
+
+
+
+
+                                                2
+ Case: 23-20604            Document: 96-1         Page: 3       Date Filed: 12/19/2024
+
+
+
+
+                                       No. 23-20604
+
+
+        Sometime in 2012 or 2013, Backpage contacted Salesforce about
+starting a business relationship. Salesforce employees began communicating
+with Backpage employees and learned about Backpage’s process and
+priorities. The conversations ranged from granular details about the scope of
+the potential relationship and the services Salesforce would provide to
+general communications about Backpage’s business. As negotiations
+progressed, the Salesforce executive team was keen on receiving updates
+about the deal. Ultimately, Salesforce and Backpage entered a contract in late
+2013. The business relationship lasted until December 2018.
+        While Salesforce was providing its CRM software to Backpage,
+Plaintiffs A.B. and J.F. were trafficked through advertisements posted on
+Backpage for the Houston geographic area.2 In or around 2014, A.B. was sold
+for unlawful sex acts through force, fraud, and coercion. In or around 2018,
+J.F. was sold for unlawful sex acts by any means.
+        Plaintiffs sued Salesforce in the Southern District of Texas. Plaintiffs
+allege that Salesforce violated the Trafficking Victims Protection Act3 and
+chapter 98 of the Texas Civil Practice and Remedies Code.4 The thrust of the
+complaint is that by supplying its tools, support, and resources to Backpage,
+Salesforce knowingly facilitated sex trafficking and directly enabled Backpage
+to function.
+        Salesforce first moved to dismiss, arguing, inter alia, that section 230
+shielded it from liability. The district court denied the motion with respect to
+the section-230 question and allowed limited discovery on that issue.
+
+        _____________________
+        2
+          These allegations are taken from a representative complaint that is also
+referenced by Plaintiffs on appeal.
+        3
+            18 U.S.C. § 1595.
+        4
+         Five of the six Plaintiffs also alleged conspiracy, negligence, and gross negligence.
+The district court dismissed those common-law claims, so they are not before the panel.
+
+
+
+
+                                                  3
+Case: 23-20604         Document: 96-1        Page: 4    Date Filed: 12/19/2024
+
+
+
+
+                                   No. 23-20604
+
+
+       When limited discovery concluded, Salesforce moved for summary
+judgment on the section-230 issue. The district court denied the motion,
+holding that section 230 does not shield Salesforce because Plaintiffs’ claims
+do not treat Salesforce as a publisher or speaker of third-party content.
+       After denying Salesforce’s motion for summary judgment, the district
+court sua sponte certified its order for interlocutory appeal. In its certification
+order, the court identified three controlling questions of law on which there
+may be substantial grounds for difference of opinion:
+   1. Is Salesforce a provider of an “interactive computer service” such
+       that it qualifies as an entity entitled to the protection of section 230’s
+       immunity provisions?
+   2. Do Plaintiffs’ claims treat Salesforce as a publisher or speaker such
+       that it can invoke the immunity provisions of section 230?
+   3. If Salesforce is (a) a provider of “interactive computer services,” and
+       (b) is treated as a publisher or speaker by Plaintiffs’ claims, may
+       Plaintiffs nevertheless proceed with their federal and state law claims
+       under the Fight Online Sex Trafficking Act’s exemption to section-
+       230 immunity?
+       A panel of our court granted leave to file an interlocutory appeal, and
+we now review the controlling questions of law de novo. Overdam v. Texas
+A&M Univ., 43 F.4th 522, 526 (5th Cir. 2022) (per curiam) (first citing
+Yamaha Motor Corp., U.S.A. v. Calhoun, 516 U.S. 199, 205 (1996); and then
+citing McMillan v. Amazon.com, Inc., 983 F.3d 194, 198 (5th Cir. 2020)).
+                                        II
+       Our “jurisdiction is not confined to the precise question[s] certified
+by the lower court[.]” Hernandez v. Results Staffing, Inc., 907 F.3d 354, 363
+(5th Cir. 2018) (quoting United States v. Stanley, 483 U.S. 669, 677 (1987)).
+Because we can resolve this appeal by answering only the second certified
+
+
+
+
+                                             4
+ Case: 23-20604            Document: 96-1          Page: 5        Date Filed: 12/19/2024
+
+
+
+
+                                        No. 23-20604
+
+
+question, we do just that. See Dobbs v. Jackson Women’s Health Org., 597 U.S.
+215, 348 (2022) (Roberts, C.J., concurring in the judgment) (“If it is not
+necessary to decide more to dispose of a case, then it is necessary not to
+decide more.”).
+                                             III
+              “Whenever a man publishes, he publishes at his peril.”5
+        That axiom no longer rings true in the internet era. In 1996, Congress
+enacted section 230(c)(1) of the Communications Decency Act: “No
+provider or user of an interactive computer service shall be treated as the
+publisher or speaker of any information provided by another information
+content provider.” 47 U.S.C. § 230(c)(1). With only twenty-six words,
+Congress fundamentally altered the landscape of liability for publishing
+content online.
+        Section 230 provides immunity when the defendant is (1) the provider
+or user of an interactive computer service and (2) treated as the publisher or
+speaker of third-party content.6 Id. We address only the second requirement.
+        Salesforce—standing            accused     of    knowingly      benefiting    from
+participation in a sex-trafficking venture in violation of 18 U.S.C. § 1595 and
+Texas Civil Practice and Remedies Code § 98.002—argues that section 230
+cloaks it with immunity because Plaintiffs’ claims “necessarily” treat it as
+the publisher or speaker of advertisements posted on Backpage. We disagree.
+        The text of section 230, our precedent, and the precedent of our sister
+circuits uniformly reject the argument Salesforce advances. Instead, the
+
+        _____________________
+        5
+            The King v. Woodfall, 98 Eng. Rep. 914, 916 (1774).
+        6
+          While courts sometimes break (2) into constitutive parts (i.e., publisher or
+speaker and third-party content), the parties briefed the issues in line with this phrasing.
+
+
+
+
+                                                   5
+Case: 23-20604        Document: 96-1       Page: 6     Date Filed: 12/19/2024
+
+
+
+
+                                  No. 23-20604
+
+
+proper standard is whether the duty the defendant allegedly violated derives
+from their status as a publisher or speaker or requires the exercise of
+functions traditionally associated with publication. Under this standard,
+Plaintiffs’ claims do not treat Salesforce as a publisher or speaker of third-
+party content. Accordingly, Salesforce cannot avail itself of section-230
+immunity.
+                                       A
+       “As always, we start with the text.” Campos-Chaves v. Garland, 144 S.
+Ct. 1637, 1647 (2024) (citing Bartenwerfer v. Buckley, 598 U.S. 69, 74 (2023)).
+Section 230 plainly provides that no interactive computer service “shall be
+treated as the publisher or speaker” of third-party content. 47 U.S.C.
+§ 230(c)(1).
+       A “careful exegesis of the statutory language” reveals that the central
+inquiry is whether a claim treats the defendant as a publisher or speaker.
+Barnes v. Yahoo!, Inc., 570 F.3d 1096, 1100 (9th Cir. 2009) (citing Fair Hous.
+Council of San Fernando Valley v. Roommates.Com, LLC, 521 F.3d 1157, 1171
+(9th Cir. 2008) (en banc)). By focusing on the phrase “treated as the
+publisher or speaker,” we maintain fidelity to the statute Congress enacted—
+extending section-230 immunity no further than the text requires. Estate of
+Bride ex rel. Bride v. Yolo Techs., Inc., 112 F.4th 1168, 1175–76 (9th Cir. 2024)
+(citing Doe v. Internet Brands, Inc., 824 F.3d 846, 853 (9th Cir. 2016)).
+       Our precedent aligns with this common-sense reading of section 230’s
+text. In Doe v. MySpace, Inc., we adopted a functional, claims-analysis
+approach to the question of whether a plaintiff’s claim treats a defendant as
+a publisher or speaker of third-party content. 528 F.3d 413 (5th Cir. 2008).
+There, the plaintiff sued MySpace on a negligence theory of liability, alleging
+“fail[ure] to implement basic safety measures to prevent sexual predators
+from communicating with minors on its [web]site.” Id. at 416. We affirmed
+
+
+
+
+                                           6
+Case: 23-20604        Document: 96-1       Page: 7     Date Filed: 12/19/2024
+
+
+
+
+                                  No. 23-20604
+
+
+the district court’s dismissal of the plaintiff’s claims on section-230-
+immunity grounds. Id. at 422. Although the plaintiff argued the claims did
+not seek to treat MySpace as a “publisher,” but rather to hold MySpace
+responsible for its own conduct, we affirmed the district court’s conclusion
+that this was simply “artful pleading.” Id. at 419–20. Looking at the specific
+claims the plaintiff advanced, we found—by reference to sister circuit
+decisions—that the plaintiff sought to hold MySpace “liable for decisions
+relating to the monitoring, screening, and deletion of content from its
+network—actions quintessentially related to a publisher’s role.” Id. at 420
+(quoting Green v. Am. Online (AOL), 318 F.3d 465, 471 (3d Cir. 2003)
+(internal quotation marks omitted)). This meant that “[t]heir allegations
+[were] merely another way of claiming that MySpace was liable for publishing
+the communications and they [spoke] to MySpace’s role as a publisher of
+online third-party-generated content.” Id. Accordingly, section 230 barred
+the claims. Id.
+       Although much has changed in the sixteen years since we decided
+MySpace, one thing has remained constant: the text of section 230. To the
+extent that our cases since MySpace have understood the section-230 analysis
+as focusing on the specific claims and allegations advanced by a plaintiff,
+those cases have remained faithful to the text of the statute Congress enacted.
+See, e.g., Free Speech Coal., Inc. v. Paxton, 95 F.4th 263, 284–87 (5th Cir.
+2024) (using a claims-analysis approach to distinguish “speaker-liability”
+from liability under Texas statute regulating the knowing and intentional
+publication or distribution of sexual material harmful to minors), cert. granted,
+144 S. Ct. 2714 (2024); Diez v. Google, Inc., 831 F. App’x 723, 724 (5th Cir.
+2020) (per curiam) (“[Section] 230 creates federal immunity to any cause of
+action that would make internet service providers liable for [third-party
+content].” (emphasis added) (internal citations omitted)).
+
+
+
+
+                                           7
+Case: 23-20604        Document: 96-1       Page: 8     Date Filed: 12/19/2024
+
+
+
+
+                                  No. 23-20604
+
+
+       In contrast to our claims-analysis approach, we have rejected a
+mechanical, but-for reading of section 230. See Paxton, 95 F.4th at 286. A
+but-for test that asks whether third-party speech lies anywhere in the chain
+of causation leading to the alleged harm would expand section-230 immunity
+beyond the statute’s text. See Yolo, 112 F.4th at 1176 n.2 (citing Internet
+Brands, 824 F.3d at 853). Such a test would align more with a statute that
+read “shall be held liable for conduct involving third-party speech.” But that
+is not the statute Congress enacted. See 47 U.S.C. § 230(c)(1).
+       In Paxton, we rejected the plaintiffs’ misguided reading of MySpace
+that was akin to a but-for analysis of section 230’s publisher-or-speaker
+question. 95 F.4th at 286. There, the plaintiffs argued that MySpace stood for
+the proposition that “Congress provided broad immunity under the
+[Communications Decency Act] to Web-based service providers for all
+claims stemming from their publication of information created by third
+parties.” Id. (quoting MySpace, 528 F.3d at 418) (emphasis added by
+plaintiffs). We concluded this interpretation—which would impute a but-for
+test into section 230—missed the point. See id. Instead, “[t]he emphasis,
+properly placed, would read ‘Congress provided broad immunity under the
+[Communications Decency Act]to Web-based service providers for all claims
+stemming from their publication of information created by third parties . . . .’”
+Id. (quoting MySpace, 528 F.3d at 418) (emphasis in original). In other words,
+the emphasis, properly placed, would emphasize whether claims treat a
+defendant as a publisher or speaker, not whether third-party speech lies
+somewhere in the chain of causation.
+
+
+
+
+                                           8
+ Case: 23-20604         Document: 96-1          Page: 9      Date Filed: 12/19/2024
+
+
+
+
+                                      No. 23-20604
+
+
+                                           B
+        Although we have not explicitly recognized as much, the MySpace
+analytical framework mirrors that of other federal courts—both sister circuits
+and district courts within our circuit.7
+        To determine whether a claim treats a defendant as a publisher or
+speaker, these courts look to the nature of the claim and the duties the
+plaintiff seeks to impose on the defendant. “To put it another way, courts
+must ask whether the duty that the plaintiff alleges the defendant violated
+derives from the defendant’s status or conduct as a ‘publisher or speaker.’”
+Barnes, 570 F.3d at 1102. For example, if the claim seeks to hold the
+defendant liable for “deciding whether to publish, withdraw, postpone or
+alter content[,]” the claim treats the defendant as a publisher or speaker and
+is barred by section 230. Zeran, 129 F.3d at 330.
+        In making this determination, a court can hypothesize what would
+happen if the allegations were true and the defendant were found liable. See
+Force v. Facebook, Inc., 934 F.3d 54, 82 (2d Cir. 2019) (Katzmann, C.J.,
+concurring in part and dissenting in part); Yolo, 112 F.4th at 1176. A court
+may “look . . . to what the duty at issue actually requires: specifically,
+whether the duty would necessarily require an internet company to monitor[,
+alter, or remove] third-party content.” Force, 934 F.3d at 83 (Katzmann, C.J.,
+concurring in part and dissenting in part) (quoting HomeAway.com, Inc., v.
+City of Santa Monica, 918 F.3d 676, 682 (9th Cir. 2019)). If it would, then the
+claim is barred by section 230. Id. This thought experiment serves a limited—
+
+        _____________________
+        7
+         E.g., Barnes, 570 F.3d at 1102; Zeran, 129 F.3d at 332–33; Jane Doe No. 1 v.
+Backpage.com, LLC, 817 F.3d 12, 19 (1st Cir. 2016); Fed. Trade Comm’n v. Match Grp., Inc.,
+No. 3:19-CV-2281, 2022 WL 877107, at *8–9 (N.D. Tex. Mar. 24, 2022) (Kinkeade, J.);
+Doe (S.M.A.) v. Salesforce, Inc., No. 3:23-CV-0915, 2024 WL 1337370, at *8
+(N.D. Tex. Mar. 28, 2024) (Boyle, J.).
+
+
+
+
+                                                9
+Case: 23-20604         Document: 96-1      Page: 10     Date Filed: 12/19/2024
+
+
+
+
+                                   No. 23-20604
+
+
+yet critical—purpose: it helps a court detect when a plaintiff has engaged in
+the kind of artful pleading MySpace prohibits. 528 F.3d at 419–20. If courts
+did not reach a plaintiff’s specific factual allegations and the implications of
+those allegations, we would struggle to detect claims that seek to avoid
+section 230’s grant of immunity by artfully pleading their allegations in terms
+of negligence or any other duty not traditionally associated with publication.
+See id.
+          Like we did in MySpace and Paxton, other federal courts have rejected
+a mechanical approach to the publisher-or-speaker question. In MySpace, we
+held that a plaintiff cannot artfully plead around section 230 by casting their
+claims in terms of first-party conduct when they really seek to enforce a duty
+traditionally associated with publication. 528 F.3d at 420. In other words, it
+does not matter whether the plaintiff styles the claims in terms of publication.
+See id. It similarly does not matter whether publication is an explicit element
+of the plaintiff’s claim. Force, 934 F.3d at 64 n.18. And critically, like we held
+in Paxton, the fact that third-party speech is involved somewhere in the chain
+of causation that led to a plaintiff’s injuries does not mean that a plaintiff’s
+claims necessarily treat a defendant as a publisher or speaker of that third-
+party speech. Internet Brands, 824 F.3d at 853; Force, 934 F.3d at 82
+(Katzmann, C.J., concurring in part and dissenting in part); G.G. v.
+Salesforce.com, Inc., 76 F.4th 544, 567 (7th Cir. 2023).
+          This last point warrants some emphasis: the text of section 230 “does
+not mandate a ‘but-for test that would provide immunity . . . solely because a
+cause of action would not otherwise have accrued but for the third-party
+content.’” Force, 934 F.3d at 82 (Katzmann, C.J., concurring in part and
+dissenting in part) (quoting HomeAway.com, Inc., 918 F.3d at 682); accord
+Paxton, 95 F.4th at 286; G.G., 76 F.4th at 567. In other words, section 230
+“does not provide a general immunity against all claims derived from third-
+party content.” Internet Brands, 824 F.3d at 853; see also Calise v. Meta
+
+
+
+
+                                           10
+Case: 23-20604       Document: 96-1         Page: 11   Date Filed: 12/19/2024
+
+
+
+
+                                  No. 23-20604
+
+
+Platforms, Inc., 103 F.4th 732, 742 (9th Cir. 2024) (“[I]t is not enough that a
+claim, including its underlying facts, stems from third-party content for § 230
+immunity to apply.”). Accordingly, providers of interactive computer
+services may be held liable for speech or conduct “that is properly
+attributable to them[,]” even if third-party speech exists somewhere
+upstream. Nemet Chevrolet, Ltd. v. Consumeraffairs.com, Inc., 591 F.3d 250,
+254 (5th Cir. 2009); see also Anderson v. TikTok, Inc., 116 F.4th 180, 184
+(3d Cir. 2024).
+                                       C
+       The heart of Salesforce’s argument is that section 230 grants
+Salesforce broad immunity in all cases arising from the publication of third-
+party content. According to Salesforce, because the only link between
+Salesforce and Plaintiffs’ sex-trafficking-related harms is the illicit ads their
+traffickers posted on Backpage, Plaintiffs necessarily seek to treat Salesforce
+as the publisher or speaker of those ads.
+       Although some daylight may peek through between Salesforce’s
+theory of section 230—let’s call it the only-link theory—and a but-for
+analysis, we close the blinds on its theory for two reasons.
+       First, like the but-for analysis, the only-link theory would expand the
+grant of immunity beyond section 230’s text. Yolo, 112 F.4th at 1176 n.2
+(citing Internet Brands, 824 F.3d at 853). Under this theory, any time third-
+party content is the only link in the chain of causation, section 230 provides
+immunity—encompassing vastly more than claims that seek to treat a
+defendant as a publisher or speaker of third-party content. The propriety of
+such an extension raises interesting questions. The internet—and the
+world—have changed in numerous ways since 1996. Indeed, “cloud-based”
+only recently attained any non-meteorological significance. Whether this
+warrants an expansion (or contraction) in the scope of section-230 immunity
+
+
+
+
+                                            11
+Case: 23-20604           Document: 96-1          Page: 12       Date Filed: 12/19/2024
+
+
+
+
+                                       No. 23-20604
+
+
+is not clear. But one thing is clear: any changes are for Congress, not the
+courts, to effectuate. We are bound to interpret the text of section 230 as
+enacted by Congress. And that text supports neither a but-for nor an only-
+link mode of analysis.
+       Second, the only-link theory cannot stand on its own two feet.
+According to Salesforce, if the only link between a plaintiff’s harm and the
+defendant is third-party content, then section 230 bars the claims. On that
+logic, if there were some conduct by a defendant in addition to the third-party
+content, section 230 would not bar the claims. But what if the defendant’s
+conduct fell squarely within section 230’s text? For example, publishing
+defamatory third-party content. To say that in such situations section 230
+would not provide immunity “taxes the credulity of the credulous.”
+Maryland v. King, 569 U.S. 435, 466 (2013) (Scalia, J., dissenting). But
+Salesforce’s only-link theory, taken to its logical end, would require that
+anomaly. Avoiding that anomaly requires a focus on the type of conduct
+involved. In other words, it requires an analysis of whether the duty the
+defendant allegedly violated derives from their status as a publisher or
+speaker or requires the exercise of functions traditionally associated with
+publication. And that puts us right back where we started: the proper
+standard, derived from the statute Congress enacted.
+       Because neither the text of section 230 nor our precedent requires
+such a meandering analytical framework—that in any event leads right back
+to the proper framework—we decline Salesforce’s invitation to go down the
+rabbit hole.8
+
+
+
+
+       _____________________
+       8
+           See generally Lewis Carroll, Alice’s Adventures in Wonderland (1865).
+
+
+
+
+                                                  12
+Case: 23-20604            Document: 96-1    Page: 13    Date Filed: 12/19/2024
+
+
+
+
+                                   No. 23-20604
+
+
+                                       IV
+       We have expounded an analytical framework grounded in
+section 230’s text and this court’s precedent, which is also consistent with
+the precedent of our sister circuits. In line with those authorities, we ask
+“whether the duty that the plaintiff alleges the defendant violated derives
+from the defendant’s status or conduct as a ‘publisher or speaker.’” Yolo,
+112 F.4th at 1177 (quoting Barnes, 570 F.3d at 1102). Answering this question
+“requires a close examination of the duty underlying each cause of action[.]”
+Id. at 1176 (quoting Barnes, 570 F.3d at 1107). If the duty “derives from the
+defendant’s status or conduct as a ‘publisher or speaker[,]’” then
+section 230 precludes liability. Id. at 1177 (quoting Barnes, 570 F.3d at 1102).
+But if the plaintiff’s theories would not require the defendant to exercise
+some kind of publication or editorial function, then section 230 does not
+preclude liability. Id. Applying that standard here, Plaintiffs’ claims do not
+treat Salesforce as the publisher or speaker of third-party content.
+       Plaintiffs sued Salesforce asserting claims for knowingly benefiting
+from participation in a sex-trafficking venture under 18 U.S.C. § 1595 and
+Texas Civil Practice and Remedies Code § 98.002.9 Specifically, Plaintiffs
+allege that Salesforce knowingly assisted, supported, and facilitated sex
+trafficking by selling its tools and operational support to Backpage even
+though it knew (or should have known) that Backpage was under
+investigation for facilitating sex trafficking. In essence, Plaintiffs allege that
+Salesforce breached a statutory duty to not knowingly benefit from
+participation in a sex-trafficking venture.
+       To state the obvious: this duty does not derive from Salesforce’s
+status or conduct as a publisher or speaker and would not require Salesforce
+       _____________________
+       9
+           See supra note 4.
+
+
+
+
+                                            13
+Case: 23-20604            Document: 96-1            Page: 14    Date Filed: 12/19/2024
+
+
+
+
+                                        No. 23-20604
+
+
+to exercise publication or editorial functions to avoid liability. See Yolo,
+112 F.4th at 1176–77. Rather, the duty simply requires that Salesforce not sell
+its tools and operational support to a company it knew (or should have
+known) was engaged in sex trafficking. This is not an action “quintessentially
+related to a publisher’s role.” MySpace, 528 F.3d at 420 (quoting Green,
+318 F.3d at 471). Accordingly, section 230 does not immunize Salesforce
+from Plaintiffs’ claims.10
+        The same is true with respect to Salesforce’s interactions with
+Backpage data.11 In this context, Salesforce argues that Plaintiffs’ claims
+would treat Salesforce as a publisher or speaker of data Backpage stored or
+transmitted using Salesforce’s software. Such claims, Salesforce argues,
+would require Salesforce to police the use of its products and withdraw or
+restrict access from customers that misuse them by uploading or transmitting
+allegedly illegal content. This argument misses the mark in two respects.
+
+        First, the argument does not comport with the plain text of
+section 230. As the Seventh Circuit aptly explained,
+
+
+        It does not make sense to treat Salesforce as ‘publishing’ to
+        Backpage itself content that came from Backpage. With respect
+        to any content that was provided by Backpage, Salesforce fails
+        _____________________
+        10
+           We disagree with the district court’s conclusion that MySpace does not apply.
+Although the district court correctly noted that Myspace, and much of our section-230
+precedent, deals with platforms rather than equipment or service providers, see, e.g., Doe ex
+rel. Roe v. Snap, Inc., No. 22-20543, 2023 WL 4174061 (5th Cir. June 26, 2023) (per
+curiam); Google, Inc. v. Hood, 822 F.3d 212 (5th Cir. 2016), that is not the lodestar of our
+section-230 analysis. Rather, as section 230’s text requires, we focus on whether the claims
+treat the defendant as a publisher or speaker of third-party content. The fact that a
+defendant is a platform only bears on that analysis to the extent it demonstrates that a
+defendant is being treated as a publisher or speaker of third-party content.
+        11
+             As distinct from Backpage-user data.
+
+
+
+
+                                                    14
+Case: 23-20604        Document: 96-1       Page: 15     Date Filed: 12/19/2024
+
+
+
+
+                                  No. 23-20604
+
+
+       Section 230’s ‘publisher or speaker’ element. To the extent
+       that Salesforce might have ‘published’ its own data to
+       Backpage’s employees, Salesforce fails Section 230’s [other]
+       element, which requires that the published content be
+       ‘provided by [a third party].’
+G.G., 76 F.4th at 568 (citing 47 U.S.C. § 230(c)(1)).
+       Second, the claims do not target actions that are “quintessentially
+related to a publisher’s role.” MySpace, 528 F.3d at 420 (quoting Green,
+318 F.3d at 471). While Salesforce argues it would be required to police the
+use of its products, that is not quintessentially the function of a publisher. See
+id. (quoting Green, 318 F.3d at 471) (monitoring, screening, and deletion of
+content from its network are actions quintessentially related to a publisher’s
+role). Of course, a publisher might also need to police the use of its products.
+But that is not because of the publisher’s unique functions. Rather, it is
+because a publisher—like Salesforce and every other entity subject to United
+States federal law—owes a statutory duty to the public not to knowingly
+benefit from participation in a sex-trafficking venture. See 18 U.S.C. § 1595.
+       To reach this conclusion, we do not accept any of Plaintiffs’ factual
+allegations as true. Although the section-230 publisher-or-speaker analysis
+often occurs at the motion-to-dismiss stage, the presumption that the
+allegations are true does not drive the analysis. Compare G.G., 76 F.4th
+at 548–49, with id. at 566–67. Rather, the analysis focuses on the claims and
+theories of liability advanced by a plaintiff. See, e.g., MySpace, 538 F.2d
+at 420. “[W]hat matters is whether the cause of action inherently requires the
+court to treat the defendant as the ‘publisher or speaker’ of content provided
+by another.” Barnes, 570 F.3d at 1102 (emphasis added). To analyze the
+inherent nature of Plaintiffs’ causes of action, we must necessarily look to
+
+
+
+
+                                           15
+Case: 23-20604           Document: 96-1           Page: 16       Date Filed: 12/19/2024
+
+
+
+
+                                        No. 23-20604
+
+
+their complaint.12 See, e.g., Roommates.Com, 521 F.3d at 1164–65, 1165 n.16
+(looking to plaintiffs’ complaint in examining the scope of their substantive
+claims to determine whether section-230 immunity applies at summary
+judgment). But we do not accept the allegations associated with their claims
+as true. As section 230 requires, we only consider whether the allegations
+inherently seek to treat Salesforce as a publisher or speaker of third-party
+content, not whether—if true—they would treat Salesforce as a publisher or
+speaker.
+        To be sure, a plaintiff might use section 1595 or section 98.002 to
+artfully plead around section-230 immunity. For example, a plaintiff might
+allege that a defendant knowingly benefitted from a sex-trafficking venture
+by failing to implement adequate content-moderation policies. Although pled
+in terms of first-party conduct, this claim would ultimately seek liability “for
+decisions relating to the monitoring, screening, and deletion of content from
+its network—actions quintessentially related to a publisher’s role.” MySpace,
+528 F.3d at 420 (quoting Green, 318 F.3d at 471). In such a case, section-230
+immunity would likely attach.
+        But that is not the case here. Plaintiffs’ claims do not seek to hold
+Salesforce liable for failing to moderate content or any other functions
+traditionally associated with a publisher’s role. See id. at 419–20. Rather,
+Plaintiffs seek to hold Salesforce liable for allegedly providing back-office
+business services to a company it knew (or should have known) was engaged
+in sex trafficking. These claims would not inherently require Salesforce, if
+found liable, to exercise any functions associated with publication.
+
+
+        _____________________
+        12
+           Counsel for Salesforce seems to recognize as much given their representation
+before the district court that no discovery was necessary for the court to definitively resolve
+the section-230 issue.
+
+
+
+
+                                                  16
+Case: 23-20604        Document: 96-1       Page: 17      Date Filed: 12/19/2024
+
+
+
+
+                                   No. 23-20604
+
+
+Accordingly, Plaintiffs have not engaged in artful pleading, and section 230
+does not apply.
+       The     summary      judgment     evidence     confirms    this   account,
+demonstrating that Plaintiffs do not seek liability for any publication-related
+functions. The evidence shows that Salesforce did not have any role in:
+
+        screening, monitoring, or filtering content;
+
+        reviewing or analyzing third-party content;
+
+        transmitting or hosting third-party content;
+
+        editing or altering third-party content;
+
+        developing or enforcing content-moderation policies; or
+
+        deciding how third-party content was organized or displayed.
+
+       This evidence also elucidates that Plaintiffs do not artfully plead
+around section 230 by shrouding an attack on functions associated with
+publication in terms of section 1595 or section 98.002. Indeed, the summary
+judgment evidence may even preclude claims predicated on such functions.13
+What remains is Plaintiffs’ attempt to hold Salesforce liable for allegedly
+providing back-office business services to a company it knew (or should have
+known) was engaged in sex trafficking. Again, that is not conduct traditionally
+associated with publication, so Plaintiffs’ claims are not barred by
+section 230.
+       On the topic of summary judgment evidence, one last point: the
+evidence highlights yet another flaw with Salesforce’s only-link theory. Even
+       _____________________
+       13
+          Plaintiffs agree that Salesforce had “nothing to do” with the trafficking
+advertisements posted on Backpage.
+
+
+
+
+                                            17
+Case: 23-20604       Document: 96-1         Page: 18   Date Filed: 12/19/2024
+
+
+
+
+                                    No. 23-20604
+
+
+if we could look past the only-link theory’s departure from section 230’s
+text—which we cannot—Salesforce does not prevail when that theory is
+applied to the summary judgment record at hand. The summary judgment
+evidence paints a picture that belies Salesforce’s forceful argument that the
+only link between Plaintiffs’ harm and Salesforce is third-party content.
+Indeed, the evidence marshalled by Plaintiffs—including emails between
+Salesforce and Backpage employees discussing sex-trafficking legislation’s
+impact on their ability to continue to do business—suggests another link
+between Salesforce and Plaintiffs’ harms. Namely, Salesforce’s provision of
+back-office business services to Backpage. We do not express any view
+regarding the merits of the underlying dispute. Rather, we simply note that
+under Salesforce’s proposed interpretation of section 230, at a minimum
+there could exist a genuine dispute of material fact whether the only link
+between the harm and Salesforce was third-party content. In other words,
+Salesforce would not have been entitled to summary judgment even under its
+own novel theory.
+                                       ***
+       To sum things up: Plaintiffs’ claims do not treat Salesforce as a
+publisher or speaker of third-party content because they do not (1) derive
+from Salesforce’s status or conduct as a publisher or speaker or (2) impose
+on Salesforce any duty traditionally associated with publication. As a result,
+section 230 imposes no barrier, and Plaintiffs’ claims against Salesforce may
+proceed. This conclusion follows from section 230’s text and our precedent
+interpreting same. As an added benefit, this conclusion also aligns with the
+precedent of our sister circuits.
+       In deciding the section-230-immunity question, we say nothing about
+the underlying merits of this dispute. Although section 230 does not
+immunize Salesforce, that does not necessarily mean that Salesforce is liable.
+
+
+
+
+                                             18
+Case: 23-20604       Document: 96-1        Page: 19    Date Filed: 12/19/2024
+
+
+
+
+                                  No. 23-20604
+
+
+Immunity and liability are distinct. The question of whether Salesforce is
+liable to Plaintiffs because it knowingly benefitted from participation in a sex-
+trafficking venture is not before our court and remains to be answered.
+                                       V
+       Plaintiffs’ claims do not treat Salesforce as the publisher or speaker of
+third-party content, so we AFFIRM the district court’s denial of summary
+judgment and REMAND for further proceedings consistent with this
+opinion.
+
+
+
+
+                                           19
+

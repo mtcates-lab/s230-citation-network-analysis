@@ -1,0 +1,365 @@
+              Case 14-1732, Document 108-1, 03/18/2015, 1463245, Page1 of 9
+
+
+
+14‐1732
+Ricci v. Teamsters Union Local 456
+
+
+                             UNITED STATES COURT OF APPEALS
+
+                                     FOR THE SECOND CIRCUIT
+
+                                              August Term, 2014
+
+                   (Submitted: March 11, 2015                      Decided: March 18, 2015)
+
+                                              Docket No. 14‐1732
+
+‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐x
+
+Peter Ricci, Barbara Ricci,
+
+                            Plaintiffs‐Appellants,
+
+                  ‐ v.‐
+
+Teamsters Union Local 456,
+GoDaddy.com, LLC,
+
+                           Defendants‐Appellees.*
+
+‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐x
+
+         Before:                     JACOBS and LOHIER, Circuit Judges, and SWAIN,
+                                     District Judge.**
+
+
+
+    *
+       The Clerk of Court is respectfully directed to amend the official caption in
+this case to conform with the caption above.
+    **
+      The Honorable Laura Taylor Swain, of the United States District Court for
+the Southern District of New York, sitting by designation.
+          Case 14-1732, Document 108-1, 03/18/2015, 1463245, Page2 of 9
+
+
+
+
+      Appeal from a judgment of the United States District Court for the
+
+Southern District of New York (Román, J.) dismissing defamation claims against
+
+GoDaddy.com, LLC, and federal labor law claims against the Teamsters Union
+
+Local 456. We affirm, holding that the Communications Decency Act of 1996
+
+shields GoDaddy from defamation liability, and that all claims against the
+
+Teamsters Union are barred by the statute of limitations.
+
+                                       Peter Ricci and Barbara Ricci, pro se,
+                                       Yonkers, New York.
+
+                                       Christopher A. Smith, Trivella & Forte,
+                                       LLP, White Plains, New York, for
+                                       Defendant‐Appellee Teamsters Union Local
+                                       456.
+
+                                       Aaron M. McKown and Paula L. Zecchini,
+                                       Ring Bender LLLP, Irvine, California, for
+                                       Defendant‐Appellee GoDaddy.com, LLC.
+
+PER CURIAM:
+
+      Plaintiffs Peter and Barbara Ricci (“the Riccis”) bring this action pro se
+
+against GoDaddy.com, LLC (“GoDaddy”) and the Teamsters Union Local 456
+
+(the “Union” or the “Teamsters”), alleging that false statements about the Riccis
+
+in a Union newsletter were republished on a website hosted on GoDaddy’s
+
+servers. As relevant here, plaintiffs sue GoDaddy for defamation; they sue the
+
+
+                                         2
+          Case 14-1732, Document 108-1, 03/18/2015, 1463245, Page3 of 9
+
+
+
+
+Teamsters for retaliation in violation of sections 7 and 8 of the National Labor
+
+Relations Act (“NLRA”), 29 U.S.C. §§ 157, 158(b)(1)(A), and for breach of the
+
+NLRA’s implied duty of fair representation. The defamation claims fail because
+
+GoDaddy enjoys immunity from this suit under the Communications Decency
+
+Act of 1996, 47 U.S.C. § 230. The labor claims are barred by the NLRA’s six‐
+
+month statute of limitations, 29 U.S.C. § 160(b). We affirm.
+
+
+
+
+                                         I
+
+      The following facts are drawn from plaintiffs’ complaint, and are assumed
+
+to be true for purposes of our de novo review of the district court’s grant of
+
+defendants’ motions to dismiss under Federal Rule of Civil Procedure 12(b)(6).
+
+Phillips v. City of New York, 775 F.3d 538, 542 (2d Cir. 2015).
+
+      Peter Ricci, a Teamsters member since 1983, refused to endorse Union
+
+President Eddie Doyle at a meeting in September 2002. For the next ten years,
+
+Ricci was “blackballed” and suffered retaliation by the Union leadership. He was
+
+fired from jobs he should have kept; he was not placed in certain jobs he should
+
+have gotten; and he was generally disfavored, even as compared with members
+
+with less seniority.
+
+
+                                         3
+          Case 14-1732, Document 108-1, 03/18/2015, 1463245, Page4 of 9
+
+
+
+
+      In August and September 2012, members of the Union distributed
+
+newsletters containing defamatory statements about the Riccis (and their
+
+daughter). Those newsletters were also published on a website called
+
+thewestchesternewsletter.com (now defunct), which was hosted on GoDaddy’s
+
+web servers. Soon after, on December 6, 2012, Peter Ricci left the Union.
+
+      The Riccis do not allege that GoDaddy had any role in creating the
+
+allegedly defamatory newsletters. To the contrary, their complaint repeatedly
+
+alleges that the newsletters were drafted and distributed by others. See Compl.
+
+¶ 9 (alleging that “Teamsters Union Local 456” is “the creator of the
+
+newsletters”); see also id. ¶ 10 (alleging that GoDaddy (eventually) “decided to
+
+reveal the . . . identity of the publisher and creators of the newsletters”). As to
+
+GoDaddy, the only allegations in the complaint are: (1) GoDaddy hosted a
+
+website that published the allegedly defamatory newsletters, see id. ¶¶ 9‐10;
+
+(2) GoDaddy “refused to remove the newsletter” from its servers, id. ¶ 9; and
+
+(3) GoDaddy “completely refused to investigate Barbara Ricci’s complaints,” id.
+
+None of those allegations are disputed by the parties.
+
+      On July 8, 2013, the Riccis filed this lawsuit in the Supreme Court of the
+
+State of New York. The Teamsters, with GoDaddy’s consent, removed the case to
+
+
+                                          4
+           Case 14-1732, Document 108-1, 03/18/2015, 1463245, Page5 of 9
+
+
+
+
+the United States District Court for the Southern District of New York. Each then
+
+moved to dismiss for failure to state a claim under Federal Rule of Civil
+
+Procedure 12(b)(6). The district court (Román, J.) granted both motions;
+
+dismissed all claims against GoDaddy, and all federal claims against the
+
+Teamsters Union; and declined to exercise supplemental jurisdiction over any
+
+remaining state law claims.
+
+
+
+
+                                         II
+
+       Accepting as true all of the allegations in the complaint, GoDaddy is
+
+immune from the Riccis’ defamation claims under a provision of the
+
+Communications Decency Act of 1996: “[n]o provider or user of an interactive
+
+computer service shall be treated as the publisher or speaker of any information
+
+provided by another information content provider.” 47 U.S.C. § 230(c)(1).
+
+Preemption is express: “No cause of action may be brought and no liability may
+
+be imposed under any State or local law that is inconsistent with this section.”
+
+Id. § 230(e)(3).
+
+       The Riccis seek to hold GoDaddy liable as a “publisher or speaker” of
+
+allegedly defamatory statements authored by someone else‐‐that is, “another
+
+
+                                         5
+          Case 14-1732, Document 108-1, 03/18/2015, 1463245, Page6 of 9
+
+
+
+
+information content provider.” Id. § 230(c)(1).1 So if GoDaddy is being sued in
+
+its capacity as a provider of an “interactive computer service,” id., it is immune
+
+from defamation liability under the Communications Decency Act.
+
+      The statute defines “interactive computer service” expansively, to include
+
+“any information service, system, or access software provider that provides or
+
+enables computer access by multiple users to a computer server.” Id. § 230(f)(2).
+
+This wording has been construed broadly to effectuate the statute’s speech‐
+
+protective purpose:
+
+      Congress recognized the threat that tort‐based lawsuits pose to
+      freedom of speech in the new and burgeoning Internet medium. . . .
+      Section 230 was enacted, in part, to maintain the robust nature of
+      Internet communication and, accordingly, to keep government
+      interference in the medium to a minimum. . . . None of this means, of
+      course, that the original culpable party who posts defamatory
+      messages would escape accountability. . . . Congress made a policy
+      choice, however, not to deter harmful online speech through the
+      separate route of imposing tort liability on companies that serve as
+      intermediaries for other parties’ potentially injurious messages.
+
+Zeran v. Am. Online, Inc., 129 F.3d 327, 330‐31 (4th Cir. 1997). In short, a plaintiff
+
+defamed on the internet can sue the original speaker, but typically “cannot sue
+
+
+  1
+       “The term ‘information content provider’ means any person or entity that
+is responsible, in whole or in part, for the creation or development of information
+provided through the Internet or any other interactive computer service.” 47
+U.S.C. § 230(f)(3).
+
+                                          6
+          Case 14-1732, Document 108-1, 03/18/2015, 1463245, Page7 of 9
+
+
+
+
+the messenger.” Chi. Lawyers’ Comm. for Civil Rights Under Law, Inc. v.
+
+Craigslist, Inc., 519 F.3d 666, 672 (7th Cir. 2008).
+
+      We have never construed the immunity provisions of the Communications
+
+Decency Act, but other courts have applied the statute to a growing list of
+
+internet‐based service providers. See, e.g., Klayman v. Zuckerberg, 753 F.3d 1354
+
+(D.C. Cir. 2014); Doe v. MySpace, Inc., 528 F.3d 413 (5th Cir. 2008); Craigslist, 519
+
+F.3d at 672. That includes GoDaddy. See Kruska v. Perverted Justice Found. Inc.,
+
+No. CV 08‐0054‐PHX‐SMM, 2008 WL 2705377, at *3 (D. Ariz. July 9, 2008)
+
+(“GoDaddy, as a web host, qualifies as an interactive computer service provider
+
+under the CDA.”).
+
+      We join this consensus. The Riccis allege only that GoDaddy “refused to
+
+remove” from its web servers an allegedly defamatory newsletter that was
+
+authored by another. These allegations do not withstand the Communications
+
+Decency Act, which shields GoDaddy from publisher liability (with respect to
+
+web content provided by others) in its capacity as a provider of an interactive
+
+computer service.
+
+      Although “[p]reemption under the Communications Decency Act is an
+
+affirmative defense, . . . it can still support a motion to dismiss if the statute’s
+
+
+                                            7
+          Case 14-1732, Document 108-1, 03/18/2015, 1463245, Page8 of 9
+
+
+
+
+barrier to suit is evident from the face of the complaint.” Klayman, 753 F.3d at
+
+1357; see also McKenna v. Wright, 386 F.3d 432, 436 (2d Cir. 2004). Here, the
+
+defect is evident. So dismissal was appropriate.
+
+
+
+
+                                         III
+
+       As to the labor law claims against the Teamsters Union: we agree with the
+
+district court that they are all barred by the six‐month statute of limitations in the
+
+NLRA. See 29 U.S.C. § 160(b); see also DelCostello v. Int’l Bhd. of Teamsters, 462
+
+U.S. 151, 155 (1983). The last event referenced in the complaint took place on
+
+December 6, 2012, when Peter Ricci left the Teamsters Union. Even assuming the
+
+statute did not begin to run until then, the complaint, which was filed on July 8,
+
+2013, was about a month late.2
+
+
+
+
+   2
+       For the first time on appeal, the Teamsters argue that exclusive jurisdiction
+over the labor law claims lies with the National Labor Relations Board. See San
+Diego Bldg. Trades Council, Millmen’s Union, Local 2020 v. Garmon, 359 U.S.
+236, 246 (1959). The Teamsters are wrong: the Riccis bring a claim under the
+implied duty of fair representation, and all of their other claims against the Union
+are “collateral” to that fair representation claim; so the federal courts have
+subject‐matter jurisdiction. See, e.g., Marquez v. Screen Actors Guild, 525 U.S. 33,
+50 (1998).
+
+                                          8
+         Case 14-1732, Document 108-1, 03/18/2015, 1463245, Page9 of 9
+
+
+
+
+                                CONCLUSION
+
+     For the foregoing reasons, and finding no merit in plaintiffs’ other
+
+arguments, we hereby AFFIRM the judgment of the district court.
+
+
+
+
+                                        9
+

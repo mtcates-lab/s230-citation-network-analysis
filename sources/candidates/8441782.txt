@@ -1,0 +1,1130 @@
+12‐3448‐cv (L)
+Zalewski v. Cicero Builder Dev., Inc.
+
+
+                             UNITED STATES COURT OF APPEALS
+                                 FOR THE SECOND CIRCUIT
+                                       _______________
+
+                                         August Term, 2013
+
+           (Argued: January 15, 2014                              Decided: June 5, 2014)
+
+                  Docket Nos. No. 12‐3448‐cv, No. 12‐3450‐cv, No. 12‐5127‐cv
+
+                                          _______________
+
+                             JAMES E. ZALEWSKI, DRAFTICS, LTD.,
+
+                                        Plaintiffs‐Appellants,
+
+                                                —v.—
+
+CICERO BUILDER DEV., INC., LUIGI CICERO, T.P. BUILDERS, INC.,THOMAS
+  PAONESSA, CILLIS BUILDERS, INC., THEODORE CILLIS, III, DERAVEN
+ DESIGN & DRAFTING, ROXANNE K. HELLER, V.S. SOFIA ENGINEERING,
+          SOFIA ENGINEERING, PLLC, VINCENZO S. SOFIA,
+
+                                        Defendants‐Appellees. *
+
+                                          _______________
+
+Before:
+
+                KATZMANN, Chief Judge, WESLEY and LOHIER, Circuit Judges.
+
+                                          _______________
+
+
+*The Clerk of the Court is respectfully directed to amend the official caption as set forth
+above.
+       Appeal from orders and judgments of the United States District Court for
+the Northern District of New York (Sharpe, Judge). Plaintiff alleged copyright
+infringement and violations of the Digital Millennium Copyright Act against
+numerous Defendants involved in the construction and sale of houses built with
+architectural plans allegedly copied from Plaintiff’s designs. The district court
+dismissed Plaintiff’s claims against some Defendants, granted summary
+judgment in favor of the remaining Defendants, and granted attorney’s fees to
+two Defendants for costs incurred defending against Plaintiff’s first and second
+amended complaint. For the reasons stated below, the orders and judgments of
+the district court are AFFIRMED in part, and VACATED and REMANDED in
+part.
+                                 _______________
+
+               LEE PALMATEER, Lee Palmateer Law Office LLC, Albany, NY, for
+               Plaintiffs‐Appellants.
+
+               Paul C. Rapp, Monterey, MA, for Defendants‐Appellees Cicero
+               Builder Dev., Inc. and Luigi Cicero.
+
+               AUTONDRIA MINOR (Arlen L. Olsen, on the brief), Schmeiser Olsen
+               & Watts LLP, Latham, NY, for Defendants‐Appellees T.P. Builders,
+               Inc., and Thomas Paonessa.
+
+               GEORGE J. SZARY, DeGraff, Foy & Kunz, Albany, NY,
+               for Defendants‐Appellees Cillis Builders, Inc., and Theodore Cillis, III.
+
+               ANNETTE I. KAHLER, (Susan E. Farley, on the brief), Heslin
+               Rothenberg Farley & Mesiti, Albany, NY, for Defendants‐Appellees
+               DeRaven Design & Drafting and Roxanne K. Heller.
+
+               KEVIN R. VAN DUSER, Sugarman Law Firm LLP, Syracuse, NY,
+               for Defendants‐Appellees V.S. Sofia Engineering, Sofia Engineering,
+               PLLC, and Vincenzo S. Sofia.
+                                _______________
+
+
+
+
+                                          2
+WESLEY, Circuit Judge:
+
+         This case calls on us to explore the limits of copyright protection for
+
+architectural works. Plaintiffs‐Appellants are James Zalewski, an architect, and
+
+Draftics, Ltd., the company through which he does business (collectively
+
+“Zalewski” or “Plaintiff”). Zalewski asserts that he created and then licensed
+
+numerous designs for colonial homes to two construction companies.1 He alleges
+
+that these companies and their contractors infringed his copyright in these
+
+designs by using them in ways the licenses did not permit and after the licenses
+
+had expired. Zalewski also asserts that Defendants’ actions violated the Digital
+
+Millennium Copyright Act (“DMCA”). Defendants principally contend that their
+
+designs do not copy the protected elements of Plaintiff’s designs.
+
+         The district court dismissed portions of Plaintiff’s complaint and granted
+
+summary judgment to Defendants on the remaining claims. The court also
+
+granted two Defendants’ motions for attorney’s fees. Plaintiff now challenges the
+
+dismissal of his complaint, the grant of summary judgment to Defendants, the
+
+denial of summary judgment to him, and the award of attorney’s fees. We
+
+AFFIRM the district court, in part, holding that (1) any copying of Plaintiff’s
+
+
+
+1   The parties do not discuss the precise terms under which Plaintiff provided his
+
+                                              3
+designs extended only to unprotected elements of his works, and (2) Plaintiff
+
+failed to plead a violation of the DMCA. We also VACATE, in part, holding that
+
+the district court applied the incorrect legal standard in awarding attorney’s fees,
+
+and REMAND for the district court to apply the correct standard.
+
+                                   BACKGROUND
+
+       In the 1990s, Plaintiff James Zalewski was self‐employed as an architect
+
+doing business through the firm Draftics, Ltd. During this period, he granted
+
+Defendants T.P. Builders (“T.P.”)2 and Cillis Builders (“Cillis”)3 licenses to use
+
+several colonial home designs he had created. According to Zalewski, after the
+
+licenses expired, T.P. hired Defendant V.S. Sofia Engineering (“Sofia”)4 and
+
+Defendant DeRaven Design & Drafting (“DeRaven”)5 and Cillis hired DeRaven
+
+to customize his designs for their customers and continued marketing his
+
+designs, or customized versions thereof, without his consent. Defendant Cicero
+
+
+
+
+designs to Defendants.
+2 “T.P.” refers to both T.P. Builders and its owner, Thomas Paonessa, who is also a
+
+defendant.
+3 “Cillis” refers to both Cillis Builders and its owner, Theodore Cillis, III, who is also a
+
+defendant.
+4 “Sofia” refers to both V.S. Sofia Engineering and its owner, Vincenzo Sofia, who is also
+
+a defendant.
+5 “DeRaven” refers to both DeRaven Design & Drafting and its owner, Roxanne K.
+
+Heller, who is also a defendant.
+
+                                             4
+Builders (“Cicero”)6 built two houses using DeRaven designs that were allegedly
+
+based on Plaintiff’s originals.
+
+         Zalewski filed the first of these now consolidated actions in July 2010 in
+
+the United States District Court for the Northern District of New York, alleging
+
+that Defendants infringed the copyright in his original designs. Zalewski asserts
+
+that, in building the homes and customizing the designs, Defendants copied the
+
+overall size, shape, and silhouette of his designs as well as the placement of
+
+rooms, windows, doors, closets, stairs, and other architectural features. In
+
+addition to his copyright infringement claims, Zalewski asserts causes of action
+
+under the DMCA, which prohibits, among other things, “intentionally
+
+remov[ing] or alter[ing] any copyright management information.” 17 U.S.C. §
+
+1202(b).
+
+         In his original complaint, Zalewski named as defendants the instant
+
+Appellees, along with numerous other defendants including other builders,
+
+engineers, architects, real estate agents, and owners of the purportedly infringing
+
+homes. Then, between September and December 2010, Zalewski voluntarily
+
+dismissed the vast majority of these defendants, and in October 2010, he filed a
+
+
+
+6   “Cicero” refers to both Cicero Builder Dev. Inc. and its owner Luigi Cicero, who is also
+
+                                              5
+second amended complaint, naming only the instant Defendants.7 The district
+
+court dismissed this complaint in August 2011 but granted leave to file a Third
+
+Amended Complaint – the operative complaint.
+
+       Following this final complaint, Defendants filed a number of motions to
+
+dismiss and motions for summary judgment, inter alia, on the ground that the
+
+designs they employed or created lacked substantial similarity with Zalewski’s.
+
+Zalewski cross‐moved for summary judgment. Over the next few months the
+
+district court sorted through the motions. After allowing some discovery, the
+
+court granted judgment to all remaining defendants and denied Zalewski’s
+
+cross‐motion for summary judgment. Still, the court permitted Zalewski to file a
+
+fourth amended complaint to more clearly state his DMCA claims. Zalewski
+
+passed on the offer and the district court entered final judgment in July 2012.
+
+       Finally, in November 2012, the court granted a motion by T.P. and Cicero
+
+for expenses and attorney’s fees incurred defending against the first three
+
+complaints. Zalewski now challenges the partial dismissal of his complaint, the
+
+
+
+a defendant.
+7 For reasons that are not clear, Plaintiff voluntarily dismissed his original action against
+
+Cicero and another defendant not a party to this appeal, only to bring those claims
+again, in separate actions. Plaintiff’s claims against Cicero were then re‐consolidated
+with this action. Dist. Ct. Dkt. No 171.
+
+                                              6
+grant of summary judgment in favor of Defendants, the denial his motion for
+
+summary judgment, and the award of attorney’s fees.
+
+                                   DISCUSSION
+
+      The Copyright Act, 17 U.S.C. §§ 101 et seq., provides a non‐exhaustive list
+
+of categories of artistic works for which protection is available. The statute lists,
+
+for example, “sound recordings,” “pantomimes and choreographic works,”
+
+“pictorial, graphic and sculptural works,” and “literary works.” 17 U.S.C.
+
+§ 102(a). When Congress passed the Copyright Act of 1976, architectural works
+
+were not among the listed categories, and it was not clear to what extent
+
+buildings or architectural plans could be copyrighted. William F. Patry, 2 Patry
+
+on Copyright § 3:109 (2014). In the 1980s, however, Congress started the lengthy
+
+process of updating the Copyright Act in order to join the Berne Convention, an
+
+international agreement that governs copyright protection. See generally 7 Patry
+
+on Copyright § 23:45. Among other things, the Berne Convention requires
+
+signatory nations to protect architectural works. See 2 Patry on Copyright § 3:107.
+
+Thus, the 1976 Act notwithstanding, the United States was compelled to clarify
+
+that architectural works are protectable under federal law. Id. To this end,
+
+Congress passed the Architectural Works Copyright Protection Act of 1990 and
+
+added “architectural works” to the list of protectable material. Id.
+                                          7
+    A. Copyright Infringement
+
+       In order to make out a claim of copyright infringement for an architectural
+
+work – or any work – a plaintiff must establish three things: 1) that his work is
+
+protected by a valid copyright, 2) that the defendant copied his work, and 3) that
+
+the copying was wrongful. See Arnstein v. Porter, 154 F.2d 464, 468, 472–73 (2d
+
+Cir. 1946); Laureyssens v. Idea Grp., Inc., 964 F.2d 131, 139–41 (2d Cir. 1992). The
+
+second and third elements – copying and wrongful copying – are often confused.
+
+This confusion is understandable; in many cases any copying of a work is
+
+wrongful, and thus there is often no need to draw the distinction.8 Nonetheless,
+
+the distinction can be important. Not every portion or aspect of a copyrighted
+
+work is given copyright law’s protection. Copying these aspects of a work is not
+
+wrongful, and thus not all copying is wrongful.
+
+       An example is helpful. Suppose a particular law professor has never met
+
+any of my law clerks and has never read any of their numerous law review
+
+articles.9 If that professor independently composes a paragraph, which, by
+
+
+
+8 De minimis copying is not actionable. Ringgold v. Black Entm’t T.V. Inc., 126 F.3d 70, 75
+(2d Cir. 1997).
+9 Gregory M. Dickinson, Calibrating Chevron for Preemption, 63 Admin. L. Rev. 667
+
+(2011); Gregory M. Dickinson, An Empirical Study of Obstacle Preemption in the Supreme
+Court, 89 Neb. L. Rev. 682 (2011); Gregory M. Dickinson, note, An Interpretive Framework
+
+                                             8
+coincidence, is very similar to – or indeed identical with – a paragraph from one of
+
+their articles, the professor need not fear copyright liability. Even though the
+
+works are similar, the professor has not copied, and, therefore, element two of
+
+the infringement cause of action – actual copying – is not satisfied. Independent
+
+creation is a defense to copyright infringement. Folio Impressions, Inc. v. Byer Cal.,
+
+937 F.2d 759, 765–66 (2d Cir. 1991).
+
+       Likewise, one of my clerk’s articles may contain a lengthy quotation from a
+
+court opinion. The article is copyrighted, but the court opinion is in the public
+
+domain.10 A subsequent author may copy the language from the court opinion
+
+
+
+for Narrower Immunity Under Section 230 of the Communications Decency Act, 33 Harv. J.L.
+& Pub. Pol’y 863 (2010); Gregory M. Dickinson, recent development, Chevron’s Sliding
+Scale in Wyeth v. Levine, 33 Harv. J.L. & Pub. Pol’y 1177 (2010); Jonathan Feingold &
+Douglas Souza, Measuring the Racial Unevenness of Law School, 15 Berkeley J. Afr.‐Am. L.
+& Polʹy 71 (2013); Jonathan Feingold & Karen Lorang, Defusing Implicit Bias, 59 UCLA L.
+Rev. Discourse 210 (2012); Jonathan Feingold, Racing Towards Color‐blindness: Stereotype
+Threat and the Myth of Meritocracy, 3 Geo. J.L. & Mod. Critical Race Persp. 231 (2011);
+Kate Klonick, Comparing Apples to Applejacks: Cognitive Science Concepts of Similarity
+Judgment and Derivative Works, 60 J. Copyright Soc’y U.S.A. 365 (2013); Kate Klonick, Not
+in My Atlantic Yards: Examining Netroots’ Role in Eminent Domain Reform, note, 100 Geo.
+L.J. 263 (2011); Nicholas T. Matich, Patent Office Practice After the America Invents Act, 23
+Fed. Cir. B.J. 225 (2013); Nicholas T. Matich & Dotan Oliar, Copyright Preregistration:
+Evidence and Lessons from the First Seven Years, 2005–2012, 55 Ariz. L. Rev. 1073 (2013);
+Nicholas T. Matich, note, Forum Domination: Religious Speech in Extremely Limited Public
+Fora, 98 Va. L. Rev. 1149 (2012).
+10 Broadly, the “public domain” refers to all works, or elements thereof, that are not
+
+subject to copyright protection. Most commonly, the public domain refers to works that
+are sufficiently old that their copyright term has expired. See 17 U.S.C. §§ 301– 305.
+
+                                             9
+directly out of the article without infringing my clerk’s copyright. This second
+
+author will have copied from my clerk, but not wrongfully. He took only what
+
+was in the public domain and therefore unprotected. See Arnstein, 154 F.2d at
+
+472–73. In this example, element two – copying – is satisfied, but element three –
+
+wrongful copying – is not.
+
+       Confusion between elements two and three arises because a close
+
+similarity between two works is often relevant to proving both actual copying
+
+and wrongful copying. Obviously, if two paragraphs are identical, a reasonable
+
+inference is that the second paragraph was copied from the first. If the copied
+
+paragraph contains only protected material, then this similarity is also strong
+
+evidence that the copying was wrongful. Thus, in the first example above, the
+
+professor independently created a paragraph identical to my clerk’s, but given
+
+the striking similarity between the paragraphs, we might be forgiven for
+
+thinking that the professor copied, and copied wrongfully.11
+
+
+
+Works of the United States government, like court opinions, are also in the public
+domain. Id. § 105.
+11 Fortunately for the good professor, most authors publishing in law reviews assign
+
+their copyright to the journal. My clerks are a skeptical and litigious bunch. If they still
+held copyright in their articles, they most likely would not believe the professor’s
+protestations of innocence, and would promptly serve him with a summons and
+complaint.
+
+                                             10
+      When an original work contains many unprotected elements, however, a
+
+close similarity between it and a copy may prove only copying, not wrongful
+
+copying. This is because the similarity may derive only from these unprotected
+
+elements. For clarity, the term “substantial similarity” is properly reserved for
+
+similarity that exists between the protected elements of a work and another
+
+work. If two works are “substantially similar,” any copying was wrongful. See
+
+Laureyssens, 964 F.2d at 140. By contrast, similarity that relates to unprotected
+
+elements is probative only of copying – not wrongful copying – and is referred to
+
+as “probative similarity.” Id. (internal quotation marks omitted).
+
+      In this case, there is no dispute that Plaintiff’s copyrights are valid
+
+(element one). There is also substantial evidence that Defendants copied from
+
+Plaintiff’s designs. Defendants possessed copies of Plaintiff’s designs, and there
+
+are very strong resemblances between those designs and Defendants’ final
+
+product (probative similarity going to element two). Accordingly, granting
+
+summary judgment to Defendants on these elements would be inappropriate.
+
+This case turns on element three, wrongful copying. Here, even assuming
+
+Defendants copied, they took only the unprotected elements of Plaintiff’s work.
+
+
+
+
+                                         11
+Any copying was not wrongful and the district court correctly granted summary
+
+judgment.12
+
+     1. Substantial Similarity and Wrongful Copying
+
+       To determine whether two works are substantially similar – and thus
+
+whether any copying was wrongful – we usually apply the “ordinary observer”
+
+test and ask whether “the ordinary observer, unless he set out to detect the
+
+disparities, would be disposed to overlook them, and regard their aesthetic
+
+appeal as the same.” Laureyssens, 964 F.2d at 141 (internal quotation marks
+
+omitted). Often, however, a work’s aesthetic appeal will be due largely to
+
+unprotected elements. In these cases, we “must be more discerning, [and]
+
+ignor[e] those aspects of a work that are unprotectable” as we apply the test, lest
+
+we conflate mere copying with wrongful copying. Id. (internal quotation marks
+
+
+
+
+12 As always, we review dismissals for failure to state a claim and grants of summary
+judgment de novo. See Garanti Finansal Kiralama A.S. v. Aqua Marine & Trading Inc., 697
+F.3d 59, 63–64 (2d Cir. 2012). We have frequently said that because substantial similarity
+is a fact‐intensive question, it is generally an issue reserved for a jury. Nonetheless, “we
+have recognized that a court may determine non‐infringement as a matter of law[,] . . .
+either because the similarity between two works concerns only non‐copyrightable
+elements of the plaintiffʹs work, or because no reasonable jury, properly instructed,
+could find that the two works are substantially similar.” Warner Bros. Inc. v. Am. Broad.
+Cos., 720 F.2d 231, 240 (2d Cir. 1983) (emphasis and internal quotation marks omitted).
+
+                                            12
+omitted). Here, there is no doubt that Plaintiff’s designs, although copyrightable,
+
+are replete with uncopyrightable elements.
+
+       What aspects of Zalewski’s designs are protectable? A fundamental rule of
+
+copyright law is that it protects only “original works of authorship,” those
+
+aspects of the work that originate with the author himself. 17 U.S.C. § 102(a).
+
+Everything else in the work, the history it describes, the facts it mentions, and the
+
+ideas it embraces, are in the public domain free for others to draw upon. It is the
+
+peculiar expressions of that history, those facts, and those ideas that belong
+
+exclusively to their author. See 17 U.S.C. § 102(b). Thus, any author may draw
+
+from the history of English‐speaking peoples, but no one may copy from A
+
+History of the English‐Speaking Peoples.13 Any artist may portray the Spanish Civil
+
+War, but no one may paint another Guernica.14 And anyone may draw a cartoon
+
+mouse, but there can be only one Mickey.15
+
+
+
+13 A History of the English‐Speaking Peoples is a four‐volume history written by Sir
+Winston S. Churchill.
+14 Guernica is a painting by Pablo Picasso depicting the bombing of the Basque village
+
+Guernica during the Spanish Civil War.
+15 Of course, copyright protection for works by Churchill, Picasso, Disney, and every
+
+other artist last only as long as the limited term Congress grants. See U.S. Const. art. I, §
+8, cl. 8 (permitting congress to “secur[e] for limited Times to Authors and Inventors the
+exclusive Right to their respective Writings and Discoveries”) (emphasis added); 7
+U.S.C. §§ 301– 305 (setting the terms for copyrights).
+
+                                             13
+      Numerous doctrines separate protectable expression from elements of the
+
+public domain. For example, the doctrine of “scènes‐à‐faire” teaches that
+
+elements of a work that are “indispensable, or at least standard, in the treatment
+
+of a given topic” – like cowboys, bank robbers, and shootouts in stories of the
+
+American West – get no protection. Hoehling v. Universal City Studios, Inc., 618
+
+F.2d 972, 979 (2d Cir. 1980). Similarly, the “merger doctrine” instructs that some
+
+ideas can only be expressed in a limited number of ways – single words or colors
+
+for example. When expression is so limited, idea and expression “merge.”
+
+Expressions merged with ideas cannot be protected, lest one author own the idea
+
+itself. Morrissey v. Procter & Gamble Co., 379 F.2d 675, 678–79 (1st Cir. 1967).
+
+      The central question of this case is how to apply these and related
+
+doctrines to separate the protectable from the unprotectable in architectural
+
+works. Defendants urge us to chart a different course. They view Plaintiff’s
+
+designs as a compilation of various architectural features that individually and
+
+collectively do not merit copyright protection. They rely on the Eleventh Circuit
+
+case of Intervest Construction, Inc. v. Canterbury Estate Homes, Inc., 554 F.3d 914,
+
+919 (11th Cir. 2008), and the Supreme Court’s doctrine governing “compilations”
+
+set out in Feist Publications, Inc. v. Rural Telephone Service Co., 499 U.S. 340, 348
+
+(1991).
+                                           14
+      In Feist, plaintiff asserted a copyright in its telephone book. Feist, 499 U.S.
+
+at 344. Although the book was comprised of individually un‐copyrightable facts
+
+– people’s phone numbers – plaintiff argued that the compilation and
+
+arrangement of those facts should nonetheless be copyrightable to protect its
+
+investment in creating the phonebook. Id. If its work could be freely
+
+appropriated, plaintiff argued, there would be no incentive to create similar
+
+works in the future. Id. at 353. The Supreme Court rejected this argument and
+
+held that a copyright could subsist in an arrangement of individually un‐
+
+copyrightable elements, but emphasized that the Copyright Act requires works
+
+to be “original.” Id. at 358; see also 17 U.S.C. § 102(a). Thus, in order for a
+
+compilation or arrangement to be worthy of copyright protection, the arrangement
+
+itself must be original. The Supreme Court held that standard compilations, like
+
+the Feist plaintiff’s alphabetical listing, get no protection.
+
+       In Intervest, the Eleventh Circuit applied this doctrine to architecture. It
+
+held that all copyrighted works are either “creative, derivative, [or] compiled,”
+
+that is original, variations on an original, or compilations of unoriginal material.
+
+Intervest, 554 F.3d at 919 n.3. According to Intervest, each kind of work gets
+
+varying levels of protection. Id. The court then relied on the similarity between
+
+the statutory definitions of “compilation” and “architectural work” to conclude
+                                           15
+that architectural works fall into the “compiled” category, and are thus entitled
+
+to only a “thin” copyright based solely on their “arrangement and coordination”
+
+of unoriginal and uncopyrightable elements. 554 F.3d at 919. On facts similar to
+
+those here, the Intervest court held that any copying of the plaintiff’s house
+
+designs went only to standard architectural features arranged in standard ways.
+
+In other words, any copying was not wrongful. Id.
+
+      While we agree with the outcome in Intervest, we disagree with its
+
+reasoning. “Creative,” “derivative,” and “compiled” may be useful concepts in
+
+some cases, but we reject the idea that works always fall neatly into one of these
+
+categories. Every kind of work at some level is a compilation, an arrangement of
+
+uncopyrightable “common elements.” Id. No individual word is copyrightable,
+
+but the arrangement of words into a book is. No color is copyrightable, but the
+
+arrangement of colors on canvas is. Likewise, doors and walls are not
+
+copyrightable, but their arrangement in a building is. Some architectural designs,
+
+like that of a single‐room log cabin, will consist solely of standard features
+
+arranged in standard ways; others, like the Guggenheim, will include standard
+
+features, but also present something entirely new. Architecture, in this regard, is
+
+like every art form.
+
+
+
+                                         16
+      Moreover, we see little support in the statute for Intervest’s use of
+
+categories. Although the statutory definitions of “compilations” and
+
+“architectural works” both speak of an “arrangement” or “to arrange” and refer
+
+to “standard features” or “preexisting material,” architectural works and
+
+compilations are not the only works that are defined with reference to their
+
+discrete – and perhaps uncopyrightable – elements. 17 U.S.C. § 101.16 For
+
+example, the statute defines “Literary works” as “words, numbers, or other . . .
+
+symbols” arranged in “books, periodicals” or other media; “Sound Recordings”
+
+as “a series of musical, spoken, or other sounds”; a “computer program” as “a set
+
+of statements or instructions”; and “Motion Pictures” and “Audio Visual works”
+
+as “series of related images.” 17 U.S.C. § 101. As we have explained, the merger
+
+doctrine will often render these discrete elements un‐copyrightable. Softel v.
+
+Dragon Med. & Scientific Commc’ns, 118 F.3d 955, 964 (2d Cir. 1997) (explaining
+
+
+
+16Additionally, the definitions of “architectural work” and “compilation” have little else
+in common. The statute defines an “architectural work” as “the design of a building as
+embodied in any tangible medium of expression, including a building, architectural
+plans, or drawings. The work includes the overall form as well as the arrangement and
+composition of spaces and elements in the design, but does not include individual
+standard features.” 17 U.S.C. § 101. A “compilation” is a “work formed by the
+collection and assembling of preexisting materials or of data that are selected,
+coordinated, or arranged in such a way that the resulting work as a whole constitutes an
+original work of authorship.” Id.
+
+                                           17
+that “the words that constitute a literary work are not copyrightable, yet . . . a
+
+collection of words” may be).17
+
+      Labeling architecture a compilation obscures the real issue. Every work of
+
+art will have some standard elements, which taken in isolation are un‐
+
+copyrightable, but many works will have original elements – or original
+
+arrangements of elements. The challenge in adjudicating copyright cases is not to
+
+determine whether a work is a creative work, a derivative work, or a
+
+compilation, but to determine what in it originated with the author and what did
+
+not. Intervest fails to do this. It compares the floor plans of the two houses,
+
+“focusing only on the narrow arrangement and coordination” of what it deems
+
+“standard . . . features” and intuits that there was no copying of the arrangement.
+
+554 F.3d at 921. But it fails to provide any analysis of what made a feature
+
+“standard” and unprotectable. Hence, we find it of little assistance here.
+
+
+
+
+17The legislative history also supports this view. When Congress added architectural
+works to the list of copyrightable subject matter, it made clear that it wanted
+architectural works analyzed no differently than other works and differentiated
+between architectural works that present “original design elements” and those that do
+not. H.R. Rep. No. 101–735 (1990), reprinted in 1990 U.S.C.C.A.N. 6935, 6952. Intervest
+contravenes Congress’ intent by treating architectural works differently than other
+works and failing to determine what in architecture – beyond mere arrangement – is
+copyrightable.
+
+                                           18
+      Courts should treat architectural copyrights no differently than other
+
+copyrights. This is what Congress envisioned, and it is an approach we have
+
+employed before. H.R Rep. No. 101–735 (1990), reprinted in 1990 U.S.C.C.A.N.
+
+6935, 6951. In Attia v. Society of the New York Hospital, 201 F.3d 50 (2d Cir. 1999),
+
+for example, the plaintiff had been retained by New York Hospital to design an
+
+expansion of its facility over FDR Drive. The hospital rejected his preliminary
+
+sketches, but ultimately went with a similar design by another firm. The plaintiff
+
+admitted that his drawings were “preliminary and generalized” “outline[s]” of
+
+“concepts.” Id. at 55–56. Although there were some similarities between the
+
+plaintiff’s and the defendant’s designs, there were also significant differences.
+
+Thus, we held that any copying went to unprotected ideas, “concepts,” rather
+
+than concrete expression. Id.
+
+      In Peter F. Gaito Architecture, LLC v. Simone Development Corp., 602 F.3d 57,
+
+68 (2d Cir. 2010), on a similar set of facts, we held that copying of “architecture
+
+that was light, airy, [and] transparent,” as well as design parameters and
+
+“generalized notions of where to place functional elements,” went only to ideas
+
+and not protected expression. Finally, in Sparaco v. Lawler, Matusky, Skelly,
+
+Engineers LLP, 303 F.3d 460, 468–69 (2d Cir. 2002), we held that although a
+
+construction site preparation plan was preliminary in the sense that it pertained
+                                          19
+to the early phases of construction, it was extremely detailed and thus more than
+
+a mere idea.
+
+      Determining the boundaries of copyright protection in non‐traditional
+
+areas of creative expression, like architecture, is not something new. A number
+
+of our cases have applied copyright doctrines in other unusual contexts. In
+
+Computer Associates International, Inc. v. Altai, Inc., 982 F.2d 693 (2d Cir. 1992), for
+
+example, we had to determine for the first time what elements of a computer
+
+program are protectable. To do so, we simply applied the usual copyright
+
+doctrines of merger, public domain, and scènes‐à‐faire to these new
+
+circumstances. Id. at 707. For example, we held that the merger doctrine would
+
+apply when “efficiency concerns . . . so narrow the practical range of [coding
+
+options] as to make only one or two forms of expression workable . . . .” Id. at
+
+708. Similarly, we applied the doctrine of scènes‐à‐faire because “in many
+
+instances it is virtually impossible to write a program . . . without employing
+
+standard techniques.” Id. at 709 (internal quotation marks omitted).
+
+Consequently, we held that coding dictated by mechanical specifications,
+
+industry design standards, market demands, and usual programing practices
+
+also did not get copyright protection. Id. at 710.
+
+
+
+                                           20
+      All of these principles apply equally well to architecture. Efficiency is an
+
+important architectural concern. Any design elements attributable to building
+
+codes, topography, structures that already exist on the construction site, or
+
+engineering necessity should therefore get no protection.
+
+      There are scènes‐à‐faire in architecture. Neoclassical government
+
+buildings, colonial houses, and modern high‐rise office buildings are all
+
+recognized styles from which architects draw. Elements taken from these styles
+
+should get no protection. Likewise, there are certain market expectations for
+
+homes or commercial buildings. Design features used by all architects, because
+
+of consumer demand, also get no protection.
+
+      Our prior architecture cases support this approach. In Sparaco, we held that
+
+there can be no copyright in a plan insofar as it merely represents the
+
+topography of a building site. 303 F.3d at 467. Topography is an un‐
+
+copyrightable “fact.”18 In Attia we recognized that “generalized notions of where
+
+
+
+18We do not doubt that topography will often inspire, or indeed require, original
+architectural solutions that will be worthy of copyright. Frank Lloyd Wright’s
+Fallingwater is a prominent example. There may also be original ways of representing
+existing topography. The topography itself, however, is uncopyrightable. If two
+architects submit competing bids for the same project, one cannot assert that the other’s
+design infringed his copyright because their designs include reference to the same
+topography or share similarities dictated by that topography. One expects competent
+
+                                           21
+to place functional elements, how to route the flow of traffic, and . . . methods of
+
+construction” are un‐protectable. 201 F.3d at 55. Architects cannot claim that
+
+good engineering is original to them – or at least can get no copyright protection
+
+for it.19 Finally, in Gaito Architecture, we held that there is no copyright in a
+
+building plan’s design parameters. 602 F.3d at 68. Constraints placed on an
+
+architect by the way her client plans to use the building do not originate with the
+
+architect.
+
+   2. The Instant Plans
+
+      After considering these principles and reviewing the designs in question,
+
+we conclude that even if Defendants copied Zalewski’s plans, they copied only
+
+the unprotected elements of his designs. Plaintiff’s principal argument is that
+
+Defendants’ designs are so close to his that Defendants must have infringed. He
+
+is correct that the designs are, in many respects, quite close, but this is not
+
+enough. It proves at most copying, not wrongful copying.
+
+
+
+
+architects to accurately represent a construction site.
+       We note that this only applies to existing topography, however, because existing
+topography is an uncopyrightable fact. An architect may be able to copyright his
+original proposals for alterations to the topography. On the other hand, such alterations
+may be dictated by good engineering practice or a customer requirement, in which case
+they may not be copyrightable. We leave exploration of these issues to future cases.
+
+                                           22
+      First, many of the similarities are a function of consumer expectations and
+
+standard house design generally. Plaintiff can get no credit for putting a closet in
+
+every bedroom, a fireplace in the middle of an exterior wall, and kitchen
+
+counters against the kitchen walls. Furthermore, the overall footprint of the
+
+house and the size of the rooms are “design parameters” dictated by consumer
+
+preferences and the lot the house will occupy, not the architect. See Gaito, 602
+
+F.3d at 68.
+
+      Finally, most of the similarities between Plaintiff’s and Defendants’
+
+designs are features of all colonial homes, or houses generally. So long as
+
+Plaintiff was seeking to design a colonial house, he was bound to certain
+
+conventions. He cannot claim copyright in those conventions. Great artists often
+
+express themselves through the vocabulary of existing forms. Shakespeare wrote
+
+his Sonnets; Brahms composed his Hungarian Dances; and Plaintiff designed his
+
+colonial houses. Because we must preserve these forms for future artists, neither
+
+iambic pentameter, nor European folk motifs, nor clapboard siding are
+
+copyrightable.
+
+
+
+
+19The functional aspects of a work are governed by patent law, not copyright law. See
+Baker v. Selden, 101 U.S. 99, 104 (1879).
+
+                                          23
+       Plaintiff makes no attempt to distinguish those aspects of his designs that
+
+were original to him from those dictated by the form in which he worked. For
+
+example, Zalewski claims that the “front porches are the same design, size, and
+
+in the same location.” Reply Br. 6. But a door centered on the front of the house is
+
+typical of many homes, and colonials in particular.20 Moreover, there are subtle
+
+differences in the paneling, size, and framing of Plaintiff’s and Defendants’
+
+doors. These differences are not great, but given the constraints of a colonial
+
+design, they are significant. The same is true of the windows and garage doors
+
+that Plaintiff claims are identical. They are quite similar in location, size, and
+
+general design, but again, the similarities are due primarily to the shared colonial
+
+archetype. The window panes, shutters, and garage‐door paneling all have
+
+subtle differences. Likewise, the designs’ shared footprint and general layout are
+
+in keeping with the colonial style. There are only so many ways to arrange four
+
+
+
+20Defendants have helpfully included in the record excerpts from several treatises,
+which describe the basics of colonial architecture. See, e.g., Virginia McAlester & Lee
+McAlester, A Field Guide to American Houses (1984); Henry Lionel Williams & Ottalie
+K. Williams, Old American Houses 1700 to 1850: How to Restore, Remodel, and
+Reproduce Them (1957). The features of prominent architectural styles, particularly of
+home designs, are matters with which we are familiar and of which we can take judicial
+notice. Fed. R. Ev. 201. Although Plaintiff insists that his houses are not in the colonial
+style, he offers no argument or evidence on this point, merely assertion. We find these
+assertions incredible. See Scott v. Harris, 550 U.S. 372, 380 (2007).
+
+                                            24
+bedrooms upstairs and a kitchen, dining room, living room, and study
+
+downstairs. Beyond these similarities, Plaintiff’s and Defendants’ layouts are
+
+different in many ways. The exact placement and sizes of doors, closets, and
+
+countertops often differ as do the arrangements of rooms.
+
+      Although he undoubtedly spent many hours on his designs, and although
+
+there is certainly something of Plaintiff’s own expression in his work, as long as
+
+Plaintiff adhered to a pre‐existing style his original contribution was slight – his
+
+copyright very thin. Only very close copying would have taken whatever
+
+actually belonged to Plaintiff. See Nihon Keizai Shimbun, Inc. v. Comline Bus. Data,
+
+Inc., 166 F.3d 65, 71 (2d Cir. 1999). Copying that is not so close would – and in
+
+this case did – only capture the generalities of the style in which Plaintiff worked
+
+and elements common to all homes. Defendants’ houses shared Plaintiff’s
+
+general style, but took nothing from his original expression.
+
+   B. Plaintiff’s Digital Millennium Copyright Act Claim
+
+      In addition to his copyright infringement claim discussed above, Plaintiff
+
+appears to bring several other claims, the nature of which is not clear. The
+
+DMCA prohibits, among other things, “intentionally remov[ing] or alter[ing] any
+
+copyright management information,” such as the familiar © copyright notice. 17
+
+U.S.C. § 1202(b). In places, Plaintiff obliquely suggests that Defendants
+                                         25
+“removed” the copyright notices from his work, apparently by making
+
+photocopies of his drawings and omitting the copyright notices in the process.
+
+Regardless of whether we construe this vague assertion as a DMCA claim or a
+
+copyright infringement claim, it was properly dismissed on summary judgment
+
+because it had no support in the record and was never adequately alleged,
+
+despite the district court offering Plaintiff an opportunity to amend his
+
+complaint to clearly allege photocopying and removal of copyright management
+
+information from supposedly photocopied works. Since Plaintiff failed to plead
+
+his DMCA claims or provide any evidentiary support for them, contradicts
+
+portions of the DMCA claims in his brief, and passed up an opportunity to
+
+clarify his complaint, we affirm the district court’s dismissal of those claims on
+
+summary judgment.
+
+   C. Attorney’s Fees
+
+      Finally, Plaintiff appeals the district court’s award of attorney’s fees to T.P.
+
+and DeRaven under § 505 of the Copyright Act. We review an award of
+
+attorney’s fees for reasonableness “in terms of the circumstances of the particular
+
+case, and the district court’s determination will be reversed on appeal only for an
+
+abuse of discretion.” Matthew Bender & Co., v. West Publ’g. Co., 240 F.3d 116, 121
+
+(2d Cir. 2001) (quoting Alderman v. Pan Am World Airways, 169 F.3d 99, 102 (2d
+                                         26
+Cir. 1999)). “[T]his Court may reverse an award of attorney[’s] fees if the district
+
+court applied the wrong legal standard . . . , or [made] a clearly erroneous
+
+assessment of the evidence.” Id. (internal quotation marks omitted).
+
+      The Copyright Act provides courts with the discretion to award
+
+reasonable attorney’s fees to a prevailing party. See 17 U.S.C. § 505. Although
+
+“[t]here is no precise rule or formula” that district courts must apply in
+
+determining whether to award attorney’s fees, the Supreme Court has suggested
+
+a list of non‐exclusive factors that courts may consider: “frivolousness,
+
+motivation, objective unreasonableness (both in the factual and in the legal
+
+components of the case) and the need in particular circumstances to advance
+
+considerations of compensation and deterrence.” Fogerty v. Fantasy, Inc., 510 U.S.
+
+517, 534 & n.19 (1994) (internal quotation marks omitted). Of these factors,
+
+“objective reasonableness . . . should be given substantial weight in determining
+
+whether an award of attorney[’s] fees is warranted” because “the imposition of a
+
+fee award against a copyright holder with an objectively reasonable litigation
+
+position will generally not promote the purposes of the Copyright Act.” Matthew
+
+Bender, 240 F.3d at 122.
+
+      The district court concluded that, while Zalewski’s Third Amended
+
+Complaint was objectively reasonable, his first three complaints were objectively
+                                         27
+unreasonable because they “were strewn with legal conclusions and lacked
+
+sufficient factual bases to survive [D]efendants’ motions to dismiss,” and they
+
+had improperly named dozens of defendants who “bore no culpability,” which
+
+“ultimately complicated the litigation.” While the district court may have been
+
+correct that the initial complaints and Zalewski’s decision to name nearly ninety
+
+defendants, including the current owners of the allegedly infringing homes, were
+
+ill‐advised, these deficiencies do not make the bringing of this action “objectively
+
+unreasonable.” Indeed, the district court’s finding that Zalewski’s Third
+
+Amended Complaint was objectively reasonable — that is, had a reasonable
+
+basis in law and fact — seems logically inconsistent with finding that the prior
+
+complaints, which set out the same basic claims, were objectively unreasonable.
+
+Moreover, the sanction imposed here—an award of attorney’s fees to T.P. and
+
+DeRaven, defendants against whom the district court found Zalewski’s claims to
+
+be reasonable—is poorly matched to the deficiencies identified by the district
+
+court. To the extent that the district court relied on a finding of objective
+
+unreasonableness, such a finding on the facts of this case is not “faithful to the
+
+purposes of the Copyright Act.” Fogerty, 510 U.S. at 534 n.19.
+
+      However, it appears that Zalewski’s initial conduct might warrant an
+
+award of attorney’s fees under the Copyright Act based on other factors. See, e.g.,
+                                          28
+Matthew Bender, 240 F.3d at 126 (“Misconduct before or during litigation can, in
+
+appropriate cases, provide the basis for an award of fees.”). The district court
+
+may also be able to explain why in its view the first three complaints were so
+
+obtuse, abusive, and otherwise different from the Third Amended Complaint
+
+that its award is justified. Therefore, we vacate the district court’s award of
+
+attorney’s fees to T.P. and DeRaven and remand for reconsideration of whether
+
+an award of attorney’s fees is appropriate in light of this order.
+
+                                  CONCLUSION
+
+      For the foregoing reasons, the district court’s orders of February 22, 2012,
+
+dismissing Plaintiff’s claims against Cillis, DeRaven, and Sofia, its order of June
+
+18, 2012 granting summary judgment to T.P. and Cicero, and its judgment of July
+
+20, 2012 are AFFIRMED. The district court’s order and judgment of November
+
+21, 2012, granting attorney’s fees to T.P. and DeRaven are VACATED and
+
+REMANDED for reconsideration in light of this order. Appellees outstanding
+
+motion is DENIED as moot.
+
+
+
+
+                                         29
+

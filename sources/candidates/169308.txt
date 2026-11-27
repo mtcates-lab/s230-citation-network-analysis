@@ -1,0 +1,456 @@
+488 F.3d 1262
+488 F.3d 1262
+WWC HOLDING CO., INC., Plaintiff-Appellee,
+v.
+Gregory E. SOPKIN, Polly E. Page, Carl Miller, in their official capacities as the Commissioners of the Public Utilities Commission of the State of Colorado, Defendants-Appellants.
+No. 06-1156.
+United States Court of Appeals, Tenth Circuit.
+June 5, 2007.
+Paul C. Gomez, First Assistant Attorney General, Denver, CO, (John W. Suthers, Colorado Attorney General, with him on the briefs), for Defendants-Appellants.
+Phillip R. Schenkenberg, Briggs and Morgan, P.A., Minneapolis, MN, for Plaintiff-Appellee.
+Before BRISCOE, EBEL, and GORSUCH, Circuit Judges.
+EBEL, Circuit Judge.
+1
+This case involves the question of whether and how the federal Telecommunications Act restricts a state's authority to impose conditions on wireless service providers seeking to be designated as an "eligible telecommunications carrier" ("ETC") under Section 214(e)(2) of the Act when those conditions would affect the interstate components of a carrier's services. The commissioners of the Public Utilities Commission ("PUC") of Colorado appeal a district court decision that enjoined the PUC from imposing "consumer protection" conditions on WWC Holding Company ("Western Wireless") as part of Western Wireless's request to be designated an ETC. The district court found that the PUC's proposed conditions constituted interstate regulation, and concluded that the Telecommunications Act prohibited the PUC from engaging in such regulation.
+WWC Holding Co. v. Sopkin,
+420 F.Supp.2d 1186 (D.Colo.2006). The district court also decided that the Telecommunications Act requires the PUC to engage in a rule-making for any conditions that the PUC decides to impose on a carrier seeking ETC designation.
+2
+We conclude that the district court erred in both regards. We hold that the Telecommunications Act does not prevent the PUC from exercising its express statutory authority under Section 214(e) of the Act in a way that affects the interstate components of services offered by carriers who are otherwise subject to the PUC's jurisdiction. We also conclude that Section 214(e) governs ETC designations and does not require state commissions to issue rules and regulations regarding the conditions that are imposed on a carrier seeking ETC designation. We reverse those two holdings by the district court, and remand for further consideration of the other issues raised in this case.
+I. BACKGROUND
+3
+The Telecommunications Act of 1996 significantly changed the federal approach to ensuring that the nation's population has access to "universal service." "Universal service" includes the principles of: quality telecommunications service at "just, reasonable, and affordable rates;" service availability in all regions of the country; and services and rates in rural and high-cost areas that are comparable to other areas. 47 U.S.C. § 254(b).
+4
+To develop the services and infrastructure to meet these goals, Congress created a federal fund to which telecommunications carriers contribute, 47 U.S.C. § 254(d), often through fees passed on to customers. This funding is distributed as public subsidies to telecommunications carriers who apply for and receive designation as ETCs. 47 U.S.C. § 214(e). ETCs are eligible to receive the subsidy by committing to offering the "universal services" prescribed by the Federal Communications Commission ("FCC") in the specified service area.
+Id.
+The FCC is responsible for processing requests for ETC designation when the telecommunications carrier is not subject to the jurisdiction of a state public utility commission. 47 U.S.C. § 214(e)(6). However, when a carrier wishes to obtain ETC designation for an area within a state, it is the state public utility commission rather than the FCC that is charged with making those designations. 47 U.S.C. § 214(e)(2). The Act instructs that "[b]efore designating an additional eligible telecommunications carrier for an area served by a rural telephone company, the State commission shall find that the designation is in the public interest."
+Id.
+5
+States also have the option of creating their own universal service program under Section 254(f) of the Telecommunications Act. Colorado has done so through a state funding mechanism, and distributes state subsidies for universal service by designating carriers as "eligible providers."
+6
+Western Wireless provides mobile phone services. In 2003, Western Wireless applied to the PUC to receive federal subsidies through an ETC designation for specified areas in Colorado that were already served by a rural telephone company. Western Wireless did not seek state subsidies through an eligible provider designation. After a hearing, the PUC decided to grant the application for ETC designation under Section 214(e) of the Telecommunications Act, but found that the designation would be in the "public interest" only if Western Wireless complied with state-specific consumer protection and operational standards.
+1
+In a petition for reconsideration, Western Wireless informed the PUC that it was willing to adhere to the same consumer protection conditions that the FCC imposed on ETC designations within its purview,
+2
+but argued that the PUC's state-level conditions were designed for traditional wireline carriers and were inappropriate for a mobile telecommunications carrier.
+3
+7
+After the PUC denied the petition for reconsideration, Western Wireless brought suit in federal district court seeking to enjoin these conditions of its ETC designation. The court granted Western Wireless summary judgment, holding that the PUC's proposed conditions amounted to "unlawful regulation" of an "interstate carrier" because Western Wireless "bundles intrastate and interstate services together in service packages which do not distinguish between or separately bill for interstate and intrastate calls."
+WWC Holding Co.,
+420 F.Supp.2d at 1190, 1196. The court also found that because Section 254(f) provides that a state universal service program "may adopt regulations not inconsistent with the [FCC's] rules to preserve and advance universal service," the conditions imposed by the PUC on carriers seeking universal service subsidies under an ETC designation must be promulgated through regulations. The court concluded that because the PUC had not adopted regulations that set forth the quality of service standards at issue, such standards could not be imposed on Western Wireless as a condition of ETC designation.
+Id.
+at 1195-96. The PUC appealed those conclusions.
+II. DISCUSSION
+A. Jurisdiction and Standard of Review
+8
+The district court has authority under 28 U.S.C. § 1331 to review a state public utility commission's orders under the Telecommunications Act for compliance with federal law.
+Verizon Md., Inc. v. Pub. Serv. Comm'n,
+535 U.S. 635, 642, 122 S.Ct. 1753, 152 L.Ed.2d 871 (2002). We have jurisdiction to hear this appeal from the district court's final decision. 28 U.S.C. § 1291.
+4
+9
+We apply a
+de novo
+standard of review when reviewing state commissions' interpretations of the Telecommunications Act and its regulations, as those decisions turn on determinations of federal law.
+Sw. Bell Tel. Co. v. Apple,
+309 F.3d 713, 717 (10th Cir.2002);
+Sw. Bell Tel. Co. v. Brooks Fiber Commc'ns of Okla., Inc.,
+235 F.3d 493, 498 (10th Cir.2000). "Once federal courts determine that state commissions properly interpreted the Act and its regulations, courts apply an arbitrary and capricious standard to review the remaining state commissions' determinations."
+Apple,
+309 F.3d at 717. Because today's decision addresses only the interpretation of the Telecommunications Act and federal law, our review is
+de novo.
+10
+B. State Authorities and Interstate Communications
+5
+11
+The concept of a clean divide between interstate and intrastate jurisdiction in the world of telecommunications regulation has long been considered anachronistic, even before the advent of mobile telecommunications. As the Supreme Court has observed,
+12
+while the [Communications] Act would seem to divide the world of domestic telephone service neatly into two hemispheres-one comprised of interstate service, over which the FCC would have plenary authority, and the other made up of intrastate service, over which the States would retain exclusive jurisdiction-in practice, the realities of technology and economics belie such a clean parceling of responsibility. This is so because virtually all telephone plant that is used to provide intrastate service is also used to provide interstate service, and is thus conceivably within the jurisdiction of both state and federal authorities. Moreover, because the same carriers provide both interstate and intrastate service, actions taken by federal and state regulators within their respective domains necessarily affect the general financial health of those carriers, and hence their ability to provide service, in the other "hemisphere."
+13
+La. Pub. Serv. Comm'n v. FCC,
+476 U.S. 355, 360, 106 S.Ct. 1890, 90 L.Ed.2d 369 (1986). In
+Louisiana Public Service Commission,
+the Court rejected the suggestion that the FCC's jurisdiction preempted state action whenever the state action impacted assets used for both interstate and intrastate communication.
+Id.
+at 374-75, 106 S.Ct. 1890.
+14
+The revisions to the Telecommunications Act enacted in 1993 and 1996 continued to reflect this uneasy jurisdictional allocation between states and the federal government. The Act provides that the FCC has no jurisdiction over intrastate communication services, generally leaving the regulation of such services to the states. 47 U.S.C. § 152(b). However, "Congress, by extending the Communications Act into local competition, has removed a significant area from the States' exclusive control."
+AT & T Corp. v. Iowa Utils. Bd.,
+525 U.S. 366, 381 n. 8, 119 S.Ct. 721, 142 L.Ed.2d 835 (1999). The Supreme Court views the 1996 Act as reserving to states their authority to regulate intrastate communications "[i]nsofar as Congress has remained silent" about the regulatory matter at issue.
+Id.
+The Court noted that the FCC "could not, for example, regulate any aspect of intrastate communication
+not
+governed by the 1996 Act on the theory that it had an ancillary effect on matters within the [FCC's] primary jurisdiction."
+Id. See also
+Philip J. Weiser,
+Chevron, Cooperative
+Federalism, and Telecommunications Reform,
+52 Vand. L.Rev. 1, 25 (1999) (describing how Congress "envisioned that the state agencies would have an independent role in implementing a number of the Act's provisions"). Therefore, in discerning the limits of a state's regulatory authority, we look past a mere rule of thumb demarcating jurisdiction over interstate or intrastate communications, and instead look to the Telecommunications Act itself.
+15
+Under the Act, the FCC is charged with certain regulatory authority over mobile services, even to the extent they have intrastate components. 47 U.S.C. §§ 152(b), 332. The FCC has exclusive jurisdiction to regulate the rates and conditions of market entry of mobile services. 47 U.S.C. § 332(c)(3)(A). However, states are expressly permitted to regulate the "other terms and conditions" of commercial mobile services.
+Id.
+16
+Likewise, the Telecommunications Act preempts a particularly onerous state regulation by providing that "[n]o State or local statute or regulation, or other State or local legal requirement, may prohibit or have the effect of prohibiting the ability of any entity to provide any interstate or intrastate telecommunications service." 47 U.S.C. § 253(a). However, Congress also stated that "[n]othing in this section shall affect the ability of a State to impose, on a competitively neutral basis and consistent with section 254 of this title, requirements necessary to preserve and advance universal service, protect the public safety and welfare, ensure the continued quality of telecommunications services, and safeguard the rights of consumers." 47 U.S.C. § 253(b).
+17
+It is clear that states have authority under the Telecommunications Act to adopt their own universal service standards and create funding mechanisms sufficient to support those standards, as long as the standards are not inconsistent with the FCC's rules, and as long as the state program does not burden the federal program. 47 U.S.C. § 254(f). Moreover, states are given the primary responsibility for deciding which carriers qualify as ETCs to be eligible for subsidies from the federal universal service fund. As noted earlier, when a rural telephone company already serves a given area and another carrier seeks ETC designation for the same area, the state must decide whether that designation would be in the public interest. 47 U.S.C. § 214(e)(2).
+18
+The district court held that because Western Wireless bundled its intrastate and interstate services, the PUC's conditions of ETC designation amounted to "interstate regulation" that was preempted by the Telecommunications Act.
+6
+However, nothing in the Act expressly preempts a state from exercising the above authority to regulate carriers providing intrastate services or to designate such carriers as ETCs simply on the basis that the requirements or ETC designation conditions being imposed would affect some phone calls that originate and terminate in different states. Nor does the Act limit a state's jurisdiction over a telecommunications carrier merely because the carrier offers interstate and intrastate services in "bundles" to individual consumers.
+19
+For example, Congress was well aware that mobile services, "by their nature, operate without regard to state lines as an integral part of the national telecommunications infrastructure," and therefore created Section 332(c)(3)(A) to "preempt state
+rate
+and
+entry
+regulation of all commercial mobile services." H. Rpt. No. 103-111, at 260 (1993),
+reprinted in
+1993 U.S.C.C.A.N. 378, 587 (emphasis added). Yet, at the same time, Congress decided to permit a state to regulate the "other terms and conditions" of a mobile service provider, with no explicit limitation on whether a state's regulations affect the provision of interstate service. These provisions do not suggest that a carrier may declare itself exempt from all relevant regulations of a state universal service program simply because the carrier's rate structure does not distinguish between interstate and intrastate calls. Instead, a carrier would need to demonstrate that a state's requirements effectively regulate rates or are so onerous as to constitute a barrier to entry.
+20
+In summary, the jurisdictional delineation between state and federal authority focuses on the types of requirements being imposed, not whether the regulated entity offers bundled interstate services with its intrastate services. For mobile telecommunications services, Section 332(c)(3)(A) draws the line between regulation of rates or market entry, which is the FCC's exclusive purview, and "other terms and conditions," which are permissive regulatory subjects for states. Even though Congress was sensitive to the need to "foster the growth and development of mobile services," Congress envisioned that state commissions could regulate mobile services for "such matters as customer billing information and practices and billing disputes and other consumer protection matters; facilities siting issues (e.g., zoning); transfers of control; the bundling of services and equipment; and the requirement that carriers make capacity available on a wholesale basis or such other matters as fall within a state's lawful authority. This list is intended to be illustrative only and not meant to preclude other matters generally understood to fall under `terms and conditions.'"
+Id.
+at 588.
+7
+Therefore, in assigning the responsibility for regulating mobile service providers, the "what" matters as much as the "where."
+21
+For regulation aimed at promoting universal service, Section 254(f) provides a hierarchy in which states cannot conflict with the federal universal services program, but states are clearly authorized to build upon the federal program to support universal service.
+See Qwest Corp. v. FCC,
+258 F.3d 1191, 1203 (10th Cir.2001) ("The Telecommunications Act plainly contemplates a partnership between the federal and state governments to support universal service.... Thus, it is appropriate — even necessary — for the FCC to rely on state action in this area.").
+22
+At the same time, the FCC has decided that state commissions have "the primary responsibility for performing ETC designations" that result in telecommunications providers being eligible for federal universal service subsidies.
+In re Fed.-State Joint Bd. on Universal Serv.,
+20 F.C.C. Rcd. 6371, 6374 (Mar. 17, 2005) (
+"2005 Universal Service Order"
+). The FCC has established standards for ETC designations made by the FCC.
+Id.
+at 6372. Although the FCC has encouraged state commissions to adopt these same requirements, it has declined to require states to do so.
+Id.
+Instead, the FCC generally affirmed that states have the discretion to impose additional eligibility requirements on carriers seeking ETC designations, without reference to whether the requirements can or cannot be applied to a carrier's interstate components.
+23
+We believe that section 214(e)(2) demonstrates Congress's intent that state commissions evaluate local factual situations in ETC cases and exercise discretion in reaching their conclusions regarding the public interest, convenience and necessity, as long as such determinations are consistent with federal and other state law.... Consistent with our adoption of permissive federal guidelines for ETC designation, state commissions will continue to maintain the flexibility to impose additional eligibility requirements in state ETC proceedings, if they so choose.
+24
+Id.
+at 6397-98.
+25
+The states' authority to make ETC designations extends to wireless carriers seeking federal universal service subsidies. The FCC specifically rejected suggestions that "consumer protection requirements imposed on wireless carriers as a condition for ETC designation are necessarily inconsistent with section 332 of the Act."
+Id.
+at 6384-85. Instead, the FCC decided that "states may extend generally applicable, competitively neutral requirements [to wireless carriers] that do not regulate rates or entry and that are consistent with sections 214 and 254 of the Act to all ETCs in order to preserve and advance universal service."
+Id.
+at 6384-85. Of relevance here, the FCC has
+not
+said that a state must parse out the application of these requirements to avoid affecting the interstate services of carriers providing bundled services. The FCC's interpretation of the Telecommunications Act's provisions addressing state ETC designations is, of course, subject to deference.
+See Qwest Commc'ns Int'l, Inc. v. FCC,
+398 F.3d 1222, 1229-30 (10th Cir. 2005) (citing
+Chevron U.S.A., Inc. v. Natural Res. Def. Council, Inc.,
+467 U.S. 837, 842, 104 S.Ct. 2778, 81 L.Ed.2d 694 (1984)).
+26
+At least one circuit court has agreed with the FCC in this regard, and we have found no circuit authority to the contrary. The Fifth Circuit, in
+Texas Office of Public Utility Counsel v. FCC,
+183 F.3d 393 (5th Cir.1999), expressly held that the Telecommunications Act permits states to impose some additional eligibility requirements on carriers seeking an ETC designation.
+See id.
+at 418 (discussing Section 214(e)(2) and concluding that "nothing in the statute . . . prohibits states from imposing their own eligibility requirements"). And we must assume that the FCC's order permitting state commissions to impose consumer protection requirements on ETC designees is valid under the Telecommunications Act.
+8
+27
+Western Wireless attempts to rely on the FCC's orders regarding internet voice services to support its argument that states have no jurisdiction over any type of communications that bundles interstate and intrastate services. In 2004, the FCC issued an order preempting a state's attempt to regulate voice over internet protocol ("VoIP") services.
+In re Vonage Holdings Corp. Petition for Declaratory
+Ruling Concerning an Order of the Minn. Pub. Utils. Comm'n,
+19 F.C.C. Rcd. 22,404 (Nov. 12, 2004) (
+"Vonage Order"
+). The Eighth Circuit affirmed the FCC's order.
+Minn. Pub. Utils. Comm'n v. FCC,
+483 F.3d 570 (8th Cir.2007).
+28
+VoIP services are provided through the internet but resemble telephone communications and interact with both traditional wireline services and mobile services. The locations of both the call origination and termination are irrelevant to such services. A subscriber need only be somewhere with broadband internet access. The Minnesota Public Utilities Commission had issued an order subjecting Vonage to the same requirements imposed on other telephone companies in the state, such as the requirement to offer 911 emergency services comparable to other wireline carriers.
+Vonage Order,
+19 F.C.C. Rcd. at 22,408.
+29
+The FCC found that Vonage's services were jurisdictionally "mixed" and therefore theoretically subject to dual federal/state jurisdiction, but concluded that the FCC preempted state regulation over internet services when, as with VoIP services, it was "impossible or impractical" to separate the services into intrastate and interstate components.
+Id.
+at 22,413. The Eighth Circuit subsequently held that "[t]he impossibility exception, if applicable, is dispositive of the issue whether the FCC has authority to preempt state regulation of VoIP services."
+Minn. Pub. Utils. Comm'n,
+483 F.3d at 578. Western Wireless likens VoIP services to mobile communications, which also bundle their interstate and intrastate services and have no technical limitations inherent to state boundaries, in arguing that the PUC's ETC conditions are preempted by the FCC's jurisdiction.
+30
+The FCC's ruling in
+Vonage
+is simply not applicable to the issues in this case, particularly in light of the
+2005 Universal Service Order.
+First, the FCC found that VoIP services are internet services, and that Congress specifically intended internet services to be treated differently than either mobile communications or traditional wireline services. The Telecommunications Act does not provide a mixed state-federal regulatory scheme for internet services, with the exception of provisions for blocking offensive material. 47 U.S.C. § 230. In contrast, the Act establishes a detailed regulatory scheme for commercial mobile services, with primary jurisdiction given to the FCC, but expressly permits states to regulate non-rate and non-entry aspects of mobile services and requires states designating ETCs in rural markets served by an incumbent provider to make a public interest determination. 47 U.S.C. § 332(c)(3)(A).
+31
+Second, the FCC's
+Vonage
+order reacted to a state decision that required Vonage to comply with "all state statutes and regulations relating to the offering of telephone service," i.e. market entry requirements.
+Vonage Order,
+19 F.C.C. Rcd. at 22,409, 22,430. In our case, the PUC has not extended the gamut of telephone regulations to mobile services. Instead, Western Wireless approached the PUC to receive federal universal service subsidies, and the PUC determined that public interest required that an ETC designation for receipt of those subsidies be conditioned on compliance with certain requirements that have also been imposed on wireline companies seeking the same type of subsidies. As such, Western Wireless actually requested the PUC's jurisdiction to the extent of receiving ETC designation. And Western Wireless cannot claim that it is being subjected to the full panoply of wireline regulations, as not only are the ETC conditions at issue merely a subset of those regulations, but also Western Wireless retains the ability to opt out of them entirely by declining any federal universal service subsidies.
+32
+Third, the FCC's
+Vonage
+order was based in part on a finding that the state's decision "directly conflicts" with the FCC's approach for regulating VoIP services.
+Id.
+at 22,415. Yet here, there is no direct conflict between the PUC's conditions of ETC designation and the FCC's regulatory approach. Instead, a year after the
+Vonage
+decision, the FCC affirmed that state commissions could impose consumer protection requirements on wireless carriers seeking ETC designation.
+2005 Universal Service Order,
+20 F.C.C. Rcd. at 6384-85. And while the PUC's conditions might not be exactly what the FCC would impose if it were the entity designating Western Wireless as an ETC,
+see supra
+note 3, the FCC has interpreted the Telecommunications Act as permitting states to establish their own additional requirements.
+33
+Last, the FCC in
+Vonage
+decided that the state's regulatory reach violated the U.S. Constitution's Commerce Clause, since Minnesota's requirements would have the "`practical effect' of regulating commerce occurring wholly outside that state's borders."
+Vonage Order,
+19 F.C.C. Rcd. at 22,428 (quoting
+Healy v. Beer Inst.,
+491 U.S. 324, 332, 109 S.Ct. 2491, 105 L.Ed.2d 275 (1989)). However, Congress has the power to make exceptions to the Commerce Clause's restrictions on state jurisdiction and to permit states to regulate in a way that affects interstate commerce.
+See New York v. United States,
+505 U.S. 144, 171, 112 S.Ct. 2408, 120 L.Ed.2d 120 (1992) ("While the Commerce Clause has long been understood to limit the States' ability to discriminate against interstate commerce, that limit may be lifted . . . by an expression of the `unambiguous intent' of Congress." (citations omitted)). With respect to mobile communications Congress has done just that, preempting states from regulating the rates and market entry conditions of mobile carriers, but expressly allowing the states to regulate the "other terms and conditions." 47 U.S.C. § 332(c)(3)(A). We must respect Congress's decision in this matter to allow state PUCs to exercise ETC designation authority, which has not been limited by Congress to instances where only intrastate commerce is affected.
+34
+In summary, the Telecommunications Act does not categorically bar the PUC from exercising jurisdiction over services that may include an interstate component when the PUC acts within its explicit authorities under the Act.
+9
+Moreover, the FCC, in affirming states' authorities under Sections 214 and 254, has not attempted to restrict the sweep of those authorities exclusively to intrastate services. The Act explicitly grants the FCC the authority to preempt a state regulation that has "the effect of prohibiting the ability of any entity to provide any interstate or intrastate telecommunications service." 47 U.S.C. § 253(a), (d). However, the FCC has yet to exercise that statutory authority to preempt the type of ETC conditions at issue in this case.
+35
+Western Wireless's argument in this regard points to the potential tension between state and federal jurisdiction that permeates the Telecommunications Act, and the absence of clear federal guidance on the extent to which a state's conditions of ETC designation imposed on a wireless provider can embrace the type of regulation traditionally established for wireline carriers without impermissibly burdening the federal universal services program. Untangling those issues is simply beyond the scope of our current review. Our decision is aimed solely at the question presented: whether the Telecommunications Act permits a state to impose ETC conditions not related to regulation of rates or market entry that affect the interstate components of a mobile carrier that bundles its interstate and intrastate services.
+36
+Today we do not pass on the questions of whether the nature and extent of the conditions at issue here are beyond the bounds of a state's Section 214(e) authority, or whether they impermissibly burden the federal universal service program under Section 254(f). We remand to the district court for further consideration of unresolved issues that may include those questions. However, we do hold, contrary to the ruling of the district court, that federal law does not automatically preclude the PUC from exercising those authorities in a way that affects the interstate component of an ETC designee's services.
+37
+C. Rule-Making Requirements and the Telecommunications Act
+38
+The conditions that the PUC seeks to impose on Western Wireless's ETC designation are not part of the state's ETC regulation,
+see
+4 Colo.Code Regs. § 723-2, Rule 2187, nor are they codified elsewhere. Instead, the PUC established these conditions in an adjudicatory hearing and decision specific to Western Wireless. The district court, looking to the text of Section 254(f), ruled that the PUC can impose ETC designation conditions upon an applicant only by adopting regulations through a rule-making proceeding. We disagree. Because the express source of the PUC's authority in this matter came from Section 214(e) rather than Section 254(f), and because Section 214(e)(2) ETC designations do not require a formal rulemaking proceeding, we reverse the district court's determination on this question.
+10
+39
+Section 254(f) provides that states may "adopt regulations" to create a state universal service program, including "regulations" that provide "additional definitions and standards to preserve and advance universal service," but only if "such regulations" adopt sufficient mechanisms to support those standards.
+11
+While the text of Section 254(f) could lead to the conclusion that a rule-making proceeding is required for regulation of a state-created universal services program, we need not resolve that question here, because the PUC's conditions were not imposed on Western Wireless under the aegis of Section 254(f).
+40
+The structure of Section 254 of the Telecommunications Act delineates a federal universal service program,
+see
+47 U.S.C. § 254(e), and a state's authority to create its own such program,
+see
+47 U.S.C. § 254(f). The provision establishing the federal program provides that only ETCs designated under Section 214(e) of the Act are eligible to receive federal support. 47 U.S.C. § 254(e). Because Western Wireless sought ETC designation for federal support, and did not seek state universal service funding, Section 254(e) is applicable.
+41
+On the other hand, Section 254(f) gives states the authority to adopt their own regulations, definitions and standards "to preserve and advance universal service," as long as the regulations are "not inconsistent" with the FCC's universal service rules, and are paired with "specific, predictable, and sufficient mechanisms" that "do not rely on or burden Federal universal service support mechanisms." 47 U.S.C. § 254(f). We have read Section 254(f) as empowering states to require telecommunications carriers that provide intrastate services to contribute financially to state universal service mechanisms.
+Sprint Spectrum, L.P. v. State Corp. Comm'n,
+149 F.3d 1058, 1061 (10th Cir. 1998). The FCC also has consistently referred to states' authority under Section 254(f) in the context of funding state mechanisms by carrier contributions and disbursing those funds for state universal services goals. For example, the FCC decided that its federal universal service funds could no longer be used to support "multiple connections" to a single subscriber's residence or business, but said that Section 254(f) permitted states to use state support for multiple connections.
+See In re Fed.-State Joint Bd. on Universal Serv.,
+19 F.C.C. Rcd. 10,800, 10,839 (June 8, 2004). "Although such state support would go beyond the scope of federal high-cost support, we do not believe that such supplementary state funding would `rely on or burden Federal universal service support mechanisms' in contravention of section 254(f) of the Act."
+Id.
+at 10,840.
+See also In re Fed.-State Joint Bd. on Universal Serv.,
+18 F.C.C. Rcd. 22,559, 22,572 n. 61 (Oct. 27, 2003) (commenting that if a state wanted to support intrastate toll services in its universal service program, it must fund it through its own support mechanism without relying on federal support).
+42
+It appears that Section 254(f) authorizes a state to create its own universal service standards only to the extent that a state is providing state funding to meet those standards. To hold otherwise would ignore the last and longest sentence of Section 254(f). However, in this case, Western Wireless did not seek state subsidies. Therefore, Section 254(f) cannot be the source of the PUC's authority to impose operational and consumer protection requirements on Western Wireless as a condition of ETC designation.
+43
+In contrast, Section 214(e)(2) is the on-point source of the PUC's authority to impose conditions on Western Wireless's ETC designation, yet it contains no textual implication that state commissions should issue rules or regulations in doing so. Instead, the statutory language seems to assume a fact-specific determination more appropriately done in an adjudicatory context. The statute reads that "[b]efore designating an additional eligible telecommunications carrier for an area served by a rural telephone company, the State commission shall find that the designation is in the public interest." 47 U.S.C. § 214(e)(2). This "public interest" determination suggests that states should consider the facts specific to the local area involved and the specific services proposed to be offered by the ETC designee. The FCC's view also is that the ETC designation process is inherently local and fact-specific in nature:
+44
+Section 214(e)(2) of the Act gives states the primary responsibility to designate ETCs and prescribes that all state designation decisions must be consistent with the public interest, convenience, and necessity. We believe that section 214(e)(2) demonstrates Congress's intent that state commissions evaluate local factual situations in ETC cases and exercise discretion in reaching their conclusions regarding the public interest, convenience and necessity, as long as such determinations are consistent with federal and other state law.... Furthermore, state commissions, as the entities most familiar with the service area for which ETC designation is sought, are particularly well-equipped to determine their own ETC eligibility requirements.
+45
+2005 Universal Serv. Order,
+20 F.C.C. Rcd. at 6397.
+46
+Allowing the PUC flexibility in deciding how to announce its ETC designation requirements is consistent with general administrative law principles. "The Supreme Court has consistently held that `the choice made between proceeding by general rule or by individual, ad hoc litigation is one that lies primarily in the informed discretion of the administrative agency.'"
+Nunez-Pena v. INS,
+956 F.2d 223, 225 (10th Cir.1992) (quoting
+SEC v. Chenery Corp.,
+332 U.S. 194, 203, 67 S.Ct. 1575, 91 L.Ed. 1995 (1947)).
+But see NLRB v. Bell Aerospace Co., Div. of Textron, Inc.,
+416 U.S. 267, 294, 94 S.Ct. 1757, 40 L.Ed.2d 134 (1974) (cautioning that an administrative agency's discretion to choose the means of announcing new principles is subject to any applicable statutory constraints, and therefore there may be situations in which reliance on adjudication would amount to an abuse of discretion).
+47
+Given the thrust of the statutory language of Section 214(e)(2) giving states the authority to evaluate specific local facts in ETC decisions, and the absence of any authority suggesting that such determinations must be done through promulgation of rules, we hold that the PUC is not required to engage in a rule-making proceeding when imposing conditions pursuant to making an ETC designation.
+III. Conclusion
+48
+For the aforementioned reasons, we REVERSE in part the district court's decision. We hold that the PUC's authority to make an ETC designation under Section 214(e)(2) under the Telecommunications Act is not curtailed merely on a showing that the exercise of such authority affects the interstate components of a carrier's services. We also hold that the PUC need not engage in a rule-making proceeding to impose conditions on ETC designations that are authorized by Section 214(e)(2) of the Act. We recognize that Western Wireless has raised a number of other questions about the conditions that the PUC seeks to impose. We REMAND to the district court for consideration of the remaining issues in this matter.
+Notes:
+1
+The PUC also conditioned the ETC designation on Western Wireless's compliance with defined rate caps. The district court enjoined this condition, finding that it constituted state-level rate regulation of commercial mobile radio services, which is expressly preempted by Section 332 of the Telecommunications Act
+WWC Holding Co.,
+420 F.Supp.2d at 1194. The PUC has not appealed this part of the district court's ruling.
+2
+Specifically, Western Wireless said it would comply with the standards articulated in the FCC's
+Virginia Cellular
+order.
+See In re Virginia Cellular, LLC Petition for Designation as an ETC in the Commonwealth of Va.,
+19 F.C.C. Rcd. 1563 (Jan. 22, 2004).
+The FCC imposes a number of requirements when it makes an ETC designation for a carrier not subject to a state commission's jurisdiction. 47 C.F.R. Part 54. For example, carriers must: commit to providing service to any customer making a reasonable request for service; submit a five-year plan for infrastructure and service improvements; demonstrate its ability to remain functional in emergency situations; demonstrate that it will satisfy applicable consumer protection and service quality standards, which are met if the carrier complies with the Cellular Telecommunications and Internet Associations's ("CTIA") consumer code; and demonstrate that it offers a local usage plan comparable to the one offered by the incumbent carrier in the area. 47 C.F.R. § 54.202.
+3
+The contested conditions involved in Western Wireless's ETC designation include requirements that Western Wireless:
+&#x2022; will provide customer care personnel who will be available 24 hours per day, 7 days per week by phone, or by visiting retail store outlets;
+&#x2022; will provide any customer, upon request, with basic universal services within 150 working days of application;
+&#x2022; will ensure, for switches for more than 10,000 customers, that a permanent auxiliary power and possibly additional battery reserve is installed;
+&#x2022; will ensure, for switches for fewer than 10,000 customers, plus microwave radio sites and other facilities, that a mobile power source with four or more hours of battery reserve is installed;
+&#x2022; will transmit a signal at strength level of negative 104 dBM;
+&#x2022; will establish "local calling areas" that generally allow free calls "within [customers'] community of interest," including local government offices, school districts, libraries, primary centers of business activity, police and fire departments, and essential medical and emergency services;
+&#x2022; will publish an annual directory listing of customers with their names and addresses; and
+&#x2022; will document customer trouble reports and report to the state during the months exceeding eight reports per 100 customers.
+These have some similarities to the federal standards. For example, both the federal and state programs require a carrier to have backup capacity so that it is functional in emergencies. However, the FCC does not spell out the detailed operational and procedural standards — such as a four-hour battery backup window or minimum signal strength — that the PUC seeks to impose as a condition of Western Wireless's ETC designation.
+4
+Western Wireless argued that we have no jurisdiction because this appeal is moot. Western Wireless pointed to a PUC decision issued after the onset of this litigation in which the PUC acknowledged that state law prevented it from regulating wireless carriers, so that the PUC was not permitted to "regulate" the service quality of wireless carriers already designated as ETCs who were certifying their continuing eligibility for federal subsidies
+In re Proposed Rules Regarding Annual Reporting Requirements for ETCs to be Certified to Receive Fed. Universal Serv. Support,
+PUC Decision No. C06-1108 (Sept. 19, 2006) (referring to C.R.S. §§ 40-15-401 and 40-15-402).
+"Constitutional mootness doctrine is grounded in the Article III requirement that federal courts may only decide actual ongoing cases or controversies."
+Seneca-Cayuga Tribe v. Nat'l Indian Gaming Comm'n,
+327 F.3d 1019, 1028 (10th Cir.2003) (citation omitted). "[T]he Supreme Court has said that a case properly brought in the first instance only becomes moot where interim relief or events have completely and irrevocably eradicated the effects of the alleged violation."
+Bldg. & Constr. Dep't v. Rockwell Int'l Corp.,
+7 F.3d 1487, 1491 (10th Cir.1993) (quotation omitted).
+The PUC, in its supplemental brief and at oral argument, stated that it continues to assert jurisdiction over initial ETC designations and has the authority to impose conditions in doing so. The PUC has not interpreted Decision C06-1108 as removing such jurisdiction. Moreover, the PUC expressly declined to extend the rules promulgated in that decision to initial ETC designations. Therefore, this appeal is not moot.
+5
+Western Wireless contends that we should not consider this argument because the PUC did not develop it in the district court. Generally "an appellate court will not consider an issue raised for the first time on appeal."
+Hicks v. Gates Rubber Co.,
+928 F.2d 966, 970 (10th Cir.1991). However, the PUC did argue to the district court that various sections of the Telecommunications Act, including Sections 214, 254 and 332, give the PUC express authorities to regulate telecommunications carriers without regard to whether the exercise of such authority can reach the interstate components of such carriers' services. We conclude the PUC adequately raised this argument to the court below, particularly in view of the pure question of law it presents for our review.
+See Ross v. United States Marshal,
+168 F.3d 1190, 1195 n. 5 (10th Cir.1999).
+6
+Because our analysis of the Telecommunication Act's provisions for assigning interstate and intrastate jurisdiction bears directly upon our review of the district court's holding and provides the rationale for our holding, it is integral to our decision and therefore not "dicta."
+7
+For example, the Eleventh Circuit recently held that a state requirement regarding the use of line items in customer billing was properly within a state's Section 332 authority over the "other terms and conditions" of mobile services
+Nat'l Ass'n of State Util. Consumer Advocates v. FCC,
+457 F.3d 1238, 1242 (11th Cir.2006).
+8
+The Administrative Orders Review Act ("Hobbs Act") precludes collateral attacks on FCC Orders by prescribing "the sole conditions under which the courts of appeals have jurisdiction to review the merits of FCC orders."
+Vonage Holdings Corp. v. Minn. Pub. Utils. Comm'n,
+394 F.3d 568, 569 (8th Cir. 2004) (describing the process for petitioning for review, which must name the United States as a party) (citing 28 U.S.C. §§ 2342, 2344; other citations omitted). Specifically, "[e]xclusive jurisdiction for review of final FCC orders . . . lies in the Court of Appeals. Litigants may not evade these provisions by requesting the District Court to enjoin action that is the outcome of the agency's order."
+FCC v. ITT World Commc'ns, Inc.,
+466 U.S. 463, 468, 104 S.Ct. 1936, 80 L.Ed.2d 480 (1984) (citing 28 U.S.C. § 2342(1) and 47 U.S.C. § 402(a)).
+9
+The PUC argues that the Telecommunications Act actually "requires" carriers to be able to separate its intrastate and interstate services. However, the PUC bases its argument on an unrelated cost allocation methodology employed by the FCC that does not speak to the ability of a mobile carrier to separate its interstate and intrastate services for purposes of regulatory compliance. Moreover, the PUC never ordered Western Wireless to separate its interstate and intrastate services when it conditioned its ETC designation. As such, this argument is both unavailing and irrelevant, and we do not, accordingly, address it further on this appeal
+10
+The PUC failed to offer before the district court its view of how to interpret Section 254(f). However, the court did not base its ruling on any default by the PUC, but instead presented a detailed argument on why it concluded that Western Wireless's position was correct. Therefore, we review the district court's conclusion on its merits
+Our statutory interpretation differs from the positions of both parties on appeal. However, we are not limited to the parties' positions on what a statute means, because we review a question of statutory construction
+de novo. See United Transp. Union v. Dole,
+797 F.2d 823, 828 (10th Cir.1986) (in considering whether a party had waived the opportunity to argue for its position as to what the statute means, "[t]he issue concerns questions of statutory interpretation urged by the agency and accepted by the district court. Questions of law are entitled to a
+de novo
+review; development of a record before the agency or by the agency is not pressing.... We believe that it is necessary to correct misconceptions of statutory meaning at the earliest opportunity for the benefit of all who must operate under a statute's purview." (citation omitted)).
+11
+The full text of Section 254(f) provides that:
+A State may adopt regulations not inconsistent with the Commission's rules to preserve and advance universal service. Every telecommunications carrier that provides intrastate telecommunications services shall contribute, on an equitable and nondiscriminatory basis, in a manner determined by the State to the preservation and advancement of universal service in that State. A State may adopt regulations to provide for additional definitions and standards to preserve and advance universal service within that State only to the extent that such regulations adopt additional specific, predictable, and sufficient mechanisms to support such definitions or standards that do not rely on or burden Federal universal service support mechanisms.
+47 U.S.C. § 254(f).
+49
+GORSUCH, J., Circuit Judge, dissenting.
+50
+Though reluctant to part company with my colleagues, I feel constrained to do so in this case because the majority reverses the district court employing arguments that the appellant never made before that court, never pressed on appeal, and many of which the appellant has expressly disavowed. They are arguments, as well, to which the appellee has never had the chance to respond. Skeptical of my own capacity to arrive purely by judicial self-direction at the optimal understanding of a complex corner of federal communications law, and concerned about proceeding without at least affording the affected litigants notice and an opportunity to be heard on theories pursued by the court, I respectfully dissent.
+51
+To begin at the beginning, in Count I of its complaint WWC Holding Company ("Western Wireless") contested the authority of the Public Utilities Commission of the State of Colorado ("PUC" or "Commission") to regulate rates under 47 U.S.C. § 332(c)(3) of the Telecommunications Act of 1996 (the "Act" or "1996 Act"). In Count II, Western Wireless challenged the Commission's authority under 47 U.S.C. § 151 to impose conditions, respecting either rates or non-rate terms of service, on the company's bundled interstate service offerings. After a careful analysis, the district court enjoined the PUC's rate-setting foray, explaining that Section 332(c)(3)(A) prohibits states from regulating the entry of or the rates charged by a wireless carrier. Notably, the PUC has not appealed this central determination of the district court. Thus, the first issue remaining for our resolution on appeal concerns that portion of Count II which survived — namely, Western Wireless's challenge to the Commission's authority to regulate non-rate terms and conditions of its services.
+52
+In a section titled "State Authorities and Interstate Communications," the majority approaches this question by pursuing the broad thesis that state commissions are free to regulate any non-rate terms and conditions of interstate service provided by mobile service eligible telecommunications carriers ("ETCs"). Maj. Op. at 1270-75. Yet, the Commission itself never — either before the district court or on appeal — advocated such a theory. Indeed, in its briefs and again at oral argument the Commission expressly
+disclaimed
+any authority to regulate the terms and conditions of Western Wireless's
+interstate
+services.
+See, e.g.,
+Reply Br. at 9; Aplt.App. at 227. According to the Commission, its order merely seeks to impose conditions on Western Wireless's
+intrastate
+services, and it happens to affect Western Wireless's interstate offerings only by virtue of Western Wireless's independent (and presumably lucrative) business decision to bundle intrastate and interstate service offerings.
+53
+To be sure, the parties cannot stipulate to a false reading of a statute, and we are not rigidly precluded from deciding a case on an unargued but apparent point of law.
+See United States v. International Business Machines Corp.,
+517 U.S. 843, 866-68, 116 S.Ct. 1793, 135 L.Ed.2d 124 (1996) (Kennedy, J., dissenting) (collecting authority). But just because we have the power to resolve a question of course does not mean we must, or should, always do so. Indeed, when a party "cho[o]se[s] not to" pursue a legal theory potentially available to it, we generally take the prudential position that it is "inappropriate ... without the benefit of the parties' briefing" to pursue that theory in our opinions.
+Id.
+at 855, 116 S.Ct. 1793 (majority opinion) (internal quotation omitted);
+see generally Spector Motor Serv., Inc. v. Walsh,
+139 F.2d 809, 823 (2d Cir.1943) (Hand, J., dissenting) (It is not "desirable for a lower court to embrace the exhilarating opportunity of anticipating a doctrine which may be in the womb of time, but whose birth is distant."),
+vacated sub nom., Spector Motor Serv., Inc. v. McLaughlin,
+323 U.S. 101, 65 S.Ct. 152, 89 L.Ed. 101 (1944).
+1
+Our caution flows in part from a recognition of our dependence on the traditions of the adversarial process in testing the issues for our decision and the error we risk when we strike out on our own; it flows, too, from concern for the affected parties to whom we traditionally extend notice and an opportunity to be heard on the issues that affect them.
+See Zamora v. Elite Logistics, Inc.,
+478 F.3d 1160, 1183-84 (10th Cir.2007) (en banc) (Gorsuch, J., concurring).
+2
+54
+My concern with striking out on a new course the parties have not advocated or been permitted to address, even through supplemental briefing, is heightened by the setting of this particular dispute. This case involves a complex and relatively unstudied corner of the controlling statutory regime.
+3
+No issue of constitutional gravity or personal liberty is at stake. And the parties were afforded the full benefit of highly competent counsel and thus presumably made deliberate and informed tactical decisions regarding which legal theories to pursue (and not pursue).
+55
+Meanwhile, the majority implicitly rejects the PUC's understanding of its own order without pausing to consider whether the agency is entitled to some degree of deference regarding the meaning of its own decree.
+4
+The majority's novel theory also treads into a longstanding national discussion about the proper role of competing federal and state authorities in the regulation of the telecommunications industry,
+5
+and it appears to come down rather strongly in favor of one competing school of thought.
+6
+Neither is its analysis about the role of states in the regulation of interstate telecommunications altogether self-evident or free from question.
+7
+Perhaps most significantly of all, none of this is really necessary. What remains of Count II can be resolved readily, without any of these difficulties and with faithfulness to the statutory scheme before us, on a basis fully vetted by the parties and district court.
+8
+56
+The reasons that give me pause about the court's disposition of Count II recur with respect to Count IV. Before the district court, Western Wireless argued that, even if the Commission had the authority to oversee the non-rate terms and conditions of its ETC service, Section 254(f) required the Commission to proceed through formal rulemaking processes rather than, as it did here, by imposing informal conditions on Western Wireless's ETC designation. Aplt.App. at 88-91. The Commission responded by suggesting only that the validity of the conditions it imposed on Western Wireless hinge on whether it engaged in the unlawful rate regulation challenged in Count I.
+See
+Aplt. App. at 227-28. At summary judgment, the district court agreed with Western Wireless's assertion in Count IV that the PUC may only establish quality of service standards through formal regulations adopted pursuant to Section 254(f).
+57
+The majority reverses on the basis that Section 254(f) speaks only to state universal service fund subsidy issues and, thus, that nothing in that provision can be a source of, or a limitation on, a state's authority in imposing "operational and consumer protection requirements" on an ETC designee. Maj. Op. at 1277;
+see
+generally id.
+at 1276-78. Once again, however, the PUC never pursued such a theory for reversal; the district court never had the chance to pass upon it; and Western Wireless has never had the opportunity to respond to it. In fact, when asked at oral argument whether Section 254(f) applied only to state universal service funds,
+both
+parties answered in the negative.
+58
+Meanwhile, and once again, the majority's self-charted course does not obviously flow from our precedent and is not immune to question.
+9
+At the same time, this case could have been readily resolved on the basis of the parties' actual arguments while fully preserving the viability of the majority's theory.
+10
+Even if in the fullness of time the majority proves to have bettered both parties regarding the scope and meaning of Section 254(f), for reasons already explored I am reluctant to proceed down this path without first at least affording the parties affected by our decision notice and an opportunity to be heard.
+See supra
+pp. 1267-68.
+59
+I respectfully dissent.
+Notes:
+1
+The majority cites as contrary authority
+United Transportation Union v. Dole,
+797 F.2d 823 (10th Cir.1986). Maj. Op. at 1276 n. 10. But there the court emphasized that, quite unlike here, the legal theory it pursued had been "thoroughly argued in the trial court."
+Dole,
+797 F.2d at 828.
+2
+These same rationales undergird our general prudential practice of declining to entertain even those arguments actually pursued by a party but only raised for the first time on appeal, as well as those arguments preserved before the district court but raised on appeal only in a reply brief
+See Hill v. Kemp,
+478 F.3d 1236, 1250-51 (10th Cir.2007);
+Tele-Communications, Inc. v. Comm'r of Internal Revenue,
+104 F.3d 1229, 1233 (10th Cir.1997) ("In order to preserve the integrity of the appellate structure, we should not be considered a `second-shot' forum, a forum where secondary, back-up theories may be mounted for the first time.").
+3
+See
+Jim Chen,
+Subsidized Rural Telephony and the Public Interest: A Case Study in Cooperative Federalism and Its Pitfalls,
+2 J. Telecomm. & High Tech. L. 307, 314 (2003) (hereinafter "Chen") (describing § 214(e) as a "seemingly obscure provision" of the Act).
+4
+See, e.g., Colo. Interstate Gas Co. v. Natural Gas Pipeline Co. of Am.,
+885 F.2d 683, 688 (10th Cir.1989) (noting the "deference we owe to [an administrative agency's] interpretation of its own orders").
+5
+See, e.g.,
+Kyle D. Dixon & Philip J. Weiser, A
+Digital Age Communications Act Paradigm for Federal-State Relations,
+4 J. Telecomm. & High Tech. L. 321, 342-43 (2006); Chen at 308-317, 362-69; Peter W. Huber, Michael K. Kellogg & John Thorne,
+Federal Telecommunications Law
+§§ 3.3.3-3.9 at 223-270 (2d ed.1999).
+6
+See
+Chen at 309-13 (describing competing camps of those who have pushed for deregulation of the telecommunications industry and those who have pushed for devolution of regulatory power from the federal government to the states, and labeling proponents of the latter perspective members of the "Colorado school" in recognition of the home of certain perceived advocates of this position).
+7
+By way of example, the court appears to invert the Supreme Court's requirement of an express congressional intention prior to permitting states to regulate interstate commerce
+See
+Maj. Op. 1274-75 (quoting
+New York v. United States,
+505 U.S. 144, 171, 112 S.Ct. 2408, 120 L.Ed.2d 120 (1992)). The majority posits that by "expressly allowing the states to regulate the `other terms and conditions'" of mobile services, and by Congress's failure to limit this authority "to instances where only intrastate commerce is affected," Congress has expressed an unambiguous intent to permit states to regulate interstate commerce. Maj. Op. at 1275. But, while Congress may be faithfully characterized as having unambiguously given states authority to regulate "other terms and conditions" of mobile services, this is not at all obviously the same thing as expressly bestowing states with authority to regulate interstate commerce in this endeavor. Indeed, the majority seems to read Congress's
+silence
+regarding the effect of any such state regulation on interstate commerce into an unambiguous expression of intent.
+8
+Congress expressly allowed state commissions to regulate
+intrastate
+services,
+see
+47 U.S.C. § 152(b), and, more specifically, to impose "terms and conditions" on intrastate services provided by wireless carriers. 47 U.S.C. § 332(c)(3)(A);
+see also Fed.-State Joint Bd. on Universal Serv.,
+20 F.C.C.R. 6371, 6384-85 (2005) (
+"2005 Universal Service Order"
+);
+accord Tex. Office of Pub. Util. Counsel v. FCC,
+183 F.3d 393, 418 (5th Cir.1999). Western Wireless points to nothing in the Act that preconditions this undisputed state authority on a further inquiry into whether an ETC applicant has made an independent business decision to bundle (regulated) intrastate services with (nonregulated) interstate services. To be sure, Congress specified that the FCC may preempt any state regulation that it finds to be so onerous as to erect a barrier to entry, amount to rate regulation, or otherwise interfere with the ability of an entity to provide telecommunications service.
+See
+47 U.S.C. § 253(a), (d);
+id.
+§ 332(c)(3)(A). But Western Wireless has not begun to assert before us (or, apparently, the FCC) that the conditions specified by Congress for relief apply here. Instead, it asks us to fashion out of whole cloth a new rule absolving carriers from state regulation any time a wireless carrier makes the independent business decision to bundle its services. We are not free to substitute our judgment for Congress's and write into a comprehensive statutory regime a new, lower bar for relief than the Legislature itself chose to enact. More than that we need not say to resolve Count II.
+9
+While the latter two sentences of Section 254(f) do concern universal service subsidies, the first sentence is not obviously so limited, indicating that "[a] State may adopt regulations not inconsistent with the Commission's rules to preserve and advance universal service." Moreover, contrary to the majority's suggestion that the FCC has spoken of Section 254(f) only in the context of a state universal service fund, in at least one decision the Federal-State Joint Board on Universal Service indicated that Section 254(f) may limit a state's rule-making power in another area, a state commission's designation of the service area for ETC designation
+See Fed.-State Joint Bd. on Universal Serv.,
+12 F.C.C.R. 87, 181 (1996) (Recommended Decision).
+10
+Before the district court, the PUC argued only that Count IV should stand or fall with the court's resolution of Count I concerning rate regulations. With Count I indisputably having fallen, so in fairness ought Count IV. While perhaps seemingly all too facile or straightforward, resolving the case in this manner would have the virtue of adjudicating the case both modestly and on the basis of the parties' chosen arguments, while leaving the majority's theory of the statute open and available for litigants wishing to pursue it another day. To be sure, on appeal the PUC sought to raise additional arguments for reversal. But we generally will not consider such late-blossoming arguments,
+see supra
+note 2, and the majority today itself does not address them.
+CC∅
+| Transformed by
+Public.Resource.Org

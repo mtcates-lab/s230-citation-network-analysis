@@ -1,0 +1,2562 @@
+        USCA11 Case: 17-11871    Date Filed: 10/11/2019   Page: 1 of 57
+
+
+
+                                                                   [PUBLISH]
+
+
+
+             IN THE UNITED STATES COURT OF APPEALS
+
+                     FOR THE ELEVENTH CIRCUIT
+                       ________________________
+
+                               No. 17-11871
+                         ________________________
+
+                   D.C. Docket No. 1:15-cv-02606-TWT
+
+
+TOKYO GWINNETT, LLC,
+d.b.a. Tokyo Valentino
+                                                           Plaintiff - Appellant,
+
+
+                                  versus
+
+
+GWINNETT COUNTY, GEORGIA
+                                                          Defendant - Appellee.
+
+                         ________________________
+
+                Appeal from the United States District Court
+                   for the Northern District of Georgia
+                      ________________________
+
+                             (October 11, 2019)
+
+Before MARTIN, JILL PRYOR and JULIE CARNES, Circuit Judges.
+
+MARTIN, Circuit Judge:
+          USCA11 Case: 17-11871         Date Filed: 10/11/2019   Page: 2 of 57
+
+
+
+      In 2015, Tokyo Gwinnett, LLC (doing business as “Tokyo Valentino”) sued
+
+Gwinnett County, Georgia (“the County”), challenging certain business licensing
+
+and adult entertainment ordinances. Tokyo Valentino sought damages under 42
+
+U.S.C. § 1983 and declaratory and injunctive relief. Unfortunately for these
+
+parties, they have been litigating ever since.
+
+      The District Court first dismissed Tokyo Valentino’s amended complaint on
+
+mootness grounds after the County repealed and replaced the challenged
+
+ordinances. This Court vacated the District Court’s order and remanded. On
+
+remand, Tokyo Valentino filed a second amended complaint, challenging both the
+
+repealed ordinances and the County’s new, replacement ordinances. Again the
+
+District Court dismissed Tokyo Valentino’s claims. It is this second dismissal that
+
+is the subject of the present appeal.
+
+      Tokyo Valentino appeals the District Court’s finding that it lacks standing to
+
+bring claims related to the repealed ordinances. Tokyo Valentino also appeals the
+
+District Court’s decision to abstain under the doctrine established in Younger v.
+
+Harris, 401 U.S. 37, 91 S. Ct. 746 (1971). Citing Younger, the District Court
+
+abstained from hearing claims as to the replacement ordinances because of a
+
+pending state court enforcement proceeding initiated by the County against Tokyo
+
+Valentino while the earlier appeal was pending before this Court.
+
+
+
+
+                                            2
+          USCA11 Case: 17-11871          Date Filed: 10/11/2019   Page: 3 of 57
+
+
+
+      After careful consideration, and with the benefit of oral argument, we affirm
+
+the District Court’s dismissal of Tokyo Valentino’s claim for compensatory
+
+damages relating to the repealed ordinances. However, we reverse the dismissal of
+
+Tokyo Valentino’s request for a declaratory judgment regarding whether its sale of
+
+sexual devices constitutes a lawful prior nonconforming use authorized under the
+
+repealed ordinances and whether the new ordinances’ failure to include provisions
+
+grandfathering in prior lawful uses violates federal and state law. It is also our
+
+judgment that the District Court abused its discretion by abstaining under Younger
+
+from hearing Tokyo Valentino’s claims stemming from the County’s new
+
+ordinances. We therefore affirm in part, reverse in part, and remand for further
+
+proceedings consistent with this opinion.
+
+                                             I.
+
+      In May 2015, Tokyo Valentino applied for an initial business/occupation tax
+
+certificate. The application defined the business’s line of work as “Retail” and
+
+appended a copy of Tokyo Valentino’s license to sell tobacco products. The
+
+County approved the application, describing Tokyo Valentino as a “Tobacco
+
+Store[]” on the certificate it issued.
+
+      The next month, Tokyo Valentino wrote to the County stating it intended to
+
+stock sexually explicit materials. It specified it would be adding a small number of
+
+DVDs and magazines, and sexual devices “including dildos, vibrators, and other
+
+
+                                             3
+          USCA11 Case: 17-11871           Date Filed: 10/11/2019   Page: 4 of 57
+
+
+
+devices commonly used to stimulate human genitalia”—to its inventory. The letter
+
+indicated Tokyo Valentino believed its plans comported with the County’s
+
+ordinances and maintained Tokyo Valentino did not need any additional licenses to
+
+lawfully operate.
+
+       Weeks later, the County took two actions. First, on June 23, 2015, it
+
+adopted a resolution beginning a study into the effects of adult entertainment on its
+
+community. The resolution included a moratorium on accepting any new
+
+applications or issuing any new licenses for adult entertainment establishments
+
+until August 27, 2015, when the study was due to be completed. Second, the
+
+County responded to Tokyo Valentino in a letter dated June 24, 2015. In this
+
+letter, the County asserted that Tokyo Valentino’s new description of its product
+
+lines was not consistent with the description it offered in its initial application. The
+
+County insisted Tokyo Valentino update its application and threatened to revoke its
+
+business license if it failed to do so.
+
+       After Tokyo Valentino submitted revised application materials, the County
+
+informed the business that, although it was authorized to sell most of the items it
+
+planned to stock, it would need an adult entertainment establishment license to sell
+
+sexual devices. Nevertheless, because of the County’s moratorium on issuing such
+
+licenses, the County advised Tokyo Valentino of two options: it could eliminate
+
+sexual devices from its planned inventory or it could wait until the County lifted its
+
+
+                                              4
+         USCA11 Case: 17-11871       Date Filed: 10/11/2019    Page: 5 of 57
+
+
+
+moratorium and apply for a license then. The County also advised it would “have
+
+no choice but to enforce its ordinances” if Tokyo Valentino did not take one of the
+
+courses the County had outlined. Instead of taking either outlined option, Tokyo
+
+Valentino filed suit on July 22, 2015.
+
+      Tokyo Valentino’s first amended complaint challenged the constitutionality
+
+of several local ordinances, asserting they violated its First and Fourteenth
+
+Amendment rights. The complaint sought an injunction barring the County from
+
+interfering with Tokyo Valentino’s business operations, a “declar[ation] that
+
+[Tokyo Valentino] is a lawful use under the County’s existing ordinances,”
+
+nominal and compensatory damages, and attorney’s fees and costs. On September
+
+1, 2015, the parties agreed to a consent temporary restraining order. Under this
+
+agreement, the County would refrain from requiring Tokyo Valentino to seek an
+
+adult entertainment establishment license for ninety days so long as it operated its
+
+business according to representations made in its amended business/occupation tax
+
+certificate application. In October 2015, the County answered Tokyo Valentino’s
+
+amended complaint.
+
+      Before the agreed upon ninety-day period elapsed, the County adopted new
+
+adult entertainment ordinances and rescinded its former ordinances. The new
+
+ordinances specifically defined “sexual device” and identified “sex paraphernalia
+
+
+
+
+                                          5
+           USCA11 Case: 17-11871            Date Filed: 10/11/2019        Page: 6 of 57
+
+
+
+stores” as a regulated “adult establishment” for which an operator must receive a
+
+special permit. Gwinnett County, Ga., Ordinance § 18-292 (2015).
+
+       Shortly after the new ordinances were enacted, the County moved to dismiss
+
+Tokyo Valentino’s suit as moot. Insisting dismissal was not warranted, Tokyo
+
+Valentino sought leave to amend its complaint for a second time to add claims
+
+challenging the newly enacted ordinances. In a one paragraph order issued in
+
+January 2016, the District Court denied Tokyo Valentino’s motion for leave to
+
+amend because “there may be a ripeness issue” and granted the County’s motion to
+
+dismiss the action as moot. Tokyo Valentino appealed to this Court.
+
+       Before this Court decided Tokyo Valentino’s appeal, the County filed a
+
+separate action against Tokyo Valentino in the Superior Court of Gwinnett County.
+
+Gwinnett County v. Tokyo Gwinnett, LLC, Civ. No. 16-A-06816-2 (Gwinnett Cty.
+
+Super. Ct., filed July 8, 2016). In that action, the County sought an injunction
+
+prohibiting Tokyo Valentino from operating in violation of the replacement adult
+
+entertainment ordinances. On September 26, 2016, the Superior Court denied the
+
+County’s motion for an interlocutory injunction and stayed the action pending the
+
+outcome of the federal appeal.1
+
+
+
+
+       1
+          The Superior Court initially stayed the action before it pending the results of the first
+federal appeal and later “clarifie[d] that its order staying th[e] [state court] proceeding will
+remain in place until final resolution” of this appeal.
+                                                  6
+         USCA11 Case: 17-11871       Date Filed: 10/11/2019   Page: 7 of 57
+
+
+
+      Just two days later, a panel of this Court decided Tokyo Valentino’s appeal.
+
+The panel partly vacated the order dismissing Tokyo Valentino’s action and
+
+remanded the case, explaining the District Court erred in dismissing the entire
+
+action as moot. Tokyo Valentino’s damages claim was not mooted when the
+
+County’s ordinances were repealed, even though its claims for prospective
+
+declaratory and injunctive relief were mooted and were rightly dismissed. But the
+
+panel clarified that its opinion did not address whether there might be some other
+
+valid ground for dismissing Tokyo Valentino’s action. The panel also held that the
+
+District Court abused its discretion when it denied Tokyo Valentino’s motion for
+
+leave to amend on the “mere possibility” its proposed claims might be unripe.
+
+      In November 2016, Tokyo Valentino filed its second amended complaint. In
+
+the new complaint, Tokyo Valentino sought “an order (1) granting preliminary and
+
+permanent injunctive relief preventing the County from enforcing certain adult
+
+entertainment laws against it, and from threatening to revoke its business license
+
+based on perceived violations of those adult [entertainment] laws, (2) declaring
+
+that it is a lawful prior nonconforming use under the County’s existing ordinances,
+
+(3) awarding damages for infringing on its rights, and (4) awarding reasonable
+
+attorney’s fees and costs.”
+
+      Once again, the County moved to dismiss. This time, the County argued
+
+Tokyo Valentino lacked standing to bring claims challenging the original
+
+
+                                          7
+          USCA11 Case: 17-11871       Date Filed: 10/11/2019    Page: 8 of 57
+
+
+
+ordinances. The County’s standing argument centered on a previously
+
+unmentioned provision of the Gwinnett County zoning code that identifies
+
+permitted activities within each zoning district. That provision contains a table of
+
+permitted uses that features more than 100 commercial and retail land uses—
+
+including “Convenience Store (with or without fuel pumps),” “Department Store,”
+
+“Discount Department Store, Big-Box Specialty Store or Supercenter,” “Dollar or
+
+Variety Store,” “Recreation and Entertainment Facility (indoor),” “Smoke Shop or
+
+Novelty Shop.” Gwinnett Cty., Ga., Unified Dev. Ordinance § 230-100 (2015).
+
+The provision provides “[a]ny use not listed in said table shall be prohibited,
+
+except as contained herein” and indicates the County’s Zoning Director has the
+
+authority to approve unlisted land uses. Id. A different part of the zoning code
+
+establishes that “[w]henever a conflict of definitions is considered to exist or an
+
+interpretation of these definitions is necessary, the Director shall resolve the
+
+conflict and interpret the definition.” Id. § 110.20.5.
+
+      According to the County, because Section 230-100 did not list “sexual
+
+device store” as a permitted land use in the zone in which Tokyo Valentino
+
+operated, the land use was presumptively prohibited. Tokyo Valentino did not
+
+challenge the zoning provision, so the County contended it independently barred
+
+the sale of sexual devices. This being the case, the County argued that the District
+
+
+
+
+                                           8
+         USCA11 Case: 17-11871        Date Filed: 10/11/2019    Page: 9 of 57
+
+
+
+Court could not redress injuries that purportedly stemmed from the original adult
+
+entertainment ordinances.
+
+      Regarding the replacement ordinances, the County invoked Younger v.
+
+Harris, 401 U.S. 37, 91 S. Ct. 746 (1971), which held that federal courts should
+
+abstain from hearing suits aimed at restraining pending state criminal prosecutions.
+
+Id. at 41, 95 S. Ct. at 749. The County contended the District Court should abstain
+
+from hearing Tokyo Valentino’s challenges because the pending Superior Court
+
+action concerned the same subject matter.
+
+      The District Court agreed with the County in all regards and granted its
+
+motion to dismiss. Relying on Unified Development Ordinance § 230-100, the
+
+District Court found Tokyo Valentino’s challenges to the original ordinances were
+
+not redressable. The District Court reasoned that the zoning provision prohibited
+
+the sale of sexual devices and found Tokyo Valentino had not challenged that
+
+provision.
+
+      Tokyo Valentino argued it was not a sexual device store, but instead a
+
+novelty store, which was a permitted land use. The District Court rejected this
+
+argument. According to the District Court, Section 230-100 “clear[ly]” defined
+
+each land use listed in the table by the “primary type of good or service being sold
+
+or marketed.” Because “there [was] no doubt that Tokyo Valentino is attempting
+
+to, at least in some respect, operate a sexual device store” and “the sale of adult
+
+
+                                           9
+         USCA11 Case: 17-11871       Date Filed: 10/11/2019   Page: 10 of 57
+
+
+
+sexual devices is fundamentally distinct from the sale of other novelties,” the
+
+District Court sided with the County. After offering its own interpretation of the
+
+zoning ordinance, the District Court observed:
+
+              Regardless of what the Court thinks, the authority to
+              discern and distinguish between different land uses
+              would seem to rest squarely in the hands of the Zoning
+              Director. In this case, the Director made the decision that
+              selling sexual devices was not covered by any land use
+              listed in the table.
+
+      Additionally, the District Court found Tokyo Valentino’s complaint did not
+
+show it suffered an injury related to the repealed ordinances. Specifically, the
+
+District Court declared there was no threat of future harm stemming from the
+
+ordinances because they were already repealed, and Tokyo Valentino’s second
+
+amended complaint had not asserted it suffered any actual harm under the repealed
+
+ordinances, dooming its request for damages.
+
+      As for claims relating to the current ordinances, the District Court deemed it
+
+appropriate to abstain under the Younger doctrine. The Court explained the state-
+
+court enforcement proceeding was ongoing at the time Tokyo Valentino filed its
+
+second amended complaint, which first asserted claims concerning the new
+
+ordinances. Furthermore, in the District Court’s view, it had only decided
+
+procedural issues regarding the new ordinances while the state court held a
+
+substantive proceeding when it considered the County’s motion for interlocutory
+
+injunction.
+                                          10
+         USCA11 Case: 17-11871        Date Filed: 10/11/2019    Page: 11 of 57
+
+
+
+      Tokyo Valentino now appeals, contesting the District Court’s dismissal of its
+
+second amended complaint.
+
+                                          II.
+
+      Tokyo Valentino first contests the District Court’s finding that it lacks
+
+standing to bring claims challenging the County’s now-repealed adult
+
+entertainment ordinances. To establish Article III standing, a prerequisite to
+
+invoking federal jurisdiction, a plaintiff must have “(1) suffered an injury in fact,
+
+(2) that is fairly traceable to the challenged conduct of the defendant, and (3) that is
+
+likely to be redressed by a favorable judicial decision.” Spokeo, Inc. v. Robins,
+
+578 U.S. __, 136 S. Ct. 1540, 1547 (2016). “When the defendant challenges
+
+standing via a motion to dismiss, ‘both . . . trial and reviewing courts must accept
+
+as true all material allegations of the complaint, and must construe the complaint in
+
+favor of the complaining party.’” Region 8 Forest Serv. Timber Purchasers
+
+Council v. Alcock, 993 F.2d 800, 806 (11th Cir. 1993) (quoting Warth v. Seldin,
+
+422 U.S. 490, 501, 95 S. Ct. 2197, 2206 (1975)). But even at the pleading stage,
+
+“a plaintiff must ‘clearly allege facts demonstrating each element,’ and we evaluate
+
+standing on a motion to dismiss based on the facts alleged in the complaint.”
+
+Aaron Private Clinic Mgmt. LLC v. Berry, 912 F.3d 1330, 1336 (11th Cir. 2019)
+
+(internal citation omitted) (quoting Spokeo, 136 S. Ct. at 1547). This Court
+
+
+
+
+                                          11
+           USCA11 Case: 17-11871          Date Filed: 10/11/2019        Page: 12 of 57
+
+
+
+reviews a district court’s standing determination de novo. Hollywood Mobile
+
+Estates Ltd. v. Seminole Tribe of Fla., 641 F.3d 1259, 1264 (11th Cir. 2011).
+
+       Tokyo Valentino requests two primary types of relief as to the repealed
+
+ordinances: (1) an award of “damages for infringing on its rights,” and (2) a
+
+“declar[ation] that it is a lawful prior nonconforming use under the County’s
+
+existing ordinances.”2 Because a plaintiff must establish standing for each type of
+
+relief sought, Summers v. Earth Island Inst., 555 U.S. 488, 493, 129 S. Ct. 1142,
+
+1149 (2009), we must separately assess these forms of relief. As set out below, we
+
+affirm the District Court’s dismissal of Tokyo Valentino’s request for damages but
+
+reverse the dismissal of its request for declaratory relief.
+
+                                                A.
+
+       We first consider Tokyo Valentino’s argument that the District Court erred
+
+in finding it lacks standing to bring its claim for compensatory damages relating to
+
+the County’s original ordinances. We agree with the District Court’s finding that
+
+Tokyo Valentino’s second amended complaint does not contain factual allegations
+
+
+
+       2
+           Tokyo Valentino’s second amended complaint seeks reasonable attorney’s fees and
+costs. Similarly, Tokyo Valentino’s brief argues the money spent on this litigation constitutes an
+injury in fact. But a request for attorney’s fees alone is plainly insufficient to establish injury
+under Article III. See Lewis v. Cont’l Bank Corp., 494 U.S. 472, 480, 110 S. Ct. 1249, 1255
+(1990) (“[I]nterest in attorney’s fees is, of course, insufficient to create an Article III case or
+controversy where none exists on the merits of the underlying claim.”). And the Supreme Court
+has held that “a plaintiff cannot achieve standing to litigate a substantive issue by bringing suit
+for the costs of bringing suit.” Steel Co. v. Citizens for a Better Env’t, 523 U.S. 83, 107, 118 S.
+Ct. 1003, 1019 (1998). These alleged injuries fail to satisfy Article III.
+                                                12
+         USCA11 Case: 17-11871       Date Filed: 10/11/2019    Page: 13 of 57
+
+
+
+that establish it suffered a cognizable injury in fact for which compensatory
+
+damages might be warranted.
+
+      “To establish injury in fact, a plaintiff must show that he or she suffered an
+
+invasion of a legally protected interest that is concrete and particularized and actual
+
+or imminent, not conjectural or hypothetical.” Spokeo, 136 S. Ct. at 1548
+
+(quotation marks omitted). Tokyo Valentino contends it met this requirement,
+
+pointing to several injuries alleged in its second amended complaint. These
+
+include: (1) the County adopted the adult entertainment ordinances in “bad faith”
+
+in a “thinly-veiled effort[] to thwart or eliminate a business that purveys erotic
+
+media and sells sexual devices”; (2) “[i]f the County’s efforts continue, Tokyo
+
+Valentino will suffer additional costs, lost profits and increased damage to its
+
+goodwill”; (3) the County applied its original ordinances in a way that “restrained
+
+[Tokyo Valentino] from enjoying benefits of its contractual relationships” and
+
+“providing to the adult public [s]exual [d]evices”; and (4) Tokyo Valentino
+
+“suffered damages when the County enforced [the now-repealed ordinances]
+
+against it.” However, none of these alleged injuries suffices to establish Tokyo
+
+Valentino’s standing to seek damages.
+
+      The first alleged injury—the County’s past “bad faith” efforts to thwart
+
+Tokyo Valentino’s business—is wholly abstract. To be cognizable, an injury must
+
+be “concrete”; “that is, it must actually exist.” Spokeo, 136 S. Ct. at 1548.
+
+
+                                          13
+           USCA11 Case: 17-11871      Date Filed: 10/11/2019    Page: 14 of 57
+
+
+
+“[C]laims of injury that are purely abstract . . . do not provide the kind of
+
+particular, direct, and concrete injury that is necessary to confer standing to sue in
+
+the federal courts.” ASARCO Inc. v. Kadish, 490 U.S. 605, 616, 109 S. Ct. 2037,
+
+2045 (1989). Tokyo Valentino’s perception that the County acted in bad faith isn’t
+
+a cognizable Article III injury; it’s simply an allegation regarding the County’s
+
+motives.
+
+      Tokyo Valentino’s second purported injury concerns its fears that in the
+
+future the business “will suffer” harm “[i]f the County’s efforts continue.” But this
+
+alleged injury relates to future or prospective harm, not imminent or actual harm.
+
+See Spokeo, 136 S. Ct. at 1548. Because the old ordinances were repealed and
+
+replaced, these alleged injuries stemming from those ordinances will never
+
+materialize and cannot support Article III standing. Cf. Elend v. Basham, 471 F.3d
+
+1199, 1205 (11th Cir. 2006) (“If an action for prospective relief is not ripe because
+
+the factual predicate for the injury has not fully materialized, then it generally will
+
+not contain a concrete injury requisite for standing.”).
+
+      Tokyo Valentino’s other claimed injuries—damage to its goodwill and
+
+contractual relationships and lost profits resulting from the County’s enforcement
+
+of its repealed ordinances—are recognized, cognizable harms. See Koziara v. City
+
+of Casselberry, 392 F.3d 1302, 1305 (11th Cir. 2004) (mentioning “physical,
+
+economic, reputational, contractual, or even aesthetic” harms as cognizable). But
+
+
+                                           14
+         USCA11 Case: 17-11871       Date Filed: 10/11/2019    Page: 15 of 57
+
+
+
+Tokyo Valentino’s second amended complaint still fails to satisfy the requirements
+
+of Article III because it contains no factual allegations even suggesting Tokyo
+
+Valentino could have been harmed in the ways it claims. See Aaron Private Clinic
+
+Mgmt. LLC, 912 F.3d at 1336. Although Tokyo Valentino’s complaint says the
+
+company was harmed by the County’s enforcement of its ordinances, the
+
+complaint does not so much as charge that the County ever enforced the original,
+
+now-repealed ordinances against Tokyo Valentino. The complaint mentions
+
+“threats” by the County to revoke Tokyo Valentino’s business license and to
+
+enforce the ordinances. But it is not clear from the complaint how these threats
+
+alone might have caused lost profits, impaired contractual relationships, and
+
+damaged the company’s goodwill.
+
+      It is a plaintiff’s burden to “allege specific, concrete facts demonstrating that
+
+the challenged practices harm[ed] [it].” Warth, 422 U.S. at 508, 95 S. Ct. at 2210.
+
+And a plaintiff does not meet this burden by merely outlining in a complaint
+
+“‘facts from which we could imagine an injury sufficient to satisfy Article III’s
+
+standing requirements,’ since ‘we should not speculate concerning the existence of
+
+standing, nor should we imagine or piece together an injury sufficient to give
+
+plaintiff standing when it has demonstrated none.’” Bochese v. Town of Ponce
+
+Inlet, 405 F.3d 964, 976 (11th Cir. 2005) (quoting Miccosukee Tribe of Indians of
+
+Fla. v. Fla. State Athletic Comm’n, 226 F.3d 1226, 1229–30 (11th Cir. 2000)); see
+
+
+                                          15
+           USCA11 Case: 17-11871           Date Filed: 10/11/2019       Page: 16 of 57
+
+
+
+also, e.g., Kawa Orthodontics, LLP v. U.S. Dep’t of the Treas., 773 F.3d 243, 246
+
+(11th Cir. 2014) (concluding plaintiff’s “bare allegation that it has lost the value of
+
+the time and resources it expended in 2013 sets out an injury that is too abstract
+
+and indefinite to confer Article III standing” (quotation marks omitted)). Because
+
+Tokyo Valentino has not alleged facts showing it could have been injured in the
+
+ways alleged, we affirm the District Court’s dismissal of its claims seeking
+
+damages for enforcement of the now-repealed ordinances.
+
+                                                B.
+
+       Apart from its claim for damages, Tokyo Valentino sought a declaration that
+
+its sale of sexual devices constitutes a lawful prior nonconforming use that was
+
+authorized under the now-repealed adult entertainment ordinances and that the new
+
+ordinances’ failure to include provisions grandfathering in lawful prior
+
+nonconforming uses violates Tokyo’s rights under federal and state law.3 The
+
+
+       3
+          The panel that decided Tokyo Valentino’s earlier appeal concluded that the company’s
+request for “prospective” declaratory and injunctive relief was moot because the old ordinances
+had been repealed. But we do not believe that determination bars Tokyo Valentino’s current
+claim for retrospective relief. For one, the law of the case doctrine does not appear to apply.
+That doctrine “bars consideration of only those legal issues that were actually, or by necessary
+implication, decided in the former proceeding.” Oladeinde v. City of Birmingham, 230 F.3d
+1275, 1288 (11th Cir. 2000) (emphasis added and quotation marks omitted). The prior panel’s
+determination that a claim seeking prospective relief was moot does not actually or by
+implication resolve whether a claim for retrospective relief might present a live controversy.
+Beyond that, it seems to us that a request for a declaration of rights under ordinances that are no
+longer in effect is not moot. Indeed, this Court has entertained several such challenges in the
+past. See, e.g., Crown Media, LLC v. Gwinnett County, 380 F.3d 1317, 1325 (11th Cir. 2004)
+(concluding that a claim seeking recognition of vested property rights presents a live
+controversy); see also Chafin v. Chafin, 568 U.S. 165, 172, 133 S. Ct. 1017, 1023 (2013)
+(emphasizing that the doctrine of mootness is limited to cases where “it is impossible for a court
+                                                16
+          USCA11 Case: 17-11871             Date Filed: 10/11/2019        Page: 17 of 57
+
+
+
+District Court dismissed this claim on standing grounds because it found (1) Tokyo
+
+Valentino challenged only a specific subset of the original adult entertainment
+
+ordinances, (2) zoning ordinance Section 230-100 was not among the challenged
+
+provisions, and (3) Section 230-100 independently barred Tokyo Valentino from
+
+selling sexual devices. As explained below, we think the record was insufficient to
+
+support the last of those findings. Accordingly, we reverse the District Court’s
+
+dismissal of this claim.
+
+       To show redressability, a plaintiff must establish that it is “likely, as opposed
+
+to merely speculative, that the injury will be redressed by a favorable decision.”
+
+Lujan v. Defs. of Wildlife, 504 U.S. 555, 561, 112 S. Ct. 2130, 2136 (1992)
+
+(quotation marks omitted). “Redressability is established when a favorable
+
+decision would amount to a significant increase in the likelihood that the plaintiff
+
+would obtain relief that directly redresses the injury suffered.” Mulhall v. UNITE
+
+HERE Local 355, 618 F.3d 1279, 1290 (11th Cir. 2010) (alteration adopted and
+
+
+
+
+to grant any effectual relief” and explaining that “[a]s long as the parties have a concrete interest,
+however small, in the outcome of the litigation, the case is not moot.” (emphasis added and
+quotation marks omitted)).
+
+       Neither do we think this case implicates Flanigan’s Enters., Inc. of Ga. v. City of Sandy
+Springs, 868 F.3d 1248 (11th Cir. 2017) (en banc). That case held that when a challenged
+ordinance is repealed during the pendency of an appeal, a request for nominal damages is not
+alone sufficient to save the case from mootness. Id. at 1264. Here, the relevant ordinances were
+not repealed during the pendency of this appeal. Rather, Tokyo Valentino’s second amended
+complaint plainly requested retrospective relief. Thus, mootness is not a basis for dismissing
+Tokyo Valentino’s claim.
+                                                 17
+         USCA11 Case: 17-11871       Date Filed: 10/11/2019   Page: 18 of 57
+
+
+
+quotation marks omitted). “[A] party’s standing to seek redress is most often
+
+determined on the pleadings.” United States v. 1998 BMW “I” Convertible Vin.
+
+# WBABJ8324WEM 20855, 235 F.3d 397, 399 (8th Cir. 2000). But not always.
+
+See id. Even at the motion to dismiss stage, a defendant may bring a “factual
+
+attack” on a plaintiff’s standing, which “challenges the existence of subject matter
+
+jurisdiction using material extrinsic from the pleadings, such as affidavits or
+
+testimony.” Stalley ex rel. United States v. Orlando Reg’l Healthcare Sys., Inc.,
+
+524 F.3d 1229, 1233 (11th Cir. 2008).
+
+      Although the County relied on a provision of law in seeking to undermine
+
+Tokyo Valentino’s claim to standing, its challenge was at bottom a factual one.
+
+The County argued Tokyo Valentino could not call its planned sexual device store
+
+a “Novelty Shop” or any of the more than 100 permitted land uses. Instead,
+
+according to the County, the zoning ordinance would only recognize Tokyo
+
+Valentino’s operation as an unpermitted “sexual device store.”
+
+      We think the District Court too easily revolved this question in the County’s
+
+favor. The Unified Development Ordinance provides that terms should be defined
+
+based on (in order of preference): (1) definitions provided within the Ordinance,
+
+(2) the most recent edition of The Illustrated Book of Development Definitions
+
+(Rutgers); and (3) “common and ordinary use.” Gwinnett County, Ga., Unified
+
+Dev. Ordinance §§ 110-20.1, 110-20.2, 110-20.4. But “[w]henever a conflict of
+
+
+                                          18
+         USCA11 Case: 17-11871        Date Filed: 10/11/2019    Page: 19 of 57
+
+
+
+definitions is considered to exist or an interpretation of these definitions is
+
+necessary, the Director shall resolve the conflict and interpret the definition.” Id. §
+
+110-20.5 (emphasis added). Thus, as the District Court recognized, “the authority
+
+to discern and distinguish between different land uses would seem to rest squarely
+
+in the hands of the Zoning Director.”
+
+      The District Court dismissed Tokyo Valentino’s argument that it was a
+
+“Novelty Shop.” By implication, it also dismissed the complaint’s allegation that
+
+Tokyo Valentino’s planned land use was a lawful prior nonconforming use. But
+
+this ruling was not based on any definition featured in the Ordinance. Rather, the
+
+District Court ruled without reference to any record evidence showing how these
+
+terms are defined; any affidavit establishing how the Zoning Director has
+
+interpreted them; or a supportable explanation for why a common or ordinary
+
+definition of “Novelty Shop” necessarily excludes sexual devices. The District
+
+Court commented that “[t]he sale of adult sexual devices is fundamentally distinct
+
+from the sale of other novelties, as can be seen by the fact that it was the only line
+
+of business the County said required an additional permit.” But the County’s
+
+ordinances, as originally enacted, did not bar sexual devices or require additional
+
+permitting in order to sell them. In fact, the County explicitly acknowledged
+
+before this Court that “Tokyo[] [Valentino’s] premise—that the original adult
+
+codes did not specifically mention sexual devices—is correct.” It seems the
+
+
+                                           19
+         USCA11 Case: 17-11871       Date Filed: 10/11/2019   Page: 20 of 57
+
+
+
+District Court accepted the County’s litigation position as stating the views of the
+
+Zoning Director on the interpretation of “Novelty Shop,” despite a lack of record
+
+evidence or other clear basis for doing so.
+
+      The County is right to say that some cases from our Circuit have concluded
+
+that a plaintiff’s claims were not redressable because a different, unchallenged
+
+provision precluded relief. See, e.g., Maverick Media Grp. v. Hillsborough
+
+County, 528 F.3d 817, 821 (11th Cir. 2008) (per curiam); KH Outdoor, L.L.C. v.
+
+Clay County, 482 F.3d 1299, 1301, 1303–04 (11th Cir. 2007). But those cases are
+
+different in at least two ways. First, those cases addressed unchallenged provisions
+
+that inarguably precluded a plaintiff’s relief. For example, in Maverick Media
+
+Grp., record exhibits revealed that the plaintiff sought permits for signs measuring
+
+14' x 48', a “size of which clearly exceeds the size limitations” contained in other
+
+ordinances. 528 F.3d at 821. That case featured no genuine factual dispute about
+
+whether the unchallenged ordinance actually precluded the plaintiff’s relief. The
+
+record—not merely one party’s representations—established actual preclusion.
+
+      Likewise, in KH Outdoor, this Court explained that “the uncontroverted
+
+evidence” showed the plaintiff had not complied with the other, unchallenged
+
+provisions that precluded relief. 482 F.3d at 1304. This is not what we have here.
+
+The District Court based its finding on little more than its sense that “Novelty
+
+
+
+
+                                          20
+         USCA11 Case: 17-11871       Date Filed: 10/11/2019    Page: 21 of 57
+
+
+
+Shop” would not include a store selling sexual devices and the County’s
+
+unsupported contention that the Zoning Director had also come to that conclusion.
+
+      Second, the cases relied on by the County came to us in a different posture.
+
+They came to this Court after discovery and the filing of motions for summary
+
+judgment. See Maverick Media Grp., 528 F.3d at 819; KH Outdoor, L.L.C., 482
+
+F.3d at 1302, 1304. As the Supreme Court has explained, a plaintiff must offer
+
+more to support its standing at each successive stage of the litigation. Lujan, 504
+
+U.S. at 561, 112 S. Ct. at 2136. A more demanding approach is appropriate at the
+
+summary judgment stage, but it is not warranted before discovery at the motion to
+
+dismiss stage. Cf. Id. at 561, 112 S. Ct. at 2137 (“At the pleading stage, general
+
+factual allegations of injury resulting from the defendant’s conduct may suffice
+
+. . . .”). To the extent the County’s representations led the District Court to
+
+question its jurisdiction, the District Court should have conducted further
+
+proceedings, rather than dismissing the complaint on little more than the County’s
+
+bare assertions. See Bischoff v. Osceola County, 222 F.3d 874, 875 (11th Cir.
+
+2000) (holding a district court erred by resolving “central factual disputes and
+
+ma[king] witness credibility choices on issues material to standing just by relying
+
+on its reading of warring affidavits”). We conclude the District Court improperly
+
+dismissed Tokyo Valentino’s claims requesting declaratory relief as to its status as
+
+
+
+
+                                          21
+         USCA11 Case: 17-11871       Date Filed: 10/11/2019    Page: 22 of 57
+
+
+
+a lawful prior nonconforming use and the new ordinances’ failure to include
+
+provisions to grandfather in prior lawful nonconforming uses.
+
+                                         III.
+
+      Tokyo Valentino also contests the District Court’s decision to abstain under
+
+the doctrine established in Younger v. Harris from considering claims challenging
+
+the County’s current adult entertainment ordinances. We hold that Younger
+
+abstention was improper and reverse on that ground as well.
+
+      This Court reviews a district court’s decision to abstain for abuse of
+
+discretion. See Hughes v. Att’y Gen. of Fla., 377 F.3d 1258, 1262 (11th Cir.
+
+2004). But, in reviewing an abstention decision, we must be mindful that
+
+“[a]bstention from the exercise of federal jurisdiction is the exception, not the
+
+rule.” Colo. River Water Conservation Dist. v. United States, 424 U.S. 800, 813,
+
+96 S. Ct. 1236, 1244 (1976). In fact, “federal courts have a virtually unflagging
+
+obligation to exercise their jurisdiction except in those extraordinary circumstances
+
+where the order to the parties to repair to the State court would clearly serve an
+
+important countervailing interest.” Deakins v. Monaghan, 484 U.S. 193, 203, 108
+
+S. Ct. 523, 530 (1988) (quotation marks omitted); see also Sprint Commc’ns, Inc.
+
+v. Jacobs, 571 U.S. 69, 72, 134 S. Ct. 584, 588 (2013) (“In the main, federal courts
+
+are obliged to decide cases within the scope of federal jurisdiction.”). Thus, even
+
+with the deferential standard of review, “[o]nly the clearest of justifications merits
+
+
+                                          22
+         USCA11 Case: 17-11871        Date Filed: 10/11/2019    Page: 23 of 57
+
+
+
+abstention.” Jackson-Platts v. Gen. Elec. Capital Corp., 727 F.3d 1127, 1140 (11th
+
+Cir. 2013) (quotation marks omitted); see also Niagara Mohawk Power Corp. v.
+
+Hudson River-Black River Regulating Dist., 673 F.3d 84, 99 (2d Cir. 2012)
+
+(“Abuse of discretion is normally a deferential standard, but in the abstention
+
+context our review is somewhat rigorous. . . . In abstention cases, . . . the district
+
+court’s discretion must be exercised within the narrow and specific limits
+
+prescribed by the particular abstention doctrine involved.” (quotation marks
+
+omitted)). Where the requirements for Younger abstention are not met, “federal
+
+courts must normally fulfill their duty to adjudicate federal questions properly
+
+brought before them.” Haw. Hous. Auth. v. Midkiff, 467 U.S. 229, 238, 104 S. Ct.
+
+2321, 2328 (1984) (emphasis added); see also New Orleans Pub Serv., Inc. v.
+
+Council of New Orleans, 491 U.S. 350, 358–59, 109 S. Ct. 2506, 2513 (1989)
+
+(noting “federal courts lack the authority to abstain from the exercise of
+
+jurisdiction that has been conferred” except with respect to the “carefully defined”
+
+areas in which “abstention is permissible” (quotation marks omitted)).
+
+      The Younger doctrine “requires a federal court to abstain where a plaintiff’s
+
+federal claims could be adjudicated in a pending state judicial proceeding.”
+
+Deakins, 484 U.S. at 202, 108 S. Ct. at 529. This doctrine rests on notions of
+
+federalism and comity and the desire to avoid duplicative proceedings. See
+
+Younger, 401 U.S. at 43–45, 91 S. Ct. at 750–71. But the Supreme Court and this
+
+
+                                           23
+         USCA11 Case: 17-11871        Date Filed: 10/11/2019    Page: 24 of 57
+
+
+
+Court have recognized that “‘Our Federalism’ ‘does not mean blind deference to
+
+States’ Rights,’ but instead a ‘system in which there is sensitivity to the legitimate
+
+interests of both State and National Governments.’” For Your Eyes Alone, Inc. v.
+
+City of Columbus, 281 F.3d 1209, 1217 (11th Cir. 2002) (quoting Younger, 401
+
+U.S. at 44, 91 S. Ct. at 750). For that reason, even when a federal case implicates
+
+important state interests, “federal courts ordinarily should entertain and resolve on
+
+the merits an action within the scope of a jurisdictional grant, and should not refuse
+
+to decide a case in deference to the States.” Sprint Commc’ns, Inc., 571 U.S. at 73,
+
+134 S. Ct. at 589 (alteration adopted and quotation marks omitted).
+
+      Younger abstention applies only in three “exceptional circumstances”:
+
+(1) “ongoing state criminal prosecutions,” (2) “certain civil enforcement
+
+proceedings,” and (3) “civil proceedings involving certain orders uniquely in
+
+furtherance of the state courts’ ability to perform their judicial functions.” Id. at
+
+78, 134 S. Ct. at 591 (alteration adopted and quotation marks omitted); see also
+
+Huffman v. Pursue, Ltd., 420 U.S. 592, 604, 95 S. Ct. 1200, 1208 (1975) (holding
+
+that Younger abstention is warranted when a civil enforcement action that is “akin
+
+to a criminal prosecution” is pending in state court). When one of those
+
+circumstances exists, a court must consider the conditions set out in Middlesex
+
+County Ethics Committee v. Garden State Bar Ass’n (“Middlesex”), 457 U.S. 423,
+
+102 S. Ct. 2515 (1982), to determine whether abstention was warranted. The three
+
+
+                                           24
+           USCA11 Case: 17-11871         Date Filed: 10/11/2019       Page: 25 of 57
+
+
+
+Middlesex factors are whether: (1) there is an “ongoing” state-court proceeding at
+
+the time of the federal action; (2) the state proceeding implicates an important state
+
+interest; and (3) the state proceeding affords the federal plaintiff an adequate
+
+opportunity for judicial review of his or her federal constitutional claims. Id. at
+
+432, 102 S. Ct. at 2521; see For Your Eyes Alone, Inc., 281 F.3d at 1217.
+
+       Here, neither party disputes that the state-court proceeding pending in
+
+Gwinnett County Superior Court constitutes the sort of civil enforcement
+
+proceeding for which Younger abstention may be warranted. Likewise, neither
+
+party contests that the Superior Court proceedings implicate important state
+
+interests or that Tokyo Valentino would have an adequate opportunity to raise its
+
+federal claims in those proceedings. Thus, we need only decide whether the state-
+
+court proceeding was “ongoing” at the time of the federal action.
+
+       Under this Court’s precedent, a state proceeding is considered “ongoing” for
+
+Younger purposes in two circumstances. First, a state proceeding is “ongoing” if it
+
+was pending at the time the federal suit was filed. See Jones v. Wade, 479 F.2d
+
+1176, 1181 n.6 (5th Cir. 1973) (“The only relevant inquiry is whether state
+
+prosecution was pending at the time Jones brought suit in federal court.”). 4
+
+Second, even if a state proceeding began after the filing of a federal suit, the state
+
+
+       4
+         In Bonner v. City of Prichard, 661 F.2d 1206, 1209 (11th Cir. 1981) (en banc), this
+Court adopted as binding precedent all decisions of the former Fifth Circuit handed down prior
+to October 1, 1981.
+                                               25
+           USCA11 Case: 17-11871         Date Filed: 10/11/2019       Page: 26 of 57
+
+
+
+proceeding is still “ongoing” if “the state [proceeding] commenced before any
+
+proceedings of substance on the merits have taken place in the federal court.” For
+
+Your Eyes Alone, Inc., 281 F.3d at 1217 (quotation marks omitted). In other
+
+words, this second circumstance permits a federal court to abstain under Younger
+
+if “the federal litigation is in an embryonic stage and no contested matter has been
+
+decided.” Id. (alterations adopted and quotation marks omitted). 5 We address
+
+each of these circumstances. In contrast with our dissenting colleague, we
+
+conclude the state court proceedings were not ongoing when Tokyo Valentino’s
+
+federal action was filed.
+
+                                              A.
+
+       We first consider whether the state court action was pending when the
+
+federal action was filed. Tokyo Valentino explains that it filed its lawsuit in July
+
+2015 and the County did not file its state court enforcement action until nearly a
+
+year later. It says the federal action therefore started long before the state court
+
+
+
+       5
+          The dissenting opinion insists we must perform separate assessments for, on the one
+hand, whether there were proceedings of substance on the merits in federal court and, on the
+other, whether the federal litigation progressed beyond the embryonic stage. See Dissent at 8–9.
+Contrary to the dissenting opinion’s assertion, the Supreme Court, this Court, and our sister
+circuits do not treat these as distinct inquiries. Instead, courts hold that a federal case has
+necessarily proceeded beyond the “embryonic stage” when there have been “proceedings of
+substance on the merits.” See, e.g., Midkiff, 467 U.S. at 237–38, 104 S. Ct. at 2328 (using
+interchangeably “proceedings of substance on the merits” and “proceeded well beyond the
+‘embryonic stage’”); Nationwide Biweekly Admin., Inc. v. Owen (“Nationwide”), 873 F.3d 716,
+728 (9th Cir. 2017) (observing that the “embryonic stage” inquiry is “another way” of asking
+whether “proceedings of substance on the merits have taken place in the federal court”); For
+Your Eyes Alone, Inc., 281 F.3d at 1217–18.
+                                               26
+         USCA11 Case: 17-11871       Date Filed: 10/11/2019    Page: 27 of 57
+
+
+
+action. The County (and the dissenting opinion) disagree. The County argues the
+
+appropriate reference point for determining which action started first is the moment
+
+Tokyo Valentino filed its second amended complaint raising for the first time its
+
+challenges to the new ordinances. The County says Younger abstention was
+
+appropriate because Tokyo Valentino filed its second amended complaint about
+
+four months after the County initiated the state-court enforcement action.
+
+      Supreme Court precedent suggests that for abstention purposes we look to
+
+events occurring from the time a federal action is first filed. See Town of Lockport
+
+v. Citizens for Cmty. Action at the Local Level, Inc., 430 U.S. 259, 264 n.8, 97 S.
+
+Ct. 1047, 1051 n.8 (1977) (concluding abstention was not necessary where the
+
+“original action” in federal court was brought “well before” the state action was
+
+filed); see also M&A Gabaee v. Cmty. Redevelopment Agency L.A., 419 F.3d
+
+1036, 1040 (9th Cir. 2005) (“It is self-evident that, absent some unusual use of
+
+language, a lawsuit begins when it is filed.”); 17B Charles Alan Wright, Arthur R.
+
+Miller et al., Federal Practice and Procedure § 4253 (3d ed.) (Westlaw database
+
+updated Aug. 2019) (stating Younger “applie[s] only if there was a prosecution
+
+pending in state courts at the time the federal proceeding was begun”). And
+
+Eleventh Circuit caselaw does not look squarely to the moment a federal complaint
+
+was filed. Instead, precedent tells us to look to the start and progression of the
+
+
+
+
+                                          27
+         USCA11 Case: 17-11871        Date Filed: 10/11/2019    Page: 28 of 57
+
+
+
+federal litigation as compared to the start and progression of the state litigation.
+
+See For Your Eyes Alone, Inc., 281 F.3d at 1217.
+
+      A decision of the Sixth Circuit details why this is so. Hill v. Snyder, 878
+
+F.3d 193 (6th Cir. 2017), concerned a class action challenge to Michigan’s juvenile
+
+sentencing scheme brought by prisoners who received mandatory sentences of life
+
+without parole for crimes they committed while under the age of eighteen. Id. at
+
+199. The case was first filed in November 2010. Id. While the action was
+
+pending in federal district court, the Supreme Court issued Miller v. Alabama, 567
+
+U.S. 460, 132 S. Ct. 2455 (2012), which held that the Eighth Amendment prohibits
+
+mandatory sentences of life without parole for those under the age of eighteen at
+
+the time of their crimes. Id. at 489, 132 S. Ct. at 2475.
+
+      After Miller was decided, Michigan amended its sentencing scheme to create
+
+a mechanism for resentencing juvenile offenders whose sentences were imposed
+
+before Miller. Hill, 878 F.3d at 200. The federal plaintiffs in Hill then filed a
+
+second amended complaint, adding claims challenging Michigan’s new sentencing
+
+scheme. See id. at 200–01. But the defendants argued, and the district court
+
+agreed, that the federal courts were required to abstain under Younger from
+
+entertaining challenges to the new sentencing scheme because some of the
+
+plaintiffs’ criminal cases had been reopened for resentencing before the new claims
+
+were brought in federal court. See id. at 201, 206. The Sixth Circuit was
+
+
+                                           28
+         USCA11 Case: 17-11871       Date Filed: 10/11/2019     Page: 29 of 57
+
+
+
+presented with the question of whether “the filing of the [second amended
+
+complaint], seven years into the litigation, require[d] the federal court system to
+
+reevaluate whether to exercise its jurisdiction.” Id. at 205.
+
+      The Sixth Circuit explained that the addition of new claims does not require
+
+federal courts to reevaluate, years into litigation, whether to abstain under
+
+Younger. Id. The court observed that “Younger is inextricably bound up with
+
+beginnings.” Id. For that reason, “[c]ourts look to the moment the federal lawsuit
+
+was filed to determine whether it should be allowed out of the starting gate.” Id.
+
+The court pointed to a series of cases that illustrate “Younger abstention issues
+
+tend to arise at or near the outset of federal proceedings.” Id.; see id. (cataloging
+
+cases in which district courts dismissed lawsuits under Younger within six months
+
+of the time suit was first filed). To do otherwise, the Sixth Circuit said, would
+
+“muddle what is now a practical and common-sense doctrine.” Id.
+
+      Applying this principle, Tokyo Valentino clearly filed its federal suit before
+
+the County initiated its state action. Tokyo Valentino filed this federal action on
+
+July 22, 2015, and first moved to amend its complaint to add claims relating to the
+
+current ordinances on December 17, 2015. The County did not file the state-court
+
+enforcement action until July 8, 2016—nearly a year after Tokyo Valentino filed
+
+its action. At the time the County initiated the state-court enforcement action,
+
+Tokyo Valentino’s appeal concerning its motion to amend was still pending before
+
+
+                                          29
+            USCA11 Case: 17-11871          Date Filed: 10/11/2019        Page: 30 of 57
+
+
+
+this Court. Neither the Supreme Court’s precedent nor ours tells us that the door to
+
+Younger is reopened when a plaintiff—many months after a case has been filed—
+
+amends its complaint to bring additional claims related to the same controversy.
+
+And there is nothing about that circumstance that might merit abstention. See Hill,
+
+878 F.3d at 205–07; Cf. Sprint Commc’ns, Inc., 571 U.S. at 72–73, 134 S. Ct. at
+
+588.6
+
+        Concluding otherwise would sanction the “reverse removal power” this
+
+Court has counseled against. See For Your Eyes Alone, Inc., 281 F.3d at 1219
+
+(emphasis omitted) (noting that this Court must “remain circumspect” about
+
+“giv[ing] state officials expansive leeway to override a plaintiff’s choice of
+
+whether to litigate in a federal or state forum”); see also Hill 878 F.3d at 205
+
+(noting plaintiffs might “risk sacrificing federal claims for fear of a late-stage
+
+Younger analysis”). That is, the County would be permitted to remove claims to
+
+state court nearly a year after this case was filed and after Tokyo Valentino “had
+
+
+
+
+        6
+          The County argues that under our decision in Redner v. Citrus County, 919 F.2d 646,
+649–51 (11th Cir. 1990), the District Court was free to abstain from some claims and not others.
+Picking up on this thread, the dissenting opinion says Redner and Doran v. Salem Inn, Inc., 422
+U.S. 922, 95 S. Ct. 2561 (1975), show that district courts must make abstention decisions on a
+claim-by-claim basis. See Dissent at 11–12. Based on this reasoning, the dissenting opinion
+says the District Court did not err in separately considering whether to abstain from entertaining
+claims regarding the new ordinance. See id. However, the dissenting opinion would treat claims
+added in the midst of litigation the same as claims asserted at the start of litigation. As the Sixth
+Circuit explained in Hill, this is not the case. See 878 F.3d at 205–07. When federal litigation is
+beyond its embryonic stage, the addition of new claims is not controlled by Younger abstention,
+but by the Federal Rules of Civil Procedure. See id. at 206.
+                                                 30
+           USCA11 Case: 17-11871          Date Filed: 10/11/2019       Page: 31 of 57
+
+
+
+invested precious time and resources [in] bringing the federal litigation.” For Your
+
+Eyes Alone, Inc., 281 F.3d at 1219; Hill, 878 F.3d at 205 (noting that permitting
+
+abstention in the middle of litigation “would allow subsequent unforeseen
+
+prosecutions to cut the legs out from under long-running federal litigation”). Such
+
+permission would “vest[] the [County]—not the aggrieved citizen—with the power
+
+to choose the forum, and, indeed, the nature of the proceeding in which the federal
+
+constitutional claim will be litigated.” For Your Eyes Alone, Inc., 281 F.3d at
+
+1219 (alteration adopted and quotation marks omitted).
+
+       Beyond that, applying the Younger doctrine here would effectively penalize
+
+Tokyo Valentino for the District Court’s initial abuse of discretion. Had the
+
+District Court granted Tokyo Valentino’s request to add claims about the new
+
+ordinances shortly after they were enacted, there would be no dispute about the
+
+fact that Tokyo Valentino’s action preceded any state court proceedings. Cf. Hill,
+
+878 F.3d at 207 (“Plaintiffs should not be punished because the novel position they
+
+championed in 2010 was subsequently given a voice by the Supreme Court, a
+
+development that necessitated updates to the complaint in 2016.”). Tokyo
+
+Valentino should not have to forgo its choice of forum because of the District
+
+Court’s error.7
+
+
+       7
+         The dissenting opinion says the District Court’s improper denial of Tokyo Valentino’s
+motion to amend does not “justify holding that the district court abused its discretion when it
+abstained.” Dissent at 5. But our holding does not turn on the District Court’s earlier mistake.
+                                               31
+          USCA11 Case: 17-11871             Date Filed: 10/11/2019        Page: 32 of 57
+
+
+
+       The dissenting opinion says Tokyo Valentino “invite[d] a state court
+
+enforcement action” by “voluntarily . . . violat[ing] the new adult code.” Dissent at
+
+6. Similarly, the dissent notes that the County had an interest in enforcing its new
+
+ordinances. Id. at 7–8. According to the dissenting opinion, Tokyo Valentino
+
+could have either awaited the outcome of its appeal or filed a new federal lawsuit
+
+challenging the new ordinances instead of violating the new ordinances. Id. at 6.
+
+But this overlooks that Tokyo Valentino was already operating its business when
+
+the new code was enacted. Just as the County had an interest in enforcing its
+
+ordinances, Tokyo Valentino had an interest in seeking a federal court’s input on
+
+whether the new ordinances were a lawful restriction on its existing business. To
+
+that end, Tokyo Valentino sought to bring claims challenging the new ordinances.
+
+Tokyo Valentino had no way of stopping the County from filing its state court
+
+action while the federal appeal was pending. It was the County’s actions, not
+
+Tokyo Valentino’s, that disturbed Tokyo Valentino’s opportunity to secure a
+
+federal forum.
+
+       In sum, the District Court erred in concluding that the state court
+
+enforcement action preceded Tokyo’s federal court action against the new
+
+ordinances.
+
+
+
+
+Instead, it turns on the progress of the federal litigation at the time the state court enforcement
+action began.
+                                                  32
+         USCA11 Case: 17-11871        Date Filed: 10/11/2019   Page: 33 of 57
+
+
+
+                                          B.
+
+      The District Court also abstained on the alternative basis that no significant
+
+progress had been made in the federal action. The District Court said it had not yet
+
+reached any “proceedings of substance on the merits” of the case but had only
+
+ruled on procedural matters. We must determine whether the federal litigation
+
+moved beyond the “embryonic stage” before the state court action began. Doran,
+
+422 U.S. at 929, 95 S. Ct. at 2566.
+
+      The Supreme Court has given us some parameters to decide “what
+
+proceedings are ‘substantial’ and ‘on the merits’ for Younger purposes.”
+
+Nationwide, 873 F.3d at 728. For instance, if the “sole issue” addressed by the
+
+district court is whether to abstain, those proceedings do not count as proceedings
+
+of substance on the merits. Middlesex, 457 U.S. at 437, 102 S. Ct. at 2524. Also,
+
+“the grant of a preliminary injunction is always a proceeding of substance on the
+
+merits.” Nationwide, 873 F.3d at 728 (citing Midkiff, 467 U.S. at 238, 104 S. Ct.
+
+at 2328). And, without more, the denial of a temporary restraining order is not a
+
+proceeding of substance on the merits. See id. (citing Hicks, 422 U.S. at 337, 349,
+
+95 S. Ct. at 2286, 2292). But this Court has found abstention improper where a
+
+district court denied a motion for a temporary restraining order after a thorough
+
+evidentiary hearing on the motion and the submission of several pleadings by the
+
+parties. For Your Eyes Alone, Inc., 281 F.3d at 1218. In most instances, courts
+
+
+                                          33
+         USCA11 Case: 17-11871       Date Filed: 10/11/2019   Page: 34 of 57
+
+
+
+“must conduct a fact-specific assessment of the circumstances in individual cases.”
+
+Nationwide, 873 F.3d at 728; see For Your Eyes Alone, Inc., 281 F.3d at 1218
+
+(describing the case-specific circumstances that made abstention improper).
+
+      In assessing whether abstention was proper, courts look to “the time that the
+
+district court has spent considering the case, any motions ruled on, any discovery,
+
+the number of conferences [or hearings] held, and any change in the parties’
+
+position as a result of the federal litigation.” Nationwide, 873 F.3d at 728–29; see
+
+also For Your Eyes Alone, Inc., 281 F.3d at 1218; Ciotti v. Cook County, 712 F.2d
+
+312, 314 (7th Cir. 1983) (“Apart from the lower court’s decision on standing, the
+
+record indicates no other proceedings—for instance, depositions taken, discovery
+
+completed, or briefs filed on the issues—that would suggest advancement toward a
+
+determination on the merits.”). Courts also consider the filing of motions, even if
+
+the district court did not rule on the motions. See, e.g., For Your Eyes Alone, Inc.,
+
+281 F.3d at 1218 (finding abstention improper where the parties had filed a
+
+complaint, a motion to dismiss, an answer, and a motion for summary judgment
+
+and the district court held an evidentiary hearing on and denied a motion for a
+
+temporary restraining order). Consistent with these considerations, this Court’s
+
+precedent establishes that “significant and substantial procedural steps” may move
+
+a case past its embryonic stage. See Costello v. Wainwright, 525 F.2d 1239, 1246
+
+(5th Cir. 1976) (“There is nothing in the Younger series of cases that requires a
+
+
+                                         34
+         USCA11 Case: 17-11871        Date Filed: 10/11/2019     Page: 35 of 57
+
+
+
+federal court to abstain . . . merely because the litigants have raised a somewhat
+
+similar issue in state civil litigation long after the federal court has taken
+
+jurisdiction and has taken significant and substantial procedural steps.”), vacated in
+
+part on other grounds en banc, 539 F.2d 547 (5th Cir. 1976), rev’d, 430 U.S. 325,
+
+97 S. Ct. 1191 (1977), on remand en banc, 553 F.2d 506 (5th Cir. 1977) (per
+
+curiam) (reinstating the original panel decision); see also See For Your Eyes
+
+Alone, Inc., 281 F.3d at 1218.
+
+      Before the County initiated the state court proceeding in this case, the
+
+following significant events took place in District Court: the parties agreed to and
+
+the District Court entered a consent temporary restraining order; the County
+
+answered Tokyo’s first amended complaint; and the County filed a motion to
+
+dismiss that Tokyo Valentino responded to and the District Court ruled on. In
+
+addition, both parties filed their initial disclosures. Also, Tokyo Valentino had
+
+already filed a notice of appeal and its opening brief for the first appeal before this
+
+Court. This activity no doubt constitutes “significant and substantial procedural
+
+steps” and takes this litigation past the embryonic stage. Because the federal
+
+action passed this threshold before the state enforcement proceeding began—and
+
+would have progressed even further had the District Court not abused its discretion
+
+in refusing Tokyo Valentino leave to file its second amended complaint when it
+
+requested to do so—Younger abstention was not warranted. We conclude the
+
+
+                                           35
+        USCA11 Case: 17-11871     Date Filed: 10/11/2019   Page: 36 of 57
+
+
+
+District Court improperly dismissed Tokyo Valentino’s claims and reverse and
+
+remand for further proceedings.
+
+      AFFIRMED IN PART, REVERSED IN PART, AND REMANDED.
+
+
+
+
+                                       36
+         USCA11 Case: 17-11871       Date Filed: 10/11/2019    Page: 37 of 57
+
+
+
+JULIE CARNES, Circuit Judge, concurring in part and dissenting in part:
+
+      I concur with the majority’s disposition of claims concerning the now-
+
+repealed code. However, I respectfully dissent from that part of the majority
+
+opinion concluding that the district court abused its discretion when it abstained
+
+from adjudicating Plaintiff’s challenge to Gwinnett County’s [“the County”] new
+
+adult entertainment ordinance. And based on controlling law, as well as the
+
+admittedly convoluted facts of the case, I cannot conclude that the district court
+
+abused its discretion when it determined that abstention was appropriate.
+
+      Specifically, because it concluded that a state-court enforcement action to
+
+enforce Plaintiff’s compliance with a newly enacted code was ongoing at the time
+
+Plaintiff’s federal complaint was amended to challenge this new code, the district
+
+court abstained from hearing Plaintiff’s challenge to that new code. As caselaw
+
+provides, if the district court was right when it said that the state-court enforcement
+
+proceeding was ongoing, the district court necessarily acted within its discretion in
+
+thereby abstaining. The majority holds that the district court was wrong to find
+
+that this state enforcement action was ongoing. The majority’s pronouncement to
+
+the contrary, though, it is clear that the state enforcement action was ongoing when
+
+Plaintiff’s complaint was amended to include a challenge to the new code. That is,
+
+Plaintiff’s claims challenging the new code were filed in the federal action after
+
+                                         37
+            USCA11 Case: 17-11871            Date Filed: 10/11/2019   Page: 38 of 57
+
+
+
+Defendant had filed the state enforcement action asserting that Plaintiff was in
+
+violation of the new code; after the state court had conducted an evidentiary
+
+hearing in which it considered the merits of the County’s action and Plaintiff’s
+
+defenses to enforcement of the new code; after the state court, based on its
+
+substantive examination, had denied the County’s request for temporary injunctive
+
+relief; and before the state court had yet issued its final decision. In contrast, the
+
+district court had taken no substantive action with respect to the new-code claims
+
+(or even the old-code claims) at the time it abstained, yet the majority nonetheless
+
+finds that the door to Younger 1 abstention had already closed.
+
+         The majority’s holding hinges on what I believe to be an incorrect notion
+
+that the existence of any procedural activity in the federal action concerning the
+
+old-code claims barred the district court from abstaining on new claims that
+
+challenge the entirely-revamped new code and raise constitutional challenges not
+
+previously at issue. Yet, as I read our and Supreme Court authority, none of this
+
+caselaw indicates that the district court’s abstention from hearing the new-code
+
+claims constitutes an abuse of discretion under these circumstances.
+
+         The majority purports to adhere to that authority, but ultimately fails to
+
+answer what the caselaw holds to be the dispositive question, which is: whether
+
+the district court had conducted “proceedings of substance on the merits” with
+
+
+1
+    Younger v. Harris, 401 U.S. 37 (1971).
+                                                 38
+         USCA11 Case: 17-11871       Date Filed: 10/11/2019    Page: 39 of 57
+
+
+
+respect to the new-code claims. Instead, the majority merely defaults to a
+
+conclusion that because the routine procedural events that typically occur at the
+
+outset of most civil litigation occurred here with the regard to the old-code
+
+challenges, this means that the federal litigation had proceeded beyond the
+
+“embryonic stage” as to that old-claim litigation, thereby precluding abstention on
+
+a later challenge to an entirely new code. Because binding authority requires
+
+abstention to be considered on a claim-by-claim basis and because the district court
+
+had not conducted “proceedings of substance on the merits” of any claim, much
+
+less the new-code claims, I conclude that the district court did not abuse its
+
+discretion in abstaining on those claims.
+
+I.    The State Enforcement Action was “Ongoing” Because Plaintiff’s New-
+      Code Claims Were Filed After the State Action Commenced and No
+      Proceedings of Substance on the Merits Occurred Before the District
+      Court Abstained
+
+      As noted, we apply an abuse of discretion standard to a district court’s
+
+decision to abstain and, in doing so, we look to “the circumstances with which [the
+
+court] was presented when it abstained.” Redner v. Citrus Cty., 919 F.2d 646, 649
+
+n.5 (11th Cir. 1990). Whenever applying an abuse of discretion standard, we may
+
+reverse only if the district court made a clear error of judgment or applied the
+
+wrong legal standard. United States v. Frazier, 387 F.3d 1244, 1259 (11th Cir.
+
+2004) (en banc). Applying that standard, I conclude that the district court did not
+
+
+
+                                            39
+         USCA11 Case: 17-11871        Date Filed: 10/11/2019    Page: 40 of 57
+
+
+
+clearly err or apply the wrong legal standard in holding that the state enforcement
+
+action was “ongoing” regarding the new claims.
+
+      The Supreme Court has identified two scenarios justifying abstention even if
+
+a state court action was filed after the federal action commenced. See Hicks v.
+
+Miranda, 422 U.S. 332, 349 (1975); Doran v. Salem Inn, Inc., 422 U.S. 922, 928–
+
+29 (1975). “[F]ederal courts are to abstain if the state [action] commenced ‘before
+
+any proceedings of substance on the merits have taken place in the federal court,’
+
+Hicks, 422 U.S. at 349, 95 S.Ct. at 2292, or if ‘the federal litigation [is] in an
+
+embryonic stage and no contested matter [has] been decided,’ Doran, 422 U.S. at
+
+929, 95 S.Ct. at 2566.” For Your Eyes Alone, Inc. v. City of Columbus, 281 F.3d
+
+1209, 1217 (11th Cir. 2002) (emphasis added). Abstention was permitted here
+
+under either scenario.
+
+      First, Plaintiff’s new-code claims were not filed in this action until after the
+
+state enforcement action began. As the district court observed before the filing of
+
+the Second Amended Complaint adding claims challenging the new code, “the
+
+entire case before [the district court] was about the old regulations.” The district
+
+court correctly reasoned that the state court action was “ongoing” because “[t]he
+
+new regulations created an entirely new set of claims that the Court has not
+
+addressed in any way until now. In effect, [Plaintiff’s] claims with regard to the
+
+
+
+
+                                           40
+          USCA11 Case: 17-11871            Date Filed: 10/11/2019       Page: 41 of 57
+
+
+
+new regulations are a completely different case than its claims with regard to the
+
+old regulations.”2
+
+       Moreover, Younger abstention is appropriately determined on a claim-by-
+
+claim basis, not on “an all-or-nothing” basis, as Plaintiff argues and the majority
+
+apparently accepts in lumping Plaintiff’s new-code claims in with its previously
+
+dismissed old-code claims. For example, Doran and Redner each directed
+
+abstention for only a portion of the claims brought before the district court, even
+
+though the claims were, in the words of the majority here, “related to the same
+
+controversy.” Doran, 422 U.S. at 929–30 (requiring abstention for claims brought
+
+by one of three adult establishment owners even though all were subjected to the
+
+same topless dancing ordinance and the same constitutional challenges would be
+
+decided in federal and state court); Redner, 919 F.2d at 649–50 (affirming district
+
+court’s abstention from deciding the constitutionality of adult entertainment
+
+Ordinance 88-05, at issue in state court, but reversing on abstention of its successor
+
+Ordinance 88-06, which was not considered in state court, even though the
+
+
+
+2
+  Unlike the old code, the new code made explicit reference to stores selling sex toys, expressly
+drawing them into the ambit of the County’s “adult establishment” licensing and zoning scheme.
+The new adult licensing code specifically defined what constitutes a “sexual device” and defined
+“sex paraphernalia store” as a “commercial establishment where more than 100 sexual devices
+are regularly made available for sale or rental.” While Plaintiff contends its selling activity was
+lawful under the original code because its business did not fall within the definition of an “adult
+entertainment establishment,” it acknowledges that the new code bars its activities absent a
+finding that its prior activity conformed with the old code or that the new code is
+unconstitutional.
+                                                41
+         USCA11 Case: 17-11871       Date Filed: 10/11/2019    Page: 42 of 57
+
+
+
+ordinances were extremely similar). Thus, Plaintiff’s filing of “related” claims in
+
+an already pending federal action does not foreclose Younger abstention.
+
+      Second, as to litigation activity that occurred before the County initiated the
+
+state action to enforce the new code, the majority suggests that proceedings of
+
+substance occurred merely by virtue of the district court’s entry of a consent TRO
+
+at the beginning of the old-code litigation, the County’s filing of an answer to the
+
+complaint in that old-code litigation, the parties’ exchange of initial disclosures in
+
+the old-code litigation, the court’s dismissal of Plaintiff’s old-code claims as moot
+
+upon the enactment of a new code that governed adult entertainment
+
+establishments and supplanted the old code, and the district court’s denial and
+
+Plaintiff’s appeal of its motion to amend. I disagree with that characterization.
+
+      None of the above-described litigation activity cited by the majority
+
+constitutes proceedings of substance on the merits of any of Plaintiff’s claims,
+
+much less the new-code claims at issue here. As reflected in numerous cases
+
+evaluating the progress of federal actions for Younger abstention purposes,
+
+“proceedings of substance on the merits” refers to whether the district court has
+
+substantively considered or began adjudicating issues that overlap with a pending
+
+state court proceeding. Thus, the issuance of a preliminary injunction by the
+
+federal court has been found to meet this standard, as has the court’s holding of a
+
+thorough evidentiary hearing, followed by a ruling on a temporary restraining
+
+
+                                          42
+            USCA11 Case: 17-11871       Date Filed: 10/11/2019    Page: 43 of 57
+
+
+
+order. See Hawaii Hous. Auth. v. Midkiff, 467 U.S. 229, 238 (1984) (“Whether
+
+issuance of [a] temporary restraining order was a substantial federal court action or
+
+not, issuance of [a] preliminary injunction certainly was.”); For Your Eyes Alone,
+
+281 F.3d at 1218–19 (Younger abstention foreclosed when district court had
+
+already conducted a thorough evidentiary hearing and ruled on a motion for a
+
+temporary restraining order). Likewise, even if the federal court has not issued a
+
+substantive ruling, but the court or parties have taken substantial steps in
+
+anticipation of that ruling, the court may find a later-filed state proceeding not
+
+“ongoing” and decline to abstain on Younger grounds. Costello v. Wainwright,
+
+525 F.2d 1239, 1246 (5th Cir. 1976), vacated in part on other grounds, 539 F.2d
+
+547 (5th Cir. 1976) (en banc), rev’d, 430 U.S. 325, on remand, 553 F.2d 506 (5th
+
+Cir. 1977) (en banc) (reinstating the original panel decision) (denial of abstention
+
+affirmed where federal court had appointed a special master and special master had
+
+conducted a 20-month study and prepared a report before the state action was
+
+filed).
+
+          None of the litigation activity cited by the majority in this case involved
+
+proceedings of substance on the merits. The district court did not conduct an
+
+evidentiary hearing or otherwise evaluate the merits of Plaintiff’s claims. For Your
+
+Eyes Alone, 281 F.3d at 1218–19 (identifying “lack of any hearings” in Hicks and
+
+Doran and the district court’s “thorough evidentiary hearing” as a key
+
+
+                                             43
+         USCA11 Case: 17-11871         Date Filed: 10/11/2019    Page: 44 of 57
+
+
+
+distinguisher); Nationwide Biweekly Admin., Inc. v. Owen, 873 F.3d 716, 728 (9th
+
+Cir. 2017) (stating “the relevant inquiry, in examining the history of the case, is the
+
+extent of the district court’s involvement in the merits”). There is no analysis of
+
+the merits of Plaintiff’s claims in the district court’s order adopting the parties’
+
+proposed consent TRO. Compare Nationwide Biweekly Admin., 873 F.3d at 728
+
+(identifying specific pages in which the district court addressed the merits in ruling
+
+on defense motions). Likewise, the district court’s one-paragraph order granting
+
+Defendant’s motion to dismiss for mootness and denying Plaintiff’s motion to
+
+amend its complaint on ripeness grounds does not constitute a proceeding on the
+
+merits; nor does Plaintiff’s appeal of that procedural ruling. Id. at 729; Forty One
+
+News, Inc. v. Cty. of Lake, 491 F.3d 662, 666–67 (7th Cir. 2007) (“Like a finding
+
+about standing . . . or a ruling on a motion to dismiss for failure to state a claim . . .
+
+the preliminary matters addressed here [in defendant’s motions to dismiss for res
+
+judicata] were not sufficiently related to the merits to satisfy the standard in
+
+Hicks.”). Finally, the filing of an answer and the serving of initial disclosures are
+
+preliminary matters that do not involve the court in the merits of Plaintiff’s claim.
+
+      In short, the district court correctly reasoned that “the threshold between
+
+substantive and non-substantive proceedings is whether the federal case has moved
+
+beyond matters of mere procedure to matters that are key to the eventual outcome
+
+of the case.” Here, at the time the district court abstained, it had not substantively
+
+
+                                            44
+         USCA11 Case: 17-11871        Date Filed: 10/11/2019    Page: 45 of 57
+
+
+
+evaluated any claim, much less the claims subject to abstention in view of the state
+
+court enforcement action. At the time the district court abstained, only the state
+
+court had invested time and energy in conducting proceedings of substance on the
+
+merits of Plaintiff’s claims. I am at a loss in understanding how one could assert
+
+that the district court made a clear error of judgment or applied the wrong legal
+
+standard when it determined that the procedural matters preceding abstention failed
+
+to rise to the level of “proceedings of substance on the merits,” as controlling
+
+authority has interpreted that phrase.
+
+II.   The Majority Misconstrues and Misapplies Controlling Authority
+
+      Despite Hicks’ clear directive to consider whether “proceedings of substance
+
+on the merits have taken place in the federal court,” the majority limits its inquiry
+
+to only the question “whether the federal litigation moved beyond the ‘embryonic
+
+stage’ before the state court action began.” Majority Op. at 33. The majority cites
+
+Doran in support of the above statement, but Doran held only that federal
+
+litigation “in an embryonic stage,” with “no contested matter” decided, is “squarely
+
+governed by Younger.” Doran, 422 U.S. at 929 (emphasis added). That is, in such
+
+a circumstance, the district court should abstain. Thus, Doran reflects the strongest
+
+case for abstention in view of a later-filed state court action. It does not hold that
+
+the fact that federal litigation may have proceeded beyond an “embryonic” stage
+
+procedurally means that the federal court can forgo a determination whether
+
+
+                                           45
+          USCA11 Case: 17-11871           Date Filed: 10/11/2019      Page: 46 of 57
+
+
+
+proceedings of substance on the merits have occurred before it. Indeed, Doran
+
+does not cite the Hicks standard, much less define the outer limits of what
+
+constitutes “proceedings of substance on the merits” or otherwise preclude
+
+Younger abstention when procedural matters could be argued to have moved the
+
+litigation beyond the embryonic stage. It is not enough to say, as the majority does
+
+here, that procedural matters have taken the federal litigation beyond the
+
+embryonic stage without then next evaluating whether abstention would
+
+nevertheless still be permitted because no “proceedings of substance on the merits”
+
+have taken place in that same litigation. Hicks, 422 U.S. at 349.3
+
+       Building on that error, the majority relies on Costello v. Wainwright, 525
+
+F.2d 1239, 1246 (5th Cir. 1976) for the proposition that “‘significant and
+
+substantial procedural steps’ may move a case past its embryonic stage” and
+
+thereby foreclose Younger abstention in this case. Majority Op. at 34. In Costello,
+
+a class action suit on behalf of all Florida prisoners, we rejected appellant’s
+
+contention that the district court should have abstained from ruling on an
+
+application for preliminary injunction three years after suit was filed. Id. During
+
+
+
+3
+  The majority mischaracterizes my position as advocating the performance of “separate
+assessments for, on the one hand, whether there were proceedings of substance on the merits in
+federal court and, on the other, whether the federal litigation progressed beyond the embryonic
+stage.” Majority Op. at 26 n.5. My position is that the majority’s “embryonic stage” analysis is
+incomplete because it focuses on the mere passage of time in a case with minimal procedural
+developments and fails to answer the pertinent question: whether proceedings of substance on
+the merits have occurred.
+                                               46
+          USCA11 Case: 17-11871           Date Filed: 10/11/2019       Page: 47 of 57
+
+
+
+those three years, the district court had twice rejected plaintiff's’ application for a
+
+preliminary injunction to alleviate severe prison over-crowding. Id. at 1241.
+
+Nevertheless, the district court had appointed an expert special master to conduct a
+
+“comprehensive health services survey of all correctional institutions” operated by
+
+the Florida Division of Corrections and to report on needed remedial measures. Id.
+
+That comprehensive report was completed, or nearly so, when the state proceeding
+
+was filed twenty months after the district court appointed the special master. 4
+
+Importantly, the court’s ruling on the third preliminary injunction motion that it
+
+ultimately granted in the plaintiffs’ favor was intended to be, and was, premised on
+
+the contents of this report.
+
+       The defendants, however, argued on appeal that because a state action
+
+involving related issues had been filed after denial of the second preliminary
+
+injunction request and before the district court’s issuance of its ultimate ruling on
+
+plaintiffs’ final request for injunctive relief, the district court should have
+
+abstained. Defendants’ primary argument was a technical argument: that the
+
+district court had “effectively divested itself of further jurisdiction” on the issues
+
+before it because it had failed “to state expressly that it was retaining jurisdiction
+
+
+4
+  The court appointed the special master “soon” after it rejected plaintiffs’ renewed application
+for a preliminary injunction one month after denying plaintiffs original application on February
+8, 1973. Id. The state mandamus action was filed in December 1974. Id. at 1245. The opinion
+does not expressly indicate when the special master submitted his report. However, the parties
+entered into a pre-trial stipulation that referenced the special master’s report (“the Babcock
+Commission Report”) in January 1975. Id. at 1241, 1244–451.
+                                               47
+         USCA11 Case: 17-11871         Date Filed: 10/11/2019    Page: 48 of 57
+
+
+
+of the issues in the case when it denied the renewed [second] application for
+
+preliminary injunction.” Id. at 1245. Our court made short work of that argument,
+
+noting that by appointing a special master to conduct an intensive study of
+
+plaintiffs’ claim, the district court clearly expressed its intention to retain
+
+jurisdiction over all aspects of the case and to ultimately rule on plaintiffs’ request
+
+for relief. Id. at 1245–46.
+
+      In contrast to the facts in this case, Costello upheld a district court decision
+
+to deny an abstention motion when the district court was prepared to grant a
+
+preliminary injunction after having taken elaborate steps to obtain evidence
+
+informing that decision. Costello noted that the district court did not have to
+
+abstain on issuing its planned ruling “merely because the litigants have raised a
+
+somewhat similar issue in state civil litigation long after the federal court has taken
+
+jurisdiction and has taken significant and substantial procedural steps” to resolve
+
+the dispute. Id. at 1246.
+
+      Moreover, the “significant and substantial procedural steps” referenced in
+
+Costello, in fact, involved proceedings of substance on the merits. Specifically, the
+
+district court appointed a special master to evaluate prison overcrowding issues and
+
+the special master’s report—rendered after 20 months of intensive work—was
+
+intended to guide—and in fact did guide—the district court in its ultimate
+
+determination of the merits of the plaintiffs’ request for relief.
+
+
+                                            48
+          USCA11 Case: 17-11871            Date Filed: 10/11/2019       Page: 49 of 57
+
+
+
+       In short, the facts in this case differ in all important respects from those in
+
+Costello. Moreover, Costello never even mentioned Hicks or Doran, used the
+
+phrase “embryonic stage,” opined on what it takes to move past such a stage, or
+
+purported to define the limits of Younger abstention. Costello, 525 F.2d at 1246.
+
+In short, it provides no helpful guidance here and certainly does not stand for the
+
+proposition that mere procedural steps—and certainly those as minimal as occurred
+
+in this case—can bar Younger abstention when there have been no proceedings of
+
+substance on the merits. Had Costello so asserted such a proposition, its
+
+interpretation would have contradicted controlling authority. Hicks, 422 U.S. at
+
+349 (“where state criminal proceedings are begun . . . before any proceedings of
+
+substance on the merits have taken place in the federal court, the principles of
+
+Younger v. Harris should apply in full force”) (emphasis added). 5
+
+
+
+5
+  The majority cites authority that it views as “consistent” with interpreting Costello to preclude
+Younger abstention based on procedural steps not involving the merits. See Maj. Op. at 34–35.
+In my view, this cited authority provides no support for that proposition. For Your Eyes Alone
+deemed Younger abstention inappropriate after a “through evidentiary hearing” on the merits of
+plaintiffs’ claim and cited the “lack of any hearings” in Hicks and Doran as a key distinguisher.
+For Your Eyes Alone, 281 F.3d at 1218–19. Likewise, the Ninth Circuit in Nationwide stated
+“the relevant inquiry, in examining the history of the case, is the extent of the district court’s
+involvement in the merits.” Nationwide Biweekly Admin., 873 F.3d at 728. The Nationwide
+court concluded that Younger abstention was not warranted because “the district court had
+already conducted proceedings of substance on the merits.” Id. at 729 (stating “the district court
+spent a substantial amount of time evaluating the merits of the cases in considering and denying
+(in a detailed and reasoned order) Nationwide’s motions for preliminary injunctions”). Indeed,
+the Nationwide court distinguished the district court’s substantive orders on the merits, which
+involved 21 pages of “legal discussion of the merits” following evaluation of “250 pages of
+declarations, affidavits, and exhibits,” from “denying the motions on a non-merits ground—such
+as ripeness, standing”, or other non-merit factors. Id. Thus, when looking at all of the
+                                                49
+          USCA11 Case: 17-11871           Date Filed: 10/11/2019      Page: 50 of 57
+
+
+
+       The majority further states: “Supreme Court precedent suggests that for
+
+abstention purposes we look to events occurring from the time a federal action is
+
+first filed.” In support of that broad proposition, the majority cites to a footnote in
+
+Town of Lockport v. Citizens for Community Action at Local Level, 430 U.S. 259,
+
+264 n.8 (1977). Majority Op. at 27. In that case, the Supreme Court addressed
+
+whether a particular method for enacting a New York county charter violated the
+
+Equal Protection Clause. The only mention of abstention occurred in the cited
+
+footnote in which the Court rejected the local government’s argument that the
+
+federal district court should have lateraled the challenge to the state court in which
+
+a subsequent claim had been filed. The Supreme Court expressed uncertainty
+
+whether Younger even applied fully in a civil context, but concluded that, at any
+
+rate “principles of comity and federalism do not require that a federal court
+
+abandon jurisdiction it has properly acquired simply because a similar suit is later
+
+filed in a state court.” Id. There was no mention of Doran or Hicks, or the
+
+standards articulated in those cases. Moreover, unlike in this case where the state
+
+court was the only court to have taken substantive action on the operative
+
+ordinance, in Lockport, there had been no rescission of the ordinance at issue when
+
+
+
+
+developments in the history of a case, we should do so with an eye toward discerning whether
+any of them involved proceedings of substance on the merits of the claims subject to abstention.
+                                               50
+         USCA11 Case: 17-11871        Date Filed: 10/11/2019    Page: 51 of 57
+
+
+
+the federal suit was brought and both the federal and state courts were looking at
+
+the same ordinance.
+
+      As to the majority’s concern that affirming the district court’s decision to
+
+abstain “would sanction the reverse removal power this Court has counseled
+
+against,” I understand that concern, but do not think a decision finding no abuse of
+
+discretion by the district court on these facts would reasonably support such a
+
+characterization. See Majority Op. at 30. To be sure, For Your Eyes Alone
+
+cautions us to consider the risk of “creating an expansive ‘reverse removal
+
+power.’” For Your Eyes Alone, 281 F.3d at 1219. But the unique facts of this
+
+case present little such risk. Unlike in For Your Eyes Alone, the district court here
+
+had not conducted a “thorough evidentiary hearing” nor had it substantively ruled
+
+on any issues pertinent to the merits of Plaintiff’s new claims prior to
+
+commencement of the state court action. Likewise, Defendant had not litigated the
+
+merits of Plaintiff’s new claims before commencing the state court action, as the
+
+City had done in For Your Eyes Alone.
+
+      That our court in an earlier appeal determined that the district court here had
+
+wrongly denied Plaintiff’s motion to amend its complaint to add the new-code
+
+claims (a motion that was filed before the state court action began) does not mean
+
+that the district court abused its discretion when it later abstained on a claim for
+
+which there had nonetheless been no substantive federal litigation, but there had
+
+
+                                          51
+         USCA11 Case: 17-11871        Date Filed: 10/11/2019    Page: 52 of 57
+
+
+
+been substantive state litigation. Plaintiff’s attempt to amend its complaint and
+
+establish federal court jurisdiction over its new claims was no more significant a
+
+step than the actual filing of a separate district court action would itself have been.
+
+Yet, we would not hold that such a newly-filed, second federal action on which
+
+there had been no substantive litigation would bar abstention if that second action
+
+was itself the subject of a prior and ongoing state enforcement proceeding. See
+
+Hicks, 422 U.S. at 349 (abstention warranted even when federal action filed first if
+
+there have been no “proceedings of substance on the merits”).
+
+      Nor is it clear, as the majority asserts, that “[h]ad the District Court granted
+
+Tokyo Valentino’s request to add claims about the new ordinances, shortly after
+
+they were enacted, there would be no dispute about the fact that Tokyo Valentino’s
+
+action preceded any state court proceedings.” See Majority Op. at 31. The
+
+Younger abstention analysis focuses on the extent of “proceedings of substance on
+
+the merits” in federal court, Hicks, 422 U.S. at 349, not the order actions were filed
+
+nor the length of time claims have been pending in federal court. And there is no
+
+basis to conclude that any proceedings of substance on the merits would have
+
+occurred in the few months after Plaintiff moved to amend its complaint and before
+
+Defendant filed the state enforcement action. Regardless, we must focus on
+
+whether there have been actual proceedings of substance on the merits, not whether
+
+proceedings of substance on the merits might have occurred had Defendant not
+
+
+                                          52
+          USCA11 Case: 17-11871            Date Filed: 10/11/2019       Page: 53 of 57
+
+
+
+opposed Plaintiff’s motion to amend or the district court had not denied its motion.
+
+See Forty One News, 491 F.3d at 666 (rejecting plaintiff’s argument that dismissal
+
+on Younger grounds would be unjust because defendant’s successive motions to
+
+dismiss prevented maturation of the case beyond the embryonic stage and
+
+affirming Younger abstention where “nothing important relating to the merits”
+
+happened in the seven months the case was pending in federal court before the
+
+filing of a state enforcement action).6
+
+       Moreover, rather than await the outcome of its appeal challenging the denial
+
+of the motion to amend or file a new action in federal court asserting its new code
+
+claims, Plaintiff voluntarily chose to violate the new adult code and invite a state
+
+court enforcement action. “Having violated the ordinance, rather than awaiting the
+
+normal development of its federal lawsuit, [plaintiff] cannot now be heard to
+
+complain that its constitutional contentions are being resolved in a state court.”
+
+6
+  The majority cites Hill v. Snyder, 878 F.3d 193 (6th Cir. 2017), for the proposition that
+Younger abstention is inappropriate at a “late stage” and that Plaintiff should not be “punished”
+because of the district court’s error in denying its motion to amend. See Majority Op. at 31. But
+expressing its reluctance to even entertain an argument for abstention in a case in which the
+parties had “already expended significant resources to resolve the federal claims,” with both the
+court and the parties having “litigated [the] case for seven years, including engaging in
+discovery, a costly and burdensome process,” the Sixth Circuit engaged in little analysis of the
+settled principles underlying a Younger challenge. Id. at 206. Indeed, that case involves little
+similarity to the present case, as the court later noted that during the seven-year pendency of the
+federal case, “[s]ubstantive proceedings on the merits of [p]laintiffs’ overarching claim . . .
+occurred in that time period.” Id. at 206–07. This case is very different. Like Forty One News,
+this case had been pending only for several months, not several years, when the state
+enforcement action was filed. Also like Forty One News, I “have no trouble concluding that
+nothing important relating to the merits has happened” on any of Plaintiff’s claims. Forty One
+News, 491 F.3d at 666.
+
+                                                53
+            USCA11 Case: 17-11871         Date Filed: 10/11/2019       Page: 54 of 57
+
+
+
+Doran, 422 U.S. at 928–29. In short, Plaintiff had the ability to ensure that its
+
+preference for a federal forum would not be defeated by a state enforcement action.
+
+Yet, Plaintiff chose not to exercise this option, presumably content to take
+
+advantage of a lengthy appeals process while it continued to violate the new adult
+
+code. 7
+
+          For Your Eyes Alone instructs us to “attempt to strike [a] balance” between
+
+the risk of creating a “reverse removal power” and the principles that underlie
+
+Younger abstention, rather than focus disproportionately on the length of time
+
+Plaintiff had, or could have had, pertinent claims pending in federal court. For
+
+Your Eyes Alone, 281 F.3d at 1219. Although not considered by the majority,
+
+Defendant’s interest in enforcement of its codes against Plaintiff’s ongoing
+
+violations must also figure in the balance when weighing the respect due Plaintiff’s
+
+choice of forum. Doran, 422 U.S. at 929. Plaintiff’s choice of a federal forum
+
+cannot be the sole concern because “[d]enial of a preferred federal forum for
+
+
+7
+  The majority concludes that this case is different because “Tokyo Valentino was already
+operating its business when the new code was enacted.” See Majority Op. at 32. But that was
+also true of each of the three adult establishment plaintiffs in Doran. Doran, 422 U.S. at 924
+(“Prior to enactment of the ordinance in question, each provided topless dancing as entertainment
+for its customers.”). Those plaintiffs that ceased topless dancing in view of the new ordinance
+were permitted to stay in federal court. The one plaintiff that chose to violate the new ordinance
+after filing a federal action was forced by the Supreme Court to litigate the enforcement action in
+state court. Id. at 929 (“Respondent M & L could have pursued the course taken by the other
+respondents” but instead continued topless dancing and “subjected itself to prosecution for
+violation of the ordinance in the state court.”). Moreover, Plaintiff here could have avoided a
+state enforcement action, and could have still operated its business, had it simply decided to
+suspend the sale of any sex devices until the federal action challenging the state ordinance had
+been completed.
+                                                54
+         USCA11 Case: 17-11871        Date Filed: 10/11/2019    Page: 55 of 57
+
+
+
+federal claims is often the result of the application of Younger abstention.” Forty
+
+One News, 491 F.3d at 667.
+
+      As to the proper outcome of such an examination, I cannot conclude that the
+
+district court clearly erred in striking that balance in favor of abstention on the
+
+new-code claims. Indeed, Doran accorded great weight to the state government’s
+
+interest in enforcing adult ordinances when it forced into state court the one
+
+plaintiff that had violated an adult entertainment ordinance (and thereby become
+
+subject to an enforcement action) after filing a federal action, while allowing other
+
+plaintiffs running similar businesses and making the same First and Fourteenth
+
+Amendment challenges to that ordinance to proceed in district court. Doran, 422
+
+U.S. at 927–29. In doing so, Doran elevates the state governmental enforcement
+
+interest over the interests of jurisdictional certainty, conservation of judicial
+
+energy, avoidance of contradictory outcomes, and avoidance of what the district
+
+court there had deemed an “anomalous” result. Id. at 926. Similarly, and based on
+
+that precedent, I do not conclude that the district court here abused its discretion
+
+when it abstained based on the ongoing state enforcement action, in which action
+
+the state court, in contrast to the district court, had already conducted substantive
+
+proceedings on the merits at the time that the district court abstained.
+
+
+
+
+                                           55
+         USCA11 Case: 17-11871       Date Filed: 10/11/2019    Page: 56 of 57
+
+
+
+III.   The District Court Did Not Abuse Its Discretion in Abstaining on the
+       New-Code Claims
+
+       I end where I began. The pertinent standard of review is abuse of discretion,
+
+and the district court did not abuse its discretion when it abstained from
+
+adjudicating Plaintiff’s challenge to the new ordinance. Because the proper focus
+
+of the “ongoing” state-proceeding prong of the Younger inquiry is on the
+
+substantive progress made by the district court in adjudicating the merit of claims
+
+subject to possible abstention, and because the district court here had taken no
+
+substantive action on the challenges to the new ordinance, I respectfully disagree
+
+with the majority’s conclusion that the district court abused its discretion in
+
+abstaining from hearing Plaintiff’s claims challenging Defendant’s new adult
+
+entertainment code. A faithful review of the caselaw demonstrates that the district
+
+court exercised its discretion within the narrow and specific limits prescribed by
+
+the Younger abstention doctrine. Frazier, 387 F.3d at 1259 (the abuse of discretion
+
+standard “recognizes [a] range of possible conclusions the trial judge may reach”);
+
+Thompson v. RelationServe Media, Inc., 610 F.3d 628, 669 (11th Cir. 2010)
+
+(relevant abuse of discretion inquiry is “whether the district court’s decision was
+
+tenable—in the ‘range of possible conclusions,’ or, metaphorically, ‘in the
+
+ballpark’”).
+
+
+
+
+                                          56
+         USCA11 Case: 17-11871      Date Filed: 10/11/2019    Page: 57 of 57
+
+
+
+      For the above reasons, I therefore respectfully dissent from that portion of
+
+the majority opinion reversing the district court’s decision to abstain from hearing
+
+claims challenging the new code.
+
+
+
+
+                                         57
+

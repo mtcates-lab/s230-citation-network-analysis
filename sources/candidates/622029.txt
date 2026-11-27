@@ -1,0 +1,903 @@
+Case: 09-55272   02/02/2012         ID: 8053765      DktEntry: 60-1   Page: 1 of 22
+
+
+
+
+                            FOR PUBLICATION
+             UNITED STATES COURT OF APPEALS
+                  FOR THE NINTH CIRCUIT
+
+           FAIR HOUSING COUNCIL OF SAN           
+           FERNANDO VALLEY; THE FAIR
+           HOUSING COUNCIL OF SAN DIEGO,              No. 09-55272
+                         Plaintiffs-Appellees,
+                                                       D.C. No.
+                                                     2:03-cv-09386-
+                          v.
+                                                         PA-RZ
+           ROOMMATE.COM, LLC,
+                        Defendant-Appellant.
+                                                 
+
+           FAIR HOUSING COUNCIL OF SAN           
+           FERNANDO VALLEY; THE FAIR
+           HOUSING COUNCIL OF SAN DIEGO,              No. 09-55875
+                         Plaintiffs-Appellees,
+                                                       D.C. No.
+                                                     2:03-cv-09386-
+                          v.
+                                                         PA-RZ
+           ROOMMATE.COM, LLC,
+                        Defendant-Appellant.
+                                                 
+
+
+
+
+                                       973
+Case: 09-55272   02/02/2012          ID: 8053765       DktEntry: 60-1   Page: 2 of 22
+
+
+
+
+           974         FAIR HOUSING COUNCIL v. ROOMMATE.COM
+
+
+
+           FAIR HOUSING COUNCIL OF SAN             
+           FERNANDO VALLEY; THE FAIR
+           HOUSING COUNCIL OF SAN DIEGO,
+                   Plaintiffs-Appellees-Cross-
+                                   Appellants,          No. 09-55969
+                           and                            D.C. No.
+           FAIR HOUSING COUNCIL OF SAN                2:03-cv-09386-
+           GABRIEL VALLEY,                                 PA-RZ
+                                      Plaintiff,          OPINION
+                            v.
+           ROOMMATE.COM, LLC,
+                  Defendant-Appellant-Cross-
+                                     Appellee.
+                                                   
+                   Appeal from the United States District Court
+                      for the Central District of California
+                    Percy Anderson, District Judge, Presiding
+
+                              Argued and Submitted
+                       July 14, 2011—Pasadena, California
+
+                              Filed February 2, 2012
+
+            Before: Alex Kozinski, Chief Judge, Stephen Reinhardt and
+                         Sandra S. Ikuta, Circuit Judges.
+
+                        Opinion by Chief Judge Kozinski;
+              Partial Concurrence and Partial Dissent by Judge Ikuta
+Case: 09-55272   02/02/2012          ID: 8053765       DktEntry: 60-1     Page: 3 of 22
+
+
+
+
+                       FAIR HOUSING COUNCIL v. ROOMMATE.COM             977
+
+
+
+
+                                    COUNSEL
+
+           Elizabeth Brancart (argued), Christopher Brancart, Brancart &
+           Brancart, Pescadero, California, for the plaintiff-appellees and
+           cross-appellants.
+
+           Timothy L. Alger (argued), Susan B. Estrich, Scott B. Kid-
+           man, Christopher E. Price, Quinn Emanuel Urquhart &
+           Hedges, LLP, Los Angeles, California, for the defendant-
+           appellant and cross-appellee.
+Case: 09-55272   02/02/2012          ID: 8053765       DktEntry: 60-1      Page: 4 of 22
+
+
+
+
+           978         FAIR HOUSING COUNCIL v. ROOMMATE.COM
+                                     OPINION
+
+           KOZINSKI, Chief Judge:
+
+             There’s no place like home. In the privacy of your own
+           home, you can take off your coat, kick off your shoes, let your
+           guard down and be completely yourself. While we usually
+           share our homes only with friends and family, sometimes we
+           need to take in a stranger to help pay the rent. When that hap-
+           pens, can the government limit whom we choose? Specifi-
+           cally, do the anti-discrimination provisions of the Fair
+           Housing Act (“FHA”) extend to the selection of roommates?
+
+                                       FACTS
+
+              Roommate.com, LLC (“Roommate”) operates an internet-
+           based business that helps roommates find each other. Room-
+           mate’s website receives over 40,000 visits a day and roughly
+           a million new postings for roommates are created each year.
+           When users sign up, they must create a profile by answering
+           a series of questions about their sex, sexual orientation and
+           whether children will be living with them. An open-ended
+           “Additional Comments” section lets users include information
+           not prompted by the questionnaire. Users are asked to list
+           their preferences for roommate characteristics, including sex,
+           sexual orientation and familial status. Based on the profiles
+           and preferences, Roommate matches users and provides them
+           a list of housing-seekers or available rooms meeting their
+           criteria. Users can also search available listings based on
+           roommate characteristics, including sex, sexual orientation
+           and familial status.
+
+             The Fair Housing Councils of San Fernando Valley and
+           San Diego (“FHCs”) sued Roommate in federal court, alleg-
+           ing that the website’s questions requiring disclosure of sex,
+           sexual orientation and familial status, and its sorting, steering
+           and matching of users based on those characteristics, violate
+           the Fair Housing Act (“FHA”), 42 U.S.C. § 3601 et seq., and
+Case: 09-55272   02/02/2012          ID: 8053765       DktEntry: 60-1      Page: 5 of 22
+
+
+
+
+                       FAIR HOUSING COUNCIL v. ROOMMATE.COM             979
+           the California Fair Employment and Housing Act (“FEHA”),
+           Cal. Gov’t Code § 12955.
+
+              The district court initially dismissed the claims, holding
+           that Roommate was immune under section 230 of the Com-
+           munications Decency Act (“CDA”), 47 U.S.C. § 230. We
+           reversed, holding that Roommate was protected by the CDA
+           for publishing the “Additional Comments” section, but not for
+           (1) posting questionnaires that required disclosure of sex, sex-
+           ual orientation and familial status; (2) limiting the scope of
+           searches by users’ preferences on a roommate’s sex, sexual
+           orientation and familial status; and (3) a matching system that
+           paired users based on those preferences. Fair Hous. Council
+           v. Roommates.com, LLC, 521 F.3d 1157, 1166 (9th Cir. 2008)
+           (en banc).
+
+              Our opinion was limited to CDA immunity and didn’t
+           reach whether the activities, in fact, violated the FHA. On
+           remand, the district court held that Roommate’s prompting of
+           discriminatory preferences from users, matching users based
+           on that information and publishing these preferences violated
+           the FHA and FEHA, and enjoined Roommate from those
+           activities. Roommate appeals the grant of summary judgment
+           and permanent injunction, and also the district court’s order
+           awarding the FHCs $494,714.40 in attorney’s fees. The FHCs
+           cross-appeal the amount of the attorney’s fees.
+
+                                    STANDING
+
+              [1] Roommate argues that the FHCs lack standing because
+           they didn’t suffer actual injury. We’ve held that an organiza-
+           tion has “direct standing to sue [when] it showed a drain on
+           its resources from both a diversion of its resources and frus-
+           tration of its mission.” Fair Hous. of Marin v. Combs, 285
+           F.3d 899, 905 (9th Cir. 2002). However, “ ‘standing must be
+           established independent of the lawsuit filed by the plaintiff.’ ”
+           Comite de Jornaleros de Redondo Beach v. City of Redondo
+           Beach, No. 06-55750, 2011 WL 4336667, at *3 (9th Cir. Sept.
+Case: 09-55272    02/02/2012          ID: 8053765      DktEntry: 60-1      Page: 6 of 22
+
+
+
+
+           980          FAIR HOUSING COUNCIL v. ROOMMATE.COM
+           16, 2011) (quoting Walker v. City of Lakewood, 272 F.3d
+           1114, 1124 n.3 (9th Cir. 2001)). An organization “cannot
+           manufacture [an] injury by incurring litigation costs or simply
+           choosing to spend money fixing a problem that otherwise
+           would not affect the organization at all.” La Asociacion de
+           Trabajadores de Lake Forest v. City of Lake Forest, 624 F.3d
+           1083, 1088 (9th Cir. 2010); see also Combs, 285 F.3d at 903
+           (“[A]n organization cannot, of course, manufacture the injury
+           necessary to maintain a suit from its expenditure of resources
+           on that very suit . . . .” (internal quotation marks omitted)).
+
+              [2] Prior to commencing litigation, the FHCs investigated
+           Roommate’s alleged violations and, in response, started new
+           education and outreach campaigns targeted at discriminatory
+           roommate advertising. The resources spent on those cam-
+           paigns were not associated with litigation. Because Room-
+           mate’s conduct caused the FHCs to divert resources
+           independent of litigation costs and frustrated their central mis-
+           sion, we conclude that the FHCs have organizational standing.
+
+                                     ANALYSIS
+
+              If the FHA extends to shared living situations, it’s quite
+           clear that what Roommate does amounts to a violation. The
+           pivotal question is whether the FHA applies to roommates.
+
+                                           I
+
+             [3] The FHA prohibits discrimination on the basis of “race,
+           color, religion, sex, familial status, or national origin” in the
+           “sale or rental of a dwelling.” 42 U.S.C. § 3604(b) (emphasis
+           added). The FHA also makes it illegal to
+
+                 make, print, or publish, or cause to be made, printed,
+                 or published any notice, statement, or advertisement,
+                 with respect to the sale or rental of a dwelling that
+                 indicates any preference, limitation, or discrimina-
+                 tion based on race, color, religion, sex, handicap,
+Case: 09-55272    02/02/2012          ID: 8053765       DktEntry: 60-1       Page: 7 of 22
+
+
+
+
+                        FAIR HOUSING COUNCIL v. ROOMMATE.COM               981
+                 familial status, or national origin, or an intention to
+                 make any such preference, limitation, or discrimina-
+                 tion.
+
+           Id. § 3604(c) (emphasis added). The reach of the statute turns
+           on the meaning of “dwelling.”
+
+              [4] The FHA defines “dwelling” as “any building, struc-
+           ture, or portion thereof which is occupied as, or designed or
+           intended for occupancy as, a residence by one or more fami-
+           lies.” Id. § 3602(b). A dwelling is thus a living unit designed
+           or intended for occupancy by a family, meaning that it ordi-
+           narily has the elements generally associated with a family res-
+           idence: sleeping spaces, bathroom and kitchen facilities, and
+           common areas, such as living rooms, dens and hallways.
+
+              It would be difficult, though not impossible, to divide a
+           single-family house or apartment into separate “dwellings”
+           for purposes of the statute. Is a “dwelling” a bedroom plus a
+           right to access common areas? What if roommates share a
+           bedroom? Could a “dwelling” be a bottom bunk and half an
+           armoire? It makes practical sense to interpret “dwelling” as an
+           independent living unit and stop the FHA at the front door.
+
+              There’s no indication that Congress intended to interfere
+           with personal relationships inside the home. Congress wanted
+           to address the problem of landlords discriminating in the sale
+           and rental of housing, which deprived protected classes of
+           housing opportunities. But a business transaction between a
+           tenant and landlord is quite different from an arrangement
+           between two people sharing the same living space. We seri-
+           ously doubt Congress meant the FHA to apply to the latter.
+           Consider, for example, the FHA’s prohibition against sex dis-
+           crimination. Could Congress, in the 1960s, really have meant
+           that women must accept men as roommates? Telling women
+           they may not lawfully exclude men from the list of acceptable
+           roommates would be controversial today; it would have been
+           scandalous in the 1960s.
+Case: 09-55272   02/02/2012          ID: 8053765       DktEntry: 60-1     Page: 8 of 22
+
+
+
+
+           982         FAIR HOUSING COUNCIL v. ROOMMATE.COM
+              While it’s possible to read dwelling to mean sub-parts of a
+           home or an apartment, doing so leads to awkward results. And
+           applying the FHA to the selection of roommates almost cer-
+           tainly leads to results that defy mores prevalent when the stat-
+           ute was passed. Nonetheless, this interpretation is not wholly
+           implausible and we would normally consider adopting it,
+           given that the FHA is a remedial statute that we construe
+           broadly. Therefore, we turn to constitutional concerns, which
+           provide strong countervailing considerations.
+
+                                          II
+
+              [5] The Supreme Court has recognized that “the freedom
+           to enter into and carry on certain intimate or private relation-
+           ships is a fundamental element of liberty protected by the Bill
+           of Rights.” Bd. of Dirs. of Rotary Int’l v. Rotary Club of
+           Duarte, 481 U.S. 537, 545 (1987). “[C]hoices to enter into
+           and maintain certain intimate human relationships must be
+           secured against undue intrusion by the State because of the
+           role of such relationships in safeguarding the individual free-
+           dom that is central to our constitutional scheme.” Roberts v.
+           U.S. Jaycees, 468 U.S. 609, 617-18 (1984). Courts have
+           extended the right of intimate association to marriage, child
+           bearing, child rearing and cohabitation with relatives. Id.
+           While the right protects only “highly personal relationships,”
+           IDK, Inc. v. Clark Cnty., 836 F.2d 1185, 1193 (9th Cir. 1988)
+           (quoting Roberts, 468 U.S. at 618), the right isn’t restricted
+           exclusively to family, Bd. of Dirs. of Rotary Int’l, 481 U.S. at
+           545. The right to association also implies a right not to asso-
+           ciate. Roberts, 428 U.S. at 623.
+
+              [6] To determine whether a particular relationship is pro-
+           tected by the right to intimate association we look to “size,
+           purpose, selectivity, and whether others are excluded from
+           critical aspects of the relationship.” Bd. of Dirs. of Rotary
+           Int’l, 481 U.S. at 546. The roommate relationship easily quali-
+           fies: People generally have very few roommates; they are
+           selective in choosing roommates; and non-roommates are
+Case: 09-55272   02/02/2012           ID: 8053765       DktEntry: 60-1      Page: 9 of 22
+
+
+
+
+                       FAIR HOUSING COUNCIL v. ROOMMATE.COM              983
+           excluded from the critical aspects of the relationship, such as
+           using the living spaces. Aside from immediate family or a
+           romantic partner, it’s hard to imagine a relationship more inti-
+           mate than that between roommates, who share living rooms,
+           dining rooms, kitchens, bathrooms, even bedrooms.
+
+              [7] Because of a roommate’s unfettered access to the
+           home, choosing a roommate implicates significant privacy
+           and safety considerations. The home is the center of our pri-
+           vate lives. Roommates note our comings and goings, observe
+           whom we bring back at night, hear what songs we sing in the
+           shower, see us in various stages of undress and learn intimate
+           details most of us prefer to keep private. Roommates also
+           have access to our physical belongings and to our person. As
+           the Supreme Court recognized, “[w]e are at our most vulnera-
+           ble when we are asleep because we cannot monitor our own
+           safety or the security of our belongings.” Minnesota v. Olson,
+           495 U.S. 91, 99 (1990). Taking on a roommate means giving
+           him full access to the space where we are most vulnerable.
+
+              Equally important, we are fully exposed to a roommate’s
+           belongings, activities, habits, proclivities and way of life. This
+           could include matter we find offensive (pornography, reli-
+           gious materials, political propaganda); dangerous (tobacco,
+           drugs, firearms); annoying (jazz, perfume, frequent overnight
+           visitors, furry pets); habits that are incompatible with our life-
+           style (early risers, messy cooks, bathroom hogs, clothing bor-
+           rowers). When you invite others to share your living quarters,
+           you risk becoming a suspect in whatever illegal activities they
+           engage in.
+
+              [8] Government regulation of an individual’s ability to
+           pick a roommate thus intrudes into the home, which “is enti-
+           tled to special protection as the center of the private lives of
+           our people.” Minnesota v. Carter, 525 U.S. 83, 99 (1998)
+           (Kennedy, J., concurring). “Liberty protects the person from
+           unwarranted government intrusions into a dwelling or other
+           private places. In our tradition the State is not omnipresent in
+Case: 09-55272    02/02/2012          ID: 8053765      DktEntry: 60-1       Page: 10 of 22
+
+
+
+
+            984         FAIR HOUSING COUNCIL v. ROOMMATE.COM
+            the home.” Lawrence v. Texas, 539 U.S. 558, 562 (2003).
+            Holding that the FHA applies inside a home or apartment
+            would allow the government to restrict our ability to choose
+            roommates compatible with our lifestyles. This would be a
+            serious invasion of privacy, autonomy and security.
+
+              For example, women will often look for female roommates
+            because of modesty or security concerns. As roommates often
+            share bathrooms and common areas, a girl may not want to
+            walk around in her towel in front of a boy. She might also
+            worry about unwanted sexual advances or becoming romanti-
+            cally involved with someone she must count on to pay the
+            rent.
+
+               An orthodox Jew may want a roommate with similar
+            beliefs and dietary restrictions, so he won’t have to worry
+            about finding honey-baked ham in the refrigerator next to the
+            potato latkes. Non-Jewish roommates may not understand or
+            faithfully follow all of the culinary rules, like the use of dif-
+            ferent silverware for dairy and meat products, or the prohibi-
+            tion against warming non-kosher food in a kosher microwave.
+            Taking away the ability to choose roommates with similar
+            dietary restrictions and religious convictions will substantially
+            burden the observant Jew’s ability to live his life and practice
+            his religion faithfully. The same is true of individuals of other
+            faiths that call for dietary restrictions or rituals inside the
+            home.
+
+               The U.S. Department of Housing and Urban Development
+            recently dismissed a complaint against a young woman for
+            advertising, “I am looking for a female christian roommate,”
+            on her church bulletin board. In its Determination of No Rea-
+            sonable Cause, HUD explained that “in light of the facts pro-
+            vided and after assessing the unique context of the
+            advertisement and the roommate relationship involved . . . the
+            Department defers to Constitutional considerations in reach-
+            ing its conclusions.” Fair Hous. Ctr. of W. Mich. v. Tricia,
+Case: 09-55272    02/02/2012          ID: 8053765       DktEntry: 60-1       Page: 11 of 22
+
+
+
+
+                        FAIR HOUSING COUNCIL v. ROOMMATE.COM              985
+            No. 05-10-1738-8 (Oct. 28, 2010) (Determination of No Rea-
+            sonable Cause).
+
+               [9] It’s a “well-established principle that statutes will be
+            interpreted to avoid constitutional difficulties.” Frisby v.
+            Schultz, 487 U.S. 474, 483 (1988). “[W]here an otherwise
+            acceptable construction of a statute would raise serious consti-
+            tutional problems, the Court will construe the statute to avoid
+            such problems unless such construction is plainly contrary to
+            the intent of Congress.” Pub. Citizen v. U.S. Dep’t of Justice,
+            491 U.S. 440, 466 (1989) (internal quotation marks omitted).
+            Because the FHA can reasonably be read either to include or
+            exclude shared living arrangements, we can and must choose
+            the construction that avoids raising constitutional concerns.
+            See INS v. St. Cyr, 533 U.S. 289, 299-300 (2001) (“[I]f an
+            otherwise acceptable construction of a statute would raise
+            serious constitutional problems, and where an alternative
+            interpretation of the statute is fairly possible, we are obligated
+            to construe the statute to avoid such problems.”) (internal cita-
+            tion and quotations marks omitted). Reading “dwelling” to
+            mean an independent housing unit is a fair interpretation of
+            the text and consistent with congressional intent. Because the
+            construction of “dwelling” to include shared living units
+            raises substantial constitutional concerns, we adopt the nar-
+            rower construction that excludes roommate selection from the
+            reach of the FHA.
+
+                                          III
+
+               [10] Because we find that the FHA doesn’t apply to the
+            sharing of living units, it follows that it’s not unlawful to dis-
+            criminate in selecting a roommate. As the underlying conduct
+            is not unlawful, Roommate’s facilitation of discriminatory
+            roommate searches does not violate the FHA. While Room-
+            mate itself has no intimate association right, it is entitled to
+            raise the constitutional claims of its users. See Craig v. Boren,
+            429 U.S. 190, 195 (1976). The injunction entered by the dis-
+            trict court precludes Roommate’s members from selecting
+Case: 09-55272    02/02/2012         ID: 8053765       DktEntry: 60-1      Page: 12 of 22
+
+
+
+
+            986         FAIR HOUSING COUNCIL v. ROOMMATE.COM
+            roommates unfettered by government regulation. Roommate
+            may therefore raise these claims on their behalf.
+
+                                          IV
+
+               [11] The same constitutional concerns over the right to
+            intimate association would arise if the California Fair
+            Employment and Housing Act (“FEHA”) were applied to
+            roommates. Accordingly, we interpret “housing accommoda-
+            tion” in section 12955(c) of the FEHA to exclude the sharing
+            of living units. Similarly to how the FHA defines “dwelling,”
+            the FEHA defines “housing accommodation” as “any build-
+            ing, structure, or portion thereof that is occupied as, or
+            intended for occupancy as, a residence by one or more fami-
+            lies.” Cal. Gov. Code § 12927(d). This ambiguous definition
+            allows us to apply the canon of constitutional avoidance to
+            find that the FEHA does not reach the selection of room-
+            mates.
+
+               In a 1995 amendment, the FEHA carved out from the defi-
+            nition of discrimination “the use of words stating or tending
+            to imply that the housing being advertised is available only to
+            persons of one sex,” “[w]here the sharing of living areas in a
+            single dwelling unit is involved.” Cal. Gov. Code
+            § 12927(c)(2)(B). The concurrence infers from this 1995
+            exemption that the statute as passed in 1974 must have cov-
+            ered roommates. But the acts of a subsequent legislature tell
+            us nothing definitive about the meaning of laws adopted by an
+            earlier legislature. See Pension Benefit Guar. Corp. v. LTV
+            Corp., 496 U.S. 633, 650 (1990) (“[S]ubsequent legislative
+            history is a hazardous basis for inferring the intent of an ear-
+            lier Congress.” (internal quotation marks omitted)); see also
+            Sullivan v. Finkelstein, 496 U.S. 617, 632 (1990) (Scalia, J.,
+            concurring) (“Arguments based on subsequent legislative his-
+            tory . . . should not be taken seriously, not even in a foot-
+            note.”). The 1995 legislature may have been uncertain about
+            whether the statute, as passed decades earlier, covered room-
+            mates, and wanted to remove any doubt that roommates could
+Case: 09-55272    02/02/2012          ID: 8053765      DktEntry: 60-1       Page: 13 of 22
+
+
+
+
+                        FAIR HOUSING COUNCIL v. ROOMMATE.COM             987
+            select each other by sex. But the amendment can shed no light
+            on the meaning of “housing accommodation” in the FEHA, a
+            statutory phrase it does not modify or reference.
+
+               [12] Nothing in the language of the statute provides that a
+            “housing accommodation” includes shared living quarters.
+            Under the canon of constitutional avoidance, the interpreta-
+            tion of the statute need not be the best reading, so long as it’s
+            “fairly possible.” St. Cyr, 533 U.S. at 299-300. It is “fairly
+            possible” that the statute does not apply to roommates. Inter-
+            preting it as excluding roommates avoids a ruling on a diffi-
+            cult and unexplored constitutional issue.
+
+               The concurrence also relies on a FEHC decision, but the
+            FEHC had no authority to address the underlying constitu-
+            tional problems raised by the FEHA, and thus had no reason
+            to consider the constitutional avoidance canon: “Whether it is
+            sound policy to ban discrimination in the selection of room-
+            mates, and whether such a policy implicates constitutional
+            rights of privacy or association, are not questions for this
+            decision to resolve. Those are issues for the Legislature and
+            the courts, respectively, to decide.” Dep’t of Fair Emp’t &
+            Hous. v. Larrick, FEHC Dec. No. 98-12, 1998 WL 750901,
+            at *5 n.1 (July 22, 1998). We, on the other hand, have a duty
+            to consider constitutional concerns and to adopt an interpreta-
+            tion that avoids ruling on the constitutionality of a statute, if
+            we can fairly do so. See St. Cyr, 533 U.S. at 299-300. We are
+            as capable as the district court in resolving the issue, which
+            we review de novo in any event. Therefore, we see no need
+            to remand this question to the district court.
+
+                                         ***
+
+               [13] Because precluding individuals from selecting room-
+            mates based on their sex, sexual orientation and familial status
+            raises substantial constitutional concerns, we interpret the
+            FHA and FEHA as not applying to the sharing of living units.
+            Therefore, we hold that Roommate’s prompting, sorting and
+Case: 09-55272     02/02/2012             ID: 8053765          DktEntry: 60-1          Page: 14 of 22
+
+
+
+
+            988           FAIR HOUSING COUNCIL v. ROOMMATE.COM
+            publishing of information to facilitate roommate selection is
+            not forbidden by the FHA or FEHA. Accordingly, we vacate
+            the district court’s judgment and remand for entry of judg-
+            ment for defendant. Because the FHCs are no longer prevail-
+            ing, we vacate the district court’s order for attorney’s fees and
+            dismiss the cross-appeals on attorney’s fees as moot.
+
+              VACATED AND REMANDED IN PART; DISMISSED
+            IN PART
+
+
+
+            IKUTA, Circuit Judge, concurring and dissenting:
+
+               I concur in the majority’s holding that the Fair Housing Act
+            (FHA) does not apply to the sharing of living units. I write
+            separately, however, to express my concern that our circuit’s
+            test for organizational standing cannot be reconciled with
+            Supreme Court precedent. Further, I respectfully dissent from
+            Part IV of the majority decision, which applies its FHA analy-
+            sis to the California Fair Employment and Housing Act
+            (FEHA) claim of the two Fair Housing Councils.
+
+                                                 I
+
+              In order to assert standing as an organization, rather than on
+            behalf of their members,1 the Fair Housing Councils must
+            show they suffered an injury in fact, just as if they were indi-
+            viduals. See Havens Realty Corp. v. Coleman, 455 U.S. 363,
+            378-79 (1982). In other words, each Fair Housing Council
+              1
+                If either of the Fair Housing Councils had asserted standing on behalf
+            of its members, it would need to show that its “[1] members would other-
+            wise have standing to sue in their own right, [2] the interests at stake are
+            germane to the organization’s purpose, and [3] neither the claim asserted
+            nor the relief requested requires the participation of individual members
+            in the lawsuit.” Friends of the Earth, Inc. v. Laidlaw Envtl. Servs. (TOC),
+            Inc., 528 U.S. 167, 181 (2000). But here, the Fair Housing Councils assert
+            only organizational standing.
+Case: 09-55272    02/02/2012            ID: 8053765        DktEntry: 60-1        Page: 15 of 22
+
+
+
+
+                         FAIR HOUSING COUNCIL v. ROOMMATE.COM                 989
+            must show that Roommates’ actions caused it to suffer “an
+            invasion of a legally protected interest which is (a) concrete
+            and particularized, and (b) actual or imminent.” Lujan v.
+            Defenders of Wildlife, 504 U.S. 555, 560 (1992) (citations and
+            internal quotation marks omitted).2 To meet this requirement,
+            the Fair Housing Councils must show that Roommates’ con-
+            duct “perceptibly impair[s]” the organizations’ interest in car-
+            rying out their core missions. Havens, 455 U.S. at 378-79.
+
+               Fair Housing Councils of San Fernando Valley and San
+            Diego are non-profit organizations with the shared core mis-
+            sion of eliminating housing discrimination in their communi-
+            ties. They accomplish this mission through, among other
+            things, investigation, education, and outreach regarding
+            instances of housing discrimination. In response to their dis-
+            covery of Roommate’s allegedly discriminatory housing
+            advertisements, the Fair Housing Councils spent money on
+            investigation, education, and outreach regarding the trend of
+            housing discrimination on the Internet.
+
+               So far so good: two organizations dedicated to combating
+            housing discrimination have spent money combating housing
+            discrimination. But according to the Fair Housing Councils
+            and our precedent, these organizations were “injured” for
+            standing purposes by the very expenses that advanced their
+            mission. This raises a question that threatens to bring us log-
+            gerheads with Lujan: How can an organization have a legally
+            protected interest in not spending money to advance its core
+            mission?
+
+                                             A
+
+               The answer to this question is embedded in an illogical and
+            erroneous development in our case law. We have correctly
+              2
+               There also must be a causal connection between the injury and the
+            defendant’s conduct, and the injury must be redressable by a favorable
+            decision. Id. at 560-61.
+Case: 09-55272    02/02/2012          ID: 8053765      DktEntry: 60-1       Page: 16 of 22
+
+
+
+
+            990         FAIR HOUSING COUNCIL v. ROOMMATE.COM
+            recognized that organizations have standing to sue on their
+            own behalf when a defendant’s actions impair the organiza-
+            tion’s ability to function as an organization. An action that
+            invades an organization’s interest in recruiting members,
+            obtaining funding, or collecting dues clearly hinders that
+            organization’s ability to function, and is an injury for pur-
+            poses of standing. See, e.g., Am. Fed’n. of Gov’t Emps. Local
+            1 v. Stone, 502 F.3d 1027, 1033 (9th Cir. 2007) (“[A]n
+            increased difficulty in recruiting union members qualifies as
+            a ‘concrete and demonstrable’ injury”); Walker v. City of
+            Lakewood, 272 F.3d 1114, 1124-25 (9th Cir. 2001) (holding
+            that an organization was injured by, among other things,
+            delayed contractual payments and government client’s non-
+            renewal of the contract); Constr. Indus. Ass’n of Sonoma Cty.
+            v. City of Petaluma, 522 F.2d 897, 903 (9th Cir. 1975) (hold-
+            ing that a restrictive building plan injured an association of
+            builders “in a very real sense” because it decreased construc-
+            tion and consequently, membership dues for the association).
+
+               The Supreme Court has also held that an organization’s
+            ability to function as an organization is impaired if its purpose
+            is to provide a specified type of service and a defendant’s
+            actions hinder the organization from providing that core ser-
+            vice. Havens, 455 U.S. at 378-79. In Havens, a fair housing
+            organization alleged that its mission was to “assist equal
+            access to housing through counseling and other referral ser-
+            vices.” Id. at 379. The organization asserted that the defen-
+            dant’s discriminatory housing practices frustrated the
+            organization’s ability to “provide counseling and referral ser-
+            vices for low- and moderate-income homeseekers.” Id. The
+            Court held that this allegation was sufficient for standing
+            because it represented a “concrete and demonstrable injury to
+            the organization’s activities—with the consequent drain on
+            the organizations’s resources—[that was] far more than sim-
+            ply a setback to the organization’s abstract social interests.”
+            Id.
+
+              Based on this language in Havens, we developed a two-
+            prong test: an organization can establish an injury if it can
+Case: 09-55272    02/02/2012          ID: 8053765      DktEntry: 60-1       Page: 17 of 22
+
+
+
+
+                        FAIR HOUSING COUNCIL v. ROOMMATE.COM             991
+            show “(1) frustration of its organizational mission; and (2)
+            diversion of its resources to combat the [challenged actions].”
+            Smith v. Pac. Prop. & Dev. Corp., 358 F.3d 1097, 1105 (9th
+            Cir. 2004). While our articulation of the test is consistent with
+            Havens, our application of it has drifted away from the
+            requirement that an organization actually suffer an injury.
+
+               In Smith, for example, we considered whether an organiza-
+            tion dedicated to “eliminat[ing] discrimination against indi-
+            viduals with disabilities by ensuring compliance with
+            [accessibility] laws” had standing to sue a real estate devel-
+            oper who constructed properties with alleged design and con-
+            struction defects that violated those laws. Id. at 1105. We held
+            that because the organization’s ultimate goal was to eliminate
+            discrimination against individuals with disabilities, “[a]ny
+            violation” of the relevant accessibility law constituted a frus-
+            tration of the organization’s mission. Id.; see also Fair Hous.
+            of Marin v. Combs, 285 F.3d 899, 905 (9th Cir. 2002) (hold-
+            ing that an organization’s mission of promoting equal housing
+            opportunities, as required by the FHA, was frustrated by the
+            defendant’s alleged FHA violations). We further held that the
+            organization met the “diversion of resources” prong because
+            the money it spent “in order to monitor the violations”
+            diverted resources “from other efforts to promote awareness
+            of—and compliance with—federal and state accessibility
+            laws.” Smith, 358 F.3d at 1105. Yet no allegations were made
+            that this allocation of resources harmed the organization in
+            any way. Id. Rather, all that our precedent required for diver-
+            sion was that the organization spent resources that it “other-
+            wise would spend in other ways.” El Rescate Legal Servs.,
+            Inc. v. Exec. Office of Immigration Review, 959 F.2d 742, 748
+            (9th Cir. 1991).
+
+               Thus, we have held that an organization with a social inter-
+            est in advancing enforcement of a law was injured when the
+            organization spent money enforcing that law. This looks sus-
+            piciously like a harm that is simply “a setback to the organiza-
+            tion’s abstract social interests,” the very thing Havens
+Case: 09-55272    02/02/2012          ID: 8053765       DktEntry: 60-1       Page: 18 of 22
+
+
+
+
+            992         FAIR HOUSING COUNCIL v. ROOMMATE.COM
+            indicated was not a “concrete and demonstrable injury to the
+            organization’s activities.” Havens, 455 U.S. at 379; see also
+            Sierra Club v. Morton, 405 U.S. 727, 738-39 (1972) (holding
+            that an organization’s abstract interest in a problem, without
+            direct harm, is insufficient to establish standing). After all, an
+            organization created to advance enforcement of a law is not
+            hampered in its mission because the law is violated: absent
+            violations, the organization would have to find a new mission.
+            Furthermore, the organization has no legally protected interest
+            in keeping its budget allocation constant, especially in the
+            face of new opportunities to advance its mission. New organi-
+            zational undertakings by definition divert resources but, as
+            shown below, nothing about such diversion is per se harmful.
+            Smith’s ruling to the contrary is in tension with the Supreme
+            Court’s requirement that an organization actually suffer a
+            “concrete and particularized injury.” Lujan, 504 U.S. at 560.
+
+                                            B
+
+              This case brings the strain between our case law and
+            Supreme Court precedent close to a rupture.
+
+               As noted above, the Fair Housing Councils have the mis-
+            sion of eliminating unlawful housing discrimination, in part
+            through investigation, education and outreach. Before bring-
+            ing this litigation, the organizations purposely decided to
+            advance their mission by focusing on discrimination in online
+            housing advertisements, such as those allegedly contained on
+            Roommate’s site. Pursuant to this intentional allocation of
+            resources, both Fair Housing Councils spent time investigat-
+            ing Roommate’s website to find specific instances of discrim-
+            ination. Further, Fair Housing Council San Diego hosted a
+            conference “on the topic of the Internet and fair housing” and
+            “conducted approximately 49 outreach presentations” on the
+            subject. Fair Housing Council of San Fernando Valley “sent
+            an education letter and fair housing packet to sixty-four (64)
+            media and advertising sources with explicit mention of the
+            fair housing concerns with advertising listings in the elec-
+Case: 09-55272   02/02/2012          ID: 8053765       DktEntry: 60-1      Page: 19 of 22
+
+
+
+
+                        FAIR HOUSING COUNCIL v. ROOMMATE.COM            993
+            tronic form,” along with “devot[ing] more time to the problem
+            of discriminatory rental listings” in its training seminars. In
+            short, the Fair Housing Councils spent money investigating
+            and addressing the exact problem they were established to
+            address, housing discrimination, in the exact way they
+            planned to address such problems, education and outreach.
+
+               If anything, their newfound topical focus on Internet hous-
+            ing advertisements reflected the Fair Housing Councils’ con-
+            sidered judgments of how they could best accomplish their
+            goals in the face of changing client needs created by new
+            technology. As they acknowledged, the Internet was a “new
+            frontier” of housing discrimination. In response to this “trend”
+            and the “sheer numbers” of housing discrimination issues
+            raised by websites like Roommate’s, the Fair Housing Coun-
+            cils made Internet advertising a “major focus of [their] out-
+            reach efforts.” Therefore, the alleged “diversion” here was a
+            voluntary redirection of more resources to areas where there
+            were more housing problems and where the Fair Housing
+            Councils could make a bigger impact advancing their mis-
+            sions. This represents adaptive and savvy organizational man-
+            agement, not injury. See Fair Emp’t Council of Greater
+            Wash., Inc. v. BMC Mktg. Corp., 28 F.3d 1268, 1277 (D.C.
+            Cir. 1994) (“One can hardly say that BMC [an allegedly dis-
+            criminatory employer] has injured the Council merely
+            because the Council has decided that its money would be bet-
+            ter spent by testing BMC than by counseling or research-
+            ing.”).
+
+               Given this record, it is clear that Roommates’ activities did
+            not cause the Fair Housing Councils to incur an injury-in-fact
+            that meets the Lujan standard. The Fair Housing Councils suf-
+            fered no invasion of their organizational interest in obtaining
+            funding, collecting dues or recruiting members; nor were they
+            hampered from advancing their mission. In holding otherwise,
+            we are faithful to our precedent, but unfaithful to Lujan.
+
+              Where Supreme Court precedent is contrary to our prece-
+            dent, we are the ones that have to change. Cf. Atonio v. Wards
+Case: 09-55272    02/02/2012         ID: 8053765       DktEntry: 60-1      Page: 20 of 22
+
+
+
+
+            994         FAIR HOUSING COUNCIL v. ROOMMATE.COM
+            Cove Packing Co., Inc., 810 F.2d 1477, 1478-79 (9th Cir.
+            1987). I suggest that it is time we revisited our circuit’s test
+            en banc.
+
+                                           II
+
+               In addition to my concern about our standing inquiry, I
+            must respectfully dissent from the majority’s decision to
+            “apply the canon of constitutional avoidance to find that
+            FEHA does not reach the selection of roommates.” Maj. Op.
+            at 986. The interpretive canon of constitutional avoidance
+            directs that “where an otherwise acceptable construction of a
+            statute would raise serious constitutional problems, the Court
+            will construe the statute to avoid such problems.” Edward J.
+            DeBartolo Corp. v. Fl. Gulf Coast Bldg. & Constr. Trades
+            Council, 485 U.S. 568, 575 (1988). But this interpretive tool
+            can be used only when a statute is ambiguous. It does not give
+            federal courts the power to “rewrite a state law to conform it
+            to constitutional requirements.” Virginia v. Am. Booksellers
+            Ass’n, Inc., 484 U.S. 383, 397 (1988).
+
+               In this case, FEHA’s language and its application by the
+            California agency tasked with interpreting it suggest that
+            FEHA is “unambiguous on the point under consideration
+            here.” See Salinas v. United States, 522 U.S. 52, 60 (1997).
+            FEHA expressly defines “discrimination” as not including
+            “the use of words stating or tending to imply that the housing
+            being advertised is available only to persons of one sex,” in
+            a situation “[w]here the sharing of living areas in a single
+            dwelling unit is involved.” Cal. Gov. Code § 12927(c)(2)(B).
+            This language is not in the FHA. Because a statute’s “mention
+            of [one example] implies the exclusion of others not men-
+            tioned,” United Dominion Indus., Inc. v. United States, 532
+            U.S. 822, 836 (2001), FEHA’s definition of “discrimination”
+            in § 12927(c)(2)(B) expresses the state legislature’s intent to
+            exempt sex-specific advertisements for shared living units in
+            a single dwelling from the restrictions of FEHA, but not
+Case: 09-55272    02/02/2012              ID: 8053765         DktEntry: 60-1          Page: 21 of 22
+
+
+
+
+                          FAIR HOUSING COUNCIL v. ROOMMATE.COM                    995
+            exempt advertisements that discriminate on the basis of other
+            protected characteristics, such as race or religion.3
+
+               This plain-language reading of § 12927(c)(2)(B) is con-
+            firmed by the decision of the California Fair Employment and
+            Housing Commission4 in Dep’t of Fair Emp’t and Housing v.
+            Larrick, FEHC Dec. No. 98-12, 1998 WL 750901 (July 22,
+            1998). Larrick involved two roommates who decided not to
+            rent to a potential third roommate because she was black. Id.
+            at *3. The Commission held that the “plain language” of
+            FEHA applied to this shared living situation and prohibited
+            the two roommates “from rejecting an applicant on the basis
+            of race and color.” Id. at *5. In arriving at this conclusion, the
+            Commission stated that none of FEHA’s exceptions were
+            applicable, specifically noting that § 12927(c)(2)(B) “allow[s]
+            sex-specific (but not race-specific) advertisements for single
+            dwellings with shared living areas.” Id. at *6, n.2.
+
+               Because FEHA (unlike the FHA) is unambiguous regarding
+            its applicability to shared living arrangements, the majority
+            cannot interpret FEHA in a way to avoid the constitutional
+            problems that may arise if the act is applied to bar advertise-
+            ments for shared living arrangements that discriminate on the
+            basis of protected characteristics such as race or religion. The
+              3
+                 The majority contends that we can ignore this amendment to FEHA
+            because the “acts of a subsequent legislature tell us nothing definitive
+            about the meaning of laws adopted by an earlier legislature.” Maj. Op. at
+            986. But in determining whether a statute is ambiguous, we must construe
+            the current version of the law, not what it used to be. See Red Lion Broad.
+            Co. v. FCC, 395 U.S. 367, 380-81 (1969) (holding that a court must give
+            “great weight” to amendments to a statute that clarify its proper construc-
+            tion). Once a duly enacted amendment clarifies a statute, it is no longer
+            ambiguous, and we cannot treat it as such by pointing to its former
+            ambiguity.
+               4
+                 The Commission is the California “agency charged with adjudicating
+            FEHA enforcement actions and interpreting FEHA by regulation.” Green
+            v. State, 165 P.3d 118, 128 (Cal. 2007); see also Cal. Gov. Code
+            § 12935(a).
+Case: 09-55272    02/02/2012          ID: 8053765       DktEntry: 60-1       Page: 22 of 22
+
+
+
+
+            996         FAIR HOUSING COUNCIL v. ROOMMATE.COM
+            constitutionality of FEHA’s applicability to such shared living
+            arrangements is both novel and difficult. Given that neither
+            the Fair Housing Councils nor Roommate addressed this issue
+            in their briefs, I would remand this issue to allow the district
+            court to hear from the parties and rule on this issue in the first
+            instance. Therefore, I respectfully dissent from Part IV of the
+            opinion.
+

@@ -1,0 +1,807 @@
+366 F.3d 1
+366 F.3d 1
+State of NEW HAMPSHIRE, Plaintiff, Appellant,
+New Hampshire Department of Administrative Services; State of New Hampshire Department of Transportation; New Hampshire State Treasurer; State of New Hampshire Department of Education, Plaintiffs,
+v.
+David RAMSEY, John Loveday, John Toomey, Melinda Conrad, Wayne Aldrich, Norman Jitras, Michael Rossi, John Scarlotto, and Martha York, as members of the N.H. Committee of Blind Vendors; New Hampshire Committee of Blind Vendors; United States Department of Education, Defendants, Appellees.
+No. 03-1920.
+United States Court of Appeals, First Circuit.
+Heard February 3, 2004.
+Decided April 29, 2004.
+COPYRIGHT MATERIAL OMITTED COPYRIGHT MATERIAL OMITTED Nancy J. Smith, Senior Assistant Attorney General, with whom Peter W. Heed, Attorney General, was on brief, for appellant.
+Jack B. Middleton, with whom Andrea L. Daly, Laura B. Dodge, and McLane, Graf, Raulerson & Middleton were on brief, for appellee New Hampshire Committee of Blind Vendors.
+Mark B. Stern, Attorney, Appellate Staff, Civil Division, with whom Alisa B. Klein, Attorney, Appellate Staff, Civil Division, Peter D. Keisler, Assistant Attorney General, and Thomas P. Colantuono, United States Attorney, were on brief, for appellee United States Department of Education.
+Robert R. Humphreys on brief for Randolph-Sheppard Vendors of America, American Council of the Blind, and National Educational and Legal Defense Services for the Blind, amici curiae.
+Before LYNCH, Circuit Judge, STAHL, Senior Circuit Judge, and LIPEZ, Circuit Judge.
+LYNCH, Circuit Judge.
+1
+The district court entered judgment for the New Hampshire Committee of Blind Vendors and nine of its individual members (collectively, the Blind Vendors) and the United States Department of Education (USDOE), largely affirming a federal arbitration panel award against New Hampshire of compensatory damages of approximately $900,000 as well as prospective equitable relief. The Blind Vendors' claim is that New Hampshire did not give proper "priority" to blind vendors, as required by federal law, in running lucrative vending machine operations in rest areas along federally funded interstate highways. New Hampshire gave others those concessions by contract in exchange for a percentage of the proceeds, which the state put into the state treasury. The district court characterized the state's actions as "stealing from the blind."
+2
+Several major issues are presented in this complex and difficult case. The threshold issue is whether New Hampshire, in light of its Eleventh Amendment immunity, may be subject to either the compensatory damages award or prospective equitable relief in a federal forum. The district court found the state waived any immunity it may have had by its litigation conduct. We hold that the district court had jurisdiction to affirm an award of prospective equitable relief because the state waived any immunity to such relief in a federal forum (a) by its litigation conduct and (b) by judicial estoppel and its participation in the program established by the Randolph-Sheppard Act (R-S Act), 20 U.S.C. § 107
+et seq.
+Having determined that Eleventh Amendment immunity presents no bar to prospective equitable relief here, we affirm such relief on the merits, finding that the state has not given proper "priority" to blind vendors as required by federal law and that a conflicting state statute is preempted.
+3
+Our view of the state's Eleventh Amendment immunity from damages is different. We hold that the state has not waived immunity from damages by its litigation conduct; we also conclude that § 111(b) of the Surface Transportation Assistance Act (STA Act),
+1
+23 U.S.C. §§ 101
+et seq.,
+under which the Blind Vendors seek relief, does not clearly evidence an intent to subject states to such damages. We vacate the damages award and order dismissal of those claims.
+I.
+4
+This case is shaped by two federal statutes. The first is the Randolph-Sheppard Act, under which the federal government, in partnership with consenting states, seeks to provide economic opportunities to the blind by granting priority to licensed blind vendors in contracts to operate vending facilities on
+federal
+property. 20 U.S.C. § 107(a)-(b). The Act, which was first enacted in 1936, Pub.L. No. 74-732, 49 Stat. 1559 (1936), provides that:
+5
+In authorizing the operation of vending facilities on Federal property, priority shall be given to blind persons licensed by a State agency as provided in this chapter; and the Secretary, through the Commissioner, shall, after consultation with the Administrator of General Services and other heads of departments, agencies, or instrumentalities of the United States in control of the maintenance, operation, and protection of Federal property, prescribe regulations designed to assure that —
+6
+(1) the priority under this subsection is given to such licensed blind persons (including assignment of vending machine income pursuant to section 107d-3 of this title to achieve and protect such priority), and
+7
+(2) wherever feasible, one or more vending facilities are established on all Federal property to the extent that any such facility or facilities would not adversely affect the interests of the United States.
+8
+20 U.S.C. § 107(b).
+9
+Under the R-S Act, participating states, such as New Hampshire, can gain access to federal property to benefit their own blind vendors by having state agencies apply to the United States Department of Education to participate in and administer the program. 20 U.S.C. § 107b. In their applications, those state agencies must agree to set up licensing programs for blind vendors, match them with available contracts for vending facilities on federal property, and provide them with equipment and stock.
+Id.
+Once approved, those agencies are known as "state licensing agencies" (SLAs). New Hampshire's SLA is the New Hampshire Department of Education, Division of Vocational Rehabilitation, Bureau of Blind Services.
+10
+We quote a succinct description of the operation of the R-S Act set forth by a sister circuit:
+11
+The Randolph-Sheppard Act was enacted in order to provide employment opportunities for the blind. The Act grants priority to those blind persons who desire to operate vending facilities on federal property. 20 U.S.C. § 107(b). The Act divides responsibility for the blind vendor program between the state and federal agencies. The Secretary of Education is responsible for interpreting and enforcing the Act's provisions, and more specifically, for designating state licensing agencies. 20 U.S.C. §§ 107a(a)(5), 107b; 34 C.F.R. §§ 395.5, 395.8. A person seeking a position as a blind vendor applies to the designated state agency and is licensed by that agency. The state agency in turn applies to the federal government for the placement of the licensee on federal property. 20 U.S.C. § 107b. Once the state and the federal government have agreed on an appropriate location for the vending facility, the state licensing agency is responsible for equipping the facility and furnishing the initial stock and inventory. 20 U.S.C. § 107b(2). The blind vendor thereafter operates as a sole proprietor who is entitled to the profits of the vending facility and who is responsible for the facility's losses.
+12
+The Act requires that if the state licensing agency operates vending machines that directly compete with a vending facility operated by a blind vendor, then a percentage of the income from such competing machines must be given to the blind vendor licensed to do business on that property. 20 U.S.C. § 107d-3. If no licensee is operating a facility on the property, the income from state-operated vending machines is used for a variety of purposes that benefit all blind vendors in the state program. 20 U.S.C. 107d-3(c).
+13
+Tenn. Dep't of Human Servs. v. United States Dep't of Educ.,
+979 F.2d 1162, 1163-64 (6th Cir.1992).
+14
+States' participation in the program is voluntary. States choose whether they wish to have their agencies apply to administer the program under the R-S Act and take on the corresponding obligations.
+See
+20 U.S.C. § 107b. The principal benefit that a state receives for participating in the program is an opportunity to improve the lot of its blind population. A participating state also receives funds. For example, even if no blind vendor operates vending facilities on a particular federal property, the relevant SLA receives income from vending machines on that property; these proceeds can be used to fund retirement, health insurance, sick leave, and vacation time for blind vendors and to defray various costs associated with running the program. 20 U.S.C. §§ 107d-3(a), (c).
+15
+SLAs also agree to a three-step process ("R-S grievance procedures") for dealing with blind licensees who are dissatisfied with the operation of the vending program: first, a hearing at the state level before the SLA; then, an opportunity to appeal in an arbitration before a USDOE panel; and finally, judicial review of the arbitration panel's decision in the federal courts under the Administrative Procedure Act (APA), 5 U.S.C. § 701.
+2
+At the first stage, the SLA agrees:
+16
+to provide to any blind licensee dissatisfied with any action arising from the operation or administration of the vending facility program an opportunity for a fair hearing, and ... to submit the grievances of any blind licensee not otherwise resolved by such hearing to arbitration [before the USDOE].
+17
+20 U.S.C. § 107b(6). After the hearing before the SLA, a dissatisfied blind licensee may go to arbitration before a panel convened by the federal Secretary of Education, under 20 U.S.C. § 107d-2(b)(1). The procedures used by the panel are governed by the APA, 5 U.S.C. § 551
+et seq.
+20 U.S.C. § 107d-2(a). The decision of the panel is "subject to appeal and review as a final agency action" under the APA, 5 U.S.C. § 701, in a federal district court. 20 U.S.C. § 107d-2(a).
+18
+The R-S Act says nothing about what relief can be granted at any of the three levels when the grievance is initiated by a
+blind licensee,
+as here. It does specify, however, the relief that can be granted when the grievance is initiated by an
+SLA.
+3
+SLAs may file complaints that a federal agency is violating the Act. 20 U.S.C. § 107d-1(b). In that situation, upon a finding by the panel that "acts or practices of any such ... agency are in violation of [the R-S] Act, or any regulation issued thereunder," the head of the offending agency "shall cause such acts or practices to be terminated promptly and shall take such other action as may be necessary to carry out the decision of the panel." 20 U.S.C. § 107d-2(b)(2). The statute does not expressly authorize the award of damages.
+19
+The other federal statute involved is the Surface Transportation Assistance Act. The STA Act seeks to increase construction and safety on the interstate and national highway systems. 23 U.S.C. §§ 101(b), 103. Most states receive large amounts of federal funding under the Act; New Hampshire received about $141 million in 2002.
+See
+U.S. Census Bureau, Federal Aid to States for Fiscal Year 2002, at 17 tbl. 1 (2003).
+20
+Under the STA Act, a state cannot accept federal highway funds without entering into an agreement with the Secretary of Transportation. 23 U.S.C. §§ 106, 110. Included in such an agreement is the promise to comply with the terms and conditions set forth in Title 23. 23 C.F.R. § 630.112(a). Title 23, in turn, sets forth a priority system for vending machines. Historically, under the STA Act, states accepting federal aid for construction projects on the interstate system had to agree not to construct "commercial establishments for serving motor vehicle users" along the rights-of-way of the interstate system. 23 U.S.C. § 111(a). In 1983, Congress amended the Act to add 23 U.S.C. § 111(b), which creates an exception to this general prohibition and sets forth a priority system for vending machines:
+21
+[A]ny State may permit the placement of vending machines in rest and recreation areas, and in safety rest areas, constructed or located on rights-of-way of the Interstate System in such State. Such vending machines may only dispense such food, drink, and other articles as the State transportation department determines are appropriate and desirable. Such vending machines may only be operated by the State. In permitting the placement of vending machines, the State shall give priority to vending machines which are operated through the State licensing agency designated pursuant to section 2(a)(5) of the Act of June 20, 1936, commonly known as the `Randolph-Sheppard Act' (20 U.S.C. 107a(a)(5)). The costs of installation, operation, and maintenance of vending machines shall not be eligible for Federal assistance under this title.
+22
+§ 111(b); Pub.L. No. 97-424, 96 Stat.2097, 2106 (1983).
+23
+The STA Act, however, does not expressly state how disputes concerning the "priority" created in § 111(b) should be resolved. In general, authority to enforce the STA Act has been delegated to the United States Department of Transportation (DOT),
+see
+23 U.S.C. § 315, whose regulations state:
+24
+If the [Federal Highway] Administrator determines that a State has violated or failed to comply with the Federal laws or the regulations in this part with respect to a project, he may withhold payment to the State of Federal funds on account of such project, withhold approval of further projects in the State, and take such other action that he deems appropriate under the circumstances, until compliance or remedial action has been accomplished by the State to the satisfaction of the Administrator.
+25
+23 C.F.R. § 1.36. Some provisions of the STA Act contain more specific enforcement procedures,
+see, e.g.,
+23 U.S.C. §§ 116(c), 131(b), 133(e), but § 111 does not. The STA Act does not contain a general suit mechanism or a provision requiring states to waive sovereign immunity.
+26
+In 1985, two years after the STA Act was amended to add § 111(b), New Hampshire passed legislation to place vending machines in rest areas along state turnpikes and the interstate highway system. N.H.Rev.Stat. Ann. §§ 230:30-a, 229:3. The New Hampshire Department of Administrative Services (NHDAS) was put in charge of administering the vending contracts. NHDAS selected vendors through a competitive bidding process open to all.
+See
+N.H.Rev.Stat. Ann. § 21-I:11; N.H.Code Admin. R. Adm. 603.06. Its policy was generally to award the contract to the bidder "offering the highest rate of return to the State of New Hampshire," as long as that bidder satisfied basic requirements like the ability to meet the contract specifications and to post a performance bond. If two or more of the high bids were identical, the contract would generally be awarded by "drawn lot." The exception to this general rule was that if one of the high bidders was the Bureau of Blind Services (the New Hampshire SLA), the contract would be awarded to the Bureau (the Tie Rule).
+27
+Since the passage of N.H.Rev.Stat. Ann. § 230:30-a, NHDAS has invited bids for vending machine contracts on five occasions for rest areas along rights-of-way of the
+interstate
+highway system: (1) in 1988 for rest areas in Hooksett on I-93; (2) in 1991 for rest areas in Seabrook on I-95, Salem on I-93, and Springfield on I-89; (3) in 1997 for rest areas in Lebanon on I-89, Canterbury on I-93, Sanbornton on I-93, and Sutton on I-89; (4) in 1999 for those same rest areas when the 1997 contract had expired; and (5) in 2001 for the same Hooksett rest areas. All of the rest areas in question are owned by the state of New Hampshire. The Hooksett rest areas are on toll roads and have been constructed and maintained without federal aid. The Seabrook rest areas were constructed with federal aid, but are on the state turnpike system and are maintained through state funds. In the first four bid opportunities, NHDAS followed its standard procedure as described above. The SLA did not bid on the 1988 and 1991 contracts, apparently because both contracts contained specifications requiring the construction of shelters to house the vending machines and the SLA is precluded from making capital expenditures under state law. The Bureau did bid on the 1997 and 1999 contracts but lost to higher bidders in both instances. In 2001, after this litigation had begun, NHDAS departed from its standard policy. Instead of asking the SLA to submit a bid as the other contractors did, NHDAS had the other contractors bid first and then offered the Bureau the contract on the same terms as the high bid (the Match Rule). After consulting with the New Hampshire Committee of Blind Vendors, the SLA turned down the offer, stating that it preferred to await clarification of its priority right in this action.
+II.
+A. First Federal Court Action
+28
+On January 6, 1998, the Blind Vendors
+4
+brought suit under 28 U.S.C. § 1331, alleging that the state had violated the STA Act, 23 U.S.C. § 111(b), by awarding vending contracts without giving priority to machines operated through the SLA. The named defendant was the state of New Hampshire, through its Department of Administrative Services. The complaint sought an injunction voiding all existing vending machine contracts and requiring the state to grant the right to operate those vending machines to licensed blind vendors, along with "such other relief as is equitable and just." The complaint did not seek damages for the alleged prior violations.
+29
+The state defendant moved to dismiss on the ground that the court lacked subject matter jurisdiction because the Blind Vendors had "failed to exhaust" their administrative remedies before filing their judicial action, as required by 20 U.S.C. § 107d-1 of the R-S Act. The motion also stated that "[i]f the court does not dismiss this action, this court should abstain from accepting jurisdiction over this action," citing
+Colorado River Water Conservation Dist. v. United States,
+424 U.S. 800, 96 S.Ct. 1236, 47 L.Ed.2d 483 (1976). The state said that the Blind Vendors had simultaneously filed an action in the New Hampshire state courts and that the federal court should defer to the state court. As best we can tell, the state court action also invoked the STA Act and sought damages.
+30
+The state's motion in federal court did not seek to dismiss the action based on Eleventh Amendment immunity. Nor did it seek dismissal on the ground that the state was not a proper party or that no cause of action was stated.
+31
+In the supporting memorandum, the state also did not argue that the case was barred by the Eleventh Amendment. The state did argue that the Blind Vendors' claim arose under the R-S Act because § 111(b) of the STA Act incorporated the R-S Act by referring to a priority for vending machines operated through "the State licensing agency designated pursuant to" the R-S Act. The state contended that R-S grievance procedures were available and had to be exhausted. Inherent in its argument was the assertion that a claim under the STA Act could not be brought before the exhaustion of grievance procedures under the R-S Act. The state qualified this argument in a footnote, stating that
+32
+Defendant does not agree that the Randolph-Sheppard Act in general applies to the facts of this case nor that, to the extent that it does apply, that it gives Petitioner the rights claimed. However, for purposes of this Motion to Dismiss only, it is assumed that Petitioner's allegation that the Randolph-Sheppard Act applies will be accepted as true.
+33
+In support of the abstention request, should the court not dismiss the action, the state argued that the entire dispute (both damages and injunctive relief) would be more readily resolved in the pending state court action, noting:
+34
+Plaintiff's state and federal suits were filed essentially at the same time and both are at very early stages. Thus, the forums' order of jurisdiction is not a factor. Finally, the parallel state-court proceeding would be the better vehicle for the complete and prompt resolution of the issues between the parties.
+See Elmendorf
+[
+Grafica, Inc. v. D.S. America (East), Inc.
+], 48 F.2d [F.3d 46] at 50 [(1st Cir.1995)].
+Part of the relief which the Plaintiff seeks is termination of contractual rights between the State and third parties.
+The State has not and does not waive its immunity to suit in federal court under the Eleventh Amendment of the United States Constitution
+in regards to suits involving contractual rights.
+Therefore, only in the state court action can all of the issues raised by this pleading be addressed.
+35
+(emphasis added). Thus, the state conceded that even if the claim could not go forward in federal court, the state court proceeding could go forward.
+36
+The Blind Vendors opposed the motion to dismiss, arguing, inter alia, that their claims arose under the STA Act rather than the R-S Act, that R-S grievance procedures therefore did not apply, and that the STA Act itself had no grievance procedures to be exhausted. The Blind Vendors also argued that abstention was improper, as they sought only prospective injunctive relief, while the state court action did not seek any equitable relief.
+5
+The state did not file a reply.
+37
+The federal court issued an order and judgment on March 17, 1998, dismissing the complaint without prejudice, finding that the Blind Vendors had failed to exhaust administrative remedies. The court accepted the state's argument that the STA Act incorporated the R-S Act's administrative procedures, and relied principally on the statutory text of the R-S Act, which states that R-S grievance procedures apply to "[a]ny blind licensee who is dissatisfied
+with any action
+arising from the operation or administration of the vending facility program." 20 U.S.C. § 107d-1(a) (emphasis added). The court found that the term "vending facility program" included the program under § 111(b) of the STA Act. The court also addressed in a footnote what it understood to be the state's reference to the Eleventh Amendment:
+38
+Parenthetically, the court notes that the State also claims that the Eleventh Amendment precludes any award of monetary damages. At a minimum, that issue is open to debate.
+B. State Administrative Hearing
+39
+By letter dated March 30, 1998, the Blind Vendors
+6
+requested a state administrative hearing before the SLA under the first stage of R-S grievance procedures. The Blind Vendors sought injunctive relief, "challeng[ing] the right of the State to grant any vending contracts on Interstate Highways to anyone but licensed blind vendors, unless blind vendors consent to another arrangement." Significantly, the Blind Vendors also, for the first time pertinent to the case before us, sought money damages in the form of commissions paid to the state since the inception of the STA Act as well as for lost profits. New Hampshire does not claim that it asserted Eleventh Amendment immunity before the state Hearing Officer, and our review of the record reveals no such claim of immunity. (Of course, this was a state administrative proceeding, albeit one required under a federal statute in an agreement with the state.) Instead, the state moved to dismiss the proceedings before the SLA on the basis that:
+40
+(1) the rest areas at issue are on state, not federal, property and so are not subject to the R-S Act;
+41
+(2) the plaintiffs' claims arise under provisions of the R-S Act that are not incorporated into the STA Act;
+42
+(3) any priority required by 20 U.S.C. § 111 has in fact been provided;
+43
+(4) even assuming the plaintiffs had any rights under the R-S Act, the statute does not authorize the state Hearing Officer to terminate an existing concession agreement or to award relief.
+44
+The state Hearing Officer granted the state's motion to dismiss on July 3, 1998, saying:
+45
+Because the State has presented credible and unrebutted evidence that the `rest areas' in issue are located on State land, and because the Federal statutes [i.e., the R-S Act and STA Act] can reasonably be read [to] require the requested State agency `priority' apply only to accommodate such an application to a vending machine rest area on `Federal' land, there is no factual issue that will reasonably permit the Committee of Blind Vendors to prevail on these facts. Therefore, the matter is dismissed.
+7
+46
+The Blind Vendors moved for reconsideration. They did not dispute that the R-S Act applies only to federal land, but argued that § 111(b), unlike the R-S Act, clearly applies to rest areas on both state and federal land. The state responded by arguing that if the R-S Act does not apply to these rest areas, the Hearing Officer had no jurisdiction to issue relief. The Hearing Officer denied the motion on July 23, 1998, reiterating its position that neither § 111(b) nor the R-S Act applies to state-owned land.
+47
+C. Proceedings Before Federal Arbitration Panel
+48
+In October 1998, the Blind Vendors appealed the state Hearing Officer's decision, as authorized under 20 U.S.C. § 107d-1(a), by filing a letter of complaint with the federal Secretary of Education against the SLA. In the letter, the Blind Vendors sought (1) recognition that the priority provisions of § 111(b) apply to state-owned rest areas off of the interstate highway system, (2) recognition that New Hampshire's competitive bidding process under N.H.Rev.Stat. Ann. § 230:30-a violates § 111(b) by failing to provide priority, (3) permission to interfere with existing contracts to provide blind vendors a priority to operate vending machines at New Hampshire rest areas, and (4) money damages in the form of all commissions paid to the state since the inception of the STA Act, as well as lost profits. The Secretary, as required by 20 U.S.C. § 107d-2(a), convened an arbitration panel to hear the case.
+49
+By letter dated October 28, 1998, the state
+8
+moved to dismiss for lack of jurisdiction, but not on Eleventh Amendment grounds. The state argued principally that R-S grievance procedures did not apply to the Blind Vendors' complaint because the claims arose under the STA Act, not the R-S Act.
+50
+Later, sometime between January and March of 2000, the state filed an undated memorandum that included a challenge to the panel's jurisdiction on the ground that "[a]bsent a clear intent of the Congress to waive a State's sovereign immunity under the Eleventh Amendment, the Constitution does not provide for federal jurisdiction over disputes against states by federal court or by extension a federally appointed arbitration panel." Because the STA Act expressed no such intent, the state argued, there was no jurisdiction.
+51
+This argument that no relief was available in a federal forum was raised more than two years into the controversy. This marks the first occasion that we have found in which the state argued that the Eleventh Amendment precluded application of the STA Act or the R-S Act to grant any form of relief. The state's memorandum cited
+Kimel v. Fla. Bd. of Regents,
+528 U.S. 62, 120 S.Ct. 631, 145 L.Ed.2d 522 (2000), which was decided on January 11, 2000. Perhaps reading
+Kimel
+is what prompted the state to assert Eleventh Amendment immunity for the first time. We note, though, that as far back as 1973, the state of New Hampshire has raised the issue of Eleventh Amendment immunity from suit under federal statutes.
+See Carver v. Hooker,
+369 F.Supp. 204, 216 (D.N.H.1973) (discussing Eleventh Amendment immunity of state official from suit under 42 U.S.C. § 1983 and other federal statutes).
+52
+The Blind Vendors also filed a memorandum on jurisdiction on March 3, 2000. It is unclear whether this memorandum was filed in reply to or simultaneously with the state's memorandum. In any event, the Blind Vendors' memorandum did not respond to the new Eleventh Amendment argument.
+53
+At a hearing before the arbitration panel on March 10, during which the parties engaged in extensive oral argument, the state made no mention of Eleventh Amendment immunity. Nor did the state mention Eleventh Amendment immunity in the requested rulings of law that it submitted to the arbitration panel.
+54
+On June 12, 2000, the arbitration panel rejected the state's jurisdictional challenge, finding that Congress intended R-S grievance procedures to apply to disputes over priority under § 111(b). The panel made no mention of the state's Eleventh Amendment argument. There was a dissenting opinion, which argued that the complaint should be dismissed because the STA Act does not employ R-S grievance procedures; that opinion did not address the Eleventh Amendment issue either. The state did not press its Eleventh Amendment argument, nor did it go to federal court to enjoin the R-S grievance procedures on Eleventh Amendment grounds.
+55
+In a separate order issued on July 11, 2001, the panel ruled against the state on the merits. The most pertinent of the panel's rulings of law and findings of fact can be found in the appendix to this opinion. Principally, the panel held that the priority provisions of § 111(b) required that SLAs be given a "right of first refusal." The panel found that this meant that the SLA had to "receive an opportunity to operate vending machines
+before
+any private vendor is even
+pursued
+" (emphasis original), and that the SLA "must waive its right to a priority in writing before [the state] approaches any other entity." It held that N.H.Rev.Stat. Ann. § 230:30-a, which it found to adopt a conflicting priority policy, was preempted.
+56
+The panel also awarded what it termed "prospective[]" damages in the amount of all commissions received from the disputed rest areas after October 28, 1998 (when the panel determined that the Blind Vendors had filed their complaint with the USDOE) and ordered that these amounts be paid to the SLA for appropriate uses to benefit blind vendors. The panel denied the Blind Vendors' claim for attorneys' fees.
+III.
+57
+On September 13, 2001, the New Hampshire Department of Education, NHDAS, the New Hampshire Department of Transportation, and the State Treasurer filed two suits in federal district court against the USDOE and the Blind Vendors, seeking review of the panel decision under 20 U.S.C. § 107d-2(a).
+9
+The Blind Vendors filed counterclaims in both suits, seeking confirmation and enforcement of the panel's decision, an award of attorneys' fees, and a modification to the panel's damages award to calculate damages from 1985, when N.H.Rev.Stat. Ann. § 230:30-a was enacted, or in the alternative, from January 6, 1998, when the Blind Vendors had first brought suit. The two suits were consolidated with the assent of the state agencies. On motion of the Blind Vendors, and over the objection of the state agencies, the district court then dismissed all of the state agencies except for the state Department of Education, on the ground that the agencies, as members of the executive branch, were barred from taking positions independent or contrary to one another.
+58
+In response, the state Department of Education, now the only remaining state agency in the case, moved to substitute the state of New Hampshire as the real party in interest. New Hampshire supported the motion, asserting that it was the "proper real party in interest." The state does not now and has never argued that it is not a properly named party. Nor has it ever argued that state officers, not state agencies, were the only proper parties before the court or that prospective equitable relief could be awarded only against state officers.
+59
+Both sides filed cross-motions for summary judgment. The state asserted Eleventh Amendment immunity against both the arbitration panel proceeding and any suit in federal court or elsewhere based on 23 U.S.C. § 111(b). On the merits, the state further argued that N.H.Rev.Stat. Ann. § 230:30-a is not preempted because the NHDAS policy is consistent with the "priority" required by § 111(b). Finally, the state argued that the damages calculation should have excluded commissions from rest areas where the SLA could not meet the necessary contract specifications and should be further reduced to account for the capital and maintenance costs incurred by the state to build vending machine shelters.
+10
+The state abandoned a number of arguments it had made earlier.
+60
+The Blind Vendors contended that the state waived its Eleventh Amendment immunity by participating in the program established by the R-S Act and by appealing the arbitration panel's decision to federal court. They further argued that the panel's interpretation of "priority" under § 111(b) was proper, based on similar use of the term "priority" in the R-S Act. Finally, they argued that the arbitration panel did not award them sufficient damages: the amount of damages should have been calculated from January 6, 1998 rather than October 28, 1998.
+61
+The district court granted in part and denied in part both motions for summary judgment. The court largely affirmed the arbitration panel's order, modifying only the amount of the damages awarded. The court held that the state had waived its Eleventh Amendment immunity by its litigation conduct, due to (a) the state's failure to raise its Eleventh Amendment immunity in the 1998 federal court litigation and in the initial stages of the administrative process, (b) the state's argument in its 1998 motion to dismiss that R-S grievance procedures should apply, and (c) the state's invocation of federal jurisdiction to review the arbitration panel's order. Proceeding to the merits, the court concluded that the arbitration panel's construction of "priority" in § 111(b) was entitled to deference,
+see Chevron, U.S.A., Inc. v. Natural Res. Def. Council,
+467 U.S. 837, 842-43, 104 S.Ct. 2778, 81 L.Ed.2d 694 (1984), and that the panel's construction was a reasonable one within the scope of its discretion. Finally, the court modified the damages award, reducing it to compensate the state for the capital and maintenance costs of building vending machine shelters at several rest areas and moving the start date for damages from October 28, 1998 to March 30, 1998, the date on which the Blind Vendors first requested a state administrative hearing. The state timely appealed.
+IV.
+62
+The state argues that the Eleventh Amendment bars "the USDOE Arbitration Panel proceeding, any suit for damages in federal court and any suit in state court based on the STA [Act]."
+63
+A state's immunity under the Eleventh Amendment applies whether a private plaintiff's suit is for monetary damages or some other type of relief.
+Seminole Tribe v. Fla.,
+517 U.S. 44, 58, 116 S.Ct. 1114, 134 L.Ed.2d 252 (1996). "Sovereign immunity does not merely constitute a defense to monetary liability or even to all types of liability. Rather it provides an immunity from suit."
+Fed. Mar. Comm'n v. S.C. State Ports Auth.,
+535 U.S. 743, 766, 122 S.Ct. 1864, 152 L.Ed.2d 962 (2002).
+64
+The state asserts Eleventh Amendment immunity from both the arbitration panel proceedings and the federal court action.
+See generally id.; R.I. Dep't of Envtl. Mgmt. v. United States,
+304 F.3d 31 (1st Cir.2002). It also asserts that it is beyond Congress's power to subject it to suit in any forum.
+See generally Kimel,
+528 U.S. at 74-91, 120 S.Ct. 631;
+Alden v. Maine,
+527 U.S. 706, 119 S.Ct. 2240, 144 L.Ed.2d 636 (1999). The issue is whether the state has waived any immunity that it may have. Our review as to this issue is de novo.
+Arecibo Cmty. Health Care, Inc. v. Puerto Rico,
+270 F.3d 17, 22 (1st Cir.2001).
+65
+A state can waive its Eleventh Amendment immunity to suit in three ways: (1) by a clear declaration that it intends to submit itself to the jurisdiction of a federal court or administrative proceeding,
+Coll. Sav. Bank v. Fla. Prepaid Postsecondary Educ. Expense Bd.,
+527 U.S. 666, 676, 119 S.Ct. 2219, 144 L.Ed.2d 605 (1999);
+Great N. Life Ins. Co. v. Read,
+322 U.S. 47, 54, 64 S.Ct. 873, 88 L.Ed. 1121 (1944); (2) by consent to or participation in a federal program for which waiver of immunity is an express condition,
+Atascadero State Hosp. v. Scanlon,
+473 U.S. 234, 246-47, 105 S.Ct. 3142, 87 L.Ed.2d 171 (1985); or (3) by affirmative conduct in litigation,
+Lapides v. Bd. of Regents,
+535 U.S. 613, 620, 122 S.Ct. 1640, 152 L.Ed.2d 806 (2002);
+Gardner v. New Jersey,
+329 U.S. 565, 574, 67 S.Ct. 467, 91 L.Ed. 504 (1947).
+66
+The state here invokes two independent aspects of immunity from suit: immunity from suit in a federal forum (judicial or administrative) and substantive immunity from liability.
+See
+Jonathan R. Siegel,
+Waivers of State Sovereign Immunity and the Ideology of the Eleventh Amendment,
+52 Duke L.J. 1167, 1192-93 (2003); Carlos Manuel Vazquez,
+What Is Eleventh Amendment Immunity?,
+106 Yale L.J. 1683, 1697-98 (1997). In fact, this case involves two different aspects of a state's substantive liability immunity from suits by private persons: immunity from damages and immunity from prospective equitable relief. Certainly, a state may waive its immunity from substantive liability without waiving its immunity from suit in a federal forum.
+See Coll. Sav. Bank,
+527 U.S. at 676, 119 S.Ct. 2219;
+Atascadero,
+473 U.S. at 241, 105 S.Ct. 3142. The Supreme Court thus far has not addressed whether a state may waive federal forum immunity without waiving substantive liability immunity under the Eleventh Amendment. We assume arguendo that a state may do so.
+67
+A. Waiver of Eleventh Amendment Immunity Against Suit for Prospective Equitable Relief
+1.
+Waiver by Litigation Conduct
+68
+The state argues that no prospective equitable relief may be granted at all in either state or federal court against it for violations of the federal statutes at issue. The state certainly never argued to the district court in 1998 that such relief was not available or that the Eleventh Amendment barred suit or any relief against it.
+69
+We conclude that the state has waived by its litigation conduct any Eleventh Amendment immunity that it may have from federal proceedings (forum immunity) and from prospective equitable relief (substantive liability immunity).
+11
+When the state moved in 1998 to dismiss the federal court action, it did not assert that Congress lacked the power or intent to submit the state to federal jurisdiction under the STA Act or the R-S Act for prospective equitable relief. When the state mentioned the Eleventh Amendment, it was only to say that there would be no Eleventh Amendment issues as to claims in a state court proceeding in which damages were sought. The fact that the state focused only on Eleventh Amendment immunity to damages and simultaneously agreed to a federal administrative forum reinforces our view that the state by its conduct has waived its current objection to prospective equitable relief in a federal forum. This case goes well beyond a simple matter of failure to raise an immunity argument in earlier proceedings.
+70
+The concept of waiver by litigation conduct is related to the doctrine of judicial estoppel. Here, the state's failure to raise Eleventh Amendment immunity was accompanied by an affirmative assertion that the STA Act incorporates R-S grievance procedures (with its concomitant process of judicial review) and that those procedures must be exhausted before claims could be pursued under the STA Act.
+12
+The plaintiffs did not assert that the R-S Act applied; it was the state that made that argument, and the state is, as a result, judicially estopped.
+See Cadle Co. v. Schlictmann, Conway, Crowley & Hugo,
+338 F.3d 19, 22 (1st Cir.2003);
+Beddall v. State Street Bank and Trust Co.,
+137 F.3d 12, 23 (1st Cir.1998). The state then acted consistently with its assertion, participated in the grievance procedures, and in doing so advantaged itself to the detriment of the Blind Vendors. The district court relied on the position articulated by the state in dismissing the Blind Vendors' initial federal court action in March of 1998.
+71
+Attempting now to be excused, the state argues that in 1998 it never suggested to the federal court that the STA Act incorporated the R-S Act procedures and that the action must be dismissed for failure to exhaust. Based on a footnote in its memorandum to the district court in 1998, the state says that its argument was, at most, that
+if
+plaintiffs were basing their claim on rights under the R-S Act, then R-S grievance procedures applied. That argument mischaracterizes the content of its papers.
+72
+The state's argument is disingenuous: if the STA Act did not incorporate R-S grievance procedures and those procedures therefore did not apply to the case, then there was no basis for the state's motion to dismiss on exhaustion grounds. Moreover, in response to the state's 1998 motion to dismiss, the Blind Vendors had argued that their claim was not based on the R-S Act at all, but only on the STA Act, and no exhaustion was required. The state did not withdraw or alter its position, and the district court then dismissed the claims based on the state's position.
+73
+Having gained an advantage by obtaining the dismissal, the state did not seek to clarify its position with the district court, but rather took advantage of the dismissal. By invoking R-S grievance procedures (knowing that those procedures ultimately provided for federal judicial review) to obtain dismissal of a claim for injunctive relief, and then participating in the administrative process, the state has waived any immunity it may have to a federal forum and prospective equitable relief.
+74
+In essence, the state voluntarily invoked the jurisdiction of a federal agency, the USDOE, and the federal courts in review of the agency determination, including their power to grant prospective equitable relief, even though it was not formally the plaintiff in the administrative proceeding. The state voluntarily put itself in the position of being a party in a federal administrative forum whose actions would be reviewed in federal court. The state's actions expressed a clear choice to submit its rights for adjudication in the federal courts.
+13
+To permit the state to reverse course would contravene the reasons for the doctrine of waiver by litigation conduct recognized by
+Lapides
+and
+Lapides's
+core concern that a state cannot selectively invoke its Eleventh Amendment immunity to gain litigation advantage.
+See Lapides,
+535 U.S. at 622-23, 122 S.Ct. 1640;
+see also Gardner,
+329 U.S. at 573-74, 67 S.Ct. 467;
+Wis. Dep't of Corr. v. Schacht,
+524 U.S. 381, 393, 118 S.Ct. 2047, 141 L.Ed.2d 364 (1998) (Kennedy, J., concurring). The same concerns about unfair litigation advantage underlie the judicial estoppel doctrine.
+75
+When the federal court dismissed the action on exhaustion grounds, the Blind Vendors immediately instituted the first step of R-S Act grievance procedures by requesting a hearing before the SLA. The state even then did not "clarify" its argument; rather, it defended on the merits, and never mentioned the Eleventh Amendment. It is true that the state finally, more than two years into this matter in early 2000, did raise Eleventh Amendment immunity before the USDOE panel, citing
+Kimel.
+But even then, the issue was raised almost in passing — in one paragraph at the end of a memorandum concerned mostly with other issues — and was not mentioned in oral argument or in the state's requested conclusions of law.
+14
+76
+The state relies on the doctrine that an "Eleventh Amendment defense sufficiently partakes of the nature of a jurisdictional bar" that it may be raised on appeal even if not raised in the trial court.
+Edelman v. Jordan,
+415 U.S. 651, 678, 94 S.Ct. 1347, 39 L.Ed.2d 662 (1974). The scope of that "belated-raising" doctrine after
+Lapides
+is unclear.
+15
+Regardless, the state is wrong in arguing that the "belated-raising" doctrine undercuts the waiver doctrine. The doctrine that a state may waive its immunity by its litigation conduct has been alive and well both before and after
+Edelman. See Lapides,
+535 U.S. at 618-24, 122 S.Ct. 1640;
+Gunter v. Atl. Coast Line R.R. Co.,
+200 U.S. 273, 284, 26 S.Ct. 252, 50 L.Ed. 477 (1906). To be clear, this case involves more than a simple failure by the state to raise Eleventh Amendment immunity in earlier proceedings; it involves a voluntary and calculated choice by the state to gain the advantage of dismissal of the 1998 federal action for injunctive relief by arguing that the remedies and grievance procedures of the R-S Act applied to claims under the STA Act and that those procedures had to be exhausted.
+16
+The state then entered those R-S Act procedures without a whimper of protest. As to the Blind Vendors' claims for prospective equitable relief in a federal forum, the state, having gained the advantage that it sought, is bound by the choice that it made.
+77
+2.
+Waiver of Prospective Equitable Relief in a Federal Forum by Operation of the R-S Act
+78
+We also conclude that because the state is judicially estopped from denying that R-S grievance procedures apply to claims under § 111(b) of the STA Act and the state has voluntarily participated in the R-S Act program, the state has waived any Eleventh Amendment immunity it may have to awards of prospective equitable relief in a federal forum resulting from R-S grievance procedures. We do not decide the independent question whether the state, solely by entering into agreements under the STA Act, has waived any Eleventh Amendment immunity that it has to the requirements of the STA Act.
+79
+This case does not involve a situation in which the state may have been coerced into waiving its immunity by federal requirements forcing it to choose between waiver and "exclusion... from an otherwise permissible activity."
+See Coll. Sav. Bank,
+527 U.S. at 687, 119 S.Ct. 2219. By its voluntary agreement and participation in the federal program created by the R-S Act, the state has been given a right it would not otherwise have: access to federal property. No argument is presented that, absent any agreement otherwise, Congress could not constitutionally withhold that right from states.
+80
+Congress was quite clear in 20 U.S.C. § 107b that states participating in the R-S Act program "shall ... agree" to submit any disputes that blind vendors may have regarding the vending program to the hearing and arbitration procedures set forth in 20 U.S.C. § 107d-1. The thrust of the state's argument is that even if it agreed to R-S grievance procedures, no relief of any sort can be awarded against it as a result of those procedures. The effect of this argument would be to render those procedures meaningless. No court has ever agreed with the state's position that no relief may be granted under R-S grievance procedures.
+81
+States whose SLAs apply to participate in the R-S Act must have anticipated that by agreeing to the procedures, they agreed to some form of relief, at least prospective equitable relief, against them even if they are named directly as parties. After all, "[t]he only parties with whom blind vendors can have disputes to submit to arbitration are states."
+McNabb v. United States Dep't of Educ.,
+862 F.2d 681, 685 (8th Cir.1988) (Lay, C.J., concurring in part and dissenting in part). The statute also requires states to agree that the arbitration under the R-S Act shall be final and binding on the parties, subject to APA review. 20 U.S.C. §§ 107b, 107d-1(a). That agreement supports waiver of objections to a federal forum and, at least, to prospective equitable relief.
+See Port Auth. Trans-Hudson Corp. v. Feeney,
+495 U.S. 299, 307-08, 110 S.Ct. 1868, 109 L.Ed.2d 264 (1990).
+82
+B. Waiver of Eleventh Amendment Immunity From Damages
+83
+1.
+Waiver of Immunity From Damages by Litigation Conduct
+84
+The question whether the state has waived Eleventh Amendment immunity from substantive liability for damages resolves differently on this record, largely because the Blind Vendors' 1998 complaint in federal court contained no demand for damages.
+85
+No waiver occurred in the 1998 federal action. The complaint in that action sought only injunctive relief and "such other relief as is equitable and just." The state was not put on notice by the 1998 federal court complaint that damages were at issue in that federal court proceeding, and so had no reason to assert Eleventh Amendment immunity from damages. Indeed, the Blind Vendors expressly stated that their claim in the federal court action encompassed only prospective injunctive relief. The state cannot be said to have voluntarily waived immunity from damages when it faced no claim for damages at that time.
+86
+The argument that the state waived any immunity from damages in the 1998 litigation is based on a perceived unfairness, well-articulated by the USDOE as follows:
+87
+The State's decision to forego raising an immunity argument allowed it to continue an illegal practice for five years at the [Blind Vendors'] expense while precluding any recovery for the blind vendors' losses. If the State had raised and prevailed on a claim of immunity in 1998, the [Blind Vendors] would, nevertheless, have been able to obtain prospective relief under
+Ex parte Young.
+By requiring that the [Blind Vendors] pursue administrative remedies, the State successfully postponed by years judicial resolution of the controversy. If the State is permitted to assert immunity from the procedures it persuaded the district court to require, it will have successfully deprived the [Blind Vendors] of a judicial remedy to which it would otherwise have been entitled. The Supreme Court established in
+Lapides
+that in situations of this kind, the claim of Eleventh Amendment immunity has been waived.
+88
+This was clearly how the district court viewed the matter.
+89
+We agree that, for reasons explained above, unfairness would occur if the state were permitted now to assert immunity to bar prospective equitable relief, but we think a closer analysis is required to determine if the same logic applies in the context of immunity from damages. The operating assumption behind the USDOE's argument is that if the state had directly raised its Eleventh Amendment immunity to damages in 1998, the Blind Vendors would instead have sought only injunctive relief against state officers under
+Ex parte Young
+and thus would not have had to go through the lengthy R-S grievance procedures. But this assumption is wrong. Exhaustion of R-S grievance procedures is required even when only injunctive relief is sought.
+17
+See Randolph-Sheppard Vendors of America v. Weinberger,
+795 F.2d 90, 93, 96 (D.C.Cir.1986) (requiring exhaustion of R-S grievance procedures when plaintiffs sought only injunctive relief);
+see also
+20 U.S.C. § 107d-1(a) (R-S grievance procedures apply to "
+[a]ny
+blind licensee who is dissatisfied with
+any
+action arising from the operation or administration of the vending facility program" (emphasis added)). The state's failure to assert immunity has made the Blind Vendors no worse off; it is the need for exhaustion, and not the failure to assert Eleventh Amendment immunity, that caused the delay.
+90
+Moreover, a finding of waiver in this situation would work its own type of unfairness. The Blind Vendors presumably did not sue for damages in federal court because they were aware of potential Eleventh Amendment problems; instead, the Blind Vendors brought a state court action seeking damages. And the state did, in 1998, allude to an Eleventh Amendment problem with a damages action in federal court. In these circumstances, a finding of waiver by litigation conduct would be unfair.
+91
+It is true that the state did not raise Eleventh Amendment immunity when damages were claimed before the state Hearing Officer in the R-S grievance procedures. But at that point, the state had already taken the position in federal court that an award of damages in a federal proceeding would pose an Eleventh Amendment problem but that there would be no such problem in a state proceeding.
+92
+It is also true that the state did not immediately move before the USDOE arbitration panel to dismiss the Blind Vendors' damages claims on Eleventh Amendment grounds. But it did do so eventually, and in light of its earlier posture in the controversy, we cannot say the belated raising constitutes voluntary waiver by litigation conduct.
+93
+Finally, the Blind Vendors, but not the USDOE, argue that the state waived immunity simply by voluntarily seeking review of the adverse administrative decision in this action in federal court. They argue that if the state wanted to preserve its immunity from damages, it should have simply waited for the Blind Vendors to file an action in district court to enforce the award and then defended by asserting Eleventh Amendment immunity at that point.
+94
+This argument — that the seeking of judicial review of an agency decision under the APA by a state that was a defendant before the agency is sufficient alone to infer a waiver of immunity from damages — fails, given the facts of this case. This court held in
+R.I. Dep't of Envtl. Mgmt. v. United States,
+304 F.3d 31 (1st Cir.2002), that a state did not waive Eleventh Amendment immunity solely by seeking judicial review of an agency's adverse determination.
+Id.
+at 50.
+18
+The court noted that the state in
+Lapides
+had waived immunity in state court and was "attempt[ing] to regain, by a change in forum, litigation advantage that the state has already renounced by a general statute."
+Id.
+at 49;
+see Lapides,
+535 U.S. at 617-18, 122 S.Ct. 1640 (expressly limiting its holding to cases where the state's immunity in state court has been waived or abrogated). The court noted that Rhode Island, by contrast, had "consistently asserted its sovereign immunity, both [in federal court] and in the administrative proceeding," and hence gained no unfair advantage by seeking a change in forum.
+R.I. Dep't,
+304 F.3d at 49. The same logic applies here as to damages. New Hampshire gained no unfair advantage as to damages by seeking judicial review of the administrative decision, given that it has consistently asserted its immunity from damages when at issue.
+95
+2.
+Interpretation of the STA Act As to Authority To Award Damages
+96
+Having determined that the state has not by its litigation conduct waived its ability to assert an Eleventh Amendment defense to damages, we turn to the question whether Congress intended to award damages in this situation. The Blind Vendors argue that the state has waived immunity as to damages as part of its agreement to participate in the R-S Act. Two circuit courts have agreed with this theory.
+See Del. Dep't of Health & Soc. Servs. Div. for Visually Impaired v. United States Dep't of Educ.,
+772 F.2d 1123, 1137-38 (3d Cir.1985);
+Premo v. Martin,
+119 F.3d 764, 769-71 (9th Cir.1997). One, the Sixth Circuit, has disagreed,
+see Tenn. Dep't of Human Servs.,
+979 F.2d at 1167-68,
+19
+as has at least one member of an Eighth Circuit panel.
+See McNabb,
+862 F.2d at 687-88 (Doty, J., concurring in part and dissenting in part).
+97
+Those courts finding that damages could be awarded in R-S grievance procedures and were not precluded by the Eleventh Amendment note that arbitrators were generally authorized to award damages at the time § 107b(6) was passed.
+See Premo,
+119 F.3d at 770. The argument is that an agreement to arbitration under the R-S Act was inherently an agreement to waive immunity from damages. An argument could also be made that the state and federal government have a contractual relationship intended to benefit blind vendors, and damages are a common remedy in such relationships.
+See Delaware Dep't,
+772 F.2d at 1136-37.
+20
+98
+The R-S Act statutory text is silent as to what remedies may be awarded against states in grievances brought by blind vendors. The regulations promulgated by the Secretary of Education do not define what remedies the arbitration panel may award. The only discussion of remedies in the R-S Act is 20 U.S.C. § 107d-2(b)(2), which indicates that where a federal agency is the defendant, it is the role of the federal agency head to remedy any violation of the Act.
+See Ga. Dep't of Human Res. v. Nash,
+915 F.2d 1482, 1492 (11th Cir.1990). Section 107d-2(b)(2) does not expressly authorize an award of damages, nor does it expressly waive the federal government's immunity from damages. Differing conclusions can be drawn about the state's immunity in this statutory scheme.
+99
+At best, there is disagreement as to whether the R-S Act arbitration panels can award damages, with reasoned arguments made on both sides. Here, there is an additional layer of uncertainty. Even assuming that the
+R-S Act
+allows damages to be awarded against states based on complaints by blind vendors, it is not clear whether Congress intended in
+§ 111(b) of the STA Act
+to subject states to damages awards for violations found in R-S grievance procedures. Given Congress's silence in the STA Act itself and the disagreement about damages under the R-S grievance procedures, we cannot, as a matter of statutory construction of the STA Act, find an intent to subject states to damages awards under the STA Act.
+See Vermont Agency of Nat. Res. v. United States ex rel. Stevens,
+529 U.S. 765, 787, 120 S.Ct. 1858, 146 L.Ed.2d 836 (2000) ("[I]f Congress intends to alter the usual constitutional balance between States and the Federal Government, it must make its intention to do so unmistakably clear in the language of the statute." (citing
+Will v. Mich. Dep't of State Police,
+491 U.S. 58, 65, 109 S.Ct. 2304, 105 L.Ed.2d 45 (1989))).
+100
+Accordingly, we vacate the damages award.
+V.
+101
+We turn to the question whether the district court erred in affirming, in large part, the federal arbitration panel's award of prospective equitable relief.
+21
+102
+A. Challenges to the Arbitration Panel's Statutory Authority to Issue Prospective Equitable Relief
+103
+In the administrative proceedings and before the district court, New Hampshire raised many arguments challenging the scope of the arbitration panel's statutory authority to issue prospective equitable relief, but it has abandoned most of those arguments in this appeal.
+22
+104
+The state does argue in this appeal, as part of its Eleventh Amendment analysis, that the arbitration panel lacked authority to issue any relief at all because, as a matter of statutory construction, R-S grievance procedures do not apply to § 111(b) claims. To the extent this argument is a free-standing challenge to the arbitration panel's statutory authority to award prospective relief in this case, we reject it. The state is estopped from making the argument, given its earlier position in 1998 that the Blind Vendors' § 111(b) claims had to go through R-S grievance procedures.
+105
+But even if the state were not estopped, its argument is wrong on the merits. The R-S Act states that "[a]ny blind licensee who is dissatisfied with any action arising from the operation or administration of
+the
+vending facility program
+" may avail himself or herself of R-S grievance procedures. 20 U.S.C. § 107d-1(a) (emphasis added). The relevant language, again, of § 111(b) is:
+106
+In permitting the placement of vending machines, the State shall give priority to vending machines which are operated through the State licensing agency designated pursuant to section 2(a)(5) of the Act of June 20, 1936, commonly known as the `Randolph-Sheppard Act' (20 U.S.C. 107a(a)(5)).
+107
+The issue is whether the "vending machines" to which § 111(b) refers are within "the vending facility program" described in the R-S Act, 20 U.S.C. § 107d-1(a); if so, R-S grievance procedures apply to § 111(b) claims.
+108
+We answer in the affirmative, based on the plain language of the R-S Act and § 111(b). The R-S Act does not define "the vending facility program." Neither statute expressly states what the relationship is between the "vending machines" described in § 111(b) and "the vending facility program" created by the R-S Act. Nonetheless, the text of § 111(b) is clear that the vending machines to be given priority are those "which are operated through the State licensing agency designated pursuant to ... the `Randolph-Sheppard Act'...." Vending machines operated through SLAs are, by definition, part of the R-S vending program. They are operated by blind vendors licensed under the R-S Act,
+see
+20 U.S.C. § 107a(b) (licensees must be blind);
+id.
+§ 107a(a)(5) (licensing provisions apply to the operation of vending facilities on state as well as federal property), to whom the SLA is required under the R-S Act to provide vending facility equipment and initial stock,
+see id.
+§ 107b(2).
+23
+109
+Our plain-text reading makes sense from a functional perspective. It is not surprising, for reasons of efficiency and consistency, that Congress would intend R-S grievance procedures to apply when a blind vendor complains that the state failed to provide the SLA priority, whether the vending machine be along the interstate system or elsewhere. If enforcement were not consolidated under one system, inconsistencies and unfairness might arise from splitting grievance procedures between the USDOE and the Federal Highway Administration.
+110
+The state cites, in support of a different argument, a March 13, 1984 Department of Transportation memorandum providing guidance on implementing § 111(b) (the "1984 DOT Guidelines"). This memorandum states, "The only application the [R-S Act] has to Section 111 is to establish the licensing agency in each State that is to be given priority. With the exception of rest areas on Federal lands, none of the [R-S Act] requirements apply to vending machines in Interstate rest areas." We read this statement, which does not have the force of a regulation, as being concerned with the additional substantive guarantees of the R-S Act: for example, the provisions concerning vending income, which do not apply to vending machines operated under § 111(b).
+24
+The 1984 DOT Guidelines never mention the issue of R-S grievance procedures. And the DOT used identical language in a memorandum on October 5, 1992 that principally discusses the application of substantive requirements of the R-S Act to vending machines in rest areas along interstate highways. It is unlikely that the DOT intended to foreclose application of R-S grievance procedures despite the plain language of the R-S Act and § 111(b).
+111
+B. The Meaning of "Priority" in 23 U.S.C. § 111(b)
+112
+The arbitration panel held that "`priority' requires that [state licensing agencies] be approached and be given a right of first refusal before any other entity be approached to operate these sites." This interpretation of "priority" in § 111(b) involves two requirements: a timing requirement and a requirement that the right of priority be waived in writing. First, the panel held that priority requires that the SLA "receive an opportunity to operate vending machines
+before
+any private vendor is even
+pursued
+" (emphasis original). Second, it held that "before [the state] approaches any other entity to operate machines at rest areas on the Interstate Highway System," the SLA "must waive its right to a priority in writing."
+113
+The state argues that the district court erred in upholding the arbitration panel's interpretation of "priority." Although the state does not differentiate between the two components of priority outlined by the administrative panel, the state seems to be challenging both. It argues that priority under § 111(b) requires only that the state confer on the SLA "an advantage not granted to any other potential vendor," and that its policy of allowing vending machines at a rest area to be operated through the Bureau of Blind Services if and only if the Bureau matches the high bid meets that definition.
+114
+Our review of the legal meaning of priority in § 111(b) is de novo, subject to any applicable principles of deference.
+Griffiths v. INS,
+243 F.3d 45, 49 (1st Cir.2001).
+25
+Examining the two components of the arbitration panel's interpretation of priority in turn, we affirm the district court in upholding the panel's interpretation. Although we recognize that there are potentially a number of other issues that could arise about operation of the priority system, we confine ourselves to a review of the district court's holding, as those other issues are not before us. We begin by looking to the plain language of the statute.
+Greebel v. FTP Software, Inc.,
+194 F.3d 185, 192 (1st Cir.1999).
+1.
+The Timing Requirement
+115
+We turn first to the question whether "priority" under § 111(b) requires that the SLA be consulted before other vendors are considered.
+116
+The STA Act does not expressly define the term "priority," and the DOT, to which Congress has given rulemaking power to implement § 111(b),
+see
+23 U.S.C. § 315, has not issued regulations or interpretive rules defining the term. The state and Blind Vendors both cite the same dictionary definition of priority:
+117
+Precedence, going before. A legal preference or precedence.... When two persons have similar rights in respect of the same subject-matter, but one is entitled to exercise his right to the exclusion of the other, he is said to have priority.
+118
+Black's Law Dictionary
+(6th ed.1990).
+119
+The Blind Vendors argue that a priority involves "precedence" and thus requires that the Bureau of Blind Services be offered the contract before others. The state argues based on the same definition that a priority is simply a "preference" accorded to parties that otherwise have "similar rights" and thus requires only that the STA Act be given some unique advantage in the bidding process, such as the right to the contract if it matches the high bid. While the state's argument is plausible, we think that it is inconsistent with congressional intent.
+120
+Because the plain meaning is not entirely clear, we look to other sources.
+Greebel,
+194 F.3d at 192. One source is a memorandum of guidelines issued by the DOT on March 11, 1983, shortly after the passage of § 111(b) (the "1983 DOT Guidelines"), which states:
+121
+Documentation demonstrating a positive initiative to involve the designated Randolph-Sheppard Act State agency will be required before the State highway agency proposes alternative organizations or corporations to operate the vending machines. However, if the designated Randolph-Sheppard Act agency waives its rights in writing, the State highway agency is free to negotiate agreements ... with any organization or corporation.
+122
+Under the 1983 DOT Guidelines, the state must attempt to negotiate an agreement with the SLA
+before
+considering other vendors. Although the 1983 DOT Guidelines are not entitled to
+Chevron
+deference because they are not binding regulations, they have persuasive authority.
+See United States v. Mead Corp.,
+533 U.S. 218, 234-35, 121 S.Ct. 2164, 150 L.Ed.2d 292 (2001) (applying
+Skidmore
+deference to interpretive rules). If Congress had disagreed with the 1983 DOT Guidelines, it could easily have amended § 111(b) at some point in the last twenty years to clarify its intent.
+123
+The 1983 DOT Guidelines are consistent with how Congress has viewed "priority" under the R-S Act. We note at the outset that we look to the priority provision of the R-S Act because of its similarity in language and purpose to § 111(b),
+not
+because we think that it is somehow incorporated in § 111(b). Although § 111(b) incorporates R-S grievance procedures because, as we have explained, the § 111(b) program is part of the "vending facility program" under 20 U.S.C. § 107d-1(a) of the R-S Act, there is no language in the STA Act or the R-S Act indicating that § 111(b) necessarily incorporates the R-S Act's "priority" provision, 20 U.S.C. § 107(b). Section 111(b)'s only reference to the R-S Act is to 20 U.S.C. § 107a, which is an entirely different section from that containing the priority provision.
+124
+Instead, our reason for looking to the R-S Act is that Congress uses the term "priority" in the R-S Act in a manner almost identical to its use of the term in § 111(b).
+Compare
+23 U.S.C. § 111(b) ("In permitting the placement of vending machines, the state shall give priority to vending machines which are operated through the State licensing agency designated pursuant to ... the `Randolph-Sheppard Act' ...."),
+with
+20 U.S.C. § 107(b) ("In authorizing the operation of vending facilities on Federal property, priority shall be given to blind persons licensed by a State agency as provided in this chapter...."). This parallel language was not accidental. Congress was clearly aware of the R-S Act in drafting § 111(b), given that § 111(b) directly references the R-S Act. Where Congress uses the same term in the same way in two statutes with closely related goals, basic canons of statutory construction suggest a presumption that Congress intended the term to have the same meaning in both contexts.
+See Sullivan v. Stroop,
+496 U.S. 478, 484, 110 S.Ct. 2499, 110 L.Ed.2d 438 (1990) (applying the "normal rule of statutory construction that identical words used in different parts of the same act are intended to have the same meaning" to a single term used in two separate, but related, statutes (internal quotation marks omitted)).
+125
+This presumption can be rebutted when there is some indication that the term is intended to serve different purposes in each statute,
+see Gen. Dynamics Land Sys., Inc. v. Cline,
+540 U.S. 581, 124 S.Ct. 1236, 1245, 157 L.Ed.2d 1094 (2004), but we see no basis for that conclusion here. The state relies on the 1984 DOT Guidelines, which state that "[t]he only application the [R-S Act] has to Section 111 is to establish the licensing agency in each State that is to be given priority." This statement, however, indicates only that the DOT does not see § 111(b) as
+incorporating
+the substantive provisions of the R-S Act. As we have said, our reliance on the use of the term "priority" in the R-S Act is not based on a belief that § 111(b) necessarily incorporates the priority provisions of the R-S Act. The 1984 DOT Guidelines tell us nothing about the issue at hand: whether the priority provisions of the R-S Act and § 111(b) have different purposes.
+26
+126
+We turn to the use of "priority" in § 107(b) of the R-S Act. The R-S Act does not define "priority," and the Department of Education, which is authorized to promulgate regulations to implement the R-S Act,
+see
+20 U.S.C. § 107(b), has not defined the term in its regulations. But the legislative history of the R-S Act is clear that Congress intended "priority" to signify more than a mere preference. Before 1974, the R-S Act provided a "preference" rather than a "priority" to blind vendors: "In authorizing the operation of vending stands on Federal property, preference shall be given, so far as feasible, to blind persons licensed by a State agency as provided in this chapter...." 20 U.S.C. § 107 (1970) (repealed 1974). This changed in 1974, when Congress determined that "the program has not developed, and has not been sustained, in the manner and spirit in which the Congress intended." R-S Act Amendments of 1974, Pub.L. No. 93-516, § 201(1), 88 Stat. 1617, 1622 (1974). Congress found that "to [e]nsure the continued vitality and expansion of the Randolph-Sheppard program," it had to "establish a priority for vending facilities operated by blind vendors on Federal property."
+Id.
+§ 201(3). To give effect to this amendment, "priority" must be understood to mean something more than the state's definition of the term as a simple preference. "When Congress acts to amend a statute, we presume it intends its amendment to have real and substantial effect."
+Babbitt v. Sweet Home Chapter of Communities for a Great Or.,
+515 U.S. 687, 701, 115 S.Ct. 2407, 132 L.Ed.2d 597 (1995) (quoting
+Stone v. INS,
+514 U.S. 386, 397, 115 S.Ct. 1537, 131 L.Ed.2d 465 (1995)).
+127
+More importantly, the legislative history shows that Congress specifically intended the "priority" requirement in the R-S Act to give blind vendors a
+prior right to negotiate,
+through their SLAs, the operation of vending facilities on federal property. The Senate Committee Report to the 1974 amendments explained:
+128
+The insertion of the term `priority' underscores the Committee's expectation that where a vending facility is established on Federal property, it is the obligation of the agency in control of such property, the Secretary of [Health, Education, and Welfare], and the State licensing agency to assure that one or more blind vendors have a
+prior right
+to do business on such property, and furthermore that, to the extent that a minority business enterprise or non-blind operated vending machine competes with or otherwise economically injures a blind vendor, every effort must be made to eliminate such competition or injury.
+129
+S.Rep. No. 93-937, at 15 (1974) (emphasis in original). Congress was aware of these 1974 amendments to the R-S Act when it enacted § 111(b) in 1983. We note that we see no basis to assume that, by conferring a prior right to negotiate, Congress intended to give SLAs the right to operate vending machines no matter how unreasonable, in light of congressional purposes, their bids may be.
+2.
+The Waiver Requirement
+130
+The next question is whether the arbitration panel was correct to interpret "priority" as requiring additionally that the state obtain a written waiver from the Bureau before approaching other vendors. We answer that question in the affirmative, finding that a waiver requirement is the interpretation most consistent with Congress's likely intent. This waiver requirement operates as a bargaining chip for the SLA; it does not guarantee a bid will be successful even if entirely unreasonable given congressional intent.
+See
+1983 DOT Guidelines,
+supra.
+131
+Congress intended "priority" to increase significantly opportunities for blind vendors. That was certainly true in the analogous context of the R-S Act. The statutory findings accompanying the 1974 amendments to the R-S Act, which added the term "priority" to the statute, state an intent to "adopt legislation to [the] end" of "doubling the number of blind operators on Federal and other property under the Randolph-Sheppard programs within the next five years." R-S Act Amendments of 1974, Pub.L. No. 93-516, § 201(2), 88 Stat. 1617, 1622 (1974).
+132
+Given this intent, it is unlikely that Congress intended "priority" to confer upon SLAs only the right to be approached before states award contracts to other vendors. The timing requirement alone, absent any other protections, would leave states free simply to approach their SLAs first, reject their offers, and then open contracts for competitive bidding. SLAs would be afforded no meaningful priority at all.
+133
+For similar reasons, it is also unlikely that Congress intended "priority" to be met by the state's Tie Rule or Match Rule (which are, in any event, inconsistent with the timing requirement). Counsel for the state conceded the ineffectiveness of the Tie Rule in oral argument, noting that "the chances of [the Bureau] submitting exactly the same or higher bid [as other vendors] might be vanishingly slim" in a sealed bidding process. The Match Rule is also problematic. The state has not denied that the Bureau of Blind Services simply lacks the resources to match high bids. In both instances in which the Bureau has bid on contracts, it has been significantly outbid by private vendors. In 1997, the winning bid was from Coca-Cola Foods for $84,000; the Bureau bid $7,200. In 1999, the winning bid was from Good Morning Sales, Inc., for $283,577; the Bureau bid $32,650. Thus, as a practical matter, the Match Rule offers the Bureau no advantage at all. Congress created a priority requirement in § 111(b) because it recognized precisely this problem: that SLAs generally have difficulty offering the highest bids in a competitive bidding process.
+134
+Nor do we think that Congress intended to limit priority under § 111(b) in a way analogous to the provisions of the R-S Act governing the
+operation
+of cafeterias (rather than the placement of vending facilities). The R-S Act provides that
+135
+[t]he Secretary [of Education], through the Commissioner, shall prescribe regulations to establish a priority for the operation of cafeterias on Federal property by blind licensees when he determines, on an individual basis and after consultation with the head of the appropriate installation, that such operation can be provided at a reasonable cost with food of a high quality comparable to that currently provided to employees, whether by contract or otherwise.
+136
+20 U.S.C. § 107d-3(e). Had Congress intended to limit § 111(b) priority similarly, it could easily have done so. The cafeteria provision, § 107d-3(e), was present in the R-S Act at the time Congress was drafting § 111(b).
+See
+Pub.L. No. 93-516, § 206(e), 88 Stat. 1617, 1627 (1974). Congress could have drafted § 111(b) to mirror the language of § 107d-3(e) instead of § 107(b), but it chose not to.
+137
+We conclude that the arbitration panel's interpretation should be upheld because it most closely adheres to Congress's likely intent in § 111(b). Our interpretation is reinforced by the 1983 DOT Guidelines,
+supra,
+which allow the state to negotiate with other parties
+if
+the SLA signs a written waiver of its priority rights.
+138
+Our reading is further bolstered by the fact that New Hampshire itself seems to understand that Congress intends "priority" to impose a waiver requirement. New Hampshire has enacted its own mini-R-S Act, N.H.Rev.Stat. Ann. § 186-B:9-15, which offers almost identical vending opportunities to the blind on state property as offered on federal property under the R-S Act.
+Compare
+N.H.Rev.Stat. Ann. § 186-B:9-15,
+with
+20 U.S.C. § 107
+et seq.
+Although it does not use the term "priority," § 186-B:13 provides that
+139
+No person in control of the maintenance, operation and protection of any state property may offer or grant to any other party a contract or concession to operate a vending facility unless:
+140
+(a) He has notified blind services and has attempted to make an agreement with blind services for a licensed blind person to operate a vending facility; and
+141
+(b) He has determined in good faith that blind services is not willing to establish a vending facility on such property.
+142
+The state statute, §§ 186-B:9-15, does not apply to this case only because New Hampshire has exempted interstate highway sites — sites where New Hampshire needed federal permission to have any vending facilities at all — from the statute's coverage.
+See
+N.H.Rev.Stat. Ann. § 230:30-a. Why New Hampshire carved out an exception, for property along the interstate highway system, from its normal adherence to R-S Act standards is unclear. But, to the extent that New Hampshire sought to mirror the R-S Act in § 186-B:9-15, it supports our view of what New Hampshire believes Congress to mean by "priority" under § 107(b) of the R-S Act and thus under § 111(b) of the STA Act.
+143
+C. Preemption of N.H.Rev.Stat. Ann. § 230:30-a
+144
+The state argues, in the alternative, that even if the arbitration panel was correct about Congress's likely intent as to the meaning of priority, an administrative agency cannot find state law preempted unless Congress "clearly expressed" an intent to preempt state law. Because no such clear expression is present in § 111(b), the state argues that N.H.Rev.Stat. Ann. § 230:30-a is not preempted.
+145
+This argument is based on a mistaken understanding of the law of preemption. New Hampshire's obligations under § 111(b) are defined by federal law. New Hampshire may pass statutes implementing particular procedures for carrying out those obligations, as N.H.Rev.Stat. Ann. § 230:30-a does. But to the extent that those state laws directly conflict with the requirements of federal law, the Supremacy Clause requires that they be given no effect.
+See Cipollone v. Liggett Group, Inc.,
+505 U.S. 504, 516, 112 S.Ct. 2608, 120 L.Ed.2d 407 (1992) (citing U.S. Const. art. VI, cl. 2). This is true even in the absence of an express congressional statement of an intent to preempt.
+Id.
+("In the absence of an express congressional command, state law is pre-empted if that law actually conflicts with federal law." (citing
+Pac. Gas & Elec. Co. v. State Energy Res. Conservation & Dev. Comm'n,
+461 U.S. 190, 204, 103 S.Ct. 1713, 75 L.Ed.2d 752 (1983))). Here, § 230:30-a directly conflicts with the priority requirement of § 111(b). Section 230:30-a requires the "director of plant and property management" to "put out bids for the installation and maintenance of the vending machines" and provides that "any bidder shall be eligible to bid for this service...." This open bidding system conflicts with § 111(b)'s requirement that states first approach their SLAs and open the contract up to other bidders only after the SLA has waived its priority in writing. Section 230:30-a is therefore preempted.
+VI.
+146
+"While the state is constitutionally free to operate its own highway system, the federal government is not bound constitutionally or statutorily to grant federal highway funds to states which do not operate their systems in accordance with federal guidelines."
+State of Nebraska, Dep't of Roads v. Tiemann,
+510 F.2d 446, 448 (8th Cir.1975). Here, New Hampshire voluntarily entered into two agreements with the federal government, one under the STA Act and one under the R-S Act. As the panel found, the state of New Hampshire has violated those agreements.
+147
+For the reasons stated above, we
+vacate
+enforcement of the damages award and
+dismiss
+the damages claim; otherwise we
+affirm.
+APPENDIX
+148
+The arbitration panel made the following findings of fact:
+149
+6. Based upon legislative history and statutory interpretation, the word "priority" as used in the Randolph-Sheppard Act, is defined as a right of first refusal.
+150
+7. Based upon memoranda issued by the U.S. Department of Transportation after the passage of Section 111(b) of TEA-21 [i.e., the STA Act], and based upon the meaning of "priority" as interpreted under the Randolph-Sheppard Act, N.H. Blind Vendors and state employees working with the N.H. SLA in 1983 believed that the N.H. SLA was entitled to, and should receive, a right of first refusal to operate vending machines at rest areas on the Interstate Highway System.
+151
+8. The N.H. SLA could have taken advantage of its priority under Section 111(b) of TEA-21 by either having licensed blind vendors operate and maintain the machines, or by subcontracting with private vendors to operate and maintain the machines.
+152
+9. The N.H. SLA was not given a right of first refusal to operate machines at any of the rest area sites prior to the New Hampshire Department of Administrative Services putting the sites out for competitive bidding.
+153
+10. Had the N.H. SLA been given a right of first refusal to operate machines at any rest areas in New Hampshire, it would have placed machines at those sites through its licensed blind vendors or by hiring private vendors as subcontractors.
+154
+11. Despite the passage of RSA 230:30-a, various individuals at Administrative Services negotiated with the N.H. SLA in order to provide N.H. SLA with commissions from the income earned at vending machines at rest areas on the Interstate Highway System in exchange for a waiver of its right to a priority.
+155
+17. Despite long-standing efforts by the N.H. Blind Vendors and N.H. SLA to negotiate with Administrative Services to receive a priority to operate vending machines at rest areas, the N.H. SLA has been unsuccessful.
+156
+26. In New Hampshire the SLA has never received any commissions for any of the vending machines at any of the rest areas on the Interstate Highway System.
+157
+28. There is no evidence that the State of New Hampshire has ever made a good faith determination that the N.H. SLA was unwilling to operate machines at any rest area sites, nor is there any evidence that the N.H. SLA waived its right to such a priority in writing [except as to the Springfield location].
+158
+30. Since the enactment of RSA 230:30-a, the N.H. SLA's priority to operate vending machines on the Interstate Highway System has been intentionally violated by the State of New Hampshire.
+159
+It also made the following rulings of law under federal law:
+160
+A. The rest areas at Hooksett, Springfield, Salem, Seabrook, Canterbury, Lebanon, Sanbornton and Sutton on Interstate Highways 89, 93, and 95 in New Hampshire are subject to the provisions of Section 111(b) of TEA-21, and its predecessors. Section 111(b) of TEA-21 gives states the authority to place vending machines at rest areas on the Interstate Highway System if they chose to do so, however by doing so a priority must be given to the SLA.
+161
+B. In accordance with Section 111(b) of TEA-21, and based upon litigation of the Randolph-Sheppard Act, `priority' requires that SLAs be approached and be given a right of first refusal before any other entity be approached to operate such sites.
+162
+C. The SLA must waive its right to a priority in writing before it approaches any other entity to operate machines at rest areas on the Interstate Highway System.
+163
+T. RSA 230:30-a, which excludes the applicability of RSA 186-B:9-15 at rest areas on the Interstate Highways in New Hampshire, is in direct conflict with Section 111(b) of TEA-21, because New Hampshire's state-owned rest areas on the Interstate Highways in New Hampshire are governed first and foremost by TEA-21, and based upon RSA 230:30-a the N.H. SLA is not given a priority to operate vending machines at rest areas, nor does it receive any of the commissions earned at such rest areas.
+164
+U. RSA 230:30-a is preempted by Section 111(b) of TEA-21.
+165
+W. Under RSA 230:30-a, the N.H. SLA is expected to compete with private vendors, and thus has no priority to operate vending machines at rest areas on the Interstate Highway System.
+166
+(internal citations omitted)
+Notes:
+1
+The STA Act was later renamed the Transportation Equity Act for the 21st Century. Pub.L. No. 105-178, 112 Stat. 107 (1998). The parties and papers in this case refer to the Act by both names, but for clarity and convenience, this opinion will refer to the Act as the STA Act
+2
+We quote again from
+Tenn. Dep't of Human Servs.:
+In order to resolve disputes arising under the Act, both administrative and judicial remedies are available for licensed blind vendors. The Secretary of Education may decertify a state licensing agency that refuses to cooperate with the Secretary. 34 C.F.R. § 395.17. In all other situations, the Secretary must rely on a blind vendor to file a complaint in order to enforce the Act's substantive provisions. If a blind vendor has a complaint regarding the state's operation of the program, he or she may request an evidentiary hearing before the state licensing agency and, if dissatisfied with the outcome of the hearing, may ask the Secretary to convene an arbitration panel to resolve the dispute. 20 U.S.C. §§ 107d-1(a), 107d-2(b)(1). An arbitration panel's decision is subject to review as a final agency action. 20 U.S.C. § 107d-1(a).
+979 F.2d at 1164.
+3
+As one court has noted, § 107d-1 of the R-S Act
+sets out a dual scheme of remedies. Subsection (a) gives the blind licensee a direct action against the state licensing agency. Subsection (b), however, gives the blind licensee nothing; rather, it gives the state agency authority to bring a complaint against a federal entity controlling property on which vending facilities are located.
+Ga. Dep't of Human Res. v. Nash,
+915 F.2d 1482, 1490 (11th Cir.1990).
+4
+At this stage, the suit was brought only by the New Hampshire Committee of Blind Vendors; the nine individual members had not yet joined. For clarity and convenience, however, we refer to the Committee alone as the Blind Vendors
+5
+The Blind Vendors noted that the state was free to ask that any damages claim in state court be combined with the equitable claim in federal court, if it wanted all issues combined
+6
+At this point, the Committee was joined by nine of its individual members
+7
+The Hearing Officer's ruling that § 111(b) applies only on federal land is puzzling. The state never contested that § 111(b) applied to state-owned rest areas; it argued only that the R-S Act did not apply to such rest areas and that the priority required by § 111(b) was provided here
+8
+At this stage, the SLA, rather than the state itself, was the respondent, but we refer to the SLA as "the state" for clarity and convenience
+9
+One suit was brought by the New Hampshire Department of Education, while the other was brought by NHDAS, the New Hampshire Department of Transportation, and the State Treasurer
+10
+In addition, the state argued that 23 U.S.C. § 111(b) violates the equal protection guarantees of the Fifth and Fourteenth Amendments because, the state said, there is no rational basis for granting priority to blind vendors. The state further argued that the damages award exceeded the arbitration panel's statutory authority because the rest areas were all on state-owned land and at least one rest area had been built and maintained entirely with state funds. The district court rejected both arguments, and the state has raised neither on appeal, so we do not address them
+11
+The state does not contend that its counsel lacked authority under state law to waive immunity. That consideration has not survived
+Lapides
+in cases such as this, where a state voluntarily invokes federal jurisdiction.
+See Lapides v. Bd. of Regents,
+535 U.S. 613, 621-22, 122 S.Ct. 1640, 152 L.Ed.2d 806 (2002).
+12
+It is true that in the 1998 federal court filing seeking dismissal on exhaustion grounds, the state defendants reserved the question whether the facts of the case brought it within the statutory reach of the R-S Act. That is a very different argument
+13
+We note that the state is nominally the party in federal court by its own choice to substitute itself as the party defendant
+See Gunter v. Atl. Coast Line R.R. Co.,
+200 U.S. 273, 284-87, 26 S.Ct. 252, 50 L.Ed. 477 (1906) (state voluntarily submitted to the jurisdiction of the federal courts when Attorney General appeared "for and on behalf of the State" in an earlier, related action brought against state officers and not against the state itself).
+14
+In fairness, we note that
+Alden v. Maine
+was decided in 1999, and
+Federal Maritime Commission v. South Carolina State Ports Authority
+was not decided until 2002.
+15
+The doctrine was articulated in
+Ford Motor Co. v. Dep't of Treasury of Ind.,
+323 U.S. 459, 467, 65 S.Ct. 347, 89 L.Ed. 389 (1945), which
+Lapides
+expressly overruled.
+See Lapides,
+535 U.S. at 623, 122 S.Ct. 1640.
+16
+There may be another possible basis for finding waiver of immunity by litigation conduct. While states may assert Eleventh Amendment immunity from suit by private parties in both state and federal courts, there is a well-recognized exception to immunity set forth in
+Ex parte Young,
+209 U.S. 123, 28 S.Ct. 441, 52 L.Ed. 714 (1908), which allows the award of prospective equitable relief against state officers. The vitality of the
+Ex parte Young
+doctrine is demonstrated by the Supreme Court's recent opinion in
+Verizon Md., Inc. v. Pub. Serv. Comm'n of Md.,
+535 U.S. 635, 645-46, 122 S.Ct. 1753, 152 L.Ed.2d 871 (2002).
+It is true that the Blind Vendors here named state agencies rather than state officers as defendants in federal court and in the R-S grievance procedures. Nonetheless, the state (and its agencies), faced with a claim for prospective equitable relief since 1998, has never raised the argument that such relief is available only against state officers. Indeed, the state moved to substitute itself as the party defendant. Its litigation conduct could be viewed as estopping any objection that it may have to the application of the
+Ex parte Young
+exception.
+17
+Of course, exhaustion would not be necessary if the district court in 1998 had been wrong in finding that R-S grievance procedures applied to an STA Act claim. In that case, the Blind Vendors could argue that, had it not been for the state's arguments in its motion to dismiss, the Blind Vendors could have proceeded directly to the question whether there is a cause of action, outside of the R-S Act, for claims under § 111(b), and if so, would have obtained injunctive relief in 1998 if successful on the merits. The Blind Vendors could thus argue that the state's motion to dismiss caused delay. But, in that case, any such delay would have been caused by the state's urging the court to apply R-S grievance procedures, not its failure to raise Eleventh Amendment immunity. And, in any event, for reasons explained later, we conclude that R-S grievance procedures are properly applied to § 111(b) claims
+18
+The Blind Vendors do not mention
+R.I. Dep't of Envtl. Mgmt. v. United States,
+304 F.3d 31 (1st Cir.2002), in their brief. But they do argue that
+Fed. Mar. Comm'n v. S.C. State Ports Auth.,
+535 U.S. 743, 122 S.Ct. 1864, 152 L.Ed.2d 962 (2002), and by implication
+R.I. Dep't,
+differs from the case at bar because it involved an administrative adjudication of a complaint against a "non-consenting state." Here, they argue, New Hampshire consented to administrative adjudication because it sought and obtained dismissal of the 1998 suit on the ground that R-S grievance procedures should apply. We disagree for the reasons stated earlier and add that it was not the state but the Blind Vendors that filed a complaint before the federal administrative tribunal.
+19
+The Sixth Circuit held that (1) the Eleventh Amendment did not bar the arbitration panel from awarding damages because the Amendment applied only in Article III proceedings, but (2) the Amendment did prevent a subsequent attempt to collect the arbitration award in federal court
+Tenn. Dep't Hum. Servs.,
+979 F.2d at 1167-68. Our focus is on the court's second holding. The reasoning behind court's first holding has since been overruled in
+Fed. Mar. Comm'n,
+535 U.S. at 760-61, 122 S.Ct. 1864.
+20
+Delaware Dep't
+was decided in 1985, without foreknowledge of the Supreme Court's later articulation of tests for waiver of Eleventh Amendment immunity.
+21
+New Hampshire has not argued that the panel could do nothing more than declare rights of the private parties and the state, and so has waived the argument
+22
+None of the following five arguments, all of which the state has urged at other stages in this case, are raised in the state's briefs on appeal: (1) that the arbitration panel has no remedial power whatsoever because the R-S Act authorizes only the head of the state agency to fashion remedies; (2) that, even if the arbitration panel had remedial power, that power does not extend to ordering the state to terminate existing contracts for vending before those contracts expire; (3) that the arbitration panel is not authorized under the R-S Act, which applies only to federal property, to issue relief as to state-owned rest areas; (4) that the arbitration panel cannot award any relief at all for violations of § 111(b) because there is no private right of action under § 111(b); and (5) that even if the arbitration panel could issue relief for violations of § 111(b), it cannot issue relief as to state-owned rest areas on toll roads built without federal funding, such as the Hooksett rest areas. We do not reach any of these issues, which have been waived
+23
+SLAs sometimes operate vending machines outside the R-S Act. For example, in New Hampshire, the Bureau of Blind Services, in addition to serving as the designated SLA under the R-S Act, performs other functions in the state, such as conducting general vocational training for the blind
+See
+N.H.Rev.Stat. Ann. § 186-B:4. Among those functions is the operation of vending machines on state property under the state's "mini"-R-S Act. N.H.Rev.Stat. Ann. § 186-B:9-15. But, to the extent that SLAs operate those machines, they do so in their general capacity as agencies of the state, not in their capacity as licensing agencies designated under the R-S Act.
+24
+The R-S Act provides blind vendors an entitlement to a percentage of all income generated by competing vending machines operating on federal property whether or not blind vendors operate the machines. 20 U.S.C. § 107d-3
+See Comm. of Blind Vendors v. District of Columbia,
+28 F.3d 130, 131 (D.C.Cir.1994). We agree with the state that there is no indication that Congress intended § 111(b) of the STA Act to incorporate such a provision or otherwise to impose such an obligation. This was also the view of the Comptroller General of the United States in a letter dated February 28, 1984 to Rep. Kennelly.
+25
+The parties dispute the level of deference, if any, owed here. The district court applied
+Chevron, U.S.A. v. Natural Res. Def. Council,
+467 U.S. 837, 104 S.Ct. 2778, 81 L.Ed.2d 694 (1984), which requires courts to accept, in certain circumstances, an agency's reasonable construction of an ambiguous statute.
+Id.
+at 843-44, 104 S.Ct. 2778.
+The state argues that the district court erred in applying
+Chevron
+deference. The state says, inter alia, that
+Chevron
+deference is appropriate only when Congress has delegated authority to the agency to implement the statute in question.
+See
+1 Pierce, Administrative Law Treatise § 3.5 (2002) ("
+Chevron
+[deference] applies only when an agency adopts a construction of a statute it implements" because only then has "Congress explicitly or implicitly assigned to the agency the task of resolving all policy disputes that arise under the statute.");
+cf. Chevron,
+467 U.S. at 844, 104 S.Ct. 2778 ("[C]onsiderable weight should be accorded to an executive department's construction of a statutory scheme
+it is entrusted to administer
+" (emphasis added)). Here, the state says, Congress never delegated authority to interpret the STA Act to the USDOE or its arbitration panels.
+Cf.
+23 U.S.C. § 315 (delegating rulemaking power to carry out the STA Act to the Secretary of Transportation). The Blind Vendors respond that the state waived this argument in district court and that, in any event, Congress did delegate power to the federal arbitration panel to interpret § 111(b) because R-S grievance procedures apply to violations of § 111(b).
+The Blind Vendors also argue that even if
+Chevron
+deference does not apply, the arbitration panel is still entitled to some deference under
+Skidmore v. Swift & Co.,
+323 U.S. 134, 65 S.Ct. 161, 89 L.Ed. 124 (1944), because of the Department of Education's expertise in administering blind vendor programs.
+See United States v. Mead Corp.,
+533 U.S. 218, 234, 121 S.Ct. 2164, 150 L.Ed.2d 292 (2001) (applying
+Skidmore
+deference based on "`specialized experience and broader investigations and information' available to the agency"). The state responds that
+Skidmore
+deference is inappropriate because the arbitrators in this case were not members of the Department of Education. Nothing in the record indicates that the arbitrators here had any special expertise in this area.
+We need not resolve this dispute over the appropriate level of deference because we affirm the district court's decision to uphold the arbitration panel's interpretation, regardless whether any deference applies.
+26
+The state also presents several other arguments that the priority provisions of the R-S Act and § 111(b) serve different purposes. First, the state argues that the R-S Act's use of the term is "specifically limited to the section describing the Secretary's authority to proscribe [sic] regulations regarding this subsection." This contention is refuted by the plain language of § 107(b), in which Congress expressly created the priority requirement
+in addition to
+giving the Secretary rulemaking powers to enforce that requirement.
+Second, the state urges us to infer from Congress's failure to expressly incorporate the priority provisions of the R-S Act into the STA Act that Congress intended the two priority provisions to have different purposes. We see no basis for such an inference. Courts regularly presume words in closely related statutes to have the same meaning where Congress has declined to expressly incorporate one statute's interpretation of the term into the other.
+See, e.g., Vectra Fitness, Inc. v. TNWK Corp.,
+162 F.3d 1379, 1383 (Fed.Cir.1998) ("[I]t cannot be presumed that the [same] term has two different meanings in these closely related statutes.");
+United States v. Thomas,
+932 F.2d 1085, 1088 (5th Cir.1991) ("[W]e normally impart the same meaning to the same phrase throughout related statutes....").
+Third, taking out of context language from
+Sentinel Communications Co. v. Watts,
+936 F.2d 1189 (11th Cir.1991), the state argues that § 111(b), unlike the R-S Act, is merely a delegating statute that "does not purport to authorize
+any
+type of scheme, discretionary or not, for the substantive regulation of vending machines at interstate rest areas" (emphasis in original). Instead, the state suggests, § 111(b) leaves the task of defining the precise contours of priority entirely to the states. We disagree. Congress expressly created a federal priority requirement, and there is no indication that Congress intended to create state-by-state variations. The state misreads
+Sentinel. Sentinel
+held that § 111(b) does not directly impose obligations on the state in the sense that the state can choose not to participate in the program by not placing vending machines in interstate rest areas. 936 F.2d at 1196.
+Sentinel
+did not say that once a state does choose to participate, § 111(b)'s requirement of priority somehow imposes no obligations.
+CC∅
+| Transformed by
+Public.Resource.Org

@@ -1,0 +1,233 @@
+347 F.3d 893
+347 F.3d 893
+UNITED STATES of America, Plaintiff-Appellee,
+v.
+Kenneth Michael DODDS, Defendant-Appellant.
+No. 03-10578.
+United States Court of Appeals, Eleventh Circuit.
+October 7, 2003.
+COPYRIGHT MATERIAL OMITTED Sam Heldman, Gardner, Middlebrooks, Gibbons & Kittrell, Washington, DC, Thomas J. Spina, Fawal & Spina, Birmingham, AL, for Defendant-Appellant.
+Joyce White Vance, Sandra J. Stewart, Appellate Div., Birmingham, AL, for Plaintiff-Appellee.
+Appeal from the United States District Court for the Northern District of Alabama.
+Before BIRCH, BARKETT and HILL, Circuit Judges.
+BARKETT, Circuit Judge:
+1
+In a jury trial, Kenneth Michael Dodds was found guilty of knowingly possessing material that contained images of child pornography in violation of 18 U.S.C. § 2252A(a)(5)(B) and knowingly receiving obscene pictures in violation of 18 U.S.C. § 1462.
+2
+Dodds challenges his conviction and sentence on three grounds. First, he asserts that judgment on both counts should be reversed because the district court abused its discretion by allowing the introduction of sixty-six images of child pornography into evidence, which he claims had little probative value and had an overwhelmingly prejudicial effect. Second, Dodds claims that his conviction under 18 U.S.C. § 1462 must be reversed because the government failed to furnish evidence that he had received the obscene pictures from the internet, as required by the statute. Finally, Dodds argues that the district court should have sentenced him under U.S. Sentencing Guideline (U.S.S.G.) § 2G2.4, which is the appropriate sentencing guideline for mere possession of child pornography, rather than sentence him under U.S.S.G. § 2G2.2, which is the appropriate sentencing guideline for "receiving, transporting, or advertising material involving the exploitation of a minor."
+BACKGROUND
+3
+Dodds was stationed at the Redstone Arsenal in Alabama while serving in the United States military and Chad Davis was assigned to share a room with him. At trial Davis testified that on several occasions, in the middle of the night, he had observed Dodds viewing child pornography on his computer. He decided to investigate Dodds's computer, which he had permission to use, and found in a folder named "Mike's Pics" some of the pictures he remembered seeing Dodds view on the computer. Davis went first to his chaplain and ultimately to his chain of command. The investigation that followed revealed that there were 300 pornographic images on the computers' hard drive and that Dodds possessed a cd-rom entitled "Mike's Pics" that contained 3,400 pornographic photographs. An expert testified that of the 3,400 photographs, only three contained images that could be classified as adult pornography as opposed to child pornography.
+4
+Dodds's friend, Paul Leitner, suggested in testimony that another individual, Todd Shofner, may have been responsible for the presence of child pornography on Dodds's computer. Shofner was unavailable to testify because he had died before the investigation of Dodds began. Leitner testified that he believed that Shofner had downloaded some pornography on Dodds's computer and had shown some of the pictures to Leitner and Dodds. Leitner further testified that he never saw Shofner downloading child pornography from the internet, but Shoftner had given him a copy of the cd-rom called "Mike's Pics," which contained child pornography.
+5
+Leitner acknowledged that Shofner had "wiped" Dodds's hard drive in January or February of 2001. Therefore, anything that was on Dodds's hard drive at the time it was seized later in 2001 would have been put on the computer after the "wipe." This alleged wiping of the hard drive in January helps to explain why there were only 300 images on the computer's hard drive when it was confiscated in April, but more than 3,400 on the cd-rom "Mike's Pics," which would not have been "wiped." One of the items seized from Dodds's room was a cd writer/re-writer.
+6
+To counter the assertion that Shofner Dodds had been responsible for downloading, or at least viewing, all of the images, the government presented evidence that Shofner had been released from training at Redstone Arsonal on approximately March 8, 2001 to return to his base in Germany and that pornographic images from the cd-rom had been viewed as late as March 17, 2001. Additionally, over 200 images of child pornography were accessed on Dodds's computer in a one week period in early April 2001. Furthermore, the government argued that special importance should be assigned the fact that the files were named "Mike's Pics" rather than "Todd's Pics."
+1
+7
+During the jury trial, the district court admitted into evidence 66 images of child pornography taken from the computer, rejecting Dodds's objection that the evidence was cumulative and prejudicial and denying Dodds's motion for judgment of acquittal. Dodds was convicted on both counts and the Probation Office recommended that Dodds be sentenced using U.S.S.G. § 2G2.4. At the Sentencing Hearing, however, the district court agreed with the government that U.S.S.G. § 2G2.2, which resulted in a higher sentence, was more appropriate.
+DISCUSSION
+I. Admission of Evidence
+8
+Dodds first claims that exposing the jury to 66 of the 3,400 images of child pornography found in his possession was unfairly cumulative and prejudicial, overwhelming the evidence's minimal probative effect. As a result, he asserts that both counts of his conviction should be reversed since the evidence should have been excluded under Federal Rule of Evidence ("Fed.R.Evid.") 403.
+2
+9
+This Court reviews a district court's evidentiary rulings for a clear abuse of discretion.
+United States v. Tinoco,
+304 F.3d 1088, 1119 (2002). We will reverse a district court's evidentiary rulings only if the resulting error affected the defendant's substantial rights.
+Id.
+(citing
+United States v. Hands,
+184 F.3d 1322, 1329 (11th Cir.1999)). Although we recognize that Fed.R.Evid. 403 permits the district court to exclude otherwise relevant evidence "if its probative value is substantially outweighed by the danger of unfair prejudice," Fed.R.Evid. 403, we have also recognized that Rule 403 is "`an extraordinary remedy which the district court should invoke sparingly,' and `[t]he balance... should be struck in favor of admissibility.'"
+Id.
+at 1120 (citing
+United States v. Elkins,
+885 F.2d 775, 784 (11th Cir.1989)). Thus, we have held that "[i]n reviewing issues under Rule 403, we look at the evidence in a light most favorable to its admission, maximizing its probative value and minimizing its undue prejudicial impact."
+Id.
+(internal citations omitted). However, limits do exist regarding the quality and quantity of evidence that may be introduced. Rule 403 demands a balancing approach between the degrees of probative value that a piece of evidence has and its prejudicial effect.
+Old Chief v. United States,
+519 U.S. 172, 117 S.Ct. 644, 136 L.Ed.2d 574 (1997).
+3
+10
+Dodds argues that the district court erred in applying such a balancing test relying on two cases from other circuits to support his claim, both of which we find inapplicable and easily distinguishable. First, the challenged evidence here is not extrinsic to the crime charged or more violent than the actual pornography which was charged as was the case in
+United States v. Grimes,
+244 F.3d 375 (5th Cir.2001). Here it constituted a small portion (66 pictures) of the thousands of actual child pornography which Dodds was convicted of possessing (3,400 pictures) and was not extrinsic, but rather a part of the actual pornography possessed.
+11
+Nor do we find
+United States v. Merino-Balderrama,
+146 F.3d 758 (9th Cir.1998), applicable. In that case the Ninth Circuit determined that the evidence should have been excluded because it was too prejudicial in light of evidence that the defendant had simply "stumbled upon" the pornographic films in a briefcase in an abandoned farmhouse and there was no evidence that he had ever watched them or knew their content.
+Id.
+at 762-63. Dodds argues that his case parallels Merino-Balderrama's, asserting that like Merino-Balderrama, he never saw any of the pornography on his computer because Shofner put the images there undetected and in secret. Belying Dodds's claim, however, is the government's evidence of Dodds's guilt, which included the eye-witness testimony of Dodds's roommate who observed Dodds looking at the pornographic pictures on his computer, the fact that child pornographic images continued to be accessed after Shofner had left the base, and the fact that the images were placed into a file and/or a cd-rom named after Dodds. This case is completely inapposite to
+Merino-Balderrama.
+12
+On the other hand, in
+United States v. Becht,
+267 F.3d 767, 774 (8th Cir.2001), a case almost exactly like this one, the court refused to reverse a child pornography conviction on the grounds that the district court had abused its discretion by allowing the government to enter thirty-nine child pornographic images into evidence.
+See Becht,
+267 F.3d at 770, 774. Becht had 11,000 pornographic images stored on his computer, hundreds of which were child pornography.
+Id.
+at 769. Becht conceded that the images constituted child pornography but argued that he did not know his website contained such images because he had activated a "robot program" to disseminate the pornographic images from his website and wrote a program that automatically sorted incoming images into categories according to their file name.
+Id.
+The government argued that because the automatic sorting system did not function until after many of the pictures had been filed, Becht must have sorted the pictures by hand and was therefore aware of their content.
+Id.
+Similarly, Dodds claims that he did not know the pictures were on his computer, but there is evidence that he placed them in a file named "Mike's Pics."
+13
+In refusing to reverse the district court for abuse of discretion, the
+Becht
+court noted that admitting the pictures served several probative purposes, such as whether the images actually constituted child pornography,
+4
+and whether the defendant would have known that they were child pornography.
+Id.
+at 772. Thus, the "multiple utility" rationale that the Supreme Court applied in
+Old Chief
+militated toward inclusion.
+Id.
+("The [Supreme] Court noted that evidence may be valuable not only for its relevance to a single element, but also because it may at once prove multiple elements or embolden a jury to infer guilt by strengthening the evidentiary picture as a whole."). The Eighth Circuit also observed that the trial court had taken "pains to limit the prejudicial effect of the images."
+Id.
+at 774. During voir dire, prospective jurors were warned of the nature of the images and the court excused for cause three jurors who stated that they "would not be able to view such images without prejudicing the defendant."
+Id.
+Furthermore, the court noted that "[o]nly thirty-nine of the hundreds of illegal images discovered were admitted."
+Id.
+14
+As in
+Becht,
+the photographs in this case are probative for several reasons: they show that the images actually were child pornography,
+5
+they tend to show that Dodds knew the images were child pornography,
+6
+they infer intent on Dodds's part to collect such pornography, and they also are relevant in proving the jurisdictional element of 18 U.S.C. § 1462.
+7
+Also, as in
+Becht,
+prospective jurors were cautioned during voir dire that they would see photographs depicting child pornography and the court excluded, for cause, jurors who indicated that they would be unable to reach a fair verdict when faced with such evidence. Finally, in this case, as in
+Becht,
+only a very small proportion of images found in the defendant's possession were shown to the jury.
+15
+Having carefully considered this record, we find no abuse of discretion in the admission of the evidence here. Although in another case such images might be deemed unfairly prejudicial, under the facts of this case, where the images have multiple probative value and the district court has taken precautions to prevent unfair prejudice, and where only 66 of 3,400 images were shown to the jury, the district court did not abuse its discretion.
+16
+II. Sufficiency of Evidence for Conviction under 18 U.S.C. § 1462
+17
+In order to convict under 18 U.S.C. § 1462's second paragraph, the government must prove that a defendant "knowingly takes or receives, from such express company or other common carrier or interactive computer service ... any matter or thing the carriage or importation of which is herein made unlawful ..." 18 U.S.C. § 1462 (2003). "Interactive computer services" has been defined to include the internet.
+8
+Dodds asserts that the government failed to prove that he received any of the child pornography from the internet or any other sources described in 18 U.S.C. § 1462 and thus his conviction on this charge must be vacated.
+18
+A sufficiency of evidence challenge is a question of law that we subject to
+de novo
+review.
+See United States v. Hunerlach,
+197 F.3d 1059, 1068 (11th Cir.1999) (citing
+United States v. Cannon,
+41 F.3d 1462, 1465 (11th Cir.1995)). However, this court views the evidence in the light most favorable to the government.
+Id.
+(citing
+Glasser v. United States,
+315 U.S. 60, 80, 62 S.Ct. 457, 86 L.Ed. 680 (1942)).
+19
+We have previously held that circumstantial evidence may be used to prove that pornography was obtained through the internet.
+United States v. Hersh,
+297 F.3d 1233, 1254 n. 31 (11th Cir.2002). In this case, the government presented evidence that a number of the photographs on Dodds's computer were actually available and frequently traded on the internet. Some of the children that were in the 66 images entered into evidence were proven to be in locations as varied as Missouri, Florida, Pennsylvania, and the United Kingdom. There was no evidence that Dodds performed the difficult task of hand collecting the images. The government also showed that Dodds had access to the internet and was familiar with using it (he had been "caught" by his wife viewing adult pornography sites on their home computer). Under our standard of review, we find this evidence sufficient circumstantial evidence to support the contention that Dodds had obtained at least some of the pictures over the internet.
+III. Application of Sentencing Guidelines
+20
+Dodds claims that the trial court improperly sentenced him under U.S.S.G. § 2G2.2, which he asserts requires proof that he intended to "traffic" the child pornography, when he should have been sentenced under § 2G2.4, which punishes simple possession.
+9
+If sentenced as he advocates, Dodds's base offense level would start two points lower, and there would be no four level increase for possession of sadomasochistic pictures.
+10
+He therefore asks the Court to remand for resentencing under § 2G2.4. We review
+de novo
+the question of whether the district court applied the correct sentencing guideline.
+United States v. Williams,
+340 F.3d 1231, 1240 (11th Cir. August 5, 2003).
+21
+Dodds was convicted of violating both 18 U.S.C. § 2252A(a)(5)(B) and 18 U.S.C. § 1462, and the district court sentenced him pursuant to the § 1462 charge. When convicted of § 1462, a defendant should be sentenced pursuant to U.S.S.G. § 2G3.1, which provides:
+22
+If the offense involved transporting, distributing, receiving, possessing, or advertising to receive material involving the sexual exploitation of a minor, apply § 2G2.2 (Trafficking in Material Involving the Sexual Exploitation of a Minor; Receiving, Transporting, Shipping, or Advertising Material Involving the Sexual Exploitation of a Minor; Possessing Material Involving the Sexual Exploitation of a Minor with Intent to Traffic) or § 2G2.4 (Possession of Materials Depicting a Minor Engaged in Sexually Explicit Conduct), as appropriate.
+23
+U.S.S.G. § 2G3.1(c)(1). Although the cross-reference in § 2G3.1 makes clear that either § 2G2.2 or § 2G2.4 should be applied if the offense is one "involving the sexual exploitation of a minor," it does not provide much guidance as to which guideline should be applied.
+24
+The Government argues that since U.S.S.G. § 2G2.2 punishes "receiving" child pornography, and since Dodds was convicted under 18 U.S.C. § 1462 precisely because it was shown that he "received" child pornography,
+11
+§ 2G2.2 is the appropriate sentencing guideline. Dodds, on the other hand, argues that the statutory intent of § 2G2.2 was to punish "receiving" only when pornography is received with the intent to traffic. In support of this claim, he notices that the first clause of the title ("Trafficking in Material Involving the Sexual Exploitation of a Minor") deals explicitly with trafficking; every word in the second clause of the title ("Receiving, Transporting, Shipping, or Advertising Material Involving the Sexual Exploitation of a Minor") except for "receiving" involves an act normally related to trafficking; and the final clause of the title ("Possessing Material Involving the Sexual Exploitation of a Minor with Intent to Traffic") once again deals explicitly with intent to traffic. Dodds further asserts that if "receiving" in the title is not construed as "receiving with intent to traffic," then virtually every case of child pornography would require sentencing under § 2G2.2 because § 2G2.4 would only be applicable in the rare (if possible) case that a person possessed child pornography without ever "receiving" it.
+25
+We agree with Dodds that, at least from the title, it is not clear whether the term "receiving" in § 2G2.2's title makes it the appropriate guideline to apply in a case of mere receipt. A look at the text of these guidelines weighs in favor of Dodds's argument that § 2G2.2 was intended to apply where the government has shown that the defendant had received with intent to traffic. The cross-reference of § 2G2.4 explains that the sentencing court should apply § 2G2.2 "[i]f the offense involved trafficking in material involving the sexual exploitation of a minor (including
+receiving
+... material involving the sexual exploitation of a minor with
+intent to traffic
+)...." U.S.S.G. § 2G2.4(c)(1) (emphasis added). This cross-reference indicates § 2G2.2 aims at punishing receiving with intent to traffic.
+26
+Dodds finds further support for his view in the opinion of the Seventh Circuit in
+United States v. Sromalski,
+318 F.3d 748 (7th Cir.2003), in which that circuit addressed the similar question of whether "all instances of `receiving' that can be proved in a possession [of child pornography] prosecution require the application of [§ 2G2.4's cross-reference]."
+Sromalski,
+318 F.3d at 751. In determining that the application of § 2G2.4's cross-reference requires that "the government must show receipt ... with intent to traffic," the Seventh Circuit relied on the history of § 2G2.4. Originally, the Guidelines only contained § 2G2.2 and there was no § 2G2.4. When § 2G2.4 was added by way of amendment, the Sentencing Commission explained in the Amendment:
+27
+This amendment inserts an additional guideline at § 2G2.4 to address offenses involving receipt or possession of materials depicting a minor engaged in sexually explicit conduct, as distinguished from offenses involving trafficking in such material, which continue to be covered under § 2G2.2. Offenses involving
+receipt or transportation of such material for the purpose of trafficking are referenced to § 2G2.2
+on the basis of the underlying conduct (subsection (c)(2)).
+28
+U.S.S.G. app. c amend. 372 (2003) (emphasis added).
+29
+Considering that both the plain text and the history of the Guidelines strongly indicate that § 2G2.2 was meant to punish crimes related to the trafficking of child pornography, while § 2G2.4 is reserved for punishing those who merely possess child pornography, we hold that when a district court applies § 2G3.1(c)(1)'s cross-reference, sentencing is appropriate under § 2G2.2 only if the government can show receipt with the intent to traffic.
+12
+30
+Having determined that the government must prove that Dodds received the child pornography with intent to traffic for § 2G2.2 to apply through 2G3.1(c)(1)'s cross-reference, we must then determine whether the facts of this case support such a finding. Dodds asserts that the government did not provide a "shred of evidence, and no finding" that he had "distributed the images to anyone else" and that there was no evidence presented of any uploading, selling, or trading of any sort. Although we cannot agree with the Defendant that there was "not a shred of evidence" that he intended to or engaged in trafficking the images,
+13
+we are not prepared, in the first instance, to determine Dodds's appropriate sentence after resolving the definitional question above. Thus, we remand for the district court to conduct a new sentencing hearing to consider evidence and argument of counsel to determine whether sufficient evidence exists to support the conclusion that Dodds had "received" the pornography with intent to traffic,
+14
+or otherwise determine the appropriate guidelines sentence.
+CONCLUSION
+31
+Therefore, we AFFIRM the conviction on both counts. However, we VACATE and REMAND the case to the district court for resentencing in accordance with this opinion.
+Notes:
+1
+Although Dodds's full name is "Kenneth Michael Dodds" it appears that most people knew him by his middle name. At the trial, his friend Leitner consistently referred to him as "Mike."
+2
+Fed.R.Evid. 403 provides:
+Although relevant, evidence may be excluded if its probative value is substantially outweighed by the danger of unfair prejudice, confusion of the issues, or misleading the jury, or by considerations of undue delay, waste of time, or needless presentation of cumulative evidence.
+Fed.R.Evid. 403.
+3
+Old Chief
+described the following balancing tests:
+On objection, the court would decide whether a particular item of evidence raised a danger of unfair prejudice. If it did, the judge would go on to evaluate the degrees of probative value and unfair prejudice not only for the item in question but for any actually available substitutes as well. If an alternative were found to have substantially the same or greater probative value but a lower danger of unfair prejudice, sound judicial discretion would discount the value of the item first offered and exclude it if its discounted probative value were substantially outweighed by unfairly prejudicial risk.
+Old Chief,
+519 U.S. at 182-83, 117 S.Ct. 644.
+4
+In
+Becht
+the defendant was willing to concede that the images were in fact child pornography.
+5
+The Supreme Court's opinion in
+Ashcroft v. Free Speech Coalition,
+535 U.S. 234, 122 S.Ct. 1389, 152 L.Ed.2d 403 (2002), makes a close analysis of the evidence to determine whether the evidence actually constituted child pornography more necessary. It is clear from that opinion that the government bears the burden of proving that the child pornography actually depicts real children, rather than virtual images of children or adults who look like children.
+Id.
+1404-05.
+6
+Testimony from Dodds's wife and his friend Mr. Lietner make clear that Dodds viewed adult pornography on his computer. Thus, it was reasonable for the prosecution to show that Dodds would have been aware that this was not adult pornography
+7
+Experts testified that the girls in the pictures were known to live across several states and outside the country. This evidence helps prove that the pictures were acquired over the internet
+8
+The term "Interactive Computer Service" is defined in Title 47, U.S.C. § 230(f)(2) of the Communications Act of 1934, which states:
+[t]he term "interactive computer service" means any information service, system, or access software provider that provides or enables computer access by multiple users to a computer server, including specifically a service or system that provides access to the Internet and such systems operated or services offered by libraries or educational institutions.
+Pub.L. 105-277, Title XIV, § 1404(a)(2), Oct. 21 1998, 112 Stat. 2681-739, redesignated former subsec. (e) as (f).
+9
+Both U.S.S.G. § 2G2.2 and § 2G2.4 have recently been amended. The general rule is that a defendant is sentenced under the version of the Guidelines in effect on the date of sentencing, barring any
+ex post facto
+concerns.
+United States v. Bailey,
+123 F.3d 1381, 1403 (11th Cir.1997). Thus, the applicable guidelines are those that were in effect on the date of sentencing, and not the amended guidelines. In this discussion, we refer to the guidelines as they stood before they were amended.
+10
+U.S.S.G. § 2G2.2(b)(3) provides for a 4 level increase "[i]f the offense involved material that portrays sadistic or masochistic conduct or other depictions of violence." There appears to be no dispute that Dodds's did have such images in his possession
+11
+18 U.S.C. § 1462 requires a showing that the defendant "knowingly takes or
+receives,
+... any matter of thing the carriage or importation of which is herein made unlawful ..." 18 U.S.C. § 1462. In Section II of this discussion we agreed that there was sufficient evidence to support of finding that Dodds did "receive" the prohibited images.
+12
+We further note that merely showing that defendant was in possession of a large number of illegal images will usually not be sufficient to imply an intent to traffic. The recent Amendment to § 2G2.4 increases the sentencing level for offenders who have a greater number of images. U.S.S.G. § 2G2.4 (2003). Thus, the current version of § 2G2.4 provides for punishing violators who "possess" a large quantity of child pornography
+13
+There was testimony suggesting that Dodds's cd-rom, "Mike's Pics," had made its way to his friend, Leitner and an FBI agent testified that child pornography was often "traded" over the internet
+14
+C.f. United States v. Bender,
+290 F.3d 1279, 1281 (11th Cir.2002) (holding that evidence that defendant had sent 121 unsolicited emails containing child pornography and an admission to sending at least 10 such emails was sufficient evidence to constitute trafficking of child pornography).
+CC∅
+| Transformed by
+Public.Resource.Org
